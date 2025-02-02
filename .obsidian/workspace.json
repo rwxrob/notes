@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Keep Obsidian compatible with GitHub"
             }
+          },
+          {
+            "id": "6a61acae5290d300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keep Obsidian compatible with GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keep Obsidian compatible with GitHub"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -299,10 +313,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "37afe6f04192a676",
+  "active": "6a61acae5290d300",
   "lastOpenFiles": [
-    "Choose unique, descriptive titles in title case.md",
+    "Don't worry about slugs If needed create on export.md",
     "Keep Obsidian compatible with GitHub.md",
+    "Choose unique, descriptive titles in title case.md",
     "Why I don't follow most of Zettelkasten approach.md",
     "README.md",
     "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
@@ -339,7 +354,6 @@
     "something here.md",
     "202502020658-something.md",
     "_slug-template.md",
-    "Something.md",
     "Untitled.canvas"
   ]
 }
