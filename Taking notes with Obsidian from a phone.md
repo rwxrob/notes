@@ -1,0 +1,13 @@
+I cannot overstate how easy it is to take notes from obsidian, from my phone by just using voice to text. I feel like i'm captain adama.From the nineteen eighties battle star galactica series. as you can see, I don't really have to care about punctuation or titles or anything. i can always come back and fix that later.
+
+The biggest advantage to being able to take notes from your phone is pretty obvious: i can do it anywhere and be sure i'm not gonna lose them. obsidian costs four dollars a month to have synchronized access, and it's totally worth it.
+
+Using obsidian from my phone pairs, really well with using my chatgpt ai. in fact, it's just a tough matter of time before i'm able to use obsidian directly from the phone chloe. this is particularly important now that I know that I can't use chat gpt for everything because it doesn't have infinite history. the best approach is to actually work things out with your a I, and then take that session and dump it into your obsidian knowledge base. that way, you can search your own knowledge base in every session you ever had with your ai.
+
+This note is a perfect example of the balance between note taking and creating videos. i was able to create this note in a matter of minutes, whereas a video would have taken much longer. i can work out what's gonna be in the video or the main points in a note like this.And then I can review them or clean them up before I actually make a video out of it. the best part is that once I have it synchronized to github, anybody can follow along with my boxes, I have them as opposed to waiting for me to publish them in a book.
+
+One thing that's truly amazing is that this note has been automatically saved the whole entire time. I've been making it.There's no extra step to save. that includes synchronizing it up as a backup so that it appears exactly as I have it here on my laptop as well. once I get github, synchronization on it will be automatically publish to get up as well.
+
+As I sit here and watch my laptop opened to this same note, I notice how it dynamically and automatically updates it in real time. that's pretty d*** cool.
+
+All I have to do is add another account to my account, and I could actually use this to synchronize our life notes across a group. Sharing them together. I don't have any real plans for that, but I could see doing that collaboratively on a team and making it real time knowledge base for the whole team.

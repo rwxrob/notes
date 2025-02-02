@@ -1,0 +1,3 @@
+Adding hyperlinks unnecessarily to paragraphs makes them impossible to read in raw Markdown form—especially when using Obsidian and using full titles with spaces. To address this simply create those links referenced in the paragraph in their own bulleted list at the end of the document, which is always rather short when following the **_one thought_** principle from Zettelkasten.
+
+* [One thought per note principle](One%20thought%20per%20note%20principle.md)

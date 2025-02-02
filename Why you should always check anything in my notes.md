@@ -1,0 +1,1 @@
+I'm constantly updating these notes and old notes always remain. My position on any topic changes very frequently. There's no guarantee anything in these notes is even something I currently believe, use, or thing.

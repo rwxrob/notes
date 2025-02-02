@@ -1,3 +1,6 @@
 [
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-link-converter",
+  "quickadd",
+  "github-sync"
 ]

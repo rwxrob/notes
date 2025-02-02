@@ -1,0 +1,1 @@
+Originally, Zettelkasten had one main thought per slip of paper. This physical limitation meant that the author is always forced to factor larger thoughts into smaller, composable ones that can be linked into any number of other thoughts and ultimately into a publication. Limiting to one thought is easy if you force yourself to only use one main heading, the title.
