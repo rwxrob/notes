@@ -1,0 +1,1 @@
+As I sit here, sipping my coffee from the patio outside with nothing but my phone and my coffee, I realize how amazing it is to just yeah, right
