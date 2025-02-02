@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All I need is phone to write.md",
+                "file": "Why I use Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All I need is phone to write"
+              "title": "Why I use Obsidian"
             }
           }
         ],
@@ -302,15 +302,16 @@
   "active": "37afe6f04192a676",
   "lastOpenFiles": [
     "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
+    "Taking notes with Obsidian from a phone.md",
+    "Why I use Obsidian.md",
+    "All I need is phone to write.md",
     "Leave obsidian running at home to sink to get home automatically from the road.md",
     "Search titles with GitHub.md",
-    "Why I use Obsidian.md",
     "README.md",
     "Why I don't follow _most_ of Zettelkasten approach.md",
     "Search titles with GitHub.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
     "One thought per note principle.md",
-    "Taking notes with Obsidian from a phone.md",
     "Why I don't follow most of Zettelkasten approach.md",
     "notes",
     "Why I'm okay with spaces in my filenames for notes.md",
@@ -332,7 +333,6 @@
     "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb-shm",
     "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/construction-photosgraph.kgdb.lock",
     "some-thing-here.md",
-    "All I need is phone to write.md",
     "another.md",
     "there.md",
     "something here.md",

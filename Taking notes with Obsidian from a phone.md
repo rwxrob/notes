@@ -11,3 +11,5 @@ One thing that's truly amazing is that this note has been automatically saved th
 As I sit here and watch my laptop opened to this same note, I notice how it dynamically and automatically updates it in real time. that's pretty d*** cool. in fact, now that i've realized it's faster for me to just talk into the phone I can do all the typing automatically, and have it synchronized to the laptop, where it is automatically synced to github. this is way faster than typing.
 
 All I have to do is add another account to my account, and I could actually use this to synchronize our life notes across a group. Sharing them together. I don't have any real plans for that, but I could see doing that collaboratively on a team and making it real time knowledge base for the whole team.
+
+[Leave Obsidian running at home to sync to GitHub automatically from the road](Leave%20Obsidian%20running%20at%20home%20to%20sync%20to%20GitHub%20automatically%20from%20the%20road.md)
