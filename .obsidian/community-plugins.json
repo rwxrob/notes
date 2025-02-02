@@ -2,5 +2,6 @@
   "templater-obsidian",
   "obsidian-link-converter",
   "quickadd",
-  "github-sync"
+  "github-sync",
+  "obsidian-minimal-settings"
 ]
