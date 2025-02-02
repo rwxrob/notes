@@ -11,3 +11,4 @@ Important thing here is I don't even have to carry a computer with me at all any
 All this motivates me to find far off places to hide and to just sit there with my thoughts and write them by speaking them into my phone. And then having a snack getting back on my bike and heading back home.
 
 I don't know how to explain it, but this is important because it allows me to still enjoy it something when I know that i'm not gonna be able to share it with friends in real time. i do hope some young person out there who loves to be outside and to write. Will find this and figure it out so that they don't have to go for forty two years, without having a really great workflow.
+workforce.
