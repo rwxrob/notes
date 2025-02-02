@@ -7,3 +7,4 @@ The only principle from the Zettelkasten workflow that I follow is the **_one ma
 * [Why I'm okay with spaces in my filenames for notes](Why%20I'm%20okay%20with%20spaces%20in%20my%20filenames%20for%20notes.md)
 * [One thought per note principle](One%20thought%20per%20note%20principle.md)
 * [Keep Obsidian compatible with GitHub](Keep%20Obsidian%20compatible%20with%20GitHub.md)
+* [[Something here]]
