@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All I need is phone to write.md",
+                "file": "Why I use Obsidian.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All I need is phone to write"
+              "title": "Why I use Obsidian"
             }
           }
         ],
@@ -301,10 +301,10 @@
   },
   "active": "37afe6f04192a676",
   "lastOpenFiles": [
+    "All I need is phone to write.md",
     "Why I use Obsidian.md",
     "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
     "Taking notes with Obsidian from a phone.md",
-    "All I need is phone to write.md",
     "Leave obsidian running at home to sink to get home automatically from the road.md",
     "Search titles with GitHub.md",
     "README.md",
