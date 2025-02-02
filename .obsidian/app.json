@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "propertiesInDocument": "source",
   "vimMode": true,
   "useMarkdownLinks": true,
