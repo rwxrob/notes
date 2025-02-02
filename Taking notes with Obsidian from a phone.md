@@ -8,6 +8,6 @@ This note is a perfect example of the balance between note taking and creating v
 
 One thing that's truly amazing is that this note has been automatically saved the whole entire time. I've been making it.There's no extra step to save. that includes synchronizing it up as a backup so that it appears exactly as I have it here on my laptop as well. once I get github, synchronization on it will be automatically publish to get up as well.
 
-As I sit here and watch my laptop opened to this same note, I notice how it dynamically and automatically updates it in real time. that's pretty d*** cool.
+As I sit here and watch my laptop opened to this same note, I notice how it dynamically and automatically updates it in real time. that's pretty d*** cool. in fact, now that i've realized it's faster for me to just talk into the phone I can do all the typing automatically, and have it synchronized to the laptop, where it is automatically synced to github. this is way faster than typing.
 
 All I have to do is add another account to my account, and I could actually use this to synchronize our life notes across a group. Sharing them together. I don't have any real plans for that, but I could see doing that collaboratively on a team and making it real time knowledge base for the whole team.
