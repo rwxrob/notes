@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "source",
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "promptDelete": false
+}

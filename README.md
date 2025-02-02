@@ -1,5 +1,4 @@
-TODO:
+Here you'll find my [Obsidian](./Obsidian) notes organized roughly in the same way as Zettelkasten except using Obsidian-flavored internal links with double brackets around titles.
 
-- Figure out what I dream of doing
-- Get good with Github
-- Learn basic markdown https://rwx.gg/lang/md/basic/
+This is a [test](Obsidian) or [another](./Obsidian.md).
+
