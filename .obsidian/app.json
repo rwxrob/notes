@@ -3,7 +3,7 @@
   "strictLineBreaks": true,
   "readableLineLength": false,
   "propertiesInDocument": "source",
-  "vimMode": true,
+  "vimMode": false,
   "useMarkdownLinks": true,
   "promptDelete": false,
   "autoPairMarkdown": false
