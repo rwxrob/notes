@@ -7,7 +7,7 @@ Obsidian is a great tool but unfortunately the defaults are not compatible with 
 * Follow the **_one idea_** principle from Zettelkasten
 * Abandon other outdated ideas from Zettelkasten
 * Allow spaces in file names so titles and graphs are readable
-* Choose unique, descriptive titles in title case
+* [[Choose unique, descriptive titles in title case]]
 * Don't worry about slugs If needed create on export
 * Setup automated sync using Git and GitHub on all devices
 * Change default to use standard relative Markdown links internally
