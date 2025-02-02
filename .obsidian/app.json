@@ -6,5 +6,6 @@
   "vimMode": false,
   "useMarkdownLinks": true,
   "promptDelete": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "newLinkFormat": "relative"
 }
