@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/rwxrob/notes",
+  "remoteURL": "git@github.com:rwxrob/notes.git",
   "gitLocation": "",
   "syncinterval": 5,
   "isSyncOnLoad": true
