@@ -259,6 +259,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
