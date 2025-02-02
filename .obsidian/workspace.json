@@ -137,10 +137,14 @@
             "id": "37afe6f04192a676",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Keep paragraphs free from hyperlinks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keep paragraphs free from hyperlinks"
             }
           }
         ],
