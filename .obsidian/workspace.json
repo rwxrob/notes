@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One thought per note principle.md",
+                "file": "Keep Obsidian compatible with GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One thought per note principle"
+              "title": "Keep Obsidian compatible with GitHub"
             }
           }
         ],
@@ -181,8 +181,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -315,24 +315,24 @@
   },
   "active": "6a61acae5290d300",
   "lastOpenFiles": [
+    "Why I use GitHub Flavored Markdown.md",
+    "Why I use Obsidian.md",
+    "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
+    "Taking notes with Obsidian from a phone.md",
+    "README.md",
+    "Don't worry about slugs If needed create on export.md",
+    "One thought per note principle.md",
     "Choose unique, descriptive titles in sentence case.md",
     "All I need is phone to write.md",
     "Search titles with GitHub.png",
     "Why I'm okay with spaces in my filenames for notes.md",
-    "Why I use Obsidian.md",
-    "Why I use GitHub Flavored Markdown.md",
     "Search titles with GitHub.md",
     "Disable default automatic hard line breaks.md",
     "Keep Obsidian compatible with GitHub.md",
-    "README.md",
     "Keep paragraphs free from hyperlinks.md",
-    "Don't worry about slugs If needed create on export.md",
     "Why I don't follow most of Zettelkasten approach.md",
     "something here.md",
     "Something here.md",
-    "One thought per note principle.md",
-    "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
-    "Taking notes with Obsidian from a phone.md",
     "Why you should always check anything in my notes.md",
     "obsidian-settings.png",
     "Leave obsidian running at home to sink to get home automatically from the road.md",
