@@ -1,0 +1,3 @@
+Unless you are guaranteed to be in an area with very strong signal Moblin just won't work because the main limitation is the total amount of wireless signal to the mobile providers. Moblin _does not allow bonding multiple service providers_ the way that a Belabox does.
+
+What's worse is that Moblin _requires_ RTMP mode usage of cameras which already has well-known limitations the worst of which is electronic interference.
