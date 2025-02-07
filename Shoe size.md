@@ -1,1 +1,1 @@
-I'm an EU42 or 8.5/9 in US
+I'm an EU42 or 8.5/9 in US. I made the mistake of buying $282 Quoc Gran Tourrer II shoes that are way too tight in the toe box but didn't realize it until a month of cycling in them. Very expensive mistake. I think this is the reason I'm a hardcore Specialized shoe fan now, because they have the "Body Geometry" stuff that allows for slight variations in fit.
