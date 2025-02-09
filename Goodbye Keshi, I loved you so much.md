@@ -1,0 +1,3 @@
+As I hung Keshi up on what would be her new home on a hook inside of my new bike shed she started to bleed and I started to cry. My wife says it takes nothing to make me cry. And then i'm just too big of a softy about everything she's probably right. As I looked over her frame and looked at all the dings each with a memory and realize it's really time for me to let her go the donator to somebody who needs her more than I do.
+
+We've done so much together.She was with me during the crash when I lost my teeth. i know it's completely silly to anthropomorthize these things, but here's deal: she's real to me. i shared so many hopes and dreams and challenges and failures with keshi
