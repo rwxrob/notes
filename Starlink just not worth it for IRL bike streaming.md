@@ -2,7 +2,7 @@ After a full year of testing and paying for Starlink, both a full version and th
 
 ## Expensive
 
-At $165/month to get the unlimited bandwidth needed you are paying the cost of 2-3 "unlimited" mobile plans. Sure you get more bandwidth when it works but having at least two unlimited plans as backup are _always_ required anyway. An "unlimited" Verizon plan (150GB/month) is $60.
+At $165/month to get the unlimited bandwidth needed you are paying the cost of 2-3 "unlimited" mobile plans. Sure you get more bandwidth when it works but having at least two unlimited plans as backup are _always_ required anyway, which I'll explain later. To compare, a Verizon  "unlimited" (150GB/month) plan is $60.
 
 ## Glitchy
 
@@ -10,15 +10,15 @@ By itself, Starlink regularly gets out of sync causing annoying glitches that wi
 
 ## Incomplete
 
-Starlink cannot stream with even minimal tree cover and in North Carolina this is a *major* issue.  In fact, this is a regular complaint on RV forums in the East. Every wooded gravel and mountain bike trail—not to mention most slow-paced suburban streets—are overgrown with wonderful, beautiful trees, trees that disable Starlink almost entirely. 
+Starlink cannot be reliably used by itself for live streaming. Even minimal tree cover kills it. In North Carolina this is a *major* issue.  In fact, this is a regular complaint on RV forums in the East. Every wooded gravel and mountain bike trail—not to mention most slow-paced suburban streets—are overgrown with wonderful, beautiful trees, trees that disable Starlink almost entirely. 
 
 Then there is the issue of going into a store or shop or cabin or pub. Can't do it with Starlink unless you park the bike away from the windows and walls where it can see the sky. The range for wifi is pretty good, but not nearly as good as with mobile support. Plus putting your bike in such a place almost guarantees it will be more likely to get stolen. 
 
-In short, you cannot use a Starlink reliably without *also* having at least one mobile connection and if you are going to rely on mobile to go into pubs and stuff then you should at least have two of them to ensure you get the 1500 kpbs minimum and have the redundancy if one modem goes down.  At that point you really have to wonder why you have a Starlink at all.
+In short, you cannot use a Starlink reliably without *also* having at least one mobile connection and if you are going to rely on mobile to go into pubs and stuff then you should at least have two of them to ensure you get the 1500 kpbs minimum and have the redundancy if one modem goes down.  At that point you really have to wonder why you have a Starlink at all. For the same price you can get *three* redundant mobile hotspots with massive antennae.
 
 ## Heavy
 
-The straw that broke my back is weight. Just for the two wireless modem hotspots and batteries for them along with the camera I'm already significantly weighted more than I would like for cycling where weight makes a huge difference in performance and enjoyment. Now add _another_ 30,000 mA just for four hours of streaming and the weight of the Starlink Mini and the rack now needed to carry it (not to mention the trailer and massive battery I used for the full-sized Starlink) and I might as well load up my bike for full adventure cycling long hauling because ain't nothing fast or performant gonna happen. I know, I tried by climbing into Emigration canyon and burning my brakes out on the descent the next day.
+The straw that broke my back is weight. Just for the two wireless modem hotspots and batteries for them alone with the camera I'm already significantly weighted more than I would like for cycling where weight makes a huge difference in performance and enjoyment. Now add _another_ 30,000 mA just for four hours of streaming and the weight of the Starlink Mini and the rack now needed to carry it (not to mention the trailer and massive battery I used for the full-sized Starlink) and I might as well load up my bike for full adventure cycling long hauling because ain't nothing fast or performant gonna happen. I know, I tried by climbing into Emigration canyon and burning my brakes out on the descent the next day.
 
 ## Limiting
 
