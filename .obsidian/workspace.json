@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All-road bike setup.md",
+                "file": "Types of cycling I do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All-road bike setup"
+              "title": "Types of cycling I do"
             }
           }
         ],
@@ -441,8 +441,8 @@
   },
   "active": "09a90ae8dc831251",
   "lastOpenFiles": [
-    "Types of cycling I do.md",
     "All-road bike setup.md",
+    "Types of cycling I do.md",
     "Moblin is definitely not an option for serious IRL streaming.md",
     "Limited biking outside mobile phone range.md",
     "I'm a Dustin Klein fanboy.md",

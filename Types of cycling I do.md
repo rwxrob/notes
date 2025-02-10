@@ -7,6 +7,8 @@ After a few years of cycling while livestreaming I've concluded my bike riding f
 | 14%        | 70%    | Indoor Zwift training/racing     | Tour du Zwift, Z Racing                    |
 | 4%         | 50%    | Paid supported group rides       | Mountains to Coast, Western Spirit Cycling |
 
+I do love going fast on good roads and pretty trails. In fact, that's been most of my riding
+
 I've always been an off-road, pump-n-flow XC bike rider at heart, one who enjoys the interval training of going up hill for a solid 10 minutes or so, and then just enjoying the payment for going up. I don't really consider myself a gravity rider because I really love long, flat scenic trails as well. 
 
 I also love riding fast on and relatively  safe, scenic roads, light gravel, poorly maintained tarmac, or suburban streets. I suppose this falls under "endurance riding" or "all road." I don't consider myself a "gravel" rider even though I occasionally ride on gravel. Gravel riding has become XC MTB with road handlebars at this point.
