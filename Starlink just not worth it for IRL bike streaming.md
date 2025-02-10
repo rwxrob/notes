@@ -1,4 +1,4 @@
-After a full year of testing and paying for Starlink, both a full version and the Mini with both unlimited with $50/month subscription I can confidently say that for my preferred style of streaming and riding Starlink is just not worth it. Here's why.
+After a full year of testing and paying for Starlink, both a full version and the Mini with both unlimited and with $50/month subscription I can confidently say that for my preferred style of streaming and riding Starlink is just not worth it. Here's why.
 
 ## Expensive
 
