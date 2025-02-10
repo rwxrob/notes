@@ -2,11 +2,10 @@ After a few years of cycling while livestreaming I've concluded my bike riding f
 
 | Percentage | Stream | Type                             | Example                                    |
 | ---------- | ------ | -------------------------------- | ------------------------------------------ |
-| 92%        | 100%   | Safe suburban streets and trails | Goblin Tour/Road                           |
+| 92%        | 100%   | Safe suburban streets and trails | Goblin Tour/Road, Critical Mass            |
 | 23%        | 100%   | MTB XC+ flowy trails             | Mazeppa, Jetton, Fisher, Mountain Creek    |
 | 14%        | 70%    | Indoor Zwift training/racing     | Tour du Zwift, Z Racing                    |
 | 4%         | 50%    | Paid supported group rides       | Mountains to Coast, Western Spirit Cycling |
-| 0%         |        | Group/peloton riding             |                                            |
 
 I've always been an off-road, pump-n-flow XC bike rider at heart, one who enjoys the interval training of going up hill for a solid 10 minutes or so, and then just enjoying the payment for going up. I don't really consider myself a gravity rider because I really love long, flat scenic trails as well. 
 
