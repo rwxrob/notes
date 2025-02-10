@@ -279,16 +279,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All-road bike setup.md",
+                "file": "NC Mountains to Coast Bike Ride 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All-road bike setup"
+              "title": "NC Mountains to Coast Bike Ride 2025"
+            }
+          },
+          {
+            "id": "899b96b1cd51e010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starlink just not worth it for IRL bike streaming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Starlink just not worth it for IRL bike streaming"
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -439,10 +453,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09a90ae8dc831251",
+  "active": "899b96b1cd51e010",
   "lastOpenFiles": [
-    "Types of cycling I do.md",
+    "NC Mountains to Coast Bike Ride 2025.md",
+    "Starlink just not worth it for IRL bike streaming.md",
     "All-road bike setup.md",
+    "Types of cycling I do.md",
     "Moblin is definitely not an option for serious IRL streaming.md",
     "Limited biking outside mobile phone range.md",
     "I'm a Dustin Klein fanboy.md",
@@ -451,7 +467,6 @@
     "Big logos, Ornot.md",
     "Shoe size.md",
     "ORNOT favorite bike clothing brand.md",
-    "NC Mountains to Coast Bike Ride 2025.md",
     "Keep Obsidian compatible with GitHub.md",
     "Why I use GitHub Flavored Markdown.md",
     "Why I use Obsidian.md",
@@ -468,7 +483,6 @@
     "Disable default automatic hard line breaks.md",
     "Keep paragraphs free from hyperlinks.md",
     "Why I don't follow most of Zettelkasten approach.md",
-    "something here.md",
     "obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
     "notes",
