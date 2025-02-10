@@ -2,6 +2,7 @@ After a few years of cycling while livestreaming and some not I've concluded all
 
 | Percentage | Stream | Type                         | Example                                    |
 | ---------- | ------ | ---------------------------- | ------------------------------------------ |
-| 80%        | 100%   | Suburban safe streets/trails | Goblin Tour/Road                           |
-|            | 80%    | Indoor Zwift training/racing | Tour du Zwift, Z Racing                    |
-| 2%         | 80%    | Paid supported group rides   | Mountains to Coast, Western Spirit Cycling |
+| 92%        | 100%   | Suburban safe streets/trails | Goblin Tour/Road                           |
+|            |        |                              |                                            |
+| 14%        | 80%    | Indoor Zwift training/racing | Tour du Zwift, Z Racing                    |
+| 4%         | 80%    | Paid supported group rides   | Mountains to Coast, Western Spirit Cycling |
