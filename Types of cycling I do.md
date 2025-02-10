@@ -6,3 +6,4 @@ After a few years of cycling while livestreaming and some not I've concluded all
 | 23%        | 100%   | MTB XC+ flowy trails             | Mazeppa, Jetton, Fisher, Mountain Creek    |
 | 14%        | 70%    | Indoor Zwift training/racing     | Tour du Zwift, Z Racing                    |
 | 4%         | 50%    | Paid supported group rides       | Mountains to Coast, Western Spirit Cycling |
+
