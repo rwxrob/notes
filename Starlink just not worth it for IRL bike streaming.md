@@ -2,11 +2,15 @@ After a full year of testing and paying for Starlink, both a full version and th
 
 ***Expensive***:  At $165/month to get the unlimited bandwidth needed you are paying the cost of 2-3 unlimited mobile plans. Sure you get more bandwidth when it works but having two unlimited plans as backup are _always_ required.
 
-***Incomplete***: Starlink absolutely cannot stream with even minimal tree cover and in North Carolina this is a *major* issue. Every wooded gravel and mountain bike trail—not to mention most slow-paced suburban streets—are overgrown with wonderful, beautiful trees, trees that disable Starlink almost entirely.
+***Glitchy***: By itself, Starlink regularly gets out of sync causing annoying glitches that will shut down a live stream unless there is something backing it up like I have with OBS. One can get around these glitches by having a backup modem connection to fill in while Starlink glitches.
 
-***Glitchy***: By itself, Starlink regularly gets out of sync causing annoying 
+***Incomplete***: Just to get around the Starlink glitches I need a mobile connection as well for most streams but Starlink absolutely cannot stream with even minimal tree cover and in North Carolina this is a *major* issue. Every wooded gravel and mountain bike trail—not to mention most slow-paced suburban streets—are overgrown with wonderful, beautiful trees, trees that disable Starlink almost entirely. Then there is the issue of going into a store or shop or cabin or pub. Can't do it with Starlink unless you park the bike away from the windows and walls where it can see the sky. The range for wifi is pretty good, but not nearly as good as with mobile support. Plus putting your bike in such a place almost guarantees it will be more likely to get stolen. In short, you cannot use a Starlink reliably without also having at least one mobile. And if you are going to rely on mobile to go into pubs and stuff they you should at least have two of them to ensure you get the 1500 kpbs minimum. At that point you really have to wonder why you have a Starlink at all.
 
 ***Heavy***: Even the Mini weighs a lot more than a Nighthawk M6 modem *with battery*.
+
+The only thing a Starlink is good for on a bike is long trips in areas that have open view of the sky and almost zero tree cover
+
+Related:
 
 * [Types of cycling I do](Types%20of%20cycling%20I%20do.md)
 * [All-road bike setup](All-road%20bike%20setup.md)
