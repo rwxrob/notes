@@ -6,6 +6,7 @@ After a few years of cycling while livestreaming I've concluded my bike riding f
 | 23%        | 100%   | MTB XC+ flowy trails             | Mazeppa, Jetton, Fisher, Mountain Creek    |
 | 14%        | 70%    | Indoor Zwift training/racing     | Tour du Zwift, Z Racing                    |
 | 4%         | 50%    | Paid supported group rides       | Mountains to Coast, Western Spirit Cycling |
+| 0%         |        | Group/peloton riding             |                                            |
 
 I've always been an off-road, pump-n-flow XC bike rider at heart, one who enjoys the interval training of going up hill for a solid 10 minutes or so, and then just enjoying the payment for going up. I don't really consider myself a gravity rider because I really love long, flat scenic trails as well. 
 
@@ -17,4 +18,6 @@ Speaking of living life while enjoying cycling, I absolutely love swerving in an
 
 In the end, I'm hard to categorize. If I'm honest, I'll take tarmac over gravel or dirt any day. I've had my fill of bing jarred to death but I'll take a little rattling over riding with *any* traffic. And keep me the fuck away from the hard-core road cyclists. The are some of the biggest assholes on the planet, and yeah, they are ruining a lot of gravel riding for many people they are infecting it with their unearned elitism and lycra. In fact, I moved to triathlon *primarily* to escape these insufferable assholes. I can smell their stank a mile away.
 
-Once again, I'm gonna mention Dustin Klein. He perfectly personifies the type of ri
+Another thing I hate about group riding with a bunch of roadies is the insane mix of experience levels and requirements. Everyone is always talking shit about someone for not calling out a pothole, overtaking incorrectly, or having the wrong fucking brakes. At a minimum, every single bump *must* be called out. This is exhausting and just stupid. It takes all the joy out of cycling. Sure the sound of 50 bikes in the peloton sounds amazing but its just not worth it. And if I want to play with tactics and attacks, I can 
+
+Once again, I'm gonna mention [I'm a Dustin Klein fanboy](I'm%20a%20Dustin%20Klein%20fanboy.md). He perfectly personifies the type of riding and culture I enjoy.
