@@ -1,3 +1,4 @@
+https://ridewithgps.com/routes/49381717
 
 Goblin Tour is a safe, scenic version of longer and faster Goblin Road with greenways and paths instead of most roads. It makes a great endurance or recovery ride or even trekking with family and friends. It includes several points of interest along the way to keep things fun and casual. Birkdale Village is probably the biggest attraction with plenty of eating, coffee, beer, concerts, and shopping. Since this route is a loop many will want to start and end at Birkdale instead of the official start and stop point in Davidson. The route is 40k so four loops makes a century.
 
