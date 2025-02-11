@@ -1,0 +1,4 @@
+
+Goblin Tour is a safe, scenic version of longer and faster Goblin Road preferring paved and wooden greenways and paths over roads. It makes a great endurance or recovery ride.The route was designed for trekking (possibly with e-bikes) with family and friends and includes several points of interest along the way to keep things fun and casual. 
+
+There is no gravel and it can be easily ridden with a full road bike although gravel-ish tires with a little tread might handle seasonal wet leaves, spring flooding, and dodging frogs a bit better. The route crosses highway 77 twice, once using a very scenic underground tunnel and another using the best pedestrian/biker bridge available.
