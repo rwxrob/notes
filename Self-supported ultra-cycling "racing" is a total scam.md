@@ -7,7 +7,10 @@ The appeal of Tour Divide and things like it has lost all appeal for me at this 
 * The "race" isn't a race at all
 * The route changes every year so there is no comparing (even though many do)
 * Weather is far too volatile to pit your PR against previous attempts
-* Fastpacking through pristine
+* Fastpacking through pristine outdoor country promotes abuses
+* Tour Divide "racers" regularly destroy hotel towels cleaning their chains
+* Tour Divide participants put a huge burden on the survival rescue volunteers
+* Tour Divide is simply one big lie
 
 Everyone would get more out of this from bikepacking against a personal best as opposed to this bullshit. It's really sad because people spend their lives dedicated to setting "records" but one person gets disqualified while others do not. It is just not worth it. Find another way to push your limits that is actually regulated or self-regulate instead.
 
