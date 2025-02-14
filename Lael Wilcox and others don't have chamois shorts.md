@@ -1,0 +1,1 @@
+Some of the best cyclists who spend the most hours in the saddle of any humans on Earth actually unstitch the chamois pad and remove it from their shorts.
