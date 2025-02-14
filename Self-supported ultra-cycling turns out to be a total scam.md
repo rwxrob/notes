@@ -1,4 +1,0 @@
-Racing in Tour Divide and other "self-supported" ultra-cycling events is a joke. As much as I appreciate athletes like Lachlan Mornton and his "fastest unofficial time" for Tour Divide it was a complete publicity stunt that he did for free from his sponsors with a full support team that even arranged all his lodging. Obviously, that's his prerogative, but realizing that Tour Divide and other "races" are absolutely subjective makes the appeal completely gone for me. Everyone would get more out of this from bikepacking against a personal best as opposed to this bullshit. It's really sad because people spend their lives dedicated to setting "records" but one person gets disqualified while others do not. It is just not worth it. Find another way to push your limits that is actually regulated or self-regulate instead.
-
-* https://youtu.be/DANpFGTjKqQ?si=a8wsufG_ZApLPvi0
-* 
