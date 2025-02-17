@@ -1,0 +1,1 @@
+My Specialized Torch 2 shoes are my favorite shoes to ride in, by far. The power distribution is so nice and although they 

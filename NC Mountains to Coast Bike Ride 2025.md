@@ -1,4 +1,3 @@
-
 I am officially registered. It only cost $625 for everything including week-long parking in Lake Lure and the $150 bus trip from Fort Fisher back to Lake Lure on the 12th (the day after the end of the event). I registered the team name RWX for anyone else who wants to do it with me.
 
 ----
