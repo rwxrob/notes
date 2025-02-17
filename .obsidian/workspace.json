@@ -4,179 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "816e5b0799b1e8d3",
+        "id": "b861ed8d4dc878b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f8a652b506cdc5be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6070d95bf53aefad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d1127ec331ecd547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Something.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Something"
-            }
-          },
-          {
-            "id": "8e55c439e3818b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "All I need is phone to write.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "All I need is phone to write"
-            }
-          },
-          {
-            "id": "15ae2f5c73263fc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "5f8385432490299e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1286171438f423f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "aafaef2634d9dab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taking notes with Obsidian from a phone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Taking notes with Obsidian from a phone"
-            }
-          },
-          {
-            "id": "fc7f2e1f9ad01d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "37afe6f04192a676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keep Obsidian compatible with GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keep Obsidian compatible with GitHub"
-            }
-          },
-          {
-            "id": "6a61acae5290d300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keep Obsidian compatible with GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keep Obsidian compatible with GitHub"
-            }
-          },
-          {
-            "id": "a6577f80f7f0d9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NC Mountains to Coast Bike Ride 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NC Mountains to Coast Bike Ride 2025"
-            }
-          },
-          {
-            "id": "77110659077fe5ab",
+            "id": "467c2a2979066f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,275 +20,8 @@
               "icon": "lucide-file",
               "title": "ORNOT favorite bike clothing brand"
             }
-          },
-          {
-            "id": "2be927e8b86d70c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Moblin is definitely not an option for serious IRL streaming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moblin is definitely not an option for serious IRL streaming"
-            }
-          },
-          {
-            "id": "a444a6d9baeda64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shoe size.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shoe size"
-            }
-          },
-          {
-            "id": "4797b3b5ba433614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big logos, Ornot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big logos, Ornot"
-            }
-          },
-          {
-            "id": "81ec6c2e2552630a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limited biking outside mobile phone range.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limited biking outside mobile phone range"
-            }
-          },
-          {
-            "id": "b59a67085e3994a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of cycling I do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of cycling I do"
-            }
-          },
-          {
-            "id": "5c43057496f320a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of cycling I do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Types of cycling I do"
-            }
-          },
-          {
-            "id": "09a90ae8dc831251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NC Mountains to Coast Bike Ride 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NC Mountains to Coast Bike Ride 2025"
-            }
-          },
-          {
-            "id": "899b96b1cd51e010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starlink just not worth it for IRL bike streaming.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Starlink just not worth it for IRL bike streaming"
-            }
-          },
-          {
-            "id": "bca6e9bb2609c211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goblin Tour bike route.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goblin Tour bike route"
-            }
-          },
-          {
-            "id": "48e155ac0664521a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NC Mountains to Coast Bike Ride 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NC Mountains to Coast Bike Ride 2025"
-            }
-          },
-          {
-            "id": "f5755c1811aa881d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mung beans and red lentils.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mung beans and red lentils"
-            }
-          },
-          {
-            "id": "9fee3ac25990a42d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I'm a gravel rider who prefers road.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I'm a gravel rider who prefers road"
-            }
-          },
-          {
-            "id": "657421267a345ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lael Wilcox and others don't have chamois shorts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lael Wilcox and others don't have chamois shorts"
-            }
-          },
-          {
-            "id": "06168e9fbc22a0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-supported ultra-cycling \"racing\" is a total scam.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Self-supported ultra-cycling \"racing\" is a total scam"
-            }
-          },
-          {
-            "id": "702759fa46015d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What's best Zwift bike for a given route?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What's best Zwift bike for a given route?"
-            }
-          },
-          {
-            "id": "b9e22ed62671a425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dustin Klein stopped making videos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dustin Klein stopped making videos"
-            }
-          },
-          {
-            "id": "5bb49d7202d4db0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bikepacking just isn't fun.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bikepacking just isn't fun"
-            }
-          },
-          {
-            "id": "f50c2edf209de10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Racing the sun, single epic days on the bike.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Racing the sun, single epic days on the bike"
-            }
-          },
-          {
-            "id": "d74fcd0eb77a3321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RWXCon overnighters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RWXCon overnighters"
-            }
           }
-        ],
-        "currentTab": 31
+        ]
       }
     ],
     "direction": "vertical"
@@ -607,35 +172,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d74fcd0eb77a3321",
+  "active": "467c2a2979066f33",
   "lastOpenFiles": [
+    "README.md",
+    "All I need is phone to write.md",
+    "Taking notes with Obsidian from a phone.md",
+    "Keep Obsidian compatible with GitHub.md",
+    "NC Mountains to Coast Bike Ride 2025.md",
+    "ORNOT favorite bike clothing brand.md",
+    "Moblin is definitely not an option for serious IRL streaming.md",
+    "Shoe size.md",
+    "Big logos, Ornot.md",
+    "Limited biking outside mobile phone range.md",
+    "Types of cycling I do.md",
+    "Starlink just not worth it for IRL bike streaming.md",
+    "Goblin Tour bike route.md",
+    "Mung beans and red lentils.md",
+    "I'm a gravel rider who prefers road.md",
+    "Lael Wilcox and others don't have chamois shorts.md",
+    "Self-supported ultra-cycling \"racing\" is a total scam.md",
+    "What's best Zwift bike for a given route?.md",
+    "Dustin Klein stopped making videos.md",
+    "Bikepacking just isn't fun.md",
     "Racing the sun, single epic days on the bike.md",
     "RWXCon overnighters.md",
-    "Bikepacking just isn't fun.md",
-    "Dustin Klein stopped making videos.md",
-    "What's best Zwift bike for a given route?.md",
-    "Self-supported ultra-cycling \"racing\" is a total scam.md",
-    "Lael Wilcox and others don't have chamois shorts.md",
-    "Types of cycling I do.md",
-    "I'm a gravel rider who prefers road.md",
-    "Mung beans and red lentils.md",
-    "NC Mountains to Coast Bike Ride 2025.md",
     "NeoPro road kit is simply the best.md",
-    "Goblin Tour bike route.md",
-    "Starlink just not worth it for IRL bike streaming.md",
     "All-road bike setup.md",
-    "Moblin is definitely not an option for serious IRL streaming.md",
-    "Limited biking outside mobile phone range.md",
     "I'm a Dustin Klein fanboy.md",
     "Goodbye Keshi, I loved you so much.md",
     "Untitled",
-    "Big logos, Ornot.md",
-    "Shoe size.md",
-    "ORNOT favorite bike clothing brand.md",
-    "Keep Obsidian compatible with GitHub.md",
-    "Why I use GitHub Flavored Markdown.md",
-    "Why I use Obsidian.md",
-    "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
     "Search titles with GitHub.png",
     "obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
