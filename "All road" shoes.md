@@ -2,3 +2,4 @@ My Specialized Torch 2 shoes are my favorite shoes to ride in, by far. The power
 
 My concern about being able to bike-n-hike is completely irrelevant in the "all road" scenario. This is _not_ gravel riding (although I have sort of a "spirit of gravel" approach to any cycling). If I ever had to walk more than a block I'd call an uber (or Doris) or make sure to bring walking sandals (Zeroes) so I could just walk. The worst roads I will ever be on would be just slightly muddy or minimal gravel so I never had to do any significant walking in my cycling shoes. Best shoes for the job. 
 
+I cannot believe I was so conflicted amount running gravel shoes versus these. Even on my epic long ride days I'm super confident in this decision.
