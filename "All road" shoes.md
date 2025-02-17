@@ -1,1 +1,1 @@
-My Specialized Torch 2 shoes are my favorite shoes to ride in, by far. The power distribution is so nice and although they 
+My Specialized Torch 2 shoes are my favorite shoes to ride in, by far. The power distribution is so nice and although they are stiff as possible they are remarkable comfortable to walk into a bookstore for coffee, or a restaurant to get a burrito. They have a huge pad for the heel so not afraid of grinding it away.
