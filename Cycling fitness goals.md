@@ -1,0 +1,1 @@
+I always do better with goal  (until I hit them and start looking for different goals, which happens all the time). For cycling my goal is to be a podium finisher in any eSports bike races I enter. Es
