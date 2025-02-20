@@ -20,4 +20,11 @@ To have any chance of hitting those W/kg I have to get my weight down to 67 kilo
 
 ## FTP: 270
 
-Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241
+Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241 in 2024 and I'm pretty sure if Summer had not derailed my training entirely I could have pushed it up higher.
+
+## Prioritize sleep
+
+The secret to all of this is mostly sleep. Sleep allows me to do two training sessions per day and fully recover. Sneaking an extra two hour nap in the middle of day and still hitting the training hours and work requirements means that there really isn't much time for anything else—especially live streaming stupid tech stuff. In fact, since abandoning tech streaming almost a month ago I have an absolute aversion to the idea of doing it at all. All my motivation for book writing and boost stuff is not just gone
+## Consistency is key
+
+As with any training, I have to remember that it is the marginal daily gains that matter.
