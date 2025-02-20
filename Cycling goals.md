@@ -8,16 +8,21 @@ To pull off consistent wins against an international field of eSports competitor
 
 ## Sprinter focus
 
-I don't have the physical dimensions to be a classics all-rounder and I don't want to go all the way to climber-level weight loss, to the sprinter category. This is also a good category for someone with a heavier IRL bike like my top-of-the-entry-level Trek Domane AL 5 Gen 4.
+I don't have the physical dimensions to be a classics all-rounder and I don't want to go all the way to climber-level weight loss which leaves me in the sprinter category.
 
-I definitely have the mental attitude and genetics for sprinting and a very high threshold for pain. It's what made me a decent triathlete (although, let's be honest, at 174 cm I'm far too short for competitive triathletes).
+I definitely have the mental attitude and genetics for sprinting and a very high threshold for pain. It's what made me a decent triathlete (although, let's be honest, at 174 cm I'm far too short for competitive triathletes). I've been complimented (without solicitation) for my sprinting on Zwift rides before. 
+
+Zwift makes sprinting so incredibly fun, no danger, just power, plus you get immediate recognition in several different ways even if you are not in an actual race.
+
+IRL sprinting is also a good category for someone with a heavier IRL bike like my top-of-the-entry-level Trek Domane AL 5 Gen 4.
 
 Sprinting also pairs well with mountain bike roller-coaster riding, which I absolutely love.
 
 ## Weight: 67
 
-To have any chance of hitting those W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
+To have any chance of hitting 4.0 W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
 
+The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and ca
 ## FTP: 270
 
 Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241 in 2024 and I'm pretty sure if Summer had not derailed my training entirely I could have pushed it up higher.
