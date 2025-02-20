@@ -24,12 +24,16 @@ Your real-world **HR max is what matters most**, and formulas often **underestim
 | ------------------ | ----------- | -------------------- | ---------------------------------- |
 | **Z1 (Recovery)**  | 50-60%      | 90-105 bpm           | Active recovery, easy spins        |
 | **Z2 (Endurance)** | 60-78%      | 106-139 bpm          | Base miles, all-day pace           |
-| SS (SweetSpot)     | 75-85%      |                      |                                    |
+| SS (SweetSpot)     | 75-85%      | 134-152 bpm          | When times to short for Z2         |
 | **Z3 (Tempo)**     | 78-87%      | 139-156 bpm          | Pushing endurance, but sustainable |
 | **Z4 (Threshold)** | 87-97%      | 156-173 bpm          | Hard, but just manageable          |
 | **Z5 (VO2max)**    | 97-100%     | 173-179 bpm          | Max effort, short bursts           |
 
-These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also see to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it really isn't. It's *at least* 75%. I also think the "winded conversation" standard for zone 2 is flawed and that the upper end of zone 2 actually goes into the "can barely form four words at a time" mode. Tadej Pogačar says "fatigued" zone 2 HR for him is 140-145 with a max HR of 200-213 which means he considers zone 2 upper around 75%. By the way, Tadej finds HR more reliable than power, which surprised me:
+These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also seem to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it really isn't. It's *at least* 75%. At 78% it sli
+
+I also think the "winded conversation" standard for zone 2 is flawed and that the upper end of zone 2 actually goes into the "can barely form four words at a time" mode.
+
+Tadej Pogačar says "fatigued" zone 2 HR for him is 140-145 with a max HR of 200-213 which means he considers zone 2 upper around 75%. By the way, Tadej finds HR more reliable than power, which surprised me:
 
 > "I could to by heart rate only but it is good to compare it with power as well."
 
