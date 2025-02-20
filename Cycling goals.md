@@ -22,7 +22,11 @@ Sprinting also pairs well with mountain bike roller-coaster riding, which I abso
 
 To have any chance of hitting 4.0 W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
 
-The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and ca
+The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and have low caloric density.
+
+The easiest way to achieve this is just reduce the fat and meat in my diet. A little healthy fat is always required for balance and to feel full, just don't go crazy, Rob.
+
+Most importantly this means zero alcohol which second only to fat in caloric density. At least a little fat makes you feel full for the cost in calories, alcohol does not. Hell, even an entire package of Swedish Fish is better for me than a single IPA. If I want a buzz I can find other ways, like endorphins and dopamine
 ## FTP: 270
 
 Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241 in 2024 and I'm pretty sure if Summer had not derailed my training entirely I could have pushed it up higher.
