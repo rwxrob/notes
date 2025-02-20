@@ -20,13 +20,13 @@ Your real-world **HR max is what matters most**, and formulas often **underestim
 
 ## 🔹 Updated Heart Rate Zones (Based on 179 bpm HRmax)
 
-| **Zone** | **% HRmax** | **Heart Rate (bpm)** | **Purpose** |
-|----------|------------|----------------|------------------------------|
-| **Z1 (Recovery)** | 50-60% | 90-107 bpm | Active recovery, easy spins |
-| **Z2 (Endurance)** | 60-70% | 108-125 bpm | Base miles, all-day pace |
-| **Z3 (Tempo)** | 70-80% | 126-143 bpm | Pushing endurance, but sustainable |
-| **Z4 (Threshold)** | 80-90% | 144-161 bpm | Hard, but just manageable |
-| **Z5 (VO2max)** | 90-100% | 162-179 bpm | Max effort, short bursts |
+| **Zone**           | **% HRmax** | **Heart Rate (bpm)** | **Purpose**                        |
+| ------------------ | ----------- | -------------------- | ---------------------------------- |
+| **Z1 (Recovery)**  | 50-60%      | 90-105 bpm           | Active recovery, easy spins        |
+| **Z2 (Endurance)** | 60-78%      | 106-139 bpm          | Base miles, all-day pace           |
+| **Z3 (Tempo)**     | 78-87%      | 139-156 bpm          | Pushing endurance, but sustainable |
+| **Z4 (Threshold)** | 80-90%      | 144-161 bpm          | Hard, but just manageable          |
+| **Z5 (VO2max)**    | 90-100%     | 162-179 bpm          | Max effort, short bursts           |
 
 ---
 
