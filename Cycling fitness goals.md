@@ -12,10 +12,12 @@ I don't have the physical dimensions to be a classics all-rounder and I don't wa
 
 I definitely have the mental attitude and genetics for sprinting and a very high threshold for pain. It's what made me a decent triathlete (although, let's be honest, at 174 cm I'm far too short for competitive triathletes).
 
-Sprinting also pairs well with mountain bike roller-coaster trail riding, which I absolutely love.
+Sprinting also pairs well with mountain bike roller-coaster riding, which I absolutely love.
 
 ## Weight: 67
 
-To have any chance I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life.
+To have any chance of hitting those W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
 
 ## FTP: 270
+
+Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241
