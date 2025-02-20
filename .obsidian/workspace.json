@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling fitness goals.md",
+                "file": "Cycling goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling fitness goals"
+              "title": "Cycling goals"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling fitness goals.md",
+                "file": "Cycling goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling fitness goals"
+              "title": "Cycling goals"
             }
           }
         ],
@@ -260,7 +260,7 @@
   "active": "0d51f08f3ad704b9",
   "lastOpenFiles": [
     "Esports racing is more fair and balanced.md",
-    "Cycling fitness goals.md",
+    "Cycling goals.md",
     "❤️ 179 bpm Max HR at 57.md",
     "Bikepacking isn't fun.md",
     "Bike kit by weather.md",
