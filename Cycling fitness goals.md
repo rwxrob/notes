@@ -24,7 +24,7 @@ Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really
 
 ## Prioritize sleep
 
-The secret to all of this is mostly sleep. Sleep allows me to do two training sessions per day and fully recover. Sneaking an extra two hour nap in the middle of day and still hitting the training hours and work requirements means that there really isn't much time for anything else—especially live streaming stupid tech stuff. In fact, since abandoning tech streaming almost a month ago I have an absolute aversion to the idea of doing it at all. All my motivation for book writing and boost stuff is not just gone
+The secret to all of this is mostly sleep. Sleep allows me to do two training sessions per day and fully recover. Sneaking an extra two hour nap in the middle of day and still hitting the training hours and work requirements means that there really isn't much time for anything else—especially live streaming stupid tech stuff. The answer is now obvious when the decision comes, "Should I livestream random tech stuff or take a nap?" Naps just make me so freaking happy. Maybe it's an old guy thing.
 ## Consistency is key
 
-As with any training, I have to remember that it is the marginal daily gains that matter.
+As with any training, I have to remember that it is the marginal daily gains that matter. I love that Strava fitness points are based on this. The longer and less intense and more frequent sessions built up huge fitness points over ultra long rides every once in a while or the short and hard stuff infrequently.
