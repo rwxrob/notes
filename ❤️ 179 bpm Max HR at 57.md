@@ -16,20 +16,19 @@ Your real-world **HR max is what matters most**, and formulas often **underestim
 - **Your HR max (Actual Measurement):** **179 bpm** 🎯  
 - **Conclusion:** You are **well above average for your age** in heart rate response, likely due to long-term endurance training.  
 
----
-
+----
 ## 🔹 Updated Heart Rate Zones (Based on 179 bpm HRmax)
 
-| **Zone**           | **% HRmax** | **Heart Rate (bpm)** | **Purpose**                        |
-| ------------------ | ----------- | -------------------- | ---------------------------------- |
-| **Z1 (Recovery)**  | 50-60%      | 90-105 bpm           | Active recovery, easy spins        |
-| **Z2 (Endurance)** | 60-78%      | 106-139 bpm          | Base miles, all-day pace           |
-| SS (SweetSpot)     | 75-85%      | 134-152 bpm          | When times to short for Z2         |
-| **Z3 (Tempo)**     | 78-87%      | 139-156 bpm          | Pushing endurance, but sustainable |
-| **Z4 (Threshold)** | 87-97%      | 156-173 bpm          | Hard, but just manageable          |
-| **Z5 (VO2max)**    | 97-100%     | 173-179 bpm          | Max effort, short bursts           |
+| **Zone**           | **% HRmax** | **Heart Rate (bpm)** | **Purpose**                           |
+| ------------------ | ----------- | -------------------- | ------------------------------------- |
+| **Z1 (Recovery)**  | 50-60%      | 90-105 bpm           | Active recovery, easy spins, no gains |
+| **Z2 (Endurance)** | 60-78%      | 106-139 bpm          | Base miles, all-day pace, big gains   |
+| SS (SweetSpot)     | 75-85%      | 134-152 bpm          | When times to short for Z2            |
+| **Z3 (Tempo)**     | 78-87%      | 139-156 bpm          | Pushing endurance, but sustainable    |
+| **Z4 (Threshold)** | 87-97%      | 156-173 bpm          | Hard, but just manageable             |
+| **Z5 (VO2max)**    | 97-100%     | 173-179 bpm          | Max effort, short bursts              |
 
-These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also seem to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it really isn't. It's *at least* 75%. At 78% it sli
+These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also seem to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it really isn't. It's *at least* 75%. At 78% it slightly overlaps with Sweet Spot, which I like and falls around 140 as an upper limit that is easy for me to remember.
 
 I also think the "winded conversation" standard for zone 2 is flawed and that the upper end of zone 2 actually goes into the "can barely form four words at a time" mode.
 

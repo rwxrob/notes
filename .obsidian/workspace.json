@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +258,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d51f08f3ad704b9",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Cycling goals.md",
     "Esports racing is more fair and balanced.md",
