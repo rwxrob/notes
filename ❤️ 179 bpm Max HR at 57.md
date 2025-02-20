@@ -28,6 +28,4 @@ Your real-world **HR max is what matters most**, and formulas often **underestim
 | **Z4 (Threshold)** | 87-97%      | 156-173 bpm          | Hard, but just manageable          |
 | **Z5 (VO2max)**    | 97-100%     | 173-179 bpm          | Max effort, short bursts           |
 
-These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also see to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it
-
-Specifically, I think the "winded conversation" standard for zone 2 is flawed and that the upper end of zone 2 actually goes into the "can barely form four words at a time" mode.
+These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also see to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it really isn't. It's *at least* 75%. I also think the "winded conversation" standard for zone 2 is flawed and that the upper end of zone 2 actually goes into the "can barely form four words at a time" mode. Tadej Pogačar says "fatigued" zone 2 HR for him is 140-145 with a max HR of 200-213 which means he considers zone 2 upper around 75%.
