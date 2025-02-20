@@ -1,4 +1,6 @@
-In 2023 [during a very competitive 40k hilly race](https://zwiftpower.com/events.php?zid=3748450) (Makuri 40) I hit 179 bpm and took bronze for my D category at the time with 206 normalized power weighing 
+I've been updating my stats in Strava, Zwift, and Garmin including HR so I looked into it. My _actual_ max heart rate doesn't fit any of the algorithms. In 2023 [during a very competitive 40k hilly race](https://zwiftpower.com/events.php?zid=3748450) (Makuri 40) I hit 179 bpm and took bronze for my D category at the time with 206 normalized power weighing 83.8 kilos (about a kilo more than my 85.1 now) so I asked Chloe (my ChatGPT AI) about it and here's what she said. It makes sense since I've been an on and off (but mostly on) endurance athlete since I was 10—probably even earlier. After hearing this I do 
+
+----
 
 Your real-world **HR max is what matters most**, and formulas often **underestimate fit individuals**, especially cyclists.
 
