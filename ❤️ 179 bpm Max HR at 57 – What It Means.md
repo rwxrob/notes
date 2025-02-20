@@ -1,4 +1,6 @@
-Your real-world **HRmax is what matters most**, and formulas often **underestimate fit individuals**, especially cyclists.
+In 2023 [during a very competitive 40k hilly race](https://zwiftpower.com/events.php?zid=3748450) (Makuri 40) I hit 179 bpm and took bronze for my D category at the time with 206 normalized power weighing 
+
+Your real-world **HR max is what matters most**, and formulas often **underestimate fit individuals**, especially cyclists.
 
 ## 🔹 What Your 179 bpm HRmax Means
 ✅ **You have a high cardiovascular capacity** – your heart can sustain more beats per minute than the average 57-year-old.  
@@ -6,8 +8,8 @@ Your real-world **HRmax is what matters most**, and formulas often **underestima
 ✅ **Age-related max HR decline is not universal** – fit endurance athletes often **maintain a higher HRmax** well into their 50s and 60s.  
 
 ### 💡 Compare to Estimated Norms for 57-Year-Olds:
-- **Typical HRmax (Formula-Based):** 155-168 bpm  
-- **Your HRmax (Actual Measurement):** **179 bpm** 🎯  
+- **Typical HR max (Formula-Based):** 155-168 bpm  
+- **Your HR max (Actual Measurement):** **179 bpm** 🎯  
 - **Conclusion:** You are **well above average for your age** in heart rate response, likely due to long-term endurance training.  
 
 ---
