@@ -34,5 +34,3 @@ Your real-world **HR max is what matters most**, and formulas often **underestim
 1️⃣ **Train by real HR zones**, not estimated formulas.  
 2️⃣ **Increase Zone 2 efficiency** (**108-125 bpm**) to build endurance without burnout.  
 3️⃣ **Use VO2max work (162+ bpm)** strategically, since you have **a high HR range to work with**.  
-
-🔥 **Do you want a power-based equivalent (FTP zones) to match your HR zones?** 🚴‍♂️💨
