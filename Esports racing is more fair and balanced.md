@@ -1,0 +1,3 @@
+One thing 40 years of cycling has taught me is that racing is never fair. There are always those who have the cheapest equipment and those with pro gear and fully support teams. We won't even talk about all the methods to cheat. Esports might not be able to do anything about the cheaters but it does level the playing field completely when it comes to pay-to-win disparities. I absolutely love that. Sure people will have bikes that register more power than others and shoes that transfer power better, but on the whole this disparity is a fraction of that in the real world of bike racing across the board.
+
+Esports racing also removes h
