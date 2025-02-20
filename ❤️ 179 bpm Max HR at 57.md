@@ -20,8 +20,6 @@ Your real-world **HR max is what matters most**, and formulas often **underestim
 
 ## 🔹 Updated Heart Rate Zones (Based on 179 bpm HRmax)
 
-These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges.
-
 | **Zone**           | **% HRmax** | **Heart Rate (bpm)** | **Purpose**                        |
 | ------------------ | ----------- | -------------------- | ---------------------------------- |
 | **Z1 (Recovery)**  | 50-60%      | 90-105 bpm           | Active recovery, easy spins        |
@@ -30,9 +28,6 @@ These are updated to match the automated zone ranges from Strava and not consist
 | **Z4 (Threshold)** | 87-97%      | 156-173 bpm          | Hard, but just manageable          |
 | **Z5 (VO2max)**    | 97-100%     | 173-179 bpm          | Max effort, short bursts           |
 
----
+These are updated to match the automated zone ranges from Strava and not consistent with other, more general ranges. I find I like them better and they also see to be more inline with the builtin HR zones from Zwift. For example, a lot of people think zone 2 is 60-70% HR and it
 
-## 🔹 What You Can Do With This
-1️⃣ **Train by real HR zones**, not estimated formulas.  
-2️⃣ **Increase Zone 2 efficiency** (**108-125 bpm**) to build endurance without burnout.  
-3️⃣ **Use VO2max work (162+ bpm)** strategically, since you have **a high HR range to work with**.  
+Specifically, I think the "winded conversation" standard for zone 2 is flawed and that the upper end of zone 2 actually goes into the "can barely form four words at a time" mode.
