@@ -118,9 +118,21 @@
               "icon": "lucide-file",
               "title": "Open source made me fat"
             }
+          },
+          {
+            "id": "d5e920e74609eae6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -271,11 +283,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24cce307ffe44677",
+  "active": "d5e920e74609eae6",
   "lastOpenFiles": [
-    "Cycling goals.md",
-    "Open source made me fat.md",
     "Road shoes for all-road.md",
+    "Open source made me fat.md",
+    "Cycling goals.md",
     "Bikepacking isn't fun.md",
     "❤️ 179 bpm Max HR at 57.md",
     "Esports racing is more fair and balanced.md",
