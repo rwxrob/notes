@@ -4,6 +4,8 @@ https://www.youtube.com/shorts/MoQqmu23PPo
 
 The only people I know who actually enjoy bikepacking are those who take fishing poles and get to some areas that they could not really get to easily without their mountain bikes or hiking. For them bikepacking makes sense since the bike is just a means of travel  to get there that doesn't have a motor.
 
+The biggest reason bikepacking fails is the amount of time and money it takes. After you get all th
+
 I'm really angry with myself for realizing this far too late. I spend well over $3000 on different camping, bikepacking bags, a trailer and tech gear to come up with the perfect "digital nomad by bike." Some people thought it was cool. Others told me I had lost my mind and was going to hate it. Turns out the later group was right. It's hard to admit but I had to realize it for myself. It was never about the outdoor camping and lugging all that gear, or even working on the road as a "digital nomad by bike" that attracted me. For me it was always the riding and the scenery and the fitness with a few amazing stops along the way. I only want to carry my essentials and an emergency Houdini jacket and pants. Hell, I don't even carry water most of the time since I can stop regularly and just get a drink—especially in cold weather season when not pushing the pace.
 
 When you push yourself on the bike you end up wet, tired, and nothing is better than a good hot meal, a bath, and a soft warm bed in which to recover. Now *that* is fun. The cycling makes all those regular things so much nicer.
