@@ -1,0 +1,1 @@
+Of course I'm to blame, but my obsession with giving something away for free that doesn't exist, my paranoia that if I don't do it no one will, that people are not capable of learning things without structure, all of that led me to stop

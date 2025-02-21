@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Cycling goals"
             }
+          },
+          {
+            "id": "24cce307ffe44677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open source development made me fat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Open source development made me fat"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -257,12 +271,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0d51f08f3ad704b9",
+  "active": "24cce307ffe44677",
   "lastOpenFiles": [
+    "Cycling goals.md",
+    "Open source development made me fat.md",
     "Road shoes for all-road.md",
     "Bikepacking isn't fun.md",
     "❤️ 179 bpm Max HR at 57.md",
-    "Cycling goals.md",
     "Esports racing is more fair and balanced.md",
     "Bike kit by weather.md",
     "2025 NC Mountains to Coast Ride.md",
@@ -284,7 +299,6 @@
     "Types of cycling I do.md",
     "Starlink just not worth it for IRL bike streaming.md",
     "Goblin Tour bike route.md",
-    "Mung beans and red lentils.md",
     "Untitled",
     "Search titles with GitHub.png",
     "obsidian-settings.png",
