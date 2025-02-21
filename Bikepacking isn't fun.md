@@ -1,10 +1,10 @@
-Anyone who is actually into the enjoyment of pushing themselves or the thrill of movement on the bike is going to hate bikepacking, like me. Dustin Klein seems to understand this.
+There I said it. Heresy! Anyone who is actually into the enjoyment of pushing themselves on epic rides or the thrill of movement on the bike is going to hate bikepacking, like me. Dustin Klein seems to understand this.
 
 https://www.youtube.com/shorts/MoQqmu23PPo
 
 The only people I know who actually enjoy bikepacking are those who take fishing poles and get to some areas that they could not really get to easily without their mountain bikes or hiking. For them bikepacking makes sense since the bike is just a means of travel  to get there that doesn't have a motor.
 
-The biggest reason bikepacking fails is the amount of time and money it takes. After you get all th
+The biggest reason bikepacking fails is the amount of time and money it takes. After you get all the minimum gear you still have to get your bike to a place to do the bikepacking, so you have to find a place to park that is safe for days at a time—trailheads are definitely not. Once there you have to decide how remote the area is. Do I need bear repellent? Do I have enough food? Can I do this solo? If not, who is willing to invest the same time and energy into the exact same trip during the same exact time? The result is far too much hassle. I just want to ride my bike.
 
 I'm really angry with myself for realizing this far too late. I spend well over $3000 on different camping, bikepacking bags, a trailer and tech gear to come up with the perfect "digital nomad by bike." Some people thought it was cool. Others told me I had lost my mind and was going to hate it. Turns out the later group was right. It's hard to admit but I had to realize it for myself. It was never about the outdoor camping and lugging all that gear, or even working on the road as a "digital nomad by bike" that attracted me. For me it was always the riding and the scenery and the fitness with a few amazing stops along the way. I only want to carry my essentials and an emergency Houdini jacket and pants. Hell, I don't even carry water most of the time since I can stop regularly and just get a drink—especially in cold weather season when not pushing the pace.
 
