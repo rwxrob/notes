@@ -1,0 +1,3 @@
+Fitness has always been easier to lose than to gain. I feel like the ration is about 3 to 1. I know I've lost all my gains for three years with just three months of absolute inactivity and bad diet. This is the sad reality of mortality. It can be hella depressing if I think about it too much. Mostly it just makes me *really* angry at myself.
+
+The one thing I have been able to control my entire life has been my fitness. It's like my foundation that even goes deeper than any philosophy or religion, the one true t
