@@ -1,4 +1,4 @@
-I always do better with a goal. I've had cycling goals for most of my life and it has done a lot to keep me motivated. My goal has always been to be a podium finisher in my age group. These days the only difference is I don't care much about any competition that isn't eSports bike racing which I can do for the rest of my life. More than half the esports competitors I race against are over the age of 50—and a significant number are over 70! This is a fitness goal I can hold onto forever.
+I always do better with a goal. I've had cycling goals for most of my life and it has done a lot to keep me motivated. My goal has always been to be a podium finisher in my age group. These days the only difference is I don't care much about any competition that isn't eSports bike racing which I can do for the rest of my life. More than half the esports competitors I race against are over the age of 50—and a significant number are over 70! These bad-ass seniors remind me there's absolutely no excuse not to go for it. This is a fitness goal I can hold onto forever and really enjoy. Who gives a shit if 95% of the rest of the people my age have given up. Not me (and not Doris).
 
 * [Esports racing is more fair and balanced](Esports%20racing%20is%20more%20fair%20and%20balanced.md)
 
@@ -20,7 +20,7 @@ Sprinting also pairs well with mountain bike roller-coaster riding, which I abso
 
 ## Weight: 67
 
-To have any chance of hitting 4.0 W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
+To have any chance of hitting 4.0 W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
 
 The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and have low caloric density. One big reminder I've had recently is that even easily digestible complex carbs like those in white rice and—my favorite—plain waffles are far less dense in calories than fat, alcohol, meat, and simple carbs. Same is true of red and green lentils.
 
