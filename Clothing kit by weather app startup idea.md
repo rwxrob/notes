@@ -4,4 +4,9 @@ This idea would totally work. The data set from all the input of what everyone i
 
 This idea is the kind that I probably should pitch to an incubator for seed funding and with a proper business plan. It would be an easy win for Y-Combinator. Hell, I don't even care if people steal the idea from my public posting of it. I just wish it existed. If I were doing it I would do it as a progressive web app that can run locally or in a web browser. It could even have opt-out ads as well that would be targeted for the weather conditions of the day. *No one* is doing this. The app would pro-actively suggest best products based not only on demographic of the user/customer but also the current weather conditions and personal preferences like "run cold" or "run hot" on all the body parts for the individual. I'm tell you, this is solid gold for a start-up idea. It would *destroy* at Outdoor Retailer.
 
-I wonder if Dustin Klein would be interested in associating with such a
+I did just search with Chloe and found these apps that do something similar, but none of them leverage the most valuable part, the data entry and collaboration with product manufacturers:
+
+- https://road.cc
+- Weather Fit iOS app
+
+I wonder if Dustin Klein would be interested in associating with such a product. He's definitely got the experience and brand loyalty needed for such a thing. Plus he's a kick-ass maker with amazing design sense.
