@@ -4,4 +4,4 @@ In the 90s we used to use Promax so that we couldn't feel lactate when it built 
 
 Norwegian endurance training, especially in **cycling, running, and cross-country skiing**, is **heavily focused on lactate measurement** to optimize training intensity. This method is backed by research and used by elite athletes like **Jakob Ingebrigtsen (running) and Kristian Blummenfelt (triathlon)**.
 
-Peter Attia and Inigo San Millán have talked about this a lot in their explanation of why zone 2 training is important. They both admit that FTP is inferior to proper lactate threshold training but it is all we have. Eventually, there will ba a way to measure lactate directly in the 
+Peter Attia and Inigo San Millán have talked about this a lot in their explanation of why zone 2 training is important. They both admit that FTP is inferior to proper lactate threshold training but it is all we have. Eventually, there will ba a way to measure lactate directly in the blood, but until that happens power zone training is the closest we have.
