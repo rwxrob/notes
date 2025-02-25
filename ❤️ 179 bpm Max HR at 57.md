@@ -34,6 +34,4 @@ I also think the "winded conversation" standard for zone 2 is flawed and that th
 
 Tadej Pogačar says "fatigued" zone 2 HR for him is 140-145 with a max HR of 200-213 which means he considers zone 2 upper around 75%. By the way, Tadej finds HR more reliable than power, which surprised me:
 
-> "I could to by heart rate only but it is good to compare it with power as well."
-
-I really love this because power meters are really all over the place and are so spendy I hate recommending them to people. Just a good HR chest strap is all most people need to radically increase their fitness—yes even with HR drift and such, that's Tadej saying that, not me.
+> "I could go by heart rate only but it is good to compare it with power as well."

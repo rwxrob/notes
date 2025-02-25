@@ -1,0 +1,1 @@
+Today I was reminded why power meters are actually good and why FTP really does matter. They 
