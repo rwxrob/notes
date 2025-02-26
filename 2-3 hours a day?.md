@@ -4,5 +4,6 @@ I work from home—literally from my bed most of the time. If I don't get up and
 
 Case you haven't done the math, that's about 18 hours per week. That's just under the pro 20+ hour level of volume by most standards. But here's the thing, I am not a pro. I am, however, a tech sloth. So subtracting, say, one hour per day just to maintain minimum human function of my body that would put my "training" hours someplace in the 11 hours per week range, about the same as any other weekend warrior wanting to keep up with a curated group of fast friends.
 
-However, if I add in a double on Sundays and do 100k instead of 50, but at a much slower pace so it takes slight more than twice the moving time (not counting the time for eating and coffee stops which make it so fun) I can keep up a competitive volume of 21 hours, 
+However, if I add in a double on Sundays and do 100k instead of 50, but at a much slower pace so it takes slight more than twice the moving time (not counting the time for eating and coffee stops which make it so fun) I can keep up a competitive volume of 21 hours (or 14 adjusted).
 
+Once I'm maintaining that volume consistently for 42 days or so I can start adding more fitness points by increasing the intensity a few days above the regular zone 2 levels without really changing the schedule that much at all. I can also start to add in fun, intense stuff like MTB flow trail riding (which I'm going to avoid for now until I get the weight down).
