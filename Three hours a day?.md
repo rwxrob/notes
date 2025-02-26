@@ -2,5 +2,7 @@ I work from home—literally from my bed most of the time. If I don't get up and
 
 - [Fitness and freshness](Fitness%20and%20freshness.md)
 
+Case you haven't done the math, that's 21 hours per week. That's a pro level of volume by most standards. But here's the thing, I am not a pro. I am, however, a tech sloth. So subtracting, say, one hour per day just to maintain minimum human function of my body that would put my "training" hours someplace in the 14 hours per week range, about the same as any other weekend warrior wanting to keep up with a curated group of fast friends.
 
+On Sundays I do 100k intedad
 
