@@ -211,7 +211,8 @@
               "state": {
                 "file": "Fitness and freshness.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Fitness and freshness"
