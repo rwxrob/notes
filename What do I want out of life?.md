@@ -10,7 +10,4 @@ The answer is pretty simple actually:
 
 That's it. 
 
-Notice there is nothing about meeting new people. On the whole, I hate people. The percentage of human beings that I actually _want_ to hang out with—or even talk to, for that matter—is tiny small. My wife has always felt the same even though she isn't as public about it.  A well-curated group of elite friends I look up to is _always_ better than any group of people you are forced to be with—even better than the family you were born into.
-
-They bring nothing but pain and suffering and stress.
-
+Notice there is nothing about meeting new people. On the whole, I hate people. Most humans bring nothing but ignorance, pain, suffering and stress into my life. The percentage of human beings that I actually _want_ to hang out with—or even talk to, for that matter—is tiny. My wife has always felt the same.  A well-curated group of elite friends is _always_ better than any group of people forced on me—although occasionally I will discover a gem among them. Some people will call this type of thinking "elitist" to which I say, "fine, now go away."
