@@ -1,1 +1,1 @@
-I don't really have the time to de
+I don't really have the time to strip and relube my chain every day. I can add a bit of lube after each ride no problem. Once a week I figure I can strip and lube it again. I've had great results with Silca Super Secret Wax and stripper for all-road and mountain.
