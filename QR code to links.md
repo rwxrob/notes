@@ -1,1 +1,0 @@
-![](qr-rwxrob-fun.svg)
