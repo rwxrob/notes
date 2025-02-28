@@ -245,9 +245,23 @@
               "icon": "lucide-file",
               "title": "Wheelset Enve SES 4.5"
             }
+          },
+          {
+            "id": "4fa7cdf567fe4a28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Winter shoes Lake CX146.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Winter shoes Lake CX146"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -398,10 +412,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72bfa5f792ea4afc",
+  "active": "4fa7cdf567fe4a28",
   "lastOpenFiles": [
-    "I really just want a fixie with gears.md",
     "Wheelset Enve SES 4.5.md",
+    "Winter shoes Lake CX146.md",
+    "I really just want a fixie with gears.md",
     "2-3 hours a day?.md",
     "Cycling goals.md",
     "Fitness and freshness.md",
@@ -426,7 +441,6 @@
     "ExOfficio is the only underwear that exists to me.md",
     "bibs with pad remove.md",
     "ORNOT favorite bike clothing brand.md",
-    "README.md",
     "Search titles with GitHub.png",
     "obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
