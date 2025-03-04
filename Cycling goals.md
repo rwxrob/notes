@@ -2,7 +2,7 @@ I always do better with a goal. I've had cycling goals for most of my life and i
 
 * [Esports racing is more fair and balanced](Esports%20racing%20is%20more%20fair%20and%20balanced.md)
 
-## 4.0 W/kg
+## 3.0 W/kg Zone 2
 
 To pull off consistent wins against an international field of eSports competitors I'm going to need to reach 4.0 W/kg. I know that sounds like a lot—especially for an old guy like me—but I want to dream big here.
 
@@ -30,10 +30,10 @@ The biggest lifestyle change is just eating more plant-based foods that are nutr
 
 If I just reduce the fat and meat in my diet and keep the same training volume without holding any carbs back I will hit this goal. A little healthy fat is always required for balance and to feel full, just don't go crazy, Rob.
 
-Most importantly this means zero alcohol which is second only to fat in caloric density and does nothing but poison your body. Every single time I've gained weight it was because of alcohol—the worse being wine and liquor that contain sugar and alcohol. At least a little fat makes you feel full for the cost in calories, alcohol does not. Hell, even an entire package of Swedish Fish is better for me than a single IPA. If I want a buzz I can find other ways, like endorphins and dopamine which I've always preferred anyway. In fact, I've found that by substituting a black coffee and burrito or muffin instead of an IPA that I enjoy it more and feel better. Even an occasional Coca Cola is better than *anything* with alcohol—especially while out on a ride. I do wonder what a TCH gummy would be like, however.
-## FTP: 270
+Most importantly this means less alcohol which is second only to fat in caloric density and does nothing but poison your body. Every single time I've gained weight it was because of alcohol—the worse being wine and liquor that contain sugar and alcohol. At least a little fat makes you feel full for the cost in calories, alcohol does not. Hell, even an entire package of Swedish Fish is better for me than a single IPA. If I want a buzz I can find other ways, like endorphins and dopamine which I've always preferred anyway. In fact, I've found that by substituting a black coffee and burrito or muffin instead of an IPA that I enjoy it more and feel better. Even an occasional Coca Cola is better than *anything* with alcohol—especially while out on a ride. I do wonder what a TCH gummy would be like, however.
+## FTP: 280
 
-Honestly, I would *love* to hit 300 but 270 is a very high goal. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241 in 2024 and I'm pretty sure if Summer had not derailed my training entirely I could have pushed it up higher.
+Honestly, I would *love* to hit 300 but 280 is what I need to hit 3 W/kg zone 2. I didn't really have a sense of what a good FTP was last year but the more I have been following other competitors and watching my own FTP I realize this is an attainable but aggressive goal. I hit 241 in 2024 and I'm pretty sure if Summer had not derailed my training entirely I could have pushed it up higher.
 
 ## Prioritize sleep
 
