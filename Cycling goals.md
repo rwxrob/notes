@@ -8,7 +8,7 @@ To pull off consistent wins against an international field of eSports competitor
 
 ## Sprinter focus
 
-I don't have the physical dimensions to be a classics all-rounder and I don't want to go all the way to climber-level weight loss which leaves me in the sprinter category.
+At 174 cm (Mark Cavendish is 175) and with my tendency to put on muscle easily—especially in my legs, and with my shorter leg length (which I got from my dad) I believe I have the best chance at building a sprinter body. Sprinters don't go under 72 kg usually meaning it will be easier to maintain. Sprinters also keep around the most muscle over time so it is good to fight off sarcopenia as I age, "build a booty" as my Yoga instructor used to say if you want to have a high-quality senior life.
 
 I definitely have the mental attitude and genetics for sprinting and a very high threshold for pain. It's what made me a decent triathlete (although, let's be honest, at 174 cm I'm far too short for competitive triathletes). I've been complimented (without solicitation) for my sprinting on Zwift rides before. 
 
