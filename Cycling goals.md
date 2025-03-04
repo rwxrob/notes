@@ -8,19 +8,23 @@ To pull off consistent wins against an international field of eSports competitor
 
 ## Sprinter focus
 
-At 174 cm (Mark Cavendish is 175) and with my tendency to put on muscle easily—especially in my legs, and with my shorter leg length (which I got from my dad) I believe I have the best chance at building a sprinter body. Sprinters don't go under 72 kg usually meaning it will be easier to maintain. Sprinters also keep around the most muscle over time so it is good to fight off sarcopenia as I age, "build a booty" as my Yoga instructor used to say if you want to have a high-quality senior life.
+At 174 cm (Mark Cavendish is 175) and with my tendency to put on muscle easily—especially in my legs, and with my shorter leg length (which I got from my dad) I believe I have the best chance at building a sprinter body. Sprinters don't go under 72 kg usually meaning it will be easier to maintain. Sprinters also keep around the most muscle over time so it is good to fight off sarcopenia as I age, "build a booty" as my Yoga instructor used to say if you want to have a high-quality senior life. 
 
-I definitely have the mental attitude and genetics for sprinting and a very high threshold for pain. It's what made me a decent triathlete (although, let's be honest, at 174 cm I'm far too short for competitive triathletes). I've been complimented (without solicitation) for my sprinting on Zwift rides before. 
+I also have a very high threshold for pain. It's what made me a decent triathlete (although, let's be honest, at 174 cm I'm far too short for competitive triathletes). 
 
-Zwift makes sprinting so incredibly fun, no danger, just power, plus you get immediate recognition in several different ways even if you are not in an actual race.
+Sprinting also pairs well with the short punchy climbs on my Goblin route that almost double as sprinter strength training sessions when I hit them really hard so I don't necessarily have to go to the gym or do any kind of strength training (although I probably will).
+
+Zwift makes sprinting so incredibly fun, no danger, just power, plus you get immediate recognition in several different ways even if you are not in an actual race. I've actually been complimented (without solicitation) for my sprinting on Zwift rides before and sprinting is something I can do all year long.
 
 IRL sprinting is also a good category for someone with a heavier IRL bike like my top-of-the-entry-level Trek Domane AL 5 Gen 4.
 
 Sprinting also pairs well with mountain bike roller-coaster riding, which I absolutely love.
 
-## Weight: 67
+## Weight: 70
 
-To have any chance of hitting 4.0 W/kg I have to get my weight down to 67 kilos (from 85 currently). I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
+To have any chance of hitting 4.0 W/kg I have to get my weight down to 70 kilos. This is the weight Mark Cavendish maintained for his 30 TdF stage wins over his career and he's 175cm.
+
+I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
 
 The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and have low caloric density. One big reminder I've had recently is that even easily digestible complex carbs like those in white rice and—my favorite—plain waffles are far less dense in calories than fat, alcohol, meat, and simple carbs. Same is true of red and green lentils.
 
