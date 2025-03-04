@@ -24,7 +24,7 @@ Sprinting also pairs well with mountain bike roller-coaster riding, which I abso
 
 To have any chance of hitting 4.0 W/kg I have to get my weight down to 70 kilos. This is the weight Mark Cavendish maintained for his 30 TdF stage wins over his career and he's 175cm.
 
-I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May.
+I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May. What I absolutely _don't_ want to do is blow my muscle mass and fitness by not eating enough (like Tadaj Podachar).
 
 The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and have low caloric density. One big reminder I've had recently is that even easily digestible complex carbs like those in white rice and—my favorite—plain waffles are far less dense in calories than fat, alcohol, meat, and simple carbs. Same is true of red and green lentils.
 
