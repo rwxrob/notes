@@ -42,5 +42,9 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 # Feet
 
 - Lake CX146 winter road shoes (43, 1 size bigger)
-- Specialized Torch 
+- Specialized Torch 2 road shoes (42)
+- Merino.tech winter merino wool socks
+- NeoPro or Swiftek wicking socks
+- Rockbros thermal toe covers
+- Thinvik bike cleat covers
 
