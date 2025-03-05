@@ -2,7 +2,7 @@ Here's my preferred cycling kit for my all-road/gravel style, head to toe. The o
 
 ## Head
 
-Getting everything I put on my head has been the single most important thing to get right. Temperature regulation really works through the scalp and mine is bald. Too hot of a head and everything else sweats through. Too cold and my hands and feet freeze, which reminds me of the old "if you want warm feet put on a hat adage from skiing days."
+Getting headwear right is crucial. Temperature regulation really works through the scalp and mine is bald. Too hot of a head and everything else sweats through. Too cold and my hands and feet freeze, which reminds me of the old "if you want warm feet put on a hat adage from skiing days."
 
 - VIictgoal waterproof helmet cover (fits over cap brim as well)
 - Giro Aries Spherical Helmet
@@ -14,8 +14,11 @@ Getting everything I put on my head has been the single most important thing to 
 - Bandanna and/or neck gator
 - Prescription glasses with anti-glare and photo-chromatic lenses (AmericasBest)
 
-I have found that combining a good 5-panel hat under a good, general road helmet is always the best for my style of riding (and Dustin Klein agrees). It shields the run and foliage way better than a dedicated MTB helmet, others a layer of moisture wicking and comfort, and looks completely normal when I remove the helmet and leave it with the bike while I grab a coffee or whatever. MAAP makes the Evade, an absolutely perfect version of this cap designed for this purpose but I mix them up for variety and just wear one of DKLEIN's SCRAM or other caps as well under
+I have found that combining a good 5-panel hat under a good, general road helmet is always the best for my style of riding (and Dustin Klein agrees). It shields the run and foliage way better than a dedicated MTB helmet, others a layer of moisture wicking and comfort, and looks completely normal when I remove the helmet and leave it with the bike while I grab a coffee or whatever. MAAP makes the Evade, an absolutely perfect version of this cap designed for this purpose but I mix them up for variety and just wear one of DKLEIN's SCRAM or other caps as well under if I know I'm going to be walking around a lot without a helmet.
 
+I once tried a full-face helmet for MTB riding, but that was a waste. I just changed my style of riding to be fine with my "gravel" helmet setup.
+
+The waterproof helmet cover is a super simple and light solution to torrential thunderstorm downpours. It keeps the sometimes cotton hat from completely soaking through and making it impossible to see because of all the water dripping in my eyes.
 ## Torso
 
 - Gorewear Spinshift Gortex Men's Jacket (M)
@@ -25,6 +28,7 @@ I have found that combining a good 5-panel hat under a good, general road helmet
 - Basic light arm warmers
 - NeoPro or YKYWBIKE sleeveless quick-dry undershirt
 - Garmin heart rate monitor
+- USWE Outlander Pro 2 with 
 ## Hands
 
 - Bar Mitts handlebar mittens
