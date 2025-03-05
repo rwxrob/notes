@@ -2,6 +2,8 @@ Here's my preferred cycling kit for my all-road/gravel style, head to toe. The o
 
 ## Head
 
+Getting everything I put on my head has been the single most important thing to get right. Temperature regulation really works through the scalp and mine is bald. Too hot of a head and everything else sweats through. Too cold and my hands and feet freeze, which reminds me of the old "if you want warm feet put on a hat adage from skiing days."
+
 - VIictgoal waterproof helmet cover (fits over cap brim as well)
 - Giro Aries Spherical Helmet
 - MAAP Evade 5 Panel Cap (under helmet, warmer)
@@ -11,6 +13,8 @@ Here's my preferred cycling kit for my all-road/gravel style, head to toe. The o
 - Finestic disposable face mask(s)
 - Bandanna and/or neck gator
 - Prescription glasses with anti-glare and photo-chromatic lenses (AmericasBest)
+
+I have found that combining a good 5-panel hat under a good, general road helmet is always the best for my style of riding (and Dustin Klein agrees). It shields the run and foliage way better than a dedicated MTB helmet, others a layer of moisture wicking and comfort, and looks completely normal when I remove the helmet and leave it with the bike while I grab a coffee or whatever. MAAP makes the Evade, an absolutely perfect version of this cap designed for this purpose but I mix them up for variety and just wear one of DKLEIN's SCRAM or other caps as well under
 
 ## Torso
 
