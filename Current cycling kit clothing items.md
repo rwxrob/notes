@@ -50,6 +50,11 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 - Velotoze feather weight gloves (>10C or sunguard)
 
 ## Legs
+
+- Patagonia Dirt Roamer Storm pants
+- prAna Stretch Zion Slim pants (<12C)
+- 
+
 # Feet
 
 - Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain, all-road)
