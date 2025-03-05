@@ -9,7 +9,7 @@
 
 The only thing you give up is torque to push through lower cadences while climbing and such.
 
-As an aging cyclist who has done a lot of things that have stressed my knees and flexors over the years I can say that I _definitely_ will be getting 150mm cranks on my next bike. Either putting them on this one or the next one I get. Only 160mm are available for now so I'll have to wait anyway.
+As an aging cyclist who has done a lot of things that have stressed my knees and flexors over the years I can say that I _definitely_ will be getting 160mm cranks on my next bike. Either putting them on this one or the next one I get. Only 160mm are available for now so I'll have to wait anyway.
 
 In fact, if I had 160mm instead of 172.5 I'm quite sure my shoes would not overlap with the front wheel at all. But too much hassle and expense (about $250) just to convert my current bike. I've been riding 170 and 172.5 my entire life so I'll be fine for another year.
 
