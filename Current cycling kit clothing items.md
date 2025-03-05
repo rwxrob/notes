@@ -51,7 +51,7 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 
 ## Legs
 
-Like many pros and ultra-endurance athletes, I don't do padded shorts. The cause abrasions and are nearly impossible to keep clean.
+The science says that erroring on the side of warm legs, not cold, is overall better for fitness and performance. When the surface temperature of your legs is warmer they work better. This is why all the pros in Girona wear tights even when they could probably ride without them.
 
 - Patagonia Dirt Roamer Storm pant
 - prAna Stretch Zion Slim pant (<12C)
@@ -59,6 +59,9 @@ Like many pros and ultra-endurance athletes, I don't do padded shorts. The cause
 - G Gradual hiking carbo short, camo
 - Ornot Lightweight Mission short
 - ExOfficio Give-N-Go Sport Mesh 9" boxer brief
+
+> [!No Pad]
+> Like many pros and ultra-endurance athletes, I don't do padded shorts. They cause abrasions and numbness and are nearly impossible to keep clean. I just make sure to ride daily to stay adapted to my Trek endurance saddle that matches my ergonomics.
 # Feet
 
 - Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain, all-road)
