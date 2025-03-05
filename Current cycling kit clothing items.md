@@ -32,7 +32,7 @@ The waterproof helmet cover is a super simple and light solution to torrential t
 
 - Gorewear Spinshift Gortex Men's Jacket (M) (>50% chance of rain)
 - Gorewear Fernflow hooded windbreaker (M) (<50% chance of rain)
-- Patagonia Nano-Air puffy jacket (not hoody) (<10C)
+- Patagonia Nano-Air puffy vest (not hoody) (<10C)
 - Hurley cotton/poly flannel long-sleeve shirt (10-14C)
 - Club Ride Go Long western long-sleeve (>14C, also sun-shirt to replace tee on longer rides)
 - Merino.tech merino wool tee(s) (>18C)
@@ -48,7 +48,6 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 - Bar Mitts handlebar mittensm(<6C)
 - Showers Pass Cross Point waterproof knit wool touchscreen gloves (<10C)
 - Velotoze feather weight gloves (>10C or sunguard)
-
 ## Legs
 
 The science says that erroring on the side of warm legs, not cold, is overall better for fitness and performance. When the surface temperature of your legs is warmer they work better. This is why all the pros in Girona wear tights even when they could probably ride without them.
