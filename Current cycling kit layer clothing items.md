@@ -1,5 +1,6 @@
-Here's my preferred cycling kit for my all-road/gravel style, head to toe. The only time I want to be a lycra super hero is going for Strava KOM hunting.
+Here's my preferred cycling kit for my all-road/gravel style, head to toe. This gear covers every temperature and condition in which I'm willing to ride. Anything beyong this
 
+There's no lycra kit here. I have it (mostly NeoPro) but I only want to be a lycra super hero specifically when going for Strava KOM hunting. I HATE how lycra/spandex looks. Too many MAMILs out there that should never wear it. Here's a free tip, lose 10 kilos before "getting aero" and you'll get faster.
 ## Head
 
 Getting headwear right is crucial. Temperature regulation really works through the scalp and mine is bald. Too hot of a head and everything else sweats through. Too cold and my hands and feet freeze, which reminds me of the old "if you want warm feet put on a hat adage from skiing days."
@@ -21,10 +22,13 @@ I once tried a full-face helmet for MTB riding, but that was a waste. I just cha
 The waterproof helmet cover is a super simple and light solution to torrential thunderstorm downpours. It keeps the sometimes cotton hat from completely soaking through and making it impossible to see because of all the water dripping in my eyes.
 ## Torso
 
+
+
 - Gorewear Spinshift Gortex Men's Jacket (M)
 - Gorewear Fernflow hooded windbreaker (M)
 - Patagonia Nano-Air puffy jacket (not hoody)
-- Hurley flannel long-sleeve shirt
+- Hurley cotton/poly flannel long-sleeve shirt
+- Club Ride Go Long western long-sleeve
 - Merino.tech merino wool tee(s)
 - Zengjo light-weight tech tee(s)
 - Basic light arm warmers
