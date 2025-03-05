@@ -53,7 +53,7 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 The science says that erroring on the side of warm legs, not cold, is overall better for fitness and performance. When the surface temperature of your legs is warmer they work better. This is why all the [pros in Girona wear tights even when they could probably ride without them](https://youtu.be/xYaStNJVaKQ?si=SmvaBlja3T-mtJcS&t=279).
 
 - Patagonia Dirt Roamer Storm pant (<12C)
-- prAna Stretch Zion Slim pant (<18C)
+- prAna Stretch Zion Slim pant (<18C, rollup all the way into shorts)
 - Cycorld outdoor shorts (pocket flap cut off)
 - G Gradual hiking cargo short, camo
 - Ornot Lightweight Mission short
