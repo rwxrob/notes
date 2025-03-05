@@ -1,6 +1,12 @@
-Here's my preferred cycling kit for my all-road/gravel style, head to toe. This gear covers every temperature and condition in which I'm willing to ride. Anything beyong this
+Here's my preferred cycling kit for my all-road/gravel style, head to toe. This gear covers every temperature and condition in which I'm willing to ride:
 
-There's no lycra kit here. I have it (mostly NeoPro) but I only want to be a lycra super hero specifically when going for Strava KOM hunting. I HATE how lycra/spandex looks. Too many MAMILs out there that should never wear it. Here's a free tip, lose 10 kilos before "getting aero" and you'll get faster.
+- Torrential, sudden downpours, afternoon NC thunderstorms (usually warm)
+- 4 C (never below freezing)
+- 36 C
+
+Anything weather situation beyond this is something I just won't ride.
+
+There's no lycra kit here. I do have it (mostly NeoPro and even a bit of Le Col I can't part with) but I only want to become a lycra super hero specifically when going for Strava KOM hunting when I'm in peak cycling shape. I HATE how lycra/spandex looks. Too many MAMILs out there that should never wear it. Here's a free tip, lose 10 kilos *before* "getting aero" and you'll get faster. You look ridiculous.
 ## Head
 
 Getting headwear right is crucial. Temperature regulation really works through the scalp and mine is bald. Too hot of a head and everything else sweats through. Too cold and my hands and feet freeze, which reminds me of the old "if you want warm feet put on a hat adage from skiing days."
