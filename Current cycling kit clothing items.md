@@ -50,11 +50,12 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 - Velotoze feather weight gloves (>10C or sunguard)
 # Feet
 
-- Lake CX146 winter road shoes (43, 1 size bigger)
-- Specialized Torch 2 road shoes (42)
-- Merino.tech winter merino wool socks
-- NeoPro or Swiftek wicking socks
-- Rockbros thermal toe covers
+- Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain)
+- Specialized Torch 2 road shoes (42) (>14C)
+- Hollow boot alpaca socks (<10C)
+- Merino.tech winter merino wool socks (<14C)
+- NeoPro or Swiftek wicking socks (>14C)
+- Rockbros thermal toe covers (>14C, <)
 - Thinvik bike cleat covers
 
 
