@@ -51,10 +51,14 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 
 ## Legs
 
-- Patagonia Dirt Roamer Storm pants
-- prAna Stretch Zion Slim pants (<12C)
-- 
+Like many pros and ultra-endurance athletes, I don't do padded shorts. The cause abrasions and are nearly impossible to keep clean.
 
+- Patagonia Dirt Roamer Storm pant
+- prAna Stretch Zion Slim pant (<12C)
+- Cycorld outdoor shorts (pocket flap cut off)
+- G Gradual hiking carbo short, camo
+- Ornot Lightweight Mission short
+- ExOfficio Give-N-Go Sport Mesh 9" boxer brief
 # Feet
 
 - Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain, all-road)
