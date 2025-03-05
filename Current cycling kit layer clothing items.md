@@ -24,7 +24,8 @@ The waterproof helmet cover is a super simple and light solution to torrential t
 - Gorewear Spinshift Gortex Men's Jacket (M)
 - Gorewear Fernflow hooded windbreaker (M)
 - Patagonia Nano-Air puffy jacket (not hoody)
-- Merino.tech merino wool t-shirt
+- Merino.tech merino wool tee(s)
+- Zengjo light-weight tech tee(s)
 - Basic light arm warmers
 - NeoPro or YKYWBIKE sleeveless quick-dry undershirt
 - Garmin heart rate monitor
