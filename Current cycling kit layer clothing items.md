@@ -16,8 +16,8 @@ Here's my preferred cycling kit for my all-road/gravel style, head to toe. The o
 - Gorewear Spinshift Gortex Men's Jacket (M)
 - Gorewear Fernflow hooded windbreaker (M)
 - Patagonia Nano-Air puffy jacket (not hoody)
-- Merino.tech Merino Wool T-Shirt Mens - 100% Organic Merino Wool Undershirt Lightweight Base Layer and Hiking Socks
-- Patagonia wicking long sleeve
+- Merino.tech merino wool t-shirt
+- Arm warmers
 - NeoPro or YKYWBIKE sleeveless quick-dry undershirt
 - Garmin heart rate monitor
 ## Hands
