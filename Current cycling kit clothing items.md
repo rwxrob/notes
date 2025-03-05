@@ -48,15 +48,20 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 - Bar Mitts handlebar mittensm(<6C)
 - Showers Pass Cross Point waterproof knit wool touchscreen gloves (<10C)
 - Velotoze feather weight gloves (>10C or sunguard)
+
+## Legs
 # Feet
 
-- Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain)
-- Specialized Torch 2 road shoes (42) (>14C)
+- Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain, all-road)
+- Specialized Torch 2 road shoes (42) (>14C, all-road)
+- Giro Privateer cace cycling shoes (mtb)
 - Hollow boot alpaca socks (<10C)
 - Merino.tech winter merino wool socks (<14C)
 - NeoPro or Swiftek wicking socks (>14C)
-- Rockbros thermal toe covers (>14C, <)
-- Thinvik bike cleat covers
+- Rockbros thermal toe covers (>14C, <18C)
+- Thinvik bike cleat covers (packed, long walking or risk of long walking)
+- Xero Z-Trek minimal sandals (packed, high probability of walking)
+- Altair light-weight running shoes (packed, high probability of bike and hike)
 
 
 
