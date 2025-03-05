@@ -1,13 +1,13 @@
-Here's my preferred cycling kit for my all-road/gravel style, head to toe. This gear covers every temperature and condition in which I'm willing to ride:
+Here's my current preferred cycling kit for all my cycling, head to toe. I prefer a gravel-meets-urban style so I look reasonably normal on or off the bike. This gear covers every weather condition in which I'm willing to ride including the following:
 
 - Torrential, sudden downpours, afternoon NC thunderstorms (usually warm)
-- 4 C (40 F) (never, ever below freezing)
-- 36 C (98 F)
+- 4 C (40 F) low
+- 36 C (98 F) high
 
-Anything weather situation beyond this is something I just won't ride. The amount of effort to stay alive—let alone actually enjoy the ride—beyond these extremes is just not work the effort. I'll just hop on the indoor trainer instead (or bail if on a group or organized ride). Any ride organizer would definitely agree.
+Any weather situation beyond this is something I just won't ride. The amount of effort to stay alive, let alone actually enjoy the ride, beyond these extremes is just not work the effort. I'll just hop on the indoor trainer instead (or bail if on a group or organized ride). Any ride organizer would definitely agree.
 
 > [!Spandex city]
-> There's no Spandex or Lycra kit here. I do have it (mostly NeoPro and even a bit of Le Col that I just cannot part with) but I only want to dress like a 50s super hero when going for Strava KOM hunting when I'm in peak cycling shape. I HATE how lycra/spandex looks. Too many MAMILs out there that should never wear it. Here's a free tip, lose 10 kilos *before* "getting aero" and you'll get faster. You look ridiculous.
+> There's no Spandex or Lycra kit here. I do have it (mostly NeoPro and even a bit of Le Col that I just cannot part with) but I only want to dress like a 50s super hero when going Strava KOM hunting when I'm in peak cycling shape. Too many MAMILs out there that should never wear it. Here's a free tip: lose 10 kilos *before* "getting aero" and you'll get faster. You look ridiculous.
 
 ## Head
 
