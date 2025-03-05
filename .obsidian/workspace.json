@@ -308,12 +308,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current cycling kit pieces.md",
+                "file": "Current cycling kit layer clothing items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current cycling kit pieces"
+              "title": "Current cycling kit layer clothing items"
             }
           }
         ],
@@ -470,10 +470,10 @@
   },
   "active": "6252884f164f2aca",
   "lastOpenFiles": [
-    "Cycling goals.md",
-    "Current cycling kit pieces.md",
-    "Clothing kit by weather app startup idea.md",
     "Get Gorewear Fernflow instead of Spinshift windbreaker.md",
+    "Current cycling kit layer clothing items.md",
+    "Cycling goals.md",
+    "Clothing kit by weather app startup idea.md",
     "QR code to links.md",
     "qr-code.png",
     "qr-rwxrob-fun.svg",
