@@ -28,7 +28,9 @@ The waterproof helmet cover is a super simple and light solution to torrential t
 - Basic light arm warmers
 - NeoPro or YKYWBIKE sleeveless quick-dry undershirt
 - Garmin heart rate monitor
-- USWE Outlander Pro 2 with 
+- USWE Outlander Pro 2 pack with NDM 1 Action Camera harness
+
+The pack with the camera gear in provides a lot of core warmth since it covers most of my chest and upper back. I can usually get away with a t-shirt under it with arm warmers or just a synthetic flannel gravel shirt. For information on the livestreaming kit see other notes.
 ## Hands
 
 - Bar Mitts handlebar mittens
