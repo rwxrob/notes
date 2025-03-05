@@ -1,4 +1,4 @@
-Here's my current preferred cycling kit for all my cycling, head to toe. I prefer a gravel-meets-urban style so I look reasonably normal on or off the bike. This gear covers every weather condition in which I'm willing to ride including the following:
+Here's my current preferred cycling kit for all my cycling, head to toe. I prefer a gravel-meets-urban style so I look reasonably normal on or off the bike. The main criteria can be summarized into, "What do I need for NC Mountains to Coast?" This gear covers every weather condition in which I'm willing to ride including the following:
 
 - Torrential, sudden downpours, afternoon NC thunderstorms (usually warm)
 - 4 C (40 F) low
@@ -30,13 +30,11 @@ I once tried a full-face helmet for MTB riding, but that was a waste. I just cha
 The waterproof helmet cover is a super simple and light solution to torrential thunderstorm downpours. It keeps the sometimes cotton hat from completely soaking through and making it impossible to see because of all the water dripping in my eyes.
 ## Torso
 
-
-
 - Gorewear Spinshift Gortex Men's Jacket (M)
 - Gorewear Fernflow hooded windbreaker (M)
 - Patagonia Nano-Air puffy jacket (not hoody)
-- Hurley cotton/poly flannel long-sleeve shirt
-- Club Ride Go Long western long-sleeve
+- Hurley cotton/poly flannel long-sleeve shirt (10-14C)
+- Club Ride Go Long western long-sleeve (14C)
 - Merino.tech merino wool tee(s)
 - Zengjo light-weight tech tee(s)
 - Basic light arm warmers
