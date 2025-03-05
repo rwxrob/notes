@@ -24,10 +24,11 @@ The waterproof helmet cover is a super simple and light solution to torrential t
 - Gorewear Spinshift Gortex Men's Jacket (M)
 - Gorewear Fernflow hooded windbreaker (M)
 - Patagonia Nano-Air puffy jacket (not hoody)
+- Hurley flannel long-sleeve shirt
 - Merino.tech merino wool tee(s)
 - Zengjo light-weight tech tee(s)
 - Basic light arm warmers
-- NeoPro or YKYWBIKE sleeveless quick-dry undershirt
+- NeoPro or YKYWBIKE sleeveless quick-dry undershirt(s)
 - Garmin heart rate monitor
 - USWE Outlander Pro 2 pack with NDM 1 Action Camera harness
 
@@ -37,4 +38,9 @@ The pack with the camera gear in provides a lot of core warmth since it covers m
 - Bar Mitts handlebar mittens
 - Showers Pass Cross Point waterproof knit wool touchscreen gloves
 - Velotoze feather weight gloves
+
+# Feet
+
+- Lake CX146 winter road shoes (43, 1 size bigger)
+- Specialized Torch 
 
