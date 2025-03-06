@@ -1,9 +1,0 @@
-Middle-Age Men In Lycra. The type of person who thinks stuffing their fat asses into clothes that shows every ounce of adipose tissue somehow makes them better. It doesn't. It makes them look like total fools and makes the rest of the world laugh their asses off at our favorite past-time.
-
-Some have suggested stuffing oneself into a colorful candy bar wrapper somehow gets a person into the "mind set" of a cyclist so that they identify with it and want to do it more, like getting new shoes makes you want to run or think you are somehow faster. "Look mom at how fast I am in these new shoes!" (I certainly did that.) This is part of the whole "I AM A _CYCLIST_" bullshit.
-
-You can like bikes and even be fit and still be really overweight. That would be me for a good chunk of my life—especially as I age. It doesn't mean I have to burn everyone's eyes out with erect man-boob nipples poking through my 80s jazzercise outfit. I also don't wear white cotton tees on marathons and leave streaks of blood for everyone to see.
-
-I'm #2 overall on Cornelius Bandit segment and I did it with a gut hanging over my baggy Prana pants waistband in my baggy Hurley collared gravel shirt. It wasn't because this is an obscure segment either. It's because I kicked ass in baggy clothes. The amount of aero savings for almost every single style of riding and event is minuscule compared the the speed increase from even a half kilo less weight. So spend time losing the weight and then if and when you enter an event that calls for a bunch of super heros in Spandex
-
-My god people.
