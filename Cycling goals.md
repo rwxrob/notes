@@ -1,11 +1,12 @@
 I always do better with a goal. I've had cycling goals for most of my life and it has done a lot to keep me motivated. My goal has always been to be a podium finisher in my age group. These days the only difference is I don't care much about any competition that isn't eSports bike racing which I can do for the rest of my life. More than half the esports competitors I race against are over the age of 50—and a significant number are over 70! These bad-ass seniors remind me there's absolutely no excuse not to go for it. This is a fitness goal I can hold onto forever and really enjoy. Who gives a shit if 95% of the rest of the people my age have given up. Not me (and not Doris).
 
 * [Esports racing is more fair and balanced](Esports%20racing%20is%20more%20fair%20and%20balanced.md)
+## Train outdoors
 
-## Stay outdoors
+By biggest goal is to keep myself outside at much as possible. If I'm honest, the idea of competing indoors on a trainer makes me seriously claustrophobic. I always go through these phases every year. When Spring approaches I start hating being indoors, then later when it gets really cold and rainy in November I start to hate training outdoors and prefer being nice and cozy inside even though I've made my own studded snow tires before to keep outside in the absolute worst conditions. Living in NC means I could really just train outdoors all year round without any major problems. I'm not going to say _only_ outdoors—for now—but maybe one day once I get my outdoor kit really dialed in. It is certainly easier to get a longer ride in outside than inside even if indoor training helps hit consistent zones better.
+## Race indoors
 
-By biggest goal is to keep myself outside at much as possible. If I'm honest, the idea of competing indoors on a trainer my
-
+For the most part the only place I will be doing any racing is indoors. It's just safer—especially at my age. When the occasional race outside comes along perhaps I will also do that. But only if something really good comes along and probably in the Gran Fondo category.
 ## 3.0 W/kg Zone 2
 
 I know that sounds like a lot—especially for an old guy like me—but I want to dream big here.
