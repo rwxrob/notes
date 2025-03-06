@@ -1,0 +1,1 @@
+Middle-Age Men In Lycra. The type of person who thinks stuffing their fat asses into clothes that show every ounce of adipose tissue somehow makes them better. It doesn't. It makes them look like total fools and makes the rest of the world laugh their asses off at our
