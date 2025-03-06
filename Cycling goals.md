@@ -2,10 +2,13 @@ I always do better with a goal. I've had cycling goals for most of my life and i
 
 * [Esports racing is more fair and balanced](Esports%20racing%20is%20more%20fair%20and%20balanced.md)
 
+## Stay outdoors
+
+By biggest goal is to keep myself outside at much as possible. If I'm honest, the idea of competing indoors on a trainer my
+
 ## 3.0 W/kg Zone 2
 
-To pull off consistent wins against an international field of eSports competitors I'm going to need to reach 4.0 W/kg. I know that sounds like a lot—especially for an old guy like me—but I want to dream big here.
-
+I know that sounds like a lot—especially for an old guy like me—but I want to dream big here.
 ## Sprinter focus
 
 At 174 cm (Mark Cavendish is 175) and with my tendency to put on muscle easily—especially in my legs, and with my shorter leg length (which I got from my dad) I believe I have the best chance at building a sprinter body. Sprinters don't go under 72 kg usually meaning it will be easier to maintain. Sprinters also keep around the most muscle over time so it is good to fight off sarcopenia as I age, "build a booty" as my Yoga instructor used to say if you want to have a high-quality senior life. 
@@ -22,9 +25,9 @@ Sprinting also pairs well with mountain bike roller-coaster riding, which I abso
 
 ## Weight: 70
 
-To have any chance of hitting 4.0 W/kg I have to get my weight down to 70 kilos. This is the weight Mark Cavendish maintained for his 30 TdF stage wins over his career and he's 175cm.
+To have any chance of hitting 3.0 W/kg I have to get my weight down to 70 kilos. This is the weight Mark Cavendish maintained for his 30 TdF stage wins over his career and he's 175cm.
 
-I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take 1.5 years. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May. What I absolutely _don't_ want to do is blow my muscle mass and fitness by not eating enough (like Tadaj Podachar).
+I managed to get to 77 last year and then completely blew it. At 0.25 kilos per week loss that will take a year. I think anything more than that is far too aggressive to still enjoy life—especially at my age. I'm not in a huge hurry—although I would like to *not* be in the "overweight" BMI category by May. What I absolutely _don't_ want to do is blow my muscle mass and fitness by not eating enough (like Tadaj Podachar).
 
 The biggest lifestyle change is just eating more plant-based foods that are nutrient dense and have low caloric density. One big reminder I've had recently is that even easily digestible complex carbs like those in white rice and—my favorite—plain waffles are far less dense in calories than fat, alcohol, meat, and simple carbs. Same is true of red and green lentils.
 
