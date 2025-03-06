@@ -1,1 +1,5 @@
-Middle-Age Men In Lycra. The type of person who thinks stuffing their fat asses into clothes that show every ounce of adipose tissue somehow makes them better. It doesn't. It makes them look like total fools and makes the rest of the world laugh their asses off at our
+Middle-Age Men In Lycra. The type of person who thinks stuffing their fat asses into clothes that shows every ounce of adipose tissue somehow makes them better. It doesn't. It makes them look like total fools and makes the rest of the world laugh their asses off at our favorite past-time.
+
+Some have suggested stuffing oneself into a colorful candy bar wrapper somehow gets a person into the "mind set" of a cyclist so that they identify with it and want to do it more, like getting new shoes makes you want to run or think you are somehow faster. "Look mom at how fast I am in these new shoes!" (I certainly did that.) This is part of the whole "I AM A _CYCLIST_" bullshit.
+
+You can like bikes and even be fit and still be really overweight. That would be me for a lot of my life. It doesn't mean I have to burn everyone else's eyes out with the erect nipples of my man-boobs poking through an 80s jazzercise outfit. I also don't wear white cotton tees on marathons and bleed out all over
