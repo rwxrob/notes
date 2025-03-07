@@ -350,16 +350,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling goals.md",
+                "file": "Current cycling kit clothing items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling goals"
+              "title": "Current cycling kit clothing items"
+            }
+          },
+          {
+            "id": "c0aba8b71f5eb4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lycra takes off 30 watts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lycra takes off 30 watts"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -510,15 +524,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "946b43925d503570",
+  "active": "c0aba8b71f5eb4b7",
   "lastOpenFiles": [
     "Current cycling kit clothing items.md",
+    "Lycra takes off 30 watts.md",
+    "Cycling goals.md",
     "MAMIL - Middle-Age Men In Lycra.md",
     "I want 160mm crank arm length.md",
     "Winter shoes Lake CX146.md",
     "Casual, off-bike clothes, overnight cycling adventures.md",
     "Get Gorewear Fernflow instead of Spinshift windbreaker.md",
-    "Cycling goals.md",
     "Clothing kit by weather app startup idea.md",
     "QR code to links.md",
     "qr-code.png",
@@ -540,7 +555,6 @@
     "Bike kit by weather.md",
     "2025 NC Mountains to Coast Ride.md",
     "Shoe size.md",
-    "Dustin Klein stopped making videos.md",
     "Search titles with GitHub.png",
     "obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
