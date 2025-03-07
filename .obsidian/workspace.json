@@ -385,9 +385,23 @@
               "icon": "lucide-file",
               "title": "Wheel-set wish list"
             }
+          },
+          {
+            "id": "0acc84a1cb92b42e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Perfect bike collection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Perfect bike collection"
+            }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -538,10 +552,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "527f63e8fff662f0",
+  "active": "0acc84a1cb92b42e",
   "lastOpenFiles": [
-    "Lycra takes off 20-70 watts.md",
     "Wheel-set wish list.md",
+    "Perfect bike collection.md",
+    "Lycra takes off 20-70 watts.md",
     "Gravel-meets-urban cycling kit clothing items.md",
     "Cycling goals.md",
     "MAMIL - Middle-Age Men In Lycra.md",
@@ -568,7 +583,6 @@
     "Bikepacking isn't fun.md",
     "Esports racing is more fair and balanced.md",
     "Bike kit by weather.md",
-    "2025 NC Mountains to Coast Ride.md",
     "Search titles with GitHub.png",
     "obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
