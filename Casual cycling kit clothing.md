@@ -7,7 +7,7 @@ Here's my current preferred cycling kit for almost all of my cycling, head to to
 Any weather situation beyond this is something I just won't ride. The amount of effort to stay alive, let alone actually enjoy the ride, beyond these extremes is just not worth the effort. I'll just hop on the indoor trainer instead (or bail if on a group or organized ride). Any ride organizer would definitely agree.
 
 > [!Spandex city]
-> You won't find any cringy bulging Spandex or Lycra no me most days. I do own it (mostly NeoPro and even a bit of Le Col) but I only want to dress like a 50s Spandex super hero when going Strava KOM hunting when I'm in peak cycling shape. Too many MAMILs out there that should never wear it. Here's a free tip: lose 10 kilos *before* "getting aero" and you'll get faster. You look ridiculous.
+> You won't find any cringy bulging Spandex or Lycra on me most days. I do own it (mostly NeoPro and even a bit of Le Col) but I only want to dress like a 50s Spandex super hero when going Strava KOM hunting when I'm in peak cycling shape. Too many MAMILs out there that should never wear it. Here's a free tip: lose 10 kilos *before* "getting aero" and you'll get faster. You look ridiculous.
 
 - [MAMIL - Middle-Age Men In Lycra](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md)
 - [Style of riding](Style%20of%20riding.md)
@@ -62,7 +62,7 @@ The science says that erroring on the side of warm legs, not cold, is overall be
 - ExOfficio Give-N-Go Sport Mesh 9" boxer brief
 
 > [!No Pad]
-> Like many pros and ultra-endurance athletes, I don't do padded shorts. They cause abrasions and numbness and are nearly impossible to keep clean. I just make sure to ride daily to stay adapted to my Trek endurance saddle that matches my ergonomics (yes, even on the long days).
+> Like many pros and ultra-endurance athletes, I don't do usually do padded shorts. They cause abrasions and numbness and are nearly impossible to keep clean. I just make sure to ride daily to stay adapted to my Trek endurance saddle that matches my ergonomics (yes, even on the long days).
 # Feet
 
 - Lake CX146 winter road shoes (43, 1 size bigger) (<14C or >50% chance of rain, all-road)
