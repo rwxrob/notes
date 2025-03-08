@@ -420,12 +420,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annual bike events.md",
+                "file": "Wheel-set wish list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annual bike events"
+              "title": "Wheel-set wish list"
             }
           }
         ],
@@ -582,8 +582,8 @@
   },
   "active": "a91a52b3f4accc0e",
   "lastOpenFiles": [
-    "Casual cycling kit clothing.md",
     "Annual bike events.md",
+    "Casual cycling kit clothing.md",
     "Bike kit by weather.md",
     "Wheel-set wish list.md",
     "Style of riding.md",
