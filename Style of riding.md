@@ -1,4 +1,4 @@
-I am a former skater, wannabe bike messenger,  former crit racer and triathlete with a gravel spirit at heart. This means I prefer most riding on the road geeking out about performance and fitness while trying not to *look like* I'm geeking out about KOMs and performance. I absolutely hate the look of lycra but will put it on occasionally to save those watts and get those PRs.
+I am a former skater, wannabe bike messenger,  former crit racer, and triathlete with a gravel spirit at heart. This means I prefer most riding on the road geeking out about performance and fitness while trying not to *look like* I'm geeking out about it. I absolutely hate the look of lycra but will put it on occasionally to save those watts and get those PRs—if and only if I'm in peak physical shape and there's nothing left slowing me down but my clothes and wheels.
 
 - [Lycra takes off 20-70 watts](Lycra%20takes%20off%2020-70%20watts.md)
 
@@ -18,8 +18,8 @@ My goal is to get comfortable riding in everything and anything that isn't pouri
 
 Most of my rides are in NC with lots of relatively short intense hills combined with flat riding. 
 
-- My Daily Goblin 
-- Lake Norman Fondo - a little of every
+- Goblin  - punchy short climbs, long fast climbs, long descents, flat
+- Lake Norman Fondo - (same as Goblin)
 - NC Mountains to Coast - rolling hills with overall average descent the whole way
 
-I have no interest in ever doing Assault on Mt. Mitchell after seeing how poorly it is organized and secured which means I don't have to fret about the long-climb fondo stuff at all.
+I have no interest in ever doing Assault on Mt. Mitchell after reconning it and seeing how poorly it is organized and just plain unsafe (with a record of horrible crashes including a dog attack) which means I don't have to fret about the long-climb fondo stuff at all. I'd much rather sprint up short hills because that is what I do every day.
