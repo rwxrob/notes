@@ -461,7 +461,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hour",
+                "query": "live",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -482,7 +482,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -580,7 +581,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a91a52b3f4accc0e",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "202503081708.md",
     "2025-03-08.md",
