@@ -7,8 +7,13 @@ I've collected what I think is a perfect bike collection for someone like me who
 | Trails                 | Trek Roscoe 8          | Yes  |
 | Long haul              | Salsa Marrakesh        | Yes  |
 | Urban trekking         | Ghost Square           | Yes  |
+| Fixie                  | ???                    | No   |
 
-The SL 5 is double the price of the AL 5 and only weights 830 grams less. Hell, if I cared that much about weight I would just bring one less water bottle or lose an extra kilo. It's not worth the cost. Besides putting that savings into better wheels will go a lot farther toward speed increases.
+## No carbon frames
+
+Carbon frames are super fragile and ridiculously overpriced for the benefit they provide. Consider that the Domane SL 5 Gen 4 is *double* the price of the AL 5 and only weights 830 grams less. Hell, if I cared that much about one kilo of weight I would lose an extra kilo of body weight or just get a super light wheel-set.
+
+It's not worth the cost. Besides putting that savings into better wheels will go a lot farther toward speed increases.
 
 ## Why no gravel bike?
 
