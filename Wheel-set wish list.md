@@ -5,4 +5,4 @@ Eventually, I'm going to get the best all-around wheel-set money can buy. These 
 - Roval Rapide CLX II 
 - Continental Grand Prix 5000 S TR 28c
 
-I'm rewarding myself with these as soon I reach some fitness goals. They are kind of a waste before that. That way I have something to work for, sort of like a Zwift challenge for real. At that point my 
+I'm rewarding myself with these as soon I reach my [cycling goals](Cycling%20goals.md) (which will take about a year). Paying $3000 for wheels is kind of a waste before that. That way I have something to work for, sort of like a Zwift challenge but for real. Once my fitness and skills are back up to snuff, the single biggest thing slowing me down will be my clothes and wheels.
