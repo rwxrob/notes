@@ -13,9 +13,10 @@ I've collected what I think is a perfect bike collection for someone like me who
 Carbon frames are super fragile and ridiculously overpriced for the benefit they provide. Just one spill—even just from leaning it wrong—and they are done. That type of fragility does not inspire confidence. Consider that the Domane SL 5 Gen 4 is exactly *double* the price of the AL 5 and only weights 830 grams less. That's $2.50 per gram. The alloy means I could drop it from a truck and have the frame land wrong on a rock and still be fine. 
 
 Hell, if I cared that much about one kilo of weight I would lose an extra kilo of body weight, wear lighter clothing, not carry a light, or just get a better  wheel-set. After all, I'm working to become more of a sprinter than GC-er or climber.
+## Kick ass road wheels
 
-
-## Why no gravel bike?
+My Trek Domane can 
+## No gravel bike?
 
 Notice there is no "gravel" bike here. Most "gravel" riding that I would do is really just XC MTB riding that is better on a hardtail. Hell, Unbound had everyone running 2.1" MTB tires (which turn out to be faster than all their skinnier predecessors) and full (albeit light) suspension on their drop-bar "gravel" bikes. Just call it cross country already! Tour Divide has been won every year on an XC MTB bike.
 
