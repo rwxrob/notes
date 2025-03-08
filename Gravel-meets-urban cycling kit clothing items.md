@@ -1,7 +1,7 @@
 Here's my current preferred cycling kit for almost all of my cycling, head to toe. I prefer a gravel-meets-urban style so I look reasonably normal on or off the bike. The main criteria can be summarized into, "What do I need for daily urban livestreaming and NC Mountains to Coast?" This gear covers every weather condition in which I'm willing to ride including the following:
 
 - Torrential, sudden downpours, afternoon NC thunderstorms (usually warm)
-- 4 C (40 F) low
+- 4 C (39 F) low (lowest rating for most thermal tights)
 - 36 C (98 F) high
 
 Any weather situation beyond this is something I just won't ride. The amount of effort to stay alive, let alone actually enjoy the ride, beyond these extremes is just not worth the effort. I'll just hop on the indoor trainer instead (or bail if on a group or organized ride). Any ride organizer would definitely agree.
