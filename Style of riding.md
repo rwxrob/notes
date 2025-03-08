@@ -1,4 +1,4 @@
-I am a former skater, wannabe bike messenger,  former crit racer and triathlete with a gravel spirit at heart. This means I prefer most riding on the road geeking out about performance and fitness while trying not to *look like* I'm geeking out about KOMs and performance. I absolutely hate the look of lycra but will put it on occasionally to save those watts.
+I am a former skater, wannabe bike messenger,  former crit racer and triathlete with a gravel spirit at heart. This means I prefer most riding on the road geeking out about performance and fitness while trying not to *look like* I'm geeking out about KOMs and performance. I absolutely hate the look of lycra but will put it on occasionally to save those watts and 
 
 - [Lycra takes off 20-70 watts](Lycra%20takes%20off%2020-70%20watts.md)
 
