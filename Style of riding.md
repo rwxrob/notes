@@ -10,6 +10,16 @@ However, I also want very high-performing power output from my pedals and gearin
 
 For me gravel and trails are a means to an end: to ride in *zero traffic*, to get as close to Zwift in the real world as possible where the roads are dedicated to cyclists.
 
-## When?
+## When
 
 My goal is to get comfortable riding in everything and anything that isn't pouring rain. Light showers should be fine. This is mostly because I live stream and it just isn't as easy in heavy rain.
+
+## What
+
+Most of my rides are in NC with lots of relatively short intense hills combined with flat riding. 
+
+- My Daily Goblin 
+- Lake Norman Fondo - a little of every
+- NC Mountains to Coast - rolling hills with overall average descent the whole way
+
+I have no interest in ever doing Assault on Mt. Mitchell after seeing how poorly it is organized and secured which means I don't have to fret about the long-climb fondo stuff at all.
