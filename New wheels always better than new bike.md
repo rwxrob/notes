@@ -1,5 +1,10 @@
+I've noticed that most age-groupers and club riders—even those who seem to have a lot of money to burn—don't seem to upgrade their wheels. Most just buy the highest end bike and keep the wheels it has. That's fine for most rich casuals. 
 
-Speaking of wheel-sets. I've noticed that most age-groupers and club riders—even those who seem to have a lot of money to burn—don't see to upgrade their wheels. Most just buy the highest end bike in the place and keep the wheels it has. It takes a true connoisseur to recognize the value of a cheaper frame with a best-of-breed wheel-set like the Roval CLX II line. In other words, my top-of-the-low-end $2000 Domane AL with a $3000 wheel-set will almost always dominate over a stock "high end" bike that most rich casuals usually buy.
+Anyone who has played around with racing or competition in any way over the years will know, however, that buying the best wheels possible for the job is the single biggest speed boost you can buy for the money.
+
+For example, the $3000 Specialized Roval Rapide CLX II wheel-set, which dominates the world at every level of pro cycling, will do more for my speed on my top-of-the-low-end $2000 Domane AL than upgrading all the way to the top of the carbon frame list.
+
+with a $3000 wheel-set will almost always dominate over a stock "high end" bike that most rich casuals usually buy.
 
 The all-around Roval Rapide CLX II is 1520g compared to 1265g for Alpinist CLX II, 255g difference).
 
