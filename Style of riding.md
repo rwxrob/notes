@@ -21,5 +21,6 @@ Most of my rides are in NC with lots of relatively short intense hills combined 
 - Goblin  - punchy short climbs, long fast climbs, long descents, flat
 - Lake Norman Fondo - (same as Goblin)
 - NC Mountains to Coast - rolling hills with overall average descent the whole way
+- [Annual bike events](Annual%20bike%20events.md)
 
 I have no interest in ever doing Assault on Mt. Mitchell after reconning it and seeing how poorly it is organized and just plain unsafe (with a record of horrible crashes including a dog attack) which means I don't have to fret about the long-climb fondo stuff at all. I'd much rather sprint up short hills because that is what I do every day.
