@@ -10,6 +10,7 @@ Any weather situation beyond this is something I just won't ride. The amount of 
 > You won't find any cringy bulging Spandex or Lycra no me most days. I do own it (mostly NeoPro and even a bit of Le Col) but I only want to dress like a 50s Spandex super hero when going Strava KOM hunting when I'm in peak cycling shape. Too many MAMILs out there that should never wear it. Here's a free tip: lose 10 kilos *before* "getting aero" and you'll get faster. You look ridiculous.
 
 - [MAMIL - Middle-Age Men In Lycra](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md)
+- [Style of riding](Style%20of%20riding.md)
 ## Head
 
 Getting headwear right is crucial. Temperature regulation really works through the scalp and mine is bald. Too hot of a head and everything else sweats through. Too cold and my hands and feet freeze, which reminds me of the old "if you want warm feet put on a hat adage from skiing days."
