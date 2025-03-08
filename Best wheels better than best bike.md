@@ -4,7 +4,9 @@ I've noticed that most age-groupers and club riders—even those who seem to hav
 
 I'll never forget when I bought carbon aero wheels for my Specialized Allez back in the 90s. It cost me $900 but oh my god. The difference was immediately obvious. Now I'm looking forward to doing that with my Trek Domane, but the cost of wheels has really gone up.
 
-For example, the $3000 Specialized Roval Rapide CLX II wheel-set, which dominates the world of pro cycling, will do more for my speed on my top-of-the-low-end $2000 Domane AL than upgrading all the way to the top of the carbon frame list. Sure this wheel-set costs $1000 *more* than my new bike, but it will be so worth it.
+For example, the $3000 Specialized Roval Rapide CLX II wheel-set, which dominates the world of pro cycling, would do more for my speed on my top-of-the-low-end $2000 Domane AL than upgrading all the way to the top of the carbon frame list. Sure this wheel-set costs $1000 *more* than my new bike, but it will be so worth it.
+
+- [Wheel-set wish list](Wheel-set%20wish%20list.md)
 
 For starters, the ultra cheap and heavy Bontrager Paradigm SL with cheaper hubs, spokes, and tires that come on my Domane AL are absolutely perfect to run 38c winter all-road training tires. I can beat them up and never worry about them. Then, when I'm hunting KOMs or age-group podiums I can put on the Rapides and the Lycra superhero power ranger suit and make crazy huge gains in raw speed, even in the wind or with the usual intense rolling hills here in Lake Norman.
 
