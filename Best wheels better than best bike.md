@@ -9,11 +9,3 @@ For example, the $3000 Specialized Roval Rapide CLX II wheel-set, which dominate
 - [Wheel-set wish list](Wheel-set%20wish%20list.md)
 
 For starters, the ultra cheap and heavy Bontrager Paradigm SL with cheaper hubs, spokes, and tires that come on my Domane AL are absolutely perfect to run 38c winter all-road training tires. I can beat them up and never worry about them. Then, when I'm hunting KOMs or age-group podiums I can put on the Rapides and the Lycra superhero power ranger suit and make crazy huge gains in raw speed, even in the wind or with the usual intense rolling hills here in Lake Norman.
-
-
-
-
-
-
-
-By the way the all-around Roval Rapide CLX II is 1520g compared to 1265g for Alpinist CLX II, only 255g difference.
