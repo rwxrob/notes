@@ -14,4 +14,4 @@ The SL 5 is double the price of the AL 5 and only weights 830 grams less. Hell, 
 
 Notice there is no "gravel" bike here. Most "gravel" riding is really just XC MTB riding that is better on a hardtail. Hell, Unbound had everyone running 2.1" MTB tires and full (albeit light) suspension on their drop-bar "gravel" bikes. Just call it cross country already!
 
-When an XC bike seems like overkill and slows me down the all-road Domane running my default 38c Maxxis Ramblers is better than most gravel bikes—especially with the much better gearing breadth and depth. I drop most people riding gravel bikes on most gravel rides with light gravel but intense hills. The key is picking the right routes.
+When an XC bike seems like overkill and slows me down the all-road Domane running 38c Maxxis Ramblers is better than most gravel bikes—especially with the much better gearing breadth and depth. I drop most people riding gravel bikes on most gravel rides with light gravel but intense hills. The key is picking the right routes.
