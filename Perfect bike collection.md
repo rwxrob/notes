@@ -8,13 +8,14 @@ I've collected what I think is a perfect bike collection for someone like me who
 | Long haul              | Salsa Marrakesh        | Yes  |
 | Urban trekking         | Ghost Square           | Yes  |
 | Fixie                  | ???                    | No   |
-
 ## No carbon frames
 
-Carbon frames are super fragile and ridiculously overpriced for the benefit they provide. Just one spill—even just from leaning it wrong—and they are done. That type of fragility does not inspire confidence. Consider that the Domane SL 5 Gen 4 is exactly *double* the price of the AL 5 and only weights 830 grams less but could be dropped from a truck and have the frame land wrong on a rock and still be fine. Hell, if I cared that much about one kilo of weight I would lose an extra kilo of body weight or just get a better  wheel-set.
+Carbon frames are super fragile and ridiculously overpriced for the benefit they provide. Just one spill—even just from leaning it wrong—and they are done. That type of fragility does not inspire confidence. Consider that the Domane SL 5 Gen 4 is exactly *double* the price of the AL 5 and only weights 830 grams less. The alloy means I could drop it from a truck and have the frame land wrong on a rock and still be fine. 
+
+Hell, if I cared that much about one kilo of weight I would lose an extra kilo of body weight or just get a better  wheel-set.
 ## Carbon road wheels
 
-Speaking of wheel-sets. I've noticed that most age-groupers and club riders—even those who seem to have a lot of 
+Speaking of wheel-sets. I've noticed that most age-groupers and club riders—even those who seem to have a lot of money to burn—don't see to upgrade their wheels. Most just buy the highest end bike in the place and keep the wheels it has. It takes a true connoisseur to recognize the value of a cheaper frame with a best-of-breed wheel-set like the Roval CLX II line. In other words, my top-of-the-low-end $2000 Domane AL with a $3000 wheel-set will almost always dominate over a stock "high end" bike that most rich casuals usually buy.
 
 The all-around Roval Rapide CLX II is 1520g compared to 1265g for Alpinist CLX II, 255g difference).
 
