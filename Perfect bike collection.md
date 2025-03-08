@@ -11,7 +11,12 @@ I've collected what I think is a perfect bike collection for someone like me who
 
 ## No carbon frames
 
-Carbon frames are super fragile and ridiculously overpriced for the benefit they provide. Consider that the Domane SL 5 Gen 4 is *double* the price of the AL 5 and only weights 830 grams less. Hell, if I cared that much about one kilo of weight I would lose an extra kilo of body weight or just get a better  wheel-set (all-around Roval Rapide CLX II is 1520g compared to 1,265g for Alpinist CLX II, ).
+Carbon frames are super fragile and ridiculously overpriced for the benefit they provide. Just one spill—even just from leaning it wrong—and they are done. That type of fragility does not inspire confidence. Consider that the Domane SL 5 Gen 4 is exactly *double* the price of the AL 5 and only weights 830 grams less but could be dropped from a truck and have the frame land wrong on a rock and still be fine. Hell, if I cared that much about one kilo of weight I would lose an extra kilo of body weight or just get a better  wheel-set.
+## Carbon road wheels
+
+Speaking of wheel-sets. I've noticed that most age-groupers and club riders—even those who seem to have a lot of 
+
+The all-around Roval Rapide CLX II is 1520g compared to 1265g for Alpinist CLX II, 255g difference).
 
 It's not worth the cost. Besides putting that savings into better wheels will go a lot farther toward speed increases.
 
