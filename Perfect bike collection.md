@@ -10,4 +10,8 @@ I've collected what I think is a perfect bike collection for someone like me who
 
 The SL 5 is double the price of the AL 5 and only weights 830 grams less. Hell, if I cared that much about weight I would just bring one less water bottle or lose an extra kilo. It's not worth the cost. Besides putting that savings into better wheels will go a lot farther toward speed increases.
 
-Notice there is no "gravel bike" here. Most "gravel" riding is really just XC MTB riding that is better on the hardtail. Otherwiws
+## Why no gravel bike?
+
+Notice there is no "gravel" bike here. Most "gravel" riding is really just XC MTB riding that is better on a hardtail. Hell, Unbound had everyone running 2.1" MTB tires and full (albeit light) suspension on their drop-bar "gravel" bikes. Just call it cross country already!
+
+When an XC bike seems like overkill and slows me down the all-road Domane running my default 38c Maxxis Ramblers is better than most gravel bikes—especially with the much better gearing breadth and depth. I drop most people riding gravel bikes on most gravel rides with light gravel but intense hills. The key is picking the right routes.
