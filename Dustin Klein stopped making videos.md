@@ -1,1 +1,0 @@
-That's right, probably my favorite YouTuber on the planet finally realized that creating videos is taking him out of the moment way too much.

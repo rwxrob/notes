@@ -1,4 +1,3 @@
-I've collected what I think is a perfect bike collection for someone like me who wants above average amateur performance without breaking the bank and worrying too much about things wearing down or getting stolen.
 
 | Use                    | Bike                   | Pedals | Have |
 | ---------------------- | ---------------------- | ------ | ---- |

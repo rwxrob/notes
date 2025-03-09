@@ -1,5 +1,0 @@
-One thing 40 years of cycling has taught me is that bike racing is never fair. There are always those who have the cheapest equipment and those with pro gear and full support teams. We won't even include all the expensive methods to cheat that Lance Armstrong infamously used.
-
-Esports might not be able to do anything about the cheaters but it does level the playing field completely when it comes to pay-to-win disparities. I absolutely love that. Sure people will have bikes that register more power than others and shoes that transfer power better, but on the whole this disparity is a fraction of that in the real world of bike racing across the board—especially for regular people.
-
-I've heard some of the worst examples of human behavior ever said within a "pro" peloton and been nearly forced off course before. Esports racing  removes these peloton bullies completely. Some might think this makes the competition somehow less real or interesting. I disagree.  Shut your mouth and show me the watts, asshole.

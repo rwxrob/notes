@@ -1,1 +1,0 @@
-Just a reminder to _never_ buy a new Gorwear Spinshift windbreaker because of the bad, one-way zipper. Get the Fernflow Hooded instead that comes with two-way zipper, hood, and better pockets.
