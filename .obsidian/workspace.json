@@ -404,12 +404,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling goals.md",
+                "file": "Bikes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling goals"
+              "title": "Bikes"
             }
           }
         ],
@@ -566,6 +566,7 @@
   },
   "active": "a91a52b3f4accc0e",
   "lastOpenFiles": [
+    "Cycling goals.md",
     "I want 160mm crank arm length.md",
     "dtswiss-arc-1100.jpg",
     "Wheel-set wish list.md",
@@ -580,7 +581,6 @@
     "202503081708.md",
     "Bike kit by weather.md",
     "Wheelset Enve SES 4.5.md",
-    "Cycling goals.md",
     "Winter shoes Lake CX146.md",
     "Casual, off-bike clothes, overnight cycling adventures.md",
     "Get Gorewear Fernflow instead of Spinshift windbreaker.md",
