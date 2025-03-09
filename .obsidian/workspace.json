@@ -461,7 +461,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "live",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -482,8 +482,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -581,10 +580,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a91a52b3f4accc0e",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "202503081708.md",
     "2025-03-08.md",
+    "202503081708.md",
     "Style of riding.md",
     "Wheel-set wish list.md",
     "Annual bike events.md",
