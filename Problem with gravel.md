@@ -4,6 +4,11 @@
 - Gravel is murder on a bike, even a gravel bike, and takes a lot more maintenance.
 - Gravel riding often involves paved over washboard bumps and roots on "greeways."
 - Gravel doesn't allow the speed of road riding.
-- Gravel doesn't allow the fun of flow trail and single-track riding.
-- Don't need a gravel bike to ride all-road, including gravel roads.
-- Gravel shoes suck for power transfer.
+- Gravel doesn't allow the fun of jumping and berms of flow trail and single-track riding.
+- Gravel bike is slower and geared worse than an all-road bike that will ride gravel.
+- Gravel shoes have worse power transfer than road shoes.
+- Gravel climbs have all the pain and none of the fun downhill, too dangerous.
+- Riding gravel often means being too far away from Uber or other help.
+- Gravel only makes sense if all your roads are gravel around you.
+- Gravel roads are not car-free, often the cars are way worse and drive more dangerously.
+- Gravel riders are more invisible to the few cars that do pass them and very high 
