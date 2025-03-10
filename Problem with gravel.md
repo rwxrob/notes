@@ -10,7 +10,7 @@
 - Gravel bike is slower and geared worse than an all-road bike that will ride gravel.
 - Gravel shoes have worse power transfer than road shoes.
 - Gravel riding often involves muddy hike-a-bike, no one actually enjoys that.
-- Gravel climbs have all the pain and none of the fun, downhill is too dangerous (dead African rider).
+- Gravel climbs have all the pain and none of the fun, downhill is too dangerous (many dead).
 - Riding gravel often means being too far away from Uber or other help.
 - Gravel only makes sense if all your roads are gravel around you.
 - Gravel roads are not car-free, often the cars are way worse and drive more dangerously.
