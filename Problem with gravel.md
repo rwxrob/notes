@@ -1,14 +1,18 @@
 
 - Gravel is only fun when there is less than 10% pavement, otherwise tire pressure woahs.
-- Most gravel is just cross country mountain biking (2.1" tires most popular now).
+- Most gravel is just cross country mountain biking (2.1" tires most popular at Unbound now).
 - Gravel is murder on a bike, even a gravel bike, and takes a lot more maintenance.
+- Gravel riding is must less fun, no one actually likes inhaling all that dust and pollen.
 - Gravel riding often involves paved over washboard bumps and roots on "greeways."
-- Gravel doesn't allow the speed of road riding.
+- Gravel riding is harder on your body, tougher to recover from, and has less fitness gains.
+- Gravel doesn't allow the speed and true peloton skills of road riding.
 - Gravel doesn't allow the fun of jumping and berms of flow trail and single-track riding.
 - Gravel bike is slower and geared worse than an all-road bike that will ride gravel.
 - Gravel shoes have worse power transfer than road shoes.
-- Gravel climbs have all the pain and none of the fun downhill, too dangerous.
+- Gravel riding often involves muddy hike-a-bike, no one actually enjoys that.
+- Gravel climbs have all the pain and none of the fun, downhill is too dangerous (dead African rider).
 - Riding gravel often means being too far away from Uber or other help.
 - Gravel only makes sense if all your roads are gravel around you.
 - Gravel roads are not car-free, often the cars are way worse and drive more dangerously.
-- Gravel riders are more invisible to the few cars that do pass them and very high 
+- Gravel riders are more invisible to the few cars that do pass them and very high speeds.
+- Gravel riding involves far more angry dogs and union jack flags in America.
