@@ -20,3 +20,5 @@ I know it's heresy to question the biggest international trend in cycling but he
 - Gravel riders are more invisible to the few vehicles that do pass them and very high speeds.
 - Gravel riding involves many more angry dogs and union jack flags in America.
 - Gravel only makes sense if all your roads are well-maintained, flat gravel around you.
+
+The dilemma I have is that I love the gravel culture in general, at least the original vibe of just going out for a ride on whatever you have but even that is fading.
