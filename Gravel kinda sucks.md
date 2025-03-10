@@ -1,4 +1,4 @@
-I know it's heresy to question the biggest international trend in cycling, but I really want some random person to know they don't *have* to like gravel just because the whole world does. My half-gravel (all-road) rides to Charlotte and around Lineville Gorge have just completely solidified my opinion on gravel riding in general: 
+I know it's heresy to question the biggest international trend in cycling but here I am. My half-gravel (all-road) rides to Charlotte and around Lineville Gorge have just completely solidified my opinion on gravel riding in general. If you love gravel, awesome! I'm not writing this to be negative. I'm writing it to help someone understand they don't *necessarily* need to jump on the gravel hype train.
 
 - Gravel is only fun when there is less than 10% pavement, otherwise tire pressure woahs.
 - Most gravel is just cross country mountain biking (2.1" tires most popular at Unbound now).
