@@ -411,9 +411,23 @@
               "icon": "lucide-file",
               "title": "Cycling goals"
             }
+          },
+          {
+            "id": "c9bb18eca589b822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem with gravel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problem with gravel"
+            }
           }
         ],
-        "currentTab": 28
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -564,8 +578,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65dbcea2ecc43693",
+  "active": "c9bb18eca589b822",
   "lastOpenFiles": [
+    "Cycling goals.md",
+    "Problem with gravel.md",
     "Take a nap to warm up.md",
     "Living in the moment.md",
     "Snowflake? Fuck you..md",
@@ -575,7 +591,6 @@
     "Annual bike events.md",
     "Lycra takes off 20-70 watts.md",
     "MAMIL - Middle-Age Men In Lycra.md",
-    "Cycling goals.md",
     "Bike collection.md",
     "Road shoes for all-road.md",
     "Shoe size.md",
@@ -593,7 +608,6 @@
     "Taking notes with Obsidian from a phone.md",
     "Leave Obsidian running at home to sync to GitHub automatically from the road.md",
     "Why I use Obsidian.md",
-    "Choose unique, descriptive titles in sentence case.md",
     "qr-code.png",
     "qr-rwxrob-fun.svg",
     "Fitness and freshness",
