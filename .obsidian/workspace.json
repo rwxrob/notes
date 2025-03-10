@@ -390,12 +390,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "160mm crank arm length.md",
+                "file": "Living in the moment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "160mm crank arm length"
+              "title": "Living in the moment"
             }
           }
         ],
@@ -552,6 +552,7 @@
   },
   "active": "c3a92a6716bb69cf",
   "lastOpenFiles": [
+    "160mm crank arm length.md",
     "Living in the moment.md",
     "dtswiss-arc-1100.jpg",
     "Wheel-set wish list.md",
@@ -579,7 +580,6 @@
     "Choose unique, descriptive titles in sentence case.md",
     "Why I use GitHub Flavored Markdown.md",
     "Don't worry about slugs If needed create on export.md",
-    "Why I don't follow most of Zettelkasten approach.md",
     "qr-code.png",
     "qr-rwxrob-fun.svg",
     "Fitness and freshness",

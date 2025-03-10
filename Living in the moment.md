@@ -1,10 +1,10 @@
-Something as simple as hearing the wind and birds around me makes a ton of difference. Been reminded of what it is all about.
+Just sitting in my bike shed hearing the wind and birds around me makes a ton of difference in my perspective. Lately, I've been reminded of what it is all about.
 
 It's not what have I done for humanity. 
 
 It's not how I will be remembered.
 
-It's not will I get into heaven.
+It's not about  heaven or hell.
 
 It's not even the relationships I've made including my family.
 
