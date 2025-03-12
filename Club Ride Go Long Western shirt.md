@@ -1,4 +1,6 @@
-The Club Ride Go Long Western shirt is the most amazing cycling shirt I've ever owned. Club Ride has long been my #1 favorite in cycling apparel but after a three-hour run in the Go Long "sun" shirt I cannot overstate just how dialed in this company is to cycling values that I share. For me, the key to having fun on the long zone 2, base-building rides is absolute comfort and freedom to move and decide I just want to stop and get a coffee anywhere if I want. On the occasional long-haul adventure ride I want the same thing. This shirt gets that vibe absolutely, perfectly right.
+The Club Ride Go Long Western shirt is the most amazing cycling shirt I've ever owned. Club Ride has long been my #1 favorite in cycling apparel but after a three-hour run in this "sun" shirt I cannot overstate just how dialed in this company is to the cycling values that I share.
+
+For me, the key to having fun on _most_ rides is comfort and freedom, to move or not move and get a coffee. I'm spend 80% of my time on the bike doing base building zone 2, long-haul adventure cycling, or flow MTB trails. This shirt gets that vibe absolutely, perfectly right.
 
 Honestly, I don't know how they do it, but they managed to make a sun shirt that never feels clammy and sticky when you sweat in it (like every single sun shirt Patagonia makes, I'll never buy another). It also doesn't have the stiffness and tendency to wrinkle horribly like the traditional "fly fishing" shirts. It's simply perfect. It's so comfortable you don't really need a sweat-wicking sleeveless undershirt but you could.
 
