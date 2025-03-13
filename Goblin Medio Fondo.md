@@ -6,7 +6,14 @@ On the few paved greenways connecting faster segments, please be sure to slow do
 
 The tunnel under the highway with its custom light show is particularly amazing. Many locals have no idea it exists. Now you do.
 
-Here are the main segments firs
+Here is a list of the main, uninterrupted segments followed by a longer summary of each:
+
+- Davidson Warmup
+- River Run
+- Davidson Park
+- Black Farms
+- NorthStone
+- 
 
 Strava: https://www.strava.com/routes/3335257457568395466
 RideWithGPS: https://ridewithgps.com/routes/49904255
