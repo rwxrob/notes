@@ -24,7 +24,7 @@ Here are the eighteen main, uninterrupted Goblin segments. These have the same n
 14. McDowell Alternative
 15. Magnolia to Catawba
 16. Catawba Sprint
-17. Cornelius Bandit
+17. Antiquity Sprint
 18. Davidson South Street Climb
 
 Strava: https://www.strava.com/routes/3335257457568395466
