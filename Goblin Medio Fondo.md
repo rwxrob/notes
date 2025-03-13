@@ -6,7 +6,7 @@ On the few paved greenways connecting faster segments, please be sure to slow do
 
 The tunnel under the highway with its custom light show is particularly amazing. Many locals have no idea it exists. Now you do.
 
-Here is a list of the main, uninterrupted segments followed by a longer summary of each:
+Here is a list of the eighteen main, uninterrupted Goblin segments. These have the same names in Strava but are prefixed with the word Goblin and a dash (ex: Goblin - Keys Meadow). Note that most of these Goblin segments have many other popular Strava segments in them as well. These were created specifically to plan different focuses for each.
 
 1. Davidson Warmup
 2. River Run
@@ -24,7 +24,8 @@ Here is a list of the main, uninterrupted segments followed by a longer summary 
 14. McDowell Alternative
 15. Magnolia to Catawba
 16. Catawba Sprint
-17. 
+17. Cornelius Bandit Sprint
+18. Davidson South Street Climb
 
 Strava: https://www.strava.com/routes/3335257457568395466
 RideWithGPS: https://ridewithgps.com/routes/49904255
