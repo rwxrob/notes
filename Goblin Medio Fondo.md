@@ -8,12 +8,23 @@ The tunnel under the highway with its custom light show is particularly amazing.
 
 Here is a list of the main, uninterrupted segments followed by a longer summary of each:
 
-- Davidson Warmup
-- River Run
-- Davidson Park
-- Black Farms
-- NorthStone
-- 
+1. Davidson Warmup
+2. River Run
+3. Davidson Park
+4. Black Farms
+5. NorthStone
+6. Keys Meadow
+7. Centennial
+8. Vermillion Vanguard
+9. Historic Huntersville
+10. The Vine
+11. Torrence Creek
+12. Birkdale Bound
+13. Robbins Pond
+14. McDowell Alternative
+15. Magnolia to Catawba
+16. Catawba Sprint
+17. 
 
 Strava: https://www.strava.com/routes/3335257457568395466
 RideWithGPS: https://ridewithgps.com/routes/49904255
