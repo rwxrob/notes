@@ -6,7 +6,7 @@ On the few paved greenways connecting faster segments, please be sure to slow do
 
 The tunnel under the highway with its custom light show is particularly amazing. Many locals have no idea it exists. Now you do.
 
-Here is a list of the eighteen main, uninterrupted Goblin segments. These have the same names in Strava but are prefixed with the word Goblin and a dash (ex: Goblin - Keys Meadow). Note that most of these Goblin segments have many other popular Strava segments in them as well. These were created specifically to plan different focuses for each.
+Here is a list of the eighteen main, uninterrupted Goblin segments. These have the same names in Strava but are prefixed with the word Goblin and a dash (ex: Goblin - Keys Meadow). Note that most of these Goblin segments contain popular Strava segments in them as well. Only the Cornelius Bandit Sprint exactly matches another segment already in Strava. On the whole, these segments leave a little room to slow down where other Strava segments tend to end right at intersections preventing a good sprint finish to any segment. These were created specifically to plan different focuses for each.
 
 1. Davidson Warmup
 2. River Run
