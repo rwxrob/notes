@@ -7,11 +7,22 @@ I cannot even remember when the last time I had an acute, full body inflammation
 
 ## Better diet
 
-Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic beer and have more of a plant-based diet now. I do eat two hard-boiled eggs in the moring as well. I turned down the fats, even the good ones, and upped the very simple carbs—especially rice and waffles. Now that I'm adjusted to it, Huel is also a staple making sure I get everything but I have to only drink it in the early morning of after my ride since the oatmeal fiber in it does make me gassy (the number one indicator of intestinal distress from a particular food). My main source of carbs and protein is rice and red or green lentils and whatever veggies I want to dice up into it. It's like a burrito bowl or curry bowl depending on the seasoning, but only _after_ a hard ride because the lentils (or any legumes) definitely do not play nice in my gut while on a ride. Popcorn popped in an oil popper with olive oil and no butter is my primary snack, along with gummy bears, and 70% chocolate. I do occasionally have a bowl or two of some sort of good cereal, but that has to be at night as well since my body doesn't like milk, even lactose free.
+Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic beer and have more of a plant-based diet now. I do eat two hard-boiled eggs in the moring as well.
 
-I've practically eliminated wheat products from my diet. I don't think I'm intolerant, but rice is so much better a carb source all around, which is probably why all pro teams use it as a staple of their training nutrition.
+I turned down the fats, even the good ones, and upped the very simple carbs—especially rice and waffles.
 
-I only eat cheese sparingly and infrequently. Too much cheese always messes me up. I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, pasta, or
+Now that I'm adjusted to it, Huel is also a staple making sure I get everything but I have to only drink it in the early morning of after my ride since the oatmeal fiber in it does make me gassy (the number one indicator of intestinal distress from a particular food).
+
+My main source of carbs and protein is rice and red or green lentils and whatever veggies I want to dice up into it. It's like a burrito bowl or curry bowl depending on the seasoning, but only _after_ a hard ride because the lentils (or any legumes) definitely do not play nice in my gut while on a ride. 
+
+Popcorn popped in an oil popper with olive oil and no butter is my primary snack, along with gummy bears, and 70% chocolate. I do occasionally have a bowl or two of some sort of good cereal, but that has to be at night as well since my body doesn't like milk, even lactose free.
+
+I've practically eliminated wheat products from my diet. I don't think I'm intolerant, but rice is so much better a carb source all around, which is probably why all pro teams use it as a staple of their training nutrition. At this point I'm personally convinced that Monsanto wheat is just bad for human consumption, period. I would venture that it is the single biggest trigger for inflammation and micro-allergic reaction of any main food ingredient in the world
+
+I only eat cheese sparingly and infrequently. Too much cheese always messes me up. I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
+
+Overall, I feel like my body—especially my gut—has been reset to crave the type of foods that work best for three hours of physical activity per day. I mean, I eat a _ton_ of carbs every day and never experience any form of shock or inflammation from it.
+
 ## More physical activity
 
 I'm hard-code for endurance sports, always have been. Since riding 2-3 hours a day, fast or slow, everything has changed. I feel like my body is constantly thanking me, like a dog that finally gets take out for a walk. Endurance sports outside also increases the amount of good oxygen, vitamin D from the sun, and just sense of connectedness.
