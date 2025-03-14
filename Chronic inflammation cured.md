@@ -31,7 +31,7 @@ I'm hard-coded for endurance sports, always have been. Since riding 2-3 hours a 
 Being outside every day does more to reduce my stress levels than anything else. I have come to depend on being outside since I was boy as my primary way to deal with everything life has to throw at me. Something is so centering about being alone but not alone under the same sun, moon, and stars as everyone else on this Earth. I really do feel like it is a form of communion and connection. It certainly is the most spiritual thing I do. My outlook on existence changes completely after a ride. It's the closest thing to prayer that I do.
 ### No more livestreaming
 
-Livestreaming was literally killing me. If you go back and look through all my history of videos you can see it. There is a video of me at the heaviest I have ***ever been in my entire life.*** I have been unhealthy before, but it took livestreaming to push me to my utter extreme level of diseased morbid obesity. Comparing fresh pics of me today to then is legitimately terrifying to me today. I cannot even look at that guy.
+Livestreaming was literally killing me. You can see it in my Strava fitness graph and videos. If you go back and look through all my history of videos of me at the heaviest I have ***ever been in my entire life.*** I have been unhealthy before, but it took livestreaming to push me to my utter extreme level of diseased morbid obesity (that's the medical term). Comparing fresh pics of me today to then terrifies me today. I cannot even look at that guy.
 
 You'll notice that after long spans of time away from livestreaming that the videos have a happy, healthy, skinny Rob, who eventually, gradually, declines until he gives it livestreaming again. Every single phase of livestreaming ends with a fat, sad, depressed, unhealthy, often drunk Rob. I spent years just trying to "be able to take you with me" so I could achieve a balance of my outdoor lifestyle and tech streaming. I _always_ failed.
 
@@ -43,18 +43,22 @@ It's not that I regret everything about livestreaming. Hell, I got my current jo
 
 I was a prisoner to livestreaming. I was completely unaware how much livestreaming mentality had crept into all areas of my psyche. After giving it up for a week or so I suddenly felt liberated:
 
+- I don't feel guilty riding exactly the same loop every day
+- I don't have to politely respond to suggestions for "improved content"
 - I can ride in the rain without worry
 - I don't have to worry about getting ribbed for not streaming every day
+- I don't have to politely decline stopping to eat with stream snipers on my training rides
 - I don't have to answer questions, feign interest, or even talk
 - I don't have pollen attacks from talking too much while riding
+- I don't knock my teeth out from any amount of distraction
 - I can ride trails that don't have mobile signal
 - I save $3600 per year (the cost of a new bike or wheel set)
 - I gain hours back in my life not setting up stream stuff
-- I get _way_ more done whether it be writing or my lab
-- I can focus on helping a highly curate group of legitimately interested people
-- I don't have a momentary panic attack every time I pull out my credit cards
-- I can just randomly stop without being accosted about the camera
-- I can still affect change for those willing to actually read what I create (fuck the rest)
+- I don't have to create and approve clips every day
+- I get _way_ more done whether it be writing or working in my tech lab
+- I don't have a momentary panic attack every time I pull out my credit card
+- I can just randomly stop in anywhere without being accosted about the camera
+- I can bike from my home without worry of dixin
 
 If I sound a little angry writing that list it is because I am. As much as I believe it was the right thing at the right time, I have come to really be angry with just where the state of "content consumers" has reached. In short, I would just rather not think about it. 
 
