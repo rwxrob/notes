@@ -6,7 +6,8 @@ I have enough clothes to get me through one week of 22 hours of training before 
 
 ## Daily training
 
-- 
+- ClubRide
+- Ornot Mission pants (soft shell)
 - Gorewear Fernflow windbreaker
 - MAAP Evade cap
 - Giro Aether Spherical
