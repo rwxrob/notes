@@ -6,9 +6,14 @@ I have enough clothes to get me through one week of 22 hours of training before 
 
 ## Daily training
 
-## Spandex city
+## When wind matters
 
-I only pull out the Spandex super hero suit when I feel inclined to go CR/KOM hunting or get a new PR. The single biggest annoyance from wearing Spandex is that you cannot use the restroom while wearing it without completely undressing. This makes Spandex particularly annoying on longer endurance rides. I also can't really walk into many places without really making a scene—especially in NC. I also absolutely abhor the feeling of skin tight material on my skin compared the breezy 
+I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially not those who have 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
+
+The only time I'll wear it is when wind really matters, which is almost never. It's those times when I'm tempted to spend $3000 on a carbon-fiber wheel set as well. I fight that urge way more than I would like to admit. It is far more important to be comfortable and consistent than to be ultra aero and fast. I don't care if the spandex superheroes won
+
+
+I only pull out the Spandex super hero suit when I feel inclined to go CR/KOM hunting or get a new PR. The single biggest annoyance from wearing Spandex is that you cannot use the restroom while wearing it without completely undressing. This makes Spandex particularly annoying on longer endurance rides. I also can't really walk into many places without really making a scene—especially in NC. I also absolutely abhor the feeling of skin tight material on my skin compared the breezy soft feel of the stuff I wear for daily training.
 
 - NeoPro cargo bibs x2
 - NeoPro tights x1
