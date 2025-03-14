@@ -1,18 +1,18 @@
-I cannot even remember when the last time I had an acute, full body inflammation attack. There are many triggers, FODMAPs, allergies, and—especially—stress. It seems I've reduced or eliminated all of these things from my life over the last month and a half. My life, health, and outlook have never been better. I just want to take a moment to write down why I think that is in case I forget later.
+I cannot even remember when the last time I had an acute, full body inflammation attack. There are many triggers, FODMAPs, allergies, and—especially—stress. It seems I've reduced or eliminated all of these things from my life over the last month and a half. My life, health, and outlook have never been better. I just want to take a moment to write down why I think that is in case lest I forget later.
 
 - Better diet
 - More physical activity
-- Less stress
+- Less stress (no streaming)
 - Less visceral body fat
 ## Better diet
 
-Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic beer and have more of a plant-based diet now. I do eat two hard-boiled eggs in the moring as well.
+Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic beer and have more of a plant-based diet now. I do eat two hard-boiled eggs in the morning as well.
 
-I turned down the fats, even the good ones, and upped the very simple carbs—especially rice and waffles.
+I turned down the fats, even the good ones, and upped the very simple carbs—especially rice and raw waffles (which converts the wheat protein into more digestible form).
 
 Now that I'm adjusted to it, Huel is also a staple making sure I get everything but I have to only drink it in the early morning of after my ride since the oatmeal fiber in it does make me gassy (the number one indicator of intestinal distress from a particular food).
 
-My main source of carbs and protein is rice and red or green lentils and whatever veggies I want to dice up into it. It's like a burrito bowl or curry bowl depending on the seasoning, but only _after_ a hard ride because the lentils (or any legumes) definitely do not play nice in my gut while on a ride. 
+My main source of carbs and protein is rice and red or green lentils and whatever veggies I want to cut up into it. It's like a burrito bowl or curry bowl depending on the seasoning, but only _after_ a hard ride because the lentils (or any legumes) definitely do not play nice in my gut while on a ride. 
 
 Popcorn popped in an oil popper with olive oil and no butter is my primary snack, along with gummy bears, and 70% chocolate. I do occasionally have a bowl or two of some sort of good cereal, but that has to be at night as well since my body doesn't like milk, even lactose free.
 
@@ -20,16 +20,15 @@ I've practically eliminated wheat products from my diet. I don't think I'm intol
 
 I only eat cheese sparingly and infrequently. Depending on the _type_ of cheese, too much cheese messes me up. I can eat at much Camembert as I want for some reason, which is good because it has been [proven to fight cancer and particularly strong bacteria strains](https://www.delish.com/food-news/a45545/cheese-could-kill-cancer-cells/) 
 
-I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
+I won't freaking touch pizza in any form. It is just so bad on every level. In fact, I've associated so much pain and suffering from pizza that just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
 
 Overall, I feel like my body—especially my gut—has been reset to crave the type of foods that work best for three hours of physical activity per day. The long slow rides particularly clear my gut out completely since my body is looking anywhere for energy. I mean, I eat a _ton_ of carbs every day and never experience any form of shock or inflammation from it, at least, not any longer.
 ## More physical activity
 
-I'm hard-code for endurance sports, always have been. Since riding 2-3 hours a day, fast or slow, everything has changed. I feel like my body is constantly thanking me, like a dog that finally gets take out for a walk. Endurance sports outside also increases the amount of good oxygen, vitamin D from the sun, and just sense of connectedness.
+I'm hard-coded for endurance sports, always have been. Since riding 2-3 hours a day, fast or slow, everything has changed. I feel like my body is constantly thanking me, like a dog that finally gets taken out for a walk. Endurance sports outside also increases the amount of good oxygen, vitamin D from the sun, and just sense of connectedness.
 ## Less stress
 
-Being outside every day does more to reduce my stress levels than anything else. I have come to depend on being outside since I was boy as my primary way to deal with everything life has to throw at me. Something is so centering about being under the same sun, moon, and stars as everyone else on this Earth. I really do feel like it is a form of communion. It certainly is the most spiritual thing I do.
-
+Being outside every day does more to reduce my stress levels than anything else. I have come to depend on being outside since I was boy as my primary way to deal with everything life has to throw at me. Something is so centering about being alone but not alone under the same sun, moon, and stars as everyone else on this Earth. I really do feel like it is a form of communion and connection. It certainly is the most spiritual thing I do. My outlook on existence changes completely after a ride. It's the closest thing to prayer that I do.
 ### Much less livestreaming, no IRL
 
 Livestreaming was literally killing me. If you go back and look through all my history of videos you can see it. There is a video of me at the heaviest I have ***ever been in my entire life.*** I have been unhealthy before, but it took livestreaming to push me to my utter extreme level of diseased morbid obesity. 
