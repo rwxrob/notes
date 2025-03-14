@@ -17,6 +17,8 @@ I live in North Carolina so I can pretty much ride all but a few snowy, frozen d
 - G Gradual quick-drying tactical cargo shorts ($34) x1
 - Ornot Mission pants (soft shell) x1
 - Gorewear Fernflow windbreaker
+- Patagonia Nano-Air vest
+- Patagonia Nano-Air
 - Patagonia Red/Orange GORETEX Super Alpine jacket
 - Patagonia Dirt Roamer Storm pants
 - MAAP Evade cap
@@ -31,8 +33,9 @@ The Zengjo active tees are dirt cheap and feel like I'm not wearing a shirt at a
 - [Club Ride Go Long Western shirt](Club%20Ride%20Go%20Long%20Western%20shirt.md)
 ## When wind matters
 
-NeoPro is pretty much the only brand I will buy. The owners are amazing and the prices are ridiculously good.
+NeoPro is pretty much the only brand I will buy even though I do have other stuff. The owners are amazing and the prices are ridiculously good.
  
+- Le Col bibs x1
 - NeoPro cargo bibs x2
 - NeoPro tights x1
 - NeoPro undershirt x3
@@ -41,7 +44,7 @@ NeoPro is pretty much the only brand I will buy. The owners are amazing and the 
 - MAAP Evade cap
 - Giro Aether Spherical
 
-Keep in mind I _never_ wear aero stuff in any kind of rainy weather, ever. There is no event where wind resistance would matter that I would ever care enough about doing to make me put on anything more than a windbreaker. I'll ride in the rain, just never with a focus on getting aero as well.
+Keep in mind I _never_ wear aero stuff in any kind of rainy weather, ever. There is no ride where wind resistance would matter that I would ever care enough about doing to make me put on anything more than a windbreaker. I'll ride in anything that doesn't involve snow or ice, just never with a focus on getting aero as well. Hence the big bulky Patagonia gear in my daily training list.
 
 I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially the MAMILs who stuff their 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
 
