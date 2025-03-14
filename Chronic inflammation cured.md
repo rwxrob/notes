@@ -35,10 +35,16 @@ I've also significant reduced the number of responsibilities weighing on me duri
 
 - I can ride in the rain without worry
 - I don't have to worry about getting ribbed for not streaming every day
-- I don't have to answer questions and feign interest
+- I don't have to answer questions, feign interest, or even talk
+- I don't have pollen attacks from talking too much while riding
 - I can ride trails that don't have mobile signal
 - I save $3600 per year (the cost of a new bike or wheel set)
-- I can focus on helping a highly curate group of legitimately interested 
+- I gain hours back in my life not setting up stream stuff
+- I get _way_ more done whether it be writing or my lab
+- I can focus on helping a highly curate group of legitimately interested people
+- I can still affect change for those willing to actually read what I create (fuck the rest)
+
+If I sound a little angry writing that list it is because I am. As much as I believe it was the right thing at the right time, I have come to really be angry with just where the state of "content consumers" has reached. In short, I would just rather not think about it. Just that alone stresses me out to no end. I have now fulfilled my observation that the more likely you are to hear from someone, the less likely you are to want to hear what they have to say. I'm pulling a TJ Hallowaychuk, who hardly does anything for open source a
 
 Aside from that, my wife and I have been sort of falling asleep with each other on the couch pretty much every night all cozy and snuggling together. This has been a good solid hour or more of Dopamine. Its almost like a date ever single day. I cannot overstate what a difference this makes in my stress levels. I'd figure it out if I didn't have her. In fact, I remember sort of comforting myself at night with a cozy couch and the perfect blanket and pillow. I prefer Doris, of course, but want to make sure that keeps happening no matter what. 
 
