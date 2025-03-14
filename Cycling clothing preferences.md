@@ -47,7 +47,7 @@ NeoPro is pretty much the only brand I will buy even though I do have other stuf
 - MAAP Evade cap
 - Giro Aether Spherical
 
-Keep in mind I _never_ wear aero stuff in any kind of rainy weather, ever. There is no ride where wind resistance would matter that I would ever care enough about doing to make me put on anything more than a windbreaker. I'll ride in anything that doesn't involve snow or ice, just never with a focus on getting aero as well. Hence the big bulky Patagonia gear in my daily training list.
+Keep in mind I _never_ wear aero stuff in any kind of rainy weather, ever. There is no ride worth doing where wind resistance would matter that I would ever care enough about doing to make me put on anything more than a windbreaker. I'll ride in anything that doesn't involve snow or ice, just never with a focus on getting aero as well. Hence the big bulky Patagonia gear in my daily training list.
 
 I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially the MAMILs who stuff their 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
 
