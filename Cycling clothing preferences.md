@@ -6,18 +6,21 @@ I have enough clothes to get me through one week of 22 hours of training before 
 
 ## Daily training
 
+- 
+- Gorewear Fernflow windbreaker
+- MAAP Evade cap
+- Giro Aether Spherical
 ## When wind matters
 
 NeoPro is pretty much the only brand I will buy. The owners are amazing and the prices are ridiculously good.
  
- - NeoPro cargo bibs x2
+- NeoPro cargo bibs x2
 - NeoPro tights x1
 - NeoPro undershirt x3
 - NeoPro jersey x4
 - Gorewear Spinshield windbreaker
 - MAAP Evade cap
-- 
-- Giro
+- Giro Aether Spherical
 
 I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially the MAMILs who stuff their 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
 
