@@ -6,7 +6,10 @@ Note that I do not put anything in any pockets of any piece of clothing I wearin
 
 ## Urban
 
+TODO
 ## Daily training
+
+I live in North Carolina so I can pretty much ride all but a few snowy, frozen days outside on the road—especially running 38c Maxxis Ramblers.
 
 - Zengjo active workout tee shirts ($15) x5
 - Club Ride long sleeve plaid sun shirts ($90) x4
@@ -18,7 +21,8 @@ Note that I do not put anything in any pockets of any piece of clothing I wearin
 - Patagonia Dirt Roamer Storm pants
 - MAAP Evade cap
 - Giro Aether Spherical
-- Specialized Torch 2 
+- Specialized Torch 2 road shoes
+- Lake CX146 Winter road shoes
 
 The Club Ride shirts are by far the best cycling apparel I've ever worn. The long sleeve shirts are cut perfectly, have extra material in all the right places, have vented pits, don't flap too much, and roll up to short sleeves when needed. Plus they all use snaps and not buttons.
 
