@@ -14,9 +14,11 @@ Note that I do not put anything in any pockets of any piece of clothing I wearin
 - G Gradual quick-drying tactical cargo shorts ($34) x1
 - Ornot Mission pants (soft shell) x1
 - Gorewear Fernflow windbreaker
-- Patagonia 
+- Patagonia Red/Orange GORETEX Super Alpine jacket
+- Patagonia Dirt Roamer Storm pants
 - MAAP Evade cap
 - Giro Aether Spherical
+- Specialized Torch 2 
 
 The Club Ride shirts are by far the best cycling apparel I've ever worn. The long sleeve shirts are cut perfectly, have extra material in all the right places, have vented pits, don't flap too much, and roll up to short sleeves when needed. Plus they all use snaps and not buttons.
 
