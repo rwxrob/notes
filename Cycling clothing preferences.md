@@ -33,6 +33,8 @@ The Club Ride shirts are by far the best cycling apparel I've ever worn. The lon
 
 The Zengjo active tees are dirt cheap and feel like I'm not wearing a shirt at all—an absolute must when riding hard in super extreme heat and the sun isn't a factor. These tees feel cooler than even the most expensive cycling professional racing jerseys.
 
+The Patagonia Nano-Air is the coziest puffy you will ever wear. It is absolutely perfect for active warmth with just enough ventilation. (Just steer clear of Patagonia Capilene underlayers, they are soggy and horrible)
+
 - [Club Ride Go Long Western shirt](Club%20Ride%20Go%20Long%20Western%20shirt.md)
 ## When wind matters
 
@@ -47,7 +49,7 @@ NeoPro is pretty much the only brand I will buy even though I do have other stuf
 - MAAP Evade cap
 - Giro Aether Spherical
 
-Keep in mind I _never_ wear aero stuff in any kind of rainy weather, ever. There is no ride worth doing where wind resistance would matter that I would ever care enough about doing to make me put on anything more than a windbreaker. I'll ride in anything that doesn't involve snow or ice, just never with a focus on getting aero as well. Hence the big bulky Patagonia gear in my daily training list.
+Keep in mind I _never_ wear aero stuff in any kind of rainy weather, ever. Rain + speed do not mix well. There is no rainy ride worth doing where pushing speed would matter. I don't race. A windbreaker is plenty. I _do_ ride in rain that doesn't involve snow or ice, just without the aero gear. Hence the big bulky Patagonia gear in my daily training list.
 
 I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially the MAMILs who stuff their 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
 
