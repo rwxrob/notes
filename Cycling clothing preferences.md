@@ -7,12 +7,15 @@ I have enough clothes to get me through one week of 22 hours of training before 
 ## Daily training
 
 - Zengjo active workout tee shirts ($15) x5
-- ClubRide long sleeve sun shirts
-- Random flannel long sleeve shirts
-- Ornot Mission pants (soft shell)
+- Club Ride long sleeve plaid sun shirts ($90) x4
+- Random flannel or cotton-poly long sleeve shirts ($30) x3
+- G Gradual quick-drying tactical cargo shorts ($34) x1
+- Ornot Mission pants (soft shell) x1
 - Gorewear Fernflow windbreaker
 - MAAP Evade cap
 - Giro Aether Spherical
+
+The Club Ride shirts are by-fa
 ## When wind matters
 
 NeoPro is pretty much the only brand I will buy. The owners are amazing and the prices are ridiculously good.
