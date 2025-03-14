@@ -37,7 +37,11 @@ You'll notice that after long spans of time away from livestreaming that the vid
 
 Livestreaming was one of many self-imposed responsibilities weighing on me during any given day. The "don't get mad, get busy" mantra that drove me to obsess about saving the upcoming generations from poverty and misery by learning employable skills is now a thing of the past. Never say never. I have said so before and started up again, but this time it feels different.
 
-I have replaced livestreaming with _optional_ involvement in my local community in all sorts of ways. I've created Goblin Hunters for getting more casual but fitness-oriented cyclists out. I've been looking forward to attending cycling planning meetings. I've been spending time with close friends _in person_. It's not that I regret the livestreaming. I deeply miss those I met through livestreaming, but it's just not worth it. As much as I wish them well, it is more important for my health and wellness to build new relationships with people IRL who share my values and interests. I was completely unaware how much livestreaming mentality had crept into all areas of my psyche, suddenly I felt liberated.
+I have replaced livestreaming with _optional_ involvement in my local community in all sorts of ways. I've created Goblin Hunters Facebook cycling group for getting more casual but fitness-oriented cyclists out. I've been looking forward to attending cycling planning meetings. I've been spending time with close friends _in person_.
+
+It's not that I regret everything about livestreaming. Hell, I got my current job from it and I do deeply miss those I met through livestreaming, but as calloused as it sounds, they're just not worth losing my health and balance again. I have to prioritize. As much as I wish them well, it is more important for my health and wellness to build new healthy relationships with people IRL who share my values and interests, who I can call in an emergency, who will go for a walk at Fisher Farm with me, and who don't think voting for Trump helped our country in any way. 
+
+I was a prisoner to livestreaming. I was completely unaware how much livestreaming mentality had crept into all areas of my psyche. After giving it up for a week or so I suddenly felt liberated:
 
 - I can ride in the rain without worry
 - I don't have to worry about getting ribbed for not streaming every day
@@ -48,6 +52,8 @@ I have replaced livestreaming with _optional_ involvement in my local community 
 - I gain hours back in my life not setting up stream stuff
 - I get _way_ more done whether it be writing or my lab
 - I can focus on helping a highly curate group of legitimately interested people
+- I don't have a momentary panic attack every time I pull out my credit cards
+- I can just randomly stop without being accosted about the camera
 - I can still affect change for those willing to actually read what I create (fuck the rest)
 
 If I sound a little angry writing that list it is because I am. As much as I believe it was the right thing at the right time, I have come to really be angry with just where the state of "content consumers" has reached. In short, I would just rather not think about it. 
