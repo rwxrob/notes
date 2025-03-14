@@ -7,7 +7,7 @@ I cannot even remember when the last time I had an acute, full body inflammation
 
 ## Better diet
 
-Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic 
+Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic beer and have more of a plant-based diet now. I do eat two hard-boiled eggs in the moring as well. I turned down the fats, even the good ones, and upped the very simple carbs—especially rice and waffles. Now that I'm adjusted to it, Huel is also a staple making sure I get everything but I have to only drink it in the early morning of after my ride since the oatmeal fiber in it does make me gassy (the number one indicator of intestinal distress from a particular food). My main source of carbs and protein is rice and red or green lentils and whatever veggies I want to dice up into it. It's like a burrito bowl or curry bowl depending on the seasoning, but only _after_ a hard ride because the lentils (or any legumes) definitely do not play nice in my gut while on a ride. Popcorn popped in an oil popper with olive
 ## More physical activity
 
 I'm hard-code for endurance sports, always have been. Since riding 2-3 hours a day, fast or slow, everything has changed. I feel like my body is constantly thanking me, like a dog that finally gets take out for a walk. Endurance sports outside also increases the amount of good oxygen, vitamin D from the sun, and just sense of connectedness.
