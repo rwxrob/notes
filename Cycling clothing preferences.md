@@ -2,6 +2,8 @@ This is a summary of what I wear to ride my bikes. This helps me make sure I did
 
 I have enough clothes to get me through one week of 22 hours of training before I need to wash it all for the next week.
 
+Note that I do not put anything in any pockets of any piece of clothing I wearing while riding my bike. Instead I have a "bento box" on top bar cockpit for my wallet, keys, emergency snack, Just too risky for the stuff that matters and 
+
 ## Urban
 
 ## Daily training
@@ -15,7 +17,11 @@ I have enough clothes to get me through one week of 22 hours of training before 
 - MAAP Evade cap
 - Giro Aether Spherical
 
-The Club Ride shirts are by-fa
+The Club Ride shirts are by far the best cycling apparel I've ever worn. The long sleeve shirts are cut perfectly, have extra material in all the right places, have vented pits, don't flap too much, and roll up to short sleeves when needed. Plus they all use snaps and not buttons.
+
+The Zengjo active tees are dirt cheap and feel like I'm not wearing a shirt at all—an absolute must when riding hard in super extreme heat and the sun isn't a factor. These tees feel cooler than even the most expensive cycling professional racing jerseys.
+
+- [Club Ride Go Long Western shirt](Club%20Ride%20Go%20Long%20Western%20shirt.md)
 ## When wind matters
 
 NeoPro is pretty much the only brand I will buy. The owners are amazing and the prices are ridiculously good.
