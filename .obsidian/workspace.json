@@ -536,7 +536,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -634,13 +635,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99682feb4133e5f9",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
-    "Goblin Medio Fondo.md",
+    "Cycling goals.md",
+    "Untitled.md",
+    "Untitled",
     "Chronic inflammation cured.md",
+    "Goblin Medio Fondo.md",
     "Cycling clothing preferences.md",
     "Bike collection.md",
-    "Cycling goals.md",
     "MAMIL - Middle-Age Men In Lycra.md",
     "dtswiss-arc-1100.jpg",
     "Wheel set wish list.md",
@@ -662,9 +665,7 @@
     "Why you should always check anything in my notes.md",
     "One thought per note principle.md",
     "Keep paragraphs free from hyperlinks.md",
-    "Why I'm okay with spaces in my filenames for notes.md",
     "Search titles with GitHub.png",
-    "Search titles with GitHub.md",
     "qr-code.png",
     "qr-rwxrob-fun.svg",
     "Fitness and freshness",
@@ -678,7 +679,6 @@
     "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb-wal",
     "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb",
     "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/construction-photosgraph.kgdb",
-    "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb-shm",
     "Untitled.canvas"
   ]
 }
