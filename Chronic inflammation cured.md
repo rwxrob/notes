@@ -23,7 +23,7 @@ I only eat cheese sparingly and infrequently. Depending on the _type_ of cheese,
 
 I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
 
-Overall, I feel like my body—especially my gut—has been reset to crave the type of foods that work best for three hours of physical activity per day. I mean, I eat a _ton_ of carbs every day and never experience any form of shock or inflammation from it.
+Overall, I feel like my body—especially my gut—has been reset to crave the type of foods that work best for three hours of physical activity per day. The long slow rides particularly clear my gut out completely since my body is looking anywhere for energy. I mean, I eat a _ton_ of carbs every day and never experience any form of shock or inflammation from it, at least, not any longer.
 
 ## More physical activity
 
@@ -34,3 +34,8 @@ Being outside every day does more to reduce my stress levels than anything else.
 
 Aside from that, my wife and I have been sort of falling asleep with each other on the couch pretty much every night all cozy and snuggling together. This has been a good solid hour or more of Dopamine. Its almost like a date ever single day. I cannot overstate what a difference this makes in my stress levels. I'd figure it out if I didn't have her. In fact, I remember sort of comforting myself at night with a cozy couch and the perfect blanket and pillow. I prefer Doris, of course, but want to make sure that keeps happening no matter what. 
 
+## Less visceral body fat
+
+That fat from stress around the organs that is the hardest to get rid of and by far the most dangerous is also the primary source of chronic inflammation in most people. I still have a lot more of it than I would like, but by the time I reach 70 kilos it should be all gone, probably by July 24th (24 hours of booty) and even more likely after that (where I plan to ride 300 miles in 24 hours). 
+
+I can *never* let that type of body fat ever accumulate on my body _ever_ again. Do you here me future, Rob! Don't do it. It's so easy to let it grow and so hard to keep it off as I age. This last two months has been particularly tough. I'm trying to be patient with myself, but it freaking sucks. It is so much better to _keep it off_ than to take literally years to get it off later.
