@@ -33,7 +33,7 @@ The Club Ride shirts are by far the best cycling apparel I've ever worn. The lon
 
 The Zengjo active tees are dirt cheap and feel like I'm not wearing a shirt at all—an absolute must when riding hard in super extreme heat and the sun isn't a factor. These tees feel cooler than even the most expensive cycling professional racing jerseys.
 
-The Patagonia Nano-Air is the coziest puffy you will ever wear. It is absolutely perfect for active warmth with just enough ventilation. (Just steer clear of Patagonia Capilene underlayers, they are soggy and horrible)
+The Patagonia Nano-Air is the coziest puffy you will ever wear. It is absolutely perfect for active warmth with just enough ventilation. Just steer clear of Patagonia Capilene under-layers, they are soggy and horrible. In fact, the Nano-Air Jacket almost doesn't even need an undershirt but I usually pair it with a active tee for wicking.
 
 - [Club Ride Go Long Western shirt](Club%20Ride%20Go%20Long%20Western%20shirt.md)
 ## When wind matters

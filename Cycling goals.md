@@ -1,5 +1,9 @@
 - 70 kilograms
 - 280 FTP
+- 24 Hours of Booty - 300 miles
+- NC Mountains to Coast
+- Lake Norman Gran Fondo
+- Weekly lead Lake Norman Goblin Hunter rides
 
 | Power Zone         | % of FTP | W/kg Based on 4.0 W/kg FTP |
 |--------------------|---------|---------------------------|
