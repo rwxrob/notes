@@ -29,20 +29,22 @@ I'm hard-coded for endurance sports, always have been. Since riding 2-3 hours a 
 ## Less stress
 
 Being outside every day does more to reduce my stress levels than anything else. I have come to depend on being outside since I was boy as my primary way to deal with everything life has to throw at me. Something is so centering about being alone but not alone under the same sun, moon, and stars as everyone else on this Earth. I really do feel like it is a form of communion and connection. It certainly is the most spiritual thing I do. My outlook on existence changes completely after a ride. It's the closest thing to prayer that I do.
-### No more livestreaming
+### Livestreaming was killing me
 
 Livestreaming was literally killing me. You can see it in my Strava fitness graph and videos. If you go back and look through all my history of videos of me at the heaviest I have ***ever been in my entire life.*** I have been unhealthy before, but it took livestreaming to push me to my utter extreme level of diseased morbid obesity (that's the medical term). Comparing fresh pics of me today to then terrifies me today. I cannot even look at that guy.
 
 You'll notice that after long spans of time away from livestreaming that the videos have a happy, healthy, skinny Rob, who eventually, gradually, declines until he gives it livestreaming again. Every single phase of livestreaming ends with a fat, sad, depressed, unhealthy, often drunk Rob. I spent years just trying to "be able to take you with me" so I could achieve a balance of my outdoor lifestyle and tech streaming. I _always_ failed.
+### Self-imposed, unnecessary responsibilities
 
 Livestreaming was one of many self-imposed responsibilities weighing on me during any given day. The "don't get mad, get busy" mantra that drove me to obsess about saving the upcoming generations from poverty and misery by learning employable skills is now a thing of the past. Never say never. I have said so before and started up again, but this time it feels different.
 
 I have replaced livestreaming with _optional_ involvement in my local community in all sorts of ways. I've created Goblin Hunters Facebook cycling group for getting more casual but fitness-oriented cyclists out. I've been looking forward to attending cycling planning meetings. I've been spending time with close friends _in person_.
+### I'm still grateful
 
 It's not that I regret everything about livestreaming. Hell, I got my current job from it and I do deeply miss those I met through livestreaming, but as calloused as it sounds, they're just not worth losing my health and balance again. I have to prioritize. As much as I wish them well, it is more important for my health and wellness to build new healthy relationships with people IRL who share my values and interests, who I can call in an emergency, who will go for a walk at Fisher Farm with me, and who don't think voting for Trump helped our country in any way. 
-### Liberation, physically and mentally
+### Liberation: physically and mentally
 
-I was a prisoner to livestreaming. I was completely unaware how much livestreaming mentality had crept into all areas of my psyche. After giving it up for a week or so I suddenly felt liberated:
+I was a total prisoner to livestreaming. I was completely unaware how much livestreaming mentality had crept into all areas of my psyche. After giving it up for a week or so I suddenly felt liberated:
 
 - I don't feel guilty riding exactly the same loop every day
 - I don't have to politely respond to suggestions for "improved content"
@@ -65,16 +67,14 @@ I was a prisoner to livestreaming. I was completely unaware how much livestreami
 - I don't have the wear that stinky physical IRL chest corset constricting my breathing 
 
 If I sound a little angry writing that list it is because I am. As much as I believe it was the right thing at the right time, I have come to really be angry with just where the state of "content consumers" has reached. In short, I would just rather not think about it and go ride my bike.
-
 ### Joining TJ and Kris
 
 I have fulfilled my observation that the more likely you are to hear from someone, the less likely you are to want to hear what they have to say. I'm pulling a TJ Hallowaychuk, who hardly does anything for open source anymore, or more sadly, a Kris Nova who "just wanted to go climbing."
-
 ### It's not my fault or responsibility
 
-The throngs of mediocrity wanting to be spoon fed a better life, to be told everything to do, can languish and die for all I care. It's not my probleI've seen enough to know that these diseased people would refuse spoon-fed medicine and still end up dead. Many are too far gone or from abysmally bad places in life. Many are fighting debilitating neurological disorders and horrible life situations. None of it is my fault. I cannot save them. I felt like the captain of the Titanic when that mother comes in with her infant and says, "Please sir, there are no more lifeboats, what shall we do?" No more.
+The throngs of mediocrity wanting to be spoon fed a better life, to be told everything to do, can languish and die for all I care. It's not my problem. I've seen enough to know that these diseased people would refuse spoon-fed medicine and still end up dead. Many are too far gone or from abysmally bad places in life. Many are fighting debilitating neurological disorders and horrible life situations. None of it is my fault. I cannot save them. I felt like the captain of the Titanic when that mother comes in with her infant and says, "Please sir, there are no more lifeboats, what shall we do?" No more. 
 
-Hearing about all the individual problems of every single viewer was just too much to take. I didn't start this shit. I didn't start the fire. It's been always burning and frankly, let the lazy burn. Amidst all the _real_ cases of people who need help there are the ultra lazy sloths and mixing them is a powder-keg of stress in my life. I don't give a shit those lazy fucking assholes who cannot tear their eyes away from some booba's breasts or brain-dead video game to help themselves and then _complain_ about it "being too hard." Fuck 'em.  Let's Darwin's law take effect. 
+Hearing about all the individual problems of every single viewer was just too much to take. I didn't start the fire. It's been always burning since the world's been turnin' and frankly, let the lazy burn. Amidst all the _real_ cases of people who need help there are the ultra lazy sloths and mixing them is a powder-keg of stress in my life. I don't give a shit those lazy fucking assholes who cannot tear their eyes away from some booba's breasts or brain-dead video game to help themselves and then _complain_ about it "being too hard." Fuck 'em.  Let's Darwin's law take effect. 
 
 I resent many people who don't deserve it because of the few who tricked me into caring and thinking something in my power could actually help them. It worked at SKILSTAK because I _choose_ them. The Internet is full of idiots who are _not_ all of humanity and frankly never will be. The best part of humanity barely uses the Internet. 90% of those posting a comment are simply not worth listening to. I want nothing to do with these meme-worshipping incels blaming everyone but their fat, lazy selves for their problems—let alone help them to get gainful employment by doing the least amount of work possible. Most of them won't even do the work to read this note to understand these feelings. This is why I'm _never_ making a "why I don't stream anymore video." The non-lazy ones will actually read this and know. Let Darwin do his work on the rest.
 ### Writing is better
