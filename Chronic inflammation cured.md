@@ -4,7 +4,6 @@ I cannot even remember when the last time I had an acute, full body inflammation
 - More physical activity
 - Less stress
 - Less visceral body fat
-
 ## Better diet
 
 Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic beer and have more of a plant-based diet now. I do eat two hard-boiled eggs in the moring as well.
@@ -32,10 +31,14 @@ I'm hard-code for endurance sports, always have been. Since riding 2-3 hours a d
 
 Being outside every day does more to reduce my stress levels than anything else. I have come to depend on being outside since I was boy as my primary way to deal with everything life has to throw at me. Something is so centering about being under the same sun, moon, and stars as everyone else on this Earth. I really do feel like it is a form of communion. It certainly is the most spiritual thing I do.
 
+I've also significant reduced the number of responsibilities weighing on me during any given day—especially the self-imposed ones. The "don't get mad, get busy" mantra that drove me to obsess about saving the upcoming generations from poverty and misery by learning employable skills
+
 Aside from that, my wife and I have been sort of falling asleep with each other on the couch pretty much every night all cozy and snuggling together. This has been a good solid hour or more of Dopamine. Its almost like a date ever single day. I cannot overstate what a difference this makes in my stress levels. I'd figure it out if I didn't have her. In fact, I remember sort of comforting myself at night with a cozy couch and the perfect blanket and pillow. I prefer Doris, of course, but want to make sure that keeps happening no matter what. 
 
 ## Less visceral body fat
 
 That fat from stress around the organs that is the hardest to get rid of and by far the most dangerous is also the primary source of chronic inflammation in most people. I still have a lot more of it than I would like, but by the time I reach 70 kilos it should be all gone, probably by July 24th (24 hours of booty) and even more likely after that (where I plan to ride 300 miles in 24 hours). 
 
-I can *never* let that type of body fat ever accumulate on my body _ever_ again. Do you here me future, Rob! Don't do it. It's so easy to let it grow and so hard to keep it off as I age. This last two months has been particularly tough. I'm trying to be patient with myself, but it freaking sucks. It is so much better to _keep it off_ than to take literally years to get it off later.
+I can *never* let that type of body fat ever accumulate on my body _ever_ again. Do you here me future, Rob! Don't do it. It's so easy to let it grow and so hard to keep it off as I age. This last two months have been particularly tough. I'm trying to be patient with myself, but it freaking sucks. It is so much better to _keep it off_ than to take literally years to get it off later.
+
+I try not to judge, but when I see adults my age who have done nothing for decades to preserve their health it just makes me so sad for them. They must be so miserable. I was miserable with just enough weight to push me into the "overweight" category. It is an absolute disease epidemic in America today. I can't save the world, but I can save myself.
