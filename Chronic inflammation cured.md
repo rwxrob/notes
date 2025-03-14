@@ -40,6 +40,7 @@ Livestreaming was one of many self-imposed responsibilities weighing on me durin
 I have replaced livestreaming with _optional_ involvement in my local community in all sorts of ways. I've created Goblin Hunters Facebook cycling group for getting more casual but fitness-oriented cyclists out. I've been looking forward to attending cycling planning meetings. I've been spending time with close friends _in person_.
 
 It's not that I regret everything about livestreaming. Hell, I got my current job from it and I do deeply miss those I met through livestreaming, but as calloused as it sounds, they're just not worth losing my health and balance again. I have to prioritize. As much as I wish them well, it is more important for my health and wellness to build new healthy relationships with people IRL who share my values and interests, who I can call in an emergency, who will go for a walk at Fisher Farm with me, and who don't think voting for Trump helped our country in any way. 
+### Liberation, physically and mentally
 
 I was a prisoner to livestreaming. I was completely unaware how much livestreaming mentality had crept into all areas of my psyche. After giving it up for a week or so I suddenly felt liberated:
 
@@ -58,13 +59,20 @@ I was a prisoner to livestreaming. I was completely unaware how much livestreami
 - I get _way_ more done whether it be writing or working in my tech lab
 - I don't have a momentary panic attack every time I pull out my credit card
 - I can just randomly stop in anywhere without being accosted about the camera
-- I can bike from my home without worry of dixin
+- I can bike from my home without worry of doxing my location
+- I can paddle board anytime and anywhere I want
+- I actually see more of my surroundings instead of reading my phone chat
+- I don't have the wear that stinky physical IRL chest corset constricting my breathing 
 
-If I sound a little angry writing that list it is because I am. As much as I believe it was the right thing at the right time, I have come to really be angry with just where the state of "content consumers" has reached. In short, I would just rather not think about it. 
+If I sound a little angry writing that list it is because I am. As much as I believe it was the right thing at the right time, I have come to really be angry with just where the state of "content consumers" has reached. In short, I would just rather not think about it and go ride my bike.
+
+### Joining TJ and Kris
 
 I have fulfilled my observation that the more likely you are to hear from someone, the less likely you are to want to hear what they have to say. I'm pulling a TJ Hallowaychuk, who hardly does anything for open source anymore, or more sadly, a Kris Nova who "just wanted to go climbing."
 
-The throngs of mediocrity wanting to be spoon fed a better life, to be told everything to do, can languish and die for all I care. I've seen enough to know that these diseased people would refuse spoon-fed medicine and still end up dead. Many are too far gone or from abysmally bad places in life. Many are fighting debilitating neurological disorders and horrible life situations. None of it is my fault. I cannot save them. I felt like the captain of the Titanic when that mother comes in with her infant and says, "Please sir, there are no more lifeboats, what shall we do?"
+### It's not my fault or responsibility
+
+The throngs of mediocrity wanting to be spoon fed a better life, to be told everything to do, can languish and die for all I care. It's not my probleI've seen enough to know that these diseased people would refuse spoon-fed medicine and still end up dead. Many are too far gone or from abysmally bad places in life. Many are fighting debilitating neurological disorders and horrible life situations. None of it is my fault. I cannot save them. I felt like the captain of the Titanic when that mother comes in with her infant and says, "Please sir, there are no more lifeboats, what shall we do?" No more.
 
 Hearing about all the individual problems of every single viewer was just too much to take. I didn't start this shit. I didn't start the fire. It's been always burning and frankly, let the lazy burn. Amidst all the _real_ cases of people who need help there are the ultra lazy sloths and mixing them is a powder-keg of stress in my life. I don't give a shit those lazy fucking assholes who cannot tear their eyes away from some booba's breasts or brain-dead video game to help themselves and then _complain_ about it "being too hard." Fuck 'em.  Let's Darwin's law take effect. 
 
