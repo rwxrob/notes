@@ -1,3 +1,5 @@
+_Still working on this list._
+
 This is a summary of what I wear to ride my bikes. This helps me make sure I didn't lose anything in the wash and can create a list quickly when going on any sort of trip. It might help others to find the right stuff for them. Cycling apparel can get really expensive—unnecessarily. For me, a few really good items makes all the difference, compared to getting the absolute wrong clothes for the job.
 
 I have enough clothes to get me through one week of 22 hours of training before I need to wash it all for the next week.
@@ -18,13 +20,14 @@ I live in North Carolina so I can pretty much ride all but a few snowy, frozen d
 - Ornot Mission pants (soft shell) x1
 - Gorewear Fernflow windbreaker
 - Patagonia Nano-Air vest
-- Patagonia Nano-Air
+- Patagonia Nano-Air jacket
 - Patagonia Red/Orange GORETEX Super Alpine jacket
 - Patagonia Dirt Roamer Storm pants
 - MAAP Evade cap
 - Giro Aether Spherical
 - Specialized Torch 2 road shoes
 - Lake CX146 Winter road shoes
+- Perl Izumi merino wool socks x5
 
 The Club Ride shirts are by far the best cycling apparel I've ever worn. The long sleeve shirts are cut perfectly, have extra material in all the right places, have vented pits, don't flap too much, and roll up to short sleeves when needed. Plus they all use snaps and not buttons.
 
