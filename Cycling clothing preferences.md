@@ -2,7 +2,7 @@ This is a summary of what I wear to ride my bikes. This helps me make sure I did
 
 I have enough clothes to get me through one week of 22 hours of training before I need to wash it all for the next week.
 
-Note that I do not put anything in any pockets of any piece of clothing I wearing while riding my bike. Instead I have a "bento box" on top bar cockpit for my wallet, keys, emergency snack, Just too risky for the stuff that matters and 
+Note that I do not put anything in any pockets of any piece of clothing I wearing while riding my bike. Instead I have a "bento box" on top bar cockpit for my wallet, keys, emergency snack, etc. Just too risky to put that stuff in my clothes pockets even with zippers and any kind of weight really kills the airy flow of all the jerseys except the aero stuff.
 
 ## Urban
 
@@ -14,6 +14,7 @@ Note that I do not put anything in any pockets of any piece of clothing I wearin
 - G Gradual quick-drying tactical cargo shorts ($34) x1
 - Ornot Mission pants (soft shell) x1
 - Gorewear Fernflow windbreaker
+- Patagonia 
 - MAAP Evade cap
 - Giro Aether Spherical
 
