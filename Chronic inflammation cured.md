@@ -21,8 +21,6 @@ I've practically eliminated wheat products from my diet. I don't think I'm intol
 
 I only eat cheese sparingly and infrequently. Depending on the _type_ of cheese, too much cheese messes me up. I can eat at much Camembert as I want for some reason, which is good because it has been [proven to fight cancer and particularly strong bacteria strains](https://www.delish.com/food-news/a45545/cheese-could-kill-cancer-cells/) 
 
-- https://www.delish.com/food-news/a45545/cheese-could-kill-cancer-cells/
-
 I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
 
 Overall, I feel like my body—especially my gut—has been reset to crave the type of foods that work best for three hours of physical activity per day. I mean, I eat a _ton_ of carbs every day and never experience any form of shock or inflammation from it.
