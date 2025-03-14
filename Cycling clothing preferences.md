@@ -7,15 +7,18 @@ I have enough clothes to get me through one week of 22 hours of training before 
 ## Daily training
 
 ## When wind matters
-
-I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially not those who have 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
-
-The only time I'll wear it is when wind really matters, which is almost never. It's those times when I'm tempted to spend $3000 on a carbon-fiber wheel set as well. I fight that urge way more than I would like to admit. It is far more important to be comfortable and consistent than to be ultra aero and fast. I don't care if the spandex superheroes won
-
-
-I only pull out the Spandex super hero suit when I feel inclined to go CR/KOM hunting or get a new PR. The single biggest annoyance from wearing Spandex is that you cannot use the restroom while wearing it without completely undressing. This makes Spandex particularly annoying on longer endurance rides. I also can't really walk into many places without really making a scene—especially in NC. I also absolutely abhor the feeling of skin tight material on my skin compared the breezy soft feel of the stuff I wear for daily training.
-
-- NeoPro cargo bibs x2
+ 
+ - NeoPro cargo bibs x2
 - NeoPro tights x1
 - NeoPro undershirt x3
 - NeoPro jersey x4
+
+I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the most fit amazing cyclists look absolutely ridiculous. NO ONE looks good in it—especially the MAMILs who stuff their 20% body fat stuffed into it. Women can pull it off more easily than men, for sure, but still.
+
+The only time I'll wear tight-fitting anything is when wind really matters, which is almost never. [Lycra takes off 20-70 watts](Lycra%20takes%20off%2020-70%20watts.md). It's those times when I'm tempted to spend $3000 on a carbon-fiber wheel set as well. I fight that urge way more than I would like to admit.
+
+- Whee
+
+It is far more important to be comfortable and consistent than to be ultra aero and fast. I don't care if the spandex superheroes won't even wave to me on my Goblin Medio route. Guess what, I have pretty much ever Local Legend there is at this point and two world-wide CRs at 57. Those won't-wave assholes don't put in nearly the miles and speed I do. There, I said it.
+
+By the way, the single biggest annoyance wearing Spandex is that you cannot use the restroom while wearing it without completely undressing. This makes Spandex particularly annoying on longer endurance rides. I also can't really walk into many places without really making a scene—especially in NC.
