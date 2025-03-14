@@ -5,6 +5,9 @@ I cannot even remember when the last time I had an acute, full body inflammation
 - Less stress
 - Less visceral body fat
 
+## Better diet
+
+Changes to my diet deserve their own note. Suffice it to say, I drink mostly non-alcoholic 
 ## More physical activity
 
 I'm hard-code for endurance sports, always have been. Since riding 2-3 hours a day, fast or slow, everything has changed. I feel like my body is constantly thanking me, like a dog that finally gets take out for a walk. Endurance sports outside also increases the amount of good oxygen, vitamin D from the sun, and just sense of connectedness.
