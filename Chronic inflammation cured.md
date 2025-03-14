@@ -17,9 +17,13 @@ My main source of carbs and protein is rice and red or green lentils and whateve
 
 Popcorn popped in an oil popper with olive oil and no butter is my primary snack, along with gummy bears, and 70% chocolate. I do occasionally have a bowl or two of some sort of good cereal, but that has to be at night as well since my body doesn't like milk, even lactose free.
 
-I've practically eliminated wheat products from my diet. I don't think I'm intolerant, but rice is so much better a carb source all around, which is probably why all pro teams use it as a staple of their training nutrition. At this point I'm personally convinced that Monsanto wheat is just bad for human consumption, period. I would venture that it is the single biggest trigger for inflammation and micro-allergic reaction of any main food ingredient in the world
+I've practically eliminated wheat products from my diet. I don't think I'm intolerant, but rice is so much better a carb source all around, which is probably why all pro teams use it as a staple of their training nutrition. At this point I'm personally convinced that Monsanto wheat is just bad for human consumption, period. I would venture that it is the single biggest trigger for inflammation and micro-allergic reaction of any main food ingredient in the world.
 
-I only eat cheese sparingly and infrequently. Too much cheese always messes me up. I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
+I only eat cheese sparingly and infrequently. Depending on the _type_ of cheese, too much cheese messes me up. I can eat at much Camembert as I want for some reason, which is good because it has been [proven to fight cancer and particularly strong bacteria strains](https://www.delish.com/food-news/a45545/cheese-could-kill-cancer-cells/) 
+
+- https://www.delish.com/food-news/a45545/cheese-could-kill-cancer-cells/
+
+I won't freaking touch pizza in any form. It is just so freaking bad on every level. In fact, I've associated so much pain and suffering with it just the smell or thought of it makes me physically want to vomit (like college kids do with a flavor of alcohol after binging to much). I'd much rather have a burger, burrito, sushi, or pasta.
 
 Overall, I feel like my body—especially my gut—has been reset to crave the type of foods that work best for three hours of physical activity per day. I mean, I eat a _ton_ of carbs every day and never experience any form of shock or inflammation from it.
 
