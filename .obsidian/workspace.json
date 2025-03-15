@@ -474,12 +474,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronic inflammation cured.md",
+                "file": "Wheel set wish list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronic inflammation cured"
+              "title": "Wheel set wish list"
             }
           }
         ],
@@ -536,8 +536,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -635,12 +634,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d66ce5fcd308145c",
+  "active": "99682feb4133e5f9",
   "lastOpenFiles": [
+    "Chronic inflammation cured.md",
+    "Untitled",
     "Cycling goals.md",
     "Untitled.md",
-    "Untitled",
-    "Chronic inflammation cured.md",
     "Goblin Medio Fondo.md",
     "Cycling clothing preferences.md",
     "Bike collection.md",
