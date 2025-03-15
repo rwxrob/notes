@@ -488,12 +488,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I really do love speed.md",
+                "file": "Cruising speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I really do love speed"
+              "title": "Cruising speed"
             }
           },
           {
@@ -502,12 +502,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I really do love speed.md",
+                "file": "Cruising speed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I really do love speed"
+              "title": "Cruising speed"
             }
           }
         ],
@@ -665,7 +665,7 @@
   "active": "2d4cd149efd7b0fc",
   "lastOpenFiles": [
     "Not a bike tourist.md",
-    "I really do love speed.md",
+    "Cruising speed.md",
     "Chronic inflammation cured.md",
     "Wheel set wish list.md",
     "Untitled",

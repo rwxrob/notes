@@ -1,3 +1,0 @@
-Today on my ride I realized I'm really just want a motorcycle without the motor where I _am_ the motor. I just love sensation of speed be it on pristine tarmac or perfectly paved MTB trails with lots of flow and twists. Feeling the wind on those 50-60kph descents and knowing I'm safe on my new Domane on suburban streets is what I would consider nearly perfection. The equivalent off road is also appealing, which is why I got a HTC trail bike as well.
-
-However, the main draw is averaging between 25 and 30 kph all the time. This is the perfect speed to process all the great scenery all around and to get that great feeling of floa
