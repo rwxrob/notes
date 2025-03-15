@@ -536,7 +536,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -634,7 +635,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99682feb4133e5f9",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Chronic inflammation cured.md",
     "Untitled",
