@@ -7,8 +7,9 @@ I'm reminded today that I'm primarily a roadie—specifically an all-roadie beca
 I think I get the appeal of ebiking more. It gives cruising speed junkies what they want without the work. The sensation is much like being on a scooter or motorcycling, both things I also love because they work at cruising speed. The feeling of wind pushing back against you is key. There's something wonderful and horrible about it.
 ## Maybe its the good drugs
 
-Having a motor do all the work robs cruis
-Keeping a cruising speed pace on an unencumbered, aero road bike usually means I'm also swimming in good drugs (endorphins, dopamine, and serotonin) and I'm _definitely_ addicted to those.
+Having a motor do all the work robs cruising speed addicts from all the good drugs that might contribute to that addiction. Keeping a cruising speed pace on an unencumbered, aero road bike usually means I'm also swimming in endorphins, dopamine, and serotonin. 
+
+When on an MTB flow trail I've got a ton of adrenaline as well. Tons of people are addicted to that. I have been as well. Not so much these days, however. For me the adrenaline might be occasionally fun—like drinking alcohol— but because it pumps me full of cortisol as well it is not under the "good drug" category. It turns down recovery, kills testosterone production, and turns up visceral fat storage. It is do damaging that
 
 
 
