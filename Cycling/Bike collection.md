@@ -9,4 +9,4 @@ List of current and planned bikes:
 | Urban trekking         | Ghost Square           | Flat   | Yes  |
 | Fixie                  | ???                    | Straps | No   |
 
-Next purchase will be a high-end wheel-set from the [Wheel set wish list](Wheel%20set%20wish%20list.md) to make road riding more fun and variable.
+Next purchase will be a high-end wheel-set from the [Wheel set wish list](Cycling/Wheel%20set%20wish%20list.md) to make road riding more fun and variable.

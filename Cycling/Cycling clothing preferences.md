@@ -55,7 +55,7 @@ I absolutely hate tight-fitting Spandex cycling apparel. I'm sorry, even the mos
 
 The only time I'll wear tight-fitting anything is when wind really matters, which is almost never. [Lycra takes off 20-70 watts](Lycra%20takes%20off%2020-70%20watts.md). It's those times when I'm tempted to spend $3000 on a carbon-fiber wheel set as well. I fight that urge way more than I would like to admit.
 
-- [Wheel set wish list](Wheel%20set%20wish%20list.md)
+- [Wheel set wish list](Cycling/Wheel%20set%20wish%20list.md)
 
 It is far more important to be comfortable and consistent than to be ultra aero and fast. I don't care if the spandex superheroes won't even wave to me on my regular route. Guess what, I have pretty much ever Local Legend there is at this point and two world-wide CRs at 57. Those won't-wave assholes don't put in nearly the miles and speed I do. There, I said it.
 
