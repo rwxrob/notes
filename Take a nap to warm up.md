@@ -1,1 +1,0 @@
-Sleeping in REM state dialtates capillaries and increases blood flow to extremities. This is why some people wake up sweaty. Blood to the brain is also increased explaining why waking up with a good idea might be so common.
