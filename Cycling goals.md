@@ -1,5 +1,6 @@
 - 70 kilograms
-- 280 FTP
+- High durability
+- 280 fresh FTP
 - 24 Hours of Booty - 300 miles
 - NC Mountains to Coast
 - Lake Norman Gran Fondo
