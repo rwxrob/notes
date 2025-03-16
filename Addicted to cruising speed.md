@@ -1,7 +1,6 @@
 I'm reminded today that I'm primarily a roadie—specifically an all-roadie because I'm addicted to cruising speed, averaging between 25 and 30 kph through safe, scenic landscapes of all kinds. This speed is perfect to get that feeling of floating over the landscape. It's hypnotizing, meditative. Other all-roadies agree.
 
 - https://www.cyclingweekly.com/news/i-should-never-have-bought-a-gravel-bike
-
 ## Peloton penalty
 
 As much as I love a good pace-line, there's a serious penalty to be paid when riding in such groups. On the one hand you have the fun group dynamic but on the other that same group dynamic makes it hard to enjoy the cruising speed and scenery itself. It's also not really possible to talk to anyone and ride in a peloton safely.
