@@ -502,12 +502,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Mung beans and red lentils.md",
+                "file": "Cycling/Cycling clothing preferences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mung beans and red lentils"
+              "title": "Cycling clothing preferences"
             }
           }
         ],
@@ -664,8 +664,8 @@
   },
   "active": "2d4cd149efd7b0fc",
   "lastOpenFiles": [
-    "Clothing management.md",
     "Food/Mung beans and red lentils.md",
+    "Clothing management.md",
     "Clothing",
     "Philosophy/Living in the moment.md",
     "Philosophy/Snowflake? Fuck you..md",
