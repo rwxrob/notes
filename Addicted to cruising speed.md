@@ -15,6 +15,7 @@ Having a motor do all the work robs cruising speed addicts from all the good dru
 
 When on an MTB flow trail I've got a ton of adrenaline as well. Tons of people are addicted to that. I have been as well. Not so much these days, however. For me the adrenaline might be occasionally fun—like drinking alcohol— but because it pumps me full of cortisol as well it is not under the "good drug" category. It turns down recovery, kills testosterone production, and turns up visceral fat storage. It is do damaging that docs to the pros regularly look for cortisol markers to decide if pro is overtraining or even detraining. Less is more, when it comes to adrenaline.
 
+## Not a bike tourist
 
-
+- [Not a bike tourist](Not%20a%20bike%20tourist.md)
 
