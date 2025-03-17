@@ -1,0 +1,5 @@
+After realizing I don't have an extra 90 minutes twice a week for strength training in addition to my 2-3 hour daily rides I've decided to just not. I'm not training to win anything (like I was in the past). I'm maintain fitness and strength into my senior years and creating highly sustainable habits and deeply engraining them into my body and soul. Going to the gym just ain't gonna happen. I freaking hate the gym, always have.
+
+Without the gym and squats and deadlifts I can say goodbye to raw strength gains, but I can still build strength and even some hypertrophy on the bike.
+
+Dropping the gym also means I'm far less likely to get injured. Senior bones and tendons and muscles + high-intensity lifting in the gym is a total recipe for life-crippling injury. Yoga and pull ups, which is all I ever planned for upper body 
