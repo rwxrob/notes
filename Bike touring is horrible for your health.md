@@ -2,4 +2,4 @@ Most bike tourists eat whatever they find on their route. In America this means 
 
 A regular loop that allows me to stay home and have all the comforts it provides includes managing my nutrition as perfectly as I can. This is by far the best for personal fitness and performance gains. Sure the same loop every day is not as adventurous but its also not boring over the course of the year as the weather changes.
 
-When I do want adventure I can make sure to do a route that includes buying high quality food al
+When I do want adventure I can make sure to do a route that includes buying high quality food along the route or ensuring that high-quality meals are provided. A small, one-week, fully supported ride or one connecting amazing restaurants is far more attractive to me than a month of suffering on McDonald's, KFC, PopTarts, and whatever else has been festering in the back of a gas station food section.
