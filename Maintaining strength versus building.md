@@ -16,6 +16,7 @@ So here's my plan:
 - Two days of strength focused intervals on sprints and hills
 - Same two days also do body weight strength training in bike shed after ride
 - One day do long SS intervals
+- One day ultra long 2xGoblin or more
 - Long, super easy Zone 1/2 for all the rest
 
 Everything is on my Goblin Medio loop so I know where everything is.
