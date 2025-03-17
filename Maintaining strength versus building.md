@@ -13,7 +13,9 @@ If anything, I'm on a perpetual bike trip that begins and ends at my bike shed. 
 So here's my plan:
 
 - Bike seven days a week
-- Default to Zone 1/2 for all rides
-- Two days of 
+- Two days of strength focused intervals on sprints and hills
+- Same two days also do body weight strength training in bike shed after ride
 - One day do long SS intervals
+- Long, super easy Zone 1/2 for all the rest
 
+Everything is on my Goblin Medio loop so I know where everything is.
