@@ -1,0 +1,5 @@
+Most bike tourists eat whatever they find on their route. In America this means a lot of horrible food. Sure they are burning off the calories but they are never hitting their micronutrient balances. Most cannot also hit their macronutrients leaving them in a state of entropy constantly. This is why is takes months to recover from a Tour Divide.
+
+A regular loop that allows me to stay home and have all the comforts it provides includes managing my nutrition as perfectly as I can. This is by far the best for personal fitness and performance gains. Sure the same loop every day is not as adventurous but its also not boring over the course of the year as the weather changes.
+
+When I do want adventure I can make sure to do a route that includes buying high quality food al
