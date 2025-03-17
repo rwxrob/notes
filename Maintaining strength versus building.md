@@ -1,6 +1,10 @@
-After realizing I don't have an extra 90 minutes twice a week for strength training in addition to my 2-5 hour daily rides I've decided to just not do any off-bike strength training. After all, I'm not training to win anything. I'm going for consistency and sustainability over event-driven performance.
+I hate the gym. I always have. So no, despite all the videos and suggestions that senior go I won't. I might not make big strength and power gains (like I did as a triathlete doing squats) but I _can_ maintain strength just on the bike. I know it because I did it for years.
 
-If anything, I'm on a perpetual bike trip that begins and ends at my bike shed . I'm maintain fitness and strength into my senior years and creating highly sustainable habits and deeply engraining them into my body and soul. Going to the gym just ain't gonna happen. I freaking hate the gym, always have.
+While looking at my schedule I realized I don't have an extra 90 minutes twice a week for strength training in addition to my 2-5 hour daily rides. I sure as hell am not replacing a beautiful ride at sunset around the lake with a strength gym session indoors. Life is too short for that shit.
+
+Besides, I'm not training to win anything. I'm training for consistent and sustainable fitness and fun over time rather than event-driven performance. It's 
+
+If anything, I'm on a perpetual bike trip that begins and ends at my bike shed. I
 
 Without the gym and squats and deadlifts I can say goodbye to raw strength gains, but I can still build strength and even some hypertrophy on the bike by just sprinting and pushing the hills—especially out of the saddle. I know this because I did it already. For more than a decade as a kid I built leg strength and size using nothing more than my bike. I know seniors slow down muscle building and need more recovery, but still.
 
