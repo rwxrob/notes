@@ -516,7 +516,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bike touring is horrible for your health.md",
+                "file": "Cycling/Bike touring is horrible for your health.md",
                 "mode": "source",
                 "source": false
               },
@@ -676,10 +676,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "318d8a9d16ebb848",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
     "Cycling/Cycling clothing preferences.md",
-    "Bike touring is horrible for your health.md",
+    "Cycling/Bike touring is horrible for your health.md",
     "Food/Mung beans and red lentils.md",
     "Clothing management.md",
     "Clothing",
