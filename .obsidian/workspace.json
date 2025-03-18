@@ -544,12 +544,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base volume now, power later.md",
+                "file": "Cycling/2025-03-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base volume now, power later"
+              "title": "2025-03-18"
             }
           }
         ],
@@ -585,7 +585,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "riding",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -704,10 +704,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca32e4a8483f95a1",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Cycling/Maintaining strength without gym.md",
     "Base volume now, power later.md",
+    "Cycling/2025-03-18.md",
+    "Cycling/Maintaining strength without gym.md",
     "Base first then strength.md",
     "Cycling/Bike touring is horrible for your health.md",
     "Cycling/Cycling clothing preferences.md",
@@ -737,7 +738,6 @@
     "Cycling/Cycling goals.md",
     "Cycling/Chronic inflammation cured.md",
     "Cycling/Goblin Medio Fondo.md",
-    "Cycling/Bike collection.md",
     "Cycling/dtswiss-arc-1100.jpg",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Knowledge management/Search titles with GitHub.png",

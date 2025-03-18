@@ -1,1 +1,0 @@
-Now that my endurance has pretty much recovered from a Winter of coding instead of riding I can up low-intensity base volume and work on fat-reduction and 
