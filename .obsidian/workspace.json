@@ -530,7 +530,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maintaining strength versus building.md",
+                "file": "Cycling/Maintaining strength versus building.md",
                 "mode": "source",
                 "source": false
               },
@@ -690,10 +690,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f913b244a6b2e46",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "Base first then strength.md",
+    "Cycling/Maintaining strength versus building.md",
     "Cycling/Bike touring is horrible for your health.md",
-    "Maintaining strength versus building.md",
     "Cycling/Cycling clothing preferences.md",
     "Food/Mung beans and red lentils.md",
     "Clothing management.md",
@@ -724,7 +725,6 @@
     "Cycling/Bike collection.md",
     "Cycling/dtswiss-arc-1100.jpg",
     "Cycling/Fitness and freshness.md",
-    "Cycling/Club Ride Go Long Western shirt.md",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Knowledge management/Search titles with GitHub.png",
     "qr-code.png",
