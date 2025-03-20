@@ -1,6 +1,6 @@
 Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina on the Mountains to Coast ride, which spans a variety of geographies and weather needs.
 
-I love that the conditions on Mountain to Coast end up making these gear selections  work on a cross-country ride if I ever wanted to do one.
+I love that the conditions on Mountain to Coast end up making these gear selections  work on a cross-country ride if I ever wanted to do one. I also love that I can overpack a bunch of other stuff in case I end up backing the wrong main stuff.
 ## Bags
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
@@ -61,7 +61,7 @@ Rain is absolutely brutal in NC so having serious rain gear is an absolute must.
 In North Carolina morning dew and condensation are _major_ considerations. A bivy really isn't an option at all if you want any level of comfort in the morning. When it rains, it _really_ rains so having a tent that is _actually_ waterproof and windproof is a must.
 
 > [!Forget the sleeping bag]
-> If you have a good tent, you really don't need a sleeping bag. Soldiers rarely use them. Sleep in your cold weather kit instead. This way you have your cold weather gear in case you misjudged the weather _and_ you are carrying less gear. In fact, you can actually ride while wearing it when absolutely needed. Try that with a sleeping bag.
+> If you have a good tent, you really don't need a sleeping bag. Soldiers rarely use them. Sleep in your cold weather kit instead. This way you have your cold weather gear in case you misjudged the weather _and_ you are carrying less gear. In fact, you can actually ride while wearing it when absolutely needed. Try that with a sleeping bag. Plus, nothing is more cozy when the evening chill hits after a sweaty, all-out ride than putting on the down parka and pants. Plus, you can use the long length of the parka to change into other shorts without showing everything you have to everone. Others use a poncho or "river skirt" but that is a one-function thing that just takes up space.
 ## Cook
 
 - Coffee kit
