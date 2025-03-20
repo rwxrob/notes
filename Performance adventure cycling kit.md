@@ -9,8 +9,9 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - Gorewear Fernflow windbreaker
 - Patagonia Dirt Roamer storm pants (rain)
 - Patagonia Super Alpine jacket (rain)
-- Mountain Hardware Down pants
-- Patagonia 
+- Mountain Hardware down pants (sleep)
+- Patagonia Jackon Glacier down parka (sleep)
+- 
 
 ## No bibs
 
