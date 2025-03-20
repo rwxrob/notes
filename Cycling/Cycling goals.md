@@ -1,9 +1,10 @@
+- GC/Sprint focus (but no gym)
 - 70 kilograms
 - 280 fresh FTP
 - 4.0 W/kg
 - 4 hours @ 30 kph solo
 - 3 hours @ 40kph peloton
 - Lake Norman Fondo top 10
-- NC Mountains
-- Goblin Fondo 
-- Sprint focus
+- NC Mountains to Coast
+- NC Mountain Ride
+- NC Coastal Ride
