@@ -1,10 +1,10 @@
-- GC/Sprint focus (but no gym)
+- GC/Sprint focus without gym
 - 70 kilograms
-- 280 fresh FTP
-- 4.0 W/kg
+- 280 fresh (4.0 W/kg) FTP
+- 30-second power: 8 W/kg
 - 4 hours @ 30 kph solo
 - 3 hours @ 40kph peloton
-- Lake Norman Fondo top 10
-- NC Mountains to Coast
-- NC Mountain Ride
-- NC Coastal Ride
+- Lake Norman Gran Fondo top 10
+- NC Mountains to Coast (performance bikepacking)
+- NC Mountain Ride (fun loop)
+- NC Coastal Ride (fun loop)
