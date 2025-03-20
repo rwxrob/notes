@@ -1,4 +1,4 @@
-I am old. I have experience, money, and nothing to prove to anyone but myself. Been there, done that. Now it's my turn for the young kids who love the outdoors (but have no money) to support me. I get to be the old rich guy sipping beverages, laughing around the campfire while *they* cook for *me* and drive all our cozy gear around. I did my turn.
+I am old. I have experience, money, and nothing to prove to anyone but myself. Been there, done that. Now it's my turn for the young kids who love the outdoors (but have no money) to support me. I get to be the old, big-tipping  rich guy sipping beverages and laughing around the campfire while *they* cook for *me* and shlep all my cozy gear around. I did my turn. It's not like I'm a rich entitled asshole pretending to climb Everest.
 
 - GC/Sprint focus without gym
 - 70 kilograms
