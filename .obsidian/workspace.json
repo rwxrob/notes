@@ -586,12 +586,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/2025-03-20.md",
+                "file": "Cycling/Cycling goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-20"
+              "title": "Cycling goals"
             }
           }
         ],
@@ -746,10 +746,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "e1475dbe1c7e9b66",
   "lastOpenFiles": [
-    "Cycling/Performance adventure cycling kit.md",
     "Cycling/2025-03-20.md",
+    "Cycling/Performance adventure cycling kit.md",
     "Cycling/Best performance adventure cycling pack.md",
     "Cycling/Performance adventure cycling.md",
     "Cycling/2025-03-18.md",
