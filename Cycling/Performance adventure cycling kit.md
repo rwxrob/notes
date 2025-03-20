@@ -1,6 +1,6 @@
 Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina on the Mountains to Coast ride, which spans a variety of geographies and weather needs.
 
-I love that the conditions on Mountain to Coast end up making these gear selections that would work on a cross-country ride as well if I ever wanted to do one.
+I love that the conditions on Mountain to Coast end up making these gear selections  work on a cross-country ride if I ever wanted to do one.
 ## Bags
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
@@ -20,7 +20,6 @@ This bag setup is 100% aero and covers everything that is needed. I cannot belie
 I'm never going on any trip where there isn't reliable water resupply. Sill, the one thing I never want to be caught without is water, even if a I know a resupply is only an hour away (I've had that happen before.) So carrying a filter my fastpacking bag is the default, always.
 
 The 500ml bottles are just easier to get in and out and more likely to encourage me to use them instead of waiting. Plus I'm always carrying less extra water wait when water resupply is relatively reliable.
-
 ## Clothing
 
 - ClubRide Go-Long shirt x2
@@ -32,13 +31,14 @@ The 500ml bottles are just easier to get in and out and more likely to encourage
 - Patagonia Nano-Air vest
 - Merino neck gator, head wrap
 - Merino socks x2
-- Zero sandals
+- Zero sandals OR Altair minimal shoes
 - Specialized Torch 3 road shoes
 - Gorewear Fernflow windbreaker
 - Patagonia Dirt Roamer storm pants
 - Patagonia Super Alpine jacket
+- Giro Aether helmet
 - Showers Pass Cross Point waterproof knit wool touchscreen gloves
-- Patagonia Jacskon Glacier down parka OR Patagonia Nano-Air hoody (sleep kit)
+- Patagonia Jackson Glacier down parka OR Patagonia Nano-Air hoody (sleep kit)
 - Mountain Hardware down pants (sleep kit)
 - Down booties (sleep kit)
 
