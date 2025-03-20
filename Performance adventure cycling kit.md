@@ -4,7 +4,9 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
 - LeadOut bento box
 
-This 
+This bag setup is 100% aero and covers everything that is needed. I cannot believe the difference compared to even bikepacking light panniers and seat bags. This is _so_ much simpler, lighter, and faster. I can go on all-roads I would ever want to ride with this.
+
+- [Best performance adventure cycling pack](Cycling/Best%20performance%20adventure%20cycling%20pack.md)
 ## Water
 
 - Katadyn BeFree Tactical 1.0L Water Filter
@@ -41,7 +43,6 @@ Rain is absolutely brutal in NC so having serious rain gear is an absolute must.
 
 > [!TIP]
 > I love that road pedals are completely rideable with sandals. Wanna be footloose on a hot day and just relax? Perhaps tan those ultra white roadie feet? Put on the sandals. It's okay. It's an advantage that very few performance adventure cyclists consider. You just cannot do the same with SPD pedals (unless you get those heavy double-sided ones).
-
 ## Sleep kit
 
 - Mountain Hardware down pants
