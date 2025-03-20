@@ -586,12 +586,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Performance adventure cycling kit.md",
+                "file": "2025-03-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance adventure cycling kit"
+              "title": "2025-03-20"
             }
           }
         ],
@@ -746,10 +746,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "e1475dbe1c7e9b66",
   "lastOpenFiles": [
-    "Cycling/Best performance adventure cycling pack.md",
     "Cycling/Performance adventure cycling kit.md",
+    "2025-03-20.md",
+    "Cycling/Best performance adventure cycling pack.md",
     "Cycling/Performance adventure cycling.md",
     "Cycling/2025-03-18.md",
     "Base volume now, power later.md",
@@ -779,7 +780,6 @@
     "Cycling/Not a bike tourist.md",
     "Cycling",
     "Cycling/Addicted to cruising speed.md",
-    "Cycling/Wheel set wish list.md",
     "Cycling/dtswiss-arc-1100.jpg",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Knowledge management/Search titles with GitHub.png",
