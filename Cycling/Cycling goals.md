@@ -1,3 +1,5 @@
+I am old. I have experience, money, and nothing to prove to anyone but myself. Been there, done that. Now it's my turn for the young kids who love the outdoors (but have no money) to support me. I get to be the old rich guy sipping beverages, laughing around the campfire while *they* cook for *me* and drive all our cozy gear around. I did my turn.
+
 - GC/Sprint focus without gym
 - 70 kilograms
 - 280 fresh (4.0 W/kg) FTP
@@ -19,5 +21,3 @@
 ## Long term
 
 - Plan one supported week-long performance bikepacking trip per year in addition to regulars
-
-I have money and am old, lol. Why not focus on enjoying the riding as much as possible. As for all the solo stuff and logistical planning? Been there, done that (professionally). Now it's my turn for the young ones to support me. I get to be the old rich guy sipping beverage
