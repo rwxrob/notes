@@ -7,6 +7,9 @@ I am old. I have experience, money, and nothing to prove to anyone but myself. B
 - 4 hours @ 30 kph solo
 - 3 hours @ 40kph peloton
 - Lake Norman Gran Fondo top 10 every year
+- Earn and keep local legend on every Goblin segment
+- Earn and keep as many CR/KOMs on Goblin segments as possible
+- Only ride indoors when unridable weather or missed daylight window
 - NC Mountains to Coast (performance bikepacking)
 - NC Mountain Ride (fun loop)
 - NC Coastal Ride (fun loop)
