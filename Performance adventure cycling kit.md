@@ -1,10 +1,8 @@
-Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina. This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance, no lycra at all. Bibs make zero sense because the are hard to get out of, look weird, and only provide minimal aero gains over OrNot Mission shorts in reality.
-
+Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina (when NC Mountains to Coast happens). 
 ## Bags
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
 - LeadOut bento box
-
 ## Water
 
 - Katadyn BeFree Tactical 1.0L Water Filter
@@ -30,6 +28,11 @@ The 500ml bottles are just easier to get in and out and more likely to encourage
 - Gorewear Fernflow windbreaker
 - Patagonia Dirt Roamer storm pants (rain)
 - Patagonia Super Alpine jacket (rain)
+
+This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance, no lycra at all. Bibs make zero sense because they are hard to get out of, look weird, and only provide minimal aero gains over OrNot Mission shorts in reality.
+
+> [!TIP]
+> I love that road pedals are completely rideable with sandals. Wanna be footloose on a hot day and just relax? Perhaps tan those ultra white roadie feet? Put on the sandals. It's okay. It's an advantage that very few performance adventure cyclists consider. You just cannot do the same with SPD pedals (unless you get those heavy double-sided ones).
 
 ## Sleep kit
 
