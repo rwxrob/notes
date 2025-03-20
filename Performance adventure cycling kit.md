@@ -4,6 +4,8 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - ClubRide Go-Long shirt x2
 - OrNot Mission shorts x2
 - ExOfficio underwear (cycling length) x2
+- MAAP Evade hat x2
+- ClubRide ear cover hat
 - Patagonia Nano-Air vest
 - Merino neck gator, head wrap
 - Merino socks x2
@@ -12,6 +14,9 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - Patagonia Super Alpine jacket (rain)
 - Mountain Hardware down pants (sleep)
 - Patagonia Jackon Glacier down parka OR Patagonia Nano-Air hoody (sleep)
-- Down booties (sleep)
-
+- Down booties (sleep) ???
 - Big Agnes tent
+- Inflatable pad ???
+- Sleeping bag liner (no bag ever needed)
+- Bug net for head
+- Coffee kit
