@@ -18,6 +18,8 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - Down booties (sleep) ???
 - Big Agnes tent
 - Inflatable pad ???
+- Inflatable pillow
 - Sleeping bag liner (no bag ever needed)
-- Bug net for head
+- Bug net
 - Coffee kit
+- Katadyn BeFree Tactical 1.0L Water Filter
