@@ -627,7 +627,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "windbre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -648,7 +648,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -746,7 +747,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1475dbe1c7e9b66",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Cycling/Best performance adventure cycling pack.md",
     "Performance adventure cycling kit.md",
