@@ -1,5 +1,4 @@
 - 70 kilograms
 - 280 fresh FTP
-- 
 - Goblin Medio <2 hours
 - Sprint focus
