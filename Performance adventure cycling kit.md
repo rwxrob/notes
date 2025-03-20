@@ -11,7 +11,9 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - Patagonia Super Alpine jacket (rain)
 - Mountain Hardware down pants (sleep)
 - Patagonia Jackon Glacier down parka (sleep)
-- 
+- Down booties (sleep
+- ExOfficio underwear (cycling length) x2
+- Big Agnes tent
 
 ## No bibs
 
