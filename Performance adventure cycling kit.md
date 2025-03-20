@@ -29,11 +29,13 @@ The 500ml bottles are just easier to get in and out and more likely to encourage
 - Patagonia Dirt Roamer storm pants
 - Patagonia Super Alpine jacket
 - Showers Pass Cross Point waterproof knit wool touchscreen gloves
--  Patagonia Jackon Glacier down parka OR Patagonia Nano-Air hoody (sleep kit)
+- Patagonia Jacskon Glacier down parka OR Patagonia Nano-Air hoody (sleep kit)
 - Mountain Hardware down pants (sleep kit)
 - Down booties (sleep kit)
 
 This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance, no lycra at all. Bibs make zero sense because they are hard to get out of, look weird, and only provide minimal aero gains over OrNot Mission shorts in reality.
+
+Rain is absolutely brutal in NC so having serious rain gear is an absolute must.
 
 > [!TIP]
 > I love that road pedals are completely rideable with sandals. Wanna be footloose on a hot day and just relax? Perhaps tan those ultra white roadie feet? Put on the sandals. It's okay. It's an advantage that very few performance adventure cyclists consider. You just cannot do the same with SPD pedals (unless you get those heavy double-sided ones).
@@ -47,6 +49,10 @@ This kit doesn't have a "casual clothes" option because all the clothes double a
 - Inflatable pad ???
 - Inflatable pillow
 - Sleeping bag liner
+
+In North Carolina morning dew and condensation are _major_ considerations. A bivy really isn't an option at all if you want any level of comfort in the morning. When it rains, it _really_ rains so having a tent that is _actually_ waterproof and windproof is a must.
+
+You don't need a sleeping bag. Do what most soldiers do and sleep in your cold weather kit instead. This way you have it in case you misjudged the weather _and_ you are 
 ## Cook
 
 - Coffee kit
