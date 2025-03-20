@@ -15,9 +15,8 @@
 
 1. Drop weight to 70 kg while maintaining as much power as possible
 2. Stay fit despite several disruptions (surgeries, moving, house buying)
-3. Perfect [performance adventure cycling kit](Performance%20adventure%20cycling%20kit.md)
+3. Perfect [performance adventure cycling kit](Performance%20adventure%20cycling%20kit.md) (road and MTB)
 4. Acquire aero road race wheel set to pair with all-road rambler wheel set
-
 ## Long term
 
 - Plan one week-long performance bikepacking trip per year in addition to regulars
