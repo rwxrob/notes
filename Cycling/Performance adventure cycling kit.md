@@ -44,7 +44,7 @@ The 500ml bottles are just easier to get in and out and more likely to encourage
 
 This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance, no lycra at all. Bibs make zero sense because they are hard to get out of, look weird, and only provide minimal aero gains over OrNot Mission shorts in reality.
 
-Rain is absolutely brutal in NC so having serious rain gear is an absolute must.
+Rain is absolutely brutal in NC so having serious rain gear is an absolute must. The discontinued Patagonia Super Alpine jacket is actually for climbing in the harshest conditions and has a hoody that perfectly fits over the Giro Aether helmet (another reason not to get an MTB or POC helmet and stick with minimal, lightest road helmets and just wear a MAAP cap under them when needed).
 
 > [!TIP]
 > I love that road pedals are completely rideable with sandals. Wanna be footloose on a hot day and just relax? Perhaps tan those ultra white roadie feet? Put on the sandals. It's okay. It's an advantage that very few performance adventure cyclists consider. You just cannot do the same with SPD pedals (unless you get those heavy double-sided ones).
@@ -61,7 +61,7 @@ Rain is absolutely brutal in NC so having serious rain gear is an absolute must.
 In North Carolina morning dew and condensation are _major_ considerations. A bivy really isn't an option at all if you want any level of comfort in the morning. When it rains, it _really_ rains so having a tent that is _actually_ waterproof and windproof is a must.
 
 > [!Forget the sleeping bag]
-> You really don't need a sleeping bag. Soldiers rarely use them. Sleep in your cold weather kit instead. Having a good tent even makes the sleeping bag that much more of a waste. This way you have your cold weather gear in case you misjudged the weather _and_ you are carrying less gear. In fact, you can actually ride while wearing it when absolutely needed. Try that with a sleeping bag.
+> If you have a good tent, you really don't need a sleeping bag. Soldiers rarely use them. Sleep in your cold weather kit instead. This way you have your cold weather gear in case you misjudged the weather _and_ you are carrying less gear. In fact, you can actually ride while wearing it when absolutely needed. Try that with a sleeping bag.
 ## Cook
 
 - Coffee kit
