@@ -8,3 +8,6 @@
 - NC Mountains to Coast (performance bikepacking)
 - NC Mountain Ride (fun loop)
 - NC Coastal Ride (fun loop)
+- Linville Gorge
+- Keep local legend on every Goblin segment
+- Keep as many CRs on Goblin segments as possible
