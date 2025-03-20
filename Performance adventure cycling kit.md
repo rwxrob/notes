@@ -4,7 +4,8 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - ClubRide Go-Long shirt x2
 - OrNot Mission shorts x2
 - ExOfficio underwear (cycling length) x2
-- MAAP Evade hat x2
+- MAAP Evade hat
+- MAAP Alt_Road Legionaries  hat (removable sun shield)
 - ClubRide ear cover hat
 - Patagonia Nano-Air vest
 - Merino neck gator, head wrap
