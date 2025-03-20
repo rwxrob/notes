@@ -26,8 +26,12 @@ The 500ml bottles are just easier to get in and out and more likely to encourage
 - Zero sandals
 - Specialized Torch 3 road shoes
 - Gorewear Fernflow windbreaker
-- Patagonia Dirt Roamer storm pants (rain)
-- Patagonia Super Alpine jacket (rain)
+- Patagonia Dirt Roamer storm pants
+- Patagonia Super Alpine jacket
+- Showers Pass Cross Point waterproof knit wool touchscreen gloves
+-  Patagonia Jackon Glacier down parka OR Patagonia Nano-Air hoody (sleep kit)
+- Mountain Hardware down pants (sleep kit)
+- Down booties (sleep kit)
 
 This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance, no lycra at all. Bibs make zero sense because they are hard to get out of, look weird, and only provide minimal aero gains over OrNot Mission shorts in reality.
 
@@ -37,17 +41,18 @@ This kit doesn't have a "casual clothes" option because all the clothes double a
 ## Sleep kit
 
 - Mountain Hardware down pants
-- Patagonia Jackon Glacier down parka OR Patagonia Nano-Air hoody
+- Patagonia Jacskon Glacier down parka OR Patagonia Nano-Air hoody
 - Down booties ???
 - Big Agnes tent (actually water proof)
 - Inflatable pad ???
 - Inflatable pillow
 - Sleeping bag liner
-
-
-
+## Cook
 
 - Coffee kit
+- TODO
+## Tools
+
 - Universal tool
 - Universal bike tool
 - Minipump
