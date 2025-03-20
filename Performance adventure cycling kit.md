@@ -1,4 +1,4 @@
-Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina
+Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina. This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance (no Lycra at all)
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
 - ClubRide Go-Long shirt x2
@@ -13,13 +13,22 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - Gorewear Fernflow windbreaker
 - Patagonia Dirt Roamer storm pants (rain)
 - Patagonia Super Alpine jacket (rain)
-- Mountain Hardware down pants (sleep)
-- Patagonia Jackon Glacier down parka OR Patagonia Nano-Air hoody (sleep)
-- Down booties (sleep) ???
-- Big Agnes tent
+
+## Sleep kit
+
+- Mountain Hardware down pants
+- Patagonia Jackon Glacier down parka OR Patagonia Nano-Air hoody
+- Down booties ???
+- Big Agnes tent (actually water proof)
 - Inflatable pad ???
 - Inflatable pillow
-- Sleeping bag liner (no bag ever needed)
-- Bug net
+- Sleeping bag liner
+
+
+
+
 - Coffee kit
 - Katadyn BeFree Tactical 1.0L Water Filter
+- Universal tool
+- Universal bike tool
+- Minipump
