@@ -6,7 +6,6 @@
 - 3 hours @ 40kph peloton
 - Lake Norman Gran Fondo top 10
 - NC Mountains to Coast (performance bikepacking)
-- Two Gorges Gravel regularly (performance bikepacking)
 - NC Mountain Ride (fun loop)
 - NC Coastal Ride (fun loop)
 - Keep local legend on every Goblin segment
@@ -19,4 +18,6 @@
 4. Acquire aero road race wheel set to pair with all-road rambler wheel set
 ## Long term
 
-- Plan one week-long performance bikepacking trip per year in addition to regulars
+- Plan one supported week-long performance bikepacking trip per year in addition to regulars
+
+I have money and am old, lol. Why not focus on enjoying the riding as much as possible. As for all the solo stuff and logistical planning? Been there, done that (professionally). Now it's my turn for the young ones to support me. I get to be the old rich guy sipping beverage
