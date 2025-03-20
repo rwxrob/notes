@@ -1,6 +1,21 @@
-Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina. This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance (no Lycra at all)
+Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina. This kit doesn't have a "casual clothes" option because all the clothes double as casual and performance, no lycra at all. Bibs make zero sense because the are hard to get out of, look weird, and only provide minimal aero gains over OrNot Mission shorts in reality.
+
+## Bags
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
+- LeadOut bento box
+
+## Water
+
+The one thing I never want to be caught without is water. (I've had that happen before.) Carrying a filter no matter where I go is _always_ worth it. The 500ml bottles are just
+
+- Katadyn BeFree Tactical 1.0L Water Filter
+- 500ml Elite x2 (or 750 depending on trip)
+
+
+
+
+
 - ClubRide Go-Long shirt x2
 - OrNot Mission shorts x2
 - ExOfficio underwear (cycling length) x2
@@ -28,7 +43,6 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 
 
 - Coffee kit
-- Katadyn BeFree Tactical 1.0L Water Filter
 - Universal tool
 - Universal bike tool
 - Minipump
