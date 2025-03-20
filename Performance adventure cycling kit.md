@@ -5,10 +5,12 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 - OrNot Mission shorts
 - Patagonia Nano-Air vest
 - Merino neck gator, head wrap
+- Merino socks x2
 - Gorewear Fernflow windbreaker
-- Patagonia Dirt Roamer storm pants
+- Patagonia Dirt Roamer storm pants (rain)
+- Patagonia Super Alpine jacket (rain)
 - Mountain Hardware Down pants
-
+- Patagonia 
 
 ## No bibs
 

@@ -627,7 +627,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "windbre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
