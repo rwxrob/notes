@@ -1,7 +1,8 @@
 - 70 kilograms
 - 280 fresh FTP
 - 4.0 W/kg
-- Lake Norman Fondo top 10 (34.7 kph, 3:01:00 with peloton)
+- 4 hours @ 32 kph with 
+- Lake Norman Fondo top 10
 - Goblin Medio <2 hours
 - Goblin Fondo 
 - Sprint focus
