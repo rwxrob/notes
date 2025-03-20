@@ -648,8 +648,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -747,7 +746,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d66ce5fcd308145c",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
     "Cycling/Best performance adventure cycling pack.md",
     "Performance adventure cycling kit.md",

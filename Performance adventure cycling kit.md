@@ -1,8 +1,10 @@
-Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina (when NC Mountains to Coast happens). 
+Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina Mountains to Coast ride, which spans a variety of geographies and weather needs. I love that the conditions on this ride end up making gear selections that would work on a cross-country ride as well if I ever wanted to do one.
 ## Bags
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
 - LeadOut bento box
+
+This 
 ## Water
 
 - Katadyn BeFree Tactical 1.0L Water Filter
@@ -52,7 +54,8 @@ Rain is absolutely brutal in NC so having serious rain gear is an absolute must.
 
 In North Carolina morning dew and condensation are _major_ considerations. A bivy really isn't an option at all if you want any level of comfort in the morning. When it rains, it _really_ rains so having a tent that is _actually_ waterproof and windproof is a must.
 
-You don't need a sleeping bag. Do what most soldiers do and sleep in your cold weather kit instead. This way you have it in case you misjudged the weather _and_ you are 
+> [!Forget the sleeping bag]
+> You really don't need a sleeping bag. Soldiers rarely use them. Sleep in your cold weather kit instead. Having a good tent even makes the sleeping bag that much more of a waste. This way you have your cold weather gear in case you misjudged the weather _and_ you are carrying less gear. In fact, you can actually ride while wearing it when absolutely needed. Try that with a sleeping bag.
 ## Cook
 
 - Coffee kit
