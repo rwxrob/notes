@@ -7,14 +7,14 @@ Here are my ongoing notes to develop a high-performance adventure cycling kit th
 
 ## Water
 
-The one thing I never want to be caught without is water. (I've had that happen before.) Carrying a filter no matter where I go is _always_ worth it. The 500ml bottles are just
-
 - Katadyn BeFree Tactical 1.0L Water Filter
 - 500ml Elite x2 (or 750 depending on trip)
 
+I'm never going on any trip where there isn't reliable water resupply. Sill, the one thing I never want to be caught without is water, even if a I know a resupply is only an hour away (I've had that happen before.) So carrying a filter my fastpacking bag is the default, always.
 
+The 500ml bottles are just easier to get in and out and more likely to encourage me to use them instead of waiting. Plus I'm always carrying less extra water wait when water resupply is relatively reliable.
 
-
+## Clothing
 
 - ClubRide Go-Long shirt x2
 - OrNot Mission shorts x2
@@ -25,6 +25,8 @@ The one thing I never want to be caught without is water. (I've had that happen 
 - Patagonia Nano-Air vest
 - Merino neck gator, head wrap
 - Merino socks x2
+- Zero sandals
+- Specialized Torch 3 road shoes
 - Gorewear Fernflow windbreaker
 - Patagonia Dirt Roamer storm pants (rain)
 - Patagonia Super Alpine jacket (rain)
