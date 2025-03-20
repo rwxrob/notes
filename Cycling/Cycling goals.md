@@ -4,6 +4,6 @@
 - 4 hours @ 30 kph solo
 - 3 hours @ 40kph peloton
 - Lake Norman Fondo top 10
-- Goblin Medio <2 hours
+- NC Mountains
 - Goblin Fondo 
 - Sprint focus
