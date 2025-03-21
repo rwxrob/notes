@@ -10,16 +10,18 @@ I am old. I have experience, money, and nothing to prove to anyone but myself. B
 - Earn and keep local legend on every Goblin segment
 - Earn and keep as many CR/KOMs on Goblin segments as possible
 - Only ride indoors when unridable weather or missed daylight window
-- NC Mountains to Coast (performance bikepacking)
-- NC Mountain Ride (fun loop)
-- NC Coastal Ride (fun loop)
+- NC Mountains to Coast (fun, cozy tent glamping)
+- NC Mountain Ride (fun loop, car camping)
+- NC Coastal Ride (fun loop, car camping)
 -
 ## 2025 specifics
 
 1. Drop weight to 70 kg while maintaining as much power as possible
 2. Stay fit despite several disruptions (surgeries, moving, house buying)
-3. Perfect [performance adventure cycling kit](Performance%20adventure%20cycling%20kit.md) (road and MTB)
-4. Acquire aero road race wheel set to pair with all-road rambler wheel set
+
+## 2026
+
+1. Get 
 ## Long term
 
 - Plan one supported week-long performance bikepacking trip per year in addition to regulars
