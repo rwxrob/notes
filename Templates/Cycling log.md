@@ -12,9 +12,9 @@ Today I plan to ...
 - Adidas glasses with polarizing lenses
 ## Report
 
-| Focus | Distance | Elevation | Time | NPower | TSS | Route        | Temp | Wind | Weather |
-| ----- | -------- | --------- | ---- | ------ | --- | ------------ | ---- | ---- | ------- |
-|       |          |           |      |        |     | Goblin Medio |      |      |         |
+| Route        | Time   | Weather | Focus  | Distance | Elevation | Time | NPower  | TSS |
+| ------------ | ------ | ------- | ------ | -------- | --------- | ---- | ------- | --- |
+| Goblin Medio | 3:30pm |         | Zone 2 |          |           |      | 130-170 |     |
 
 - Observation one ...
 ## Nutrition
