@@ -628,12 +628,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Logs/2025-03-20.md",
+                "file": "Templates/2025-03-20 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-20"
+              "title": "2025-03-20 1"
             }
           }
         ],
@@ -788,10 +788,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4a3eddfabd3a640",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-21.md",
     "Cycling/Logs/2025-03-20.md",
+    "Templates/2025-03-20 1.md",
+    "Templates",
+    "Cycling/Logs/2025-03-21.md",
     "Cycling/Essential Garmin computer stats.md",
     "Cycling/Logs/2025-03-19.md",
     "Cycling/Unridable weather.md",
@@ -820,7 +822,6 @@
     "Philosophy",
     "Knowledge management/Keep Obsidian compatible with GitHub.md",
     "Food",
-    "Cycling/Shoe size.md",
     "Knowledge management",
     "Cycling",
     "Cycling/dtswiss-arc-1100.jpg",
@@ -832,7 +833,6 @@
     "Knowledge management/obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
     "notes",
-    "Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph.kgdb.lock",
     "Untitled.canvas"
   ]
 }
