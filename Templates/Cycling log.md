@@ -19,13 +19,9 @@ Today I plan to ...
 - Observation one ...
 ## Nutrition
 
-
-| Time | Where |
-| ---- | ----- |
-|      |       |
-
-
-- Key Nutrients Electrolyte Recovery Plus, 2x500ml, 2 scoops ea.
+| Time  | Where | What                                                           |
+| ----- | ----- | -------------------------------------------------------------- |
+| 15:30 | Ride  | Key Nutrients Electrolyte Recovery Plus, 2x500ml, 2 scoops ea. |
 
 
 
