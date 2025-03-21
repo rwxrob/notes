@@ -12,9 +12,9 @@ Today I plan to ...
 - Adidas glasses with polarizing lenses
 ## Report
 
-| Distance | Elevation | Time    | NPower | TSS | Route        | Temp   | Wind   | Weather |
-| -------- | --------- | ------- | ------ | --- | ------------ | ------ | ------ | ------- |
-| 61.35    | 631       | 2:58:06 | 134    | 100 | Goblin Medio | 25-13C | 30 kph | Cloudy  |
+| Focus    | Distance | Elevation | Time    | NPower | TSS | Route        | Temp   | Wind   | Weather |
+| -------- | -------- | --------- | ------- | ------ | --- | ------------ | ------ | ------ | ------- |
+| Recovery | 61.35    | 631       | 2:58:06 | 134    | 100 | Goblin Medio | 25-13C | 30 kph | Cloudy  |
 
 - Observation one ...
 
