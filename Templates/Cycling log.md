@@ -1,11 +1,13 @@
 Today I plan to ...
 ## Kit
 
-- Grey ClubRide Go-Long shirt
-- Black sleeveless wicking undershirt (kept the chill off, and nipples from getting raw from bib straps)
-- Breaking in new NeoPro black cargo bibs (still feeling a little too tight)
-- MAAP Evade cap (so glad I did, saved me from hypothermia I swear)
-- 2023 Specialized Torch 3 road shoes
+- 2024 ClubRide Go-Long shirt (grey)
+- Sleeveless wicking undershirt (black)
+- NeoPro cargo bibs (black)
+- MAAP Evade cap (grey)
+- Giro Aethos helmet (black)
+- Trimmed silicon earplugs
+- 2023 Specialized Torch 3 road shoes (black)
 - Perl Izumi merino wool mid-length socks
 - Adidas glasses with polarizing lenses
 ## Report
