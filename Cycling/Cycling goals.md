@@ -13,15 +13,15 @@ I am old. I have experience, money, and nothing to prove to anyone but myself. B
 - NC Mountains to Coast (fun, cozy tent glamping)
 - NC Mountain Ride (fun loop, car camping)
 - NC Coastal Ride (fun loop, car camping)
--
 ## 2025 specifics
 
-1. Drop weight to 70 kg while maintaining as much power as possible
-2. Stay fit despite several disruptions (surgeries, moving, house buying)
-
+1. Establish deeply ingrained weekly fitness routine
+2. Drop weight to 70 kg while maintaining as much power as possible
+3. Stay fit despite several disruptions (surgeries, moving, house buying)
+4. Test out local NC rides to see which I want to keep annually
 ## 2026
 
-1. Get 
+1. Buy a 60-80mm top-of-the-line, deep aero wheel set
 ## Long term
 
 - Plan one supported week-long performance bikepacking trip per year in addition to regulars
