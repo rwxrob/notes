@@ -12,15 +12,14 @@ Today I plan to ...
 - Adidas glasses with polarizing lenses
 ## Report
 
-| Focus    | Distance | Elevation | Time    | NPower | TSS | Route        | Temp   | Wind   | Weather |
-| -------- | -------- | --------- | ------- | ------ | --- | ------------ | ------ | ------ | ------- |
-| Recovery | 61.35    | 631       | 2:58:06 | 134    | 100 | Goblin Medio | 25-13C | 30 kph | Cloudy  |
+| Focus | Distance | Elevation | Time | NPower | TSS | Route        | Temp | Wind | Weather |
+| ----- | -------- | --------- | ---- | ------ | --- | ------------ | ---- | ---- | ------- |
+|       |          |           |      |        |     | Goblin Medio |      |      |         |
 
 - Observation one ...
-
 ## Nutrition
 
-- Key Nutrients Electrolyte Recovery Plus, 2x50om
+- Key Nutrients Electrolyte Recovery Plus, 2x500ml, 2 scoops ea.
 
 
 
