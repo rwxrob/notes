@@ -628,12 +628,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Cycling log.md",
+                "file": "Cycling/Logs/2025-03-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling log"
+              "title": "2025-03-21"
             }
           }
         ],
@@ -790,8 +790,8 @@
   },
   "active": "a4a3eddfabd3a640",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-21.md",
     "Templates/Cycling log.md",
+    "Cycling/Logs/2025-03-21.md",
     "Cycling/Logs/2025-03-20.md",
     "Templates",
     "Cycling/Essential Garmin computer stats.md",
