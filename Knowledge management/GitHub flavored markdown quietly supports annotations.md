@@ -12,3 +12,8 @@ Looks like all the following are supported:
 - INFO
 - WARNING
 - IMPORTANT
+
+Here are samples of each to check that it still works:
+
+>[!NOTE]
+>This is a note.
