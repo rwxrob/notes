@@ -642,12 +642,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Logs/2025-03-21.md",
+                "file": "Cycling/Favorite cycling kit brands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-21"
+              "title": "Favorite cycling kit brands"
             }
           }
         ],
@@ -804,8 +804,8 @@
   },
   "active": "b11e28f701db6eaf",
   "lastOpenFiles": [
-    "Cycling/Essential Garmin computer stats.md",
     "Cycling/Logs/2025-03-21.md",
+    "Cycling/Essential Garmin computer stats.md",
     "Templates/Cycling log.md",
     "Cycling/Favorite cycling kit brands.md",
     "Cycling/Logs/2025-03-20.md",
