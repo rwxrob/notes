@@ -23,7 +23,7 @@ Today I plan to ...
 | ----- | ----- | -------------------------------------------------------------- |
 | 15:30 | Ride  | Key Nutrients Electrolyte Recovery Plus, 2x500ml, 2 scoops ea. |
 
-
+## Thoughts
 
 
 
