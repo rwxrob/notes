@@ -17,3 +17,15 @@ Here are samples of each to check that it still works:
 
 >[!NOTE]
 >This is a note.
+
+>[!NOTE]
+>This is a note.
+
+>[!NOTE]
+>This is a note.
+
+>[!NOTE]
+>This is a note.
+
+>[!NOTE]
+>This is a note.
