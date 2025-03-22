@@ -9,9 +9,10 @@ Looks like all the following are supported:
 
 - NOTE
 - TIP
-- INFO
 - WARNING
 - IMPORTANT
+
+It appears labels and collapsing them and INFO are not supported on GitHub.
 
 Here are samples of each to check that it still works:
 
@@ -20,9 +21,6 @@ Here are samples of each to check that it still works:
 
 >[!TIP]
 >This is a tip.
-
->[!INFO]
->This is info.
 
 >[!WARNING]
 >This is a warning.
