@@ -18,14 +18,14 @@ Here are samples of each to check that it still works:
 >[!NOTE]
 >This is a note.
 
->[!NOTE]
->This is a note.
+>[!TIP]
+>This is a tip.
 
->[!NOTE]
->This is a note.
+>[!INFO]
+>This is info.
 
->[!NOTE]
->This is a note.
+>[!WARNING]
+>This is a warning.
 
->[!NOTE]
->This is a note.
+>[!IMPORTANT]
+>This is important.
