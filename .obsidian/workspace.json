@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Simple is underrated.md",
+                "file": "Cycling/Logs/2025-03-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple is underrated"
+              "title": "2025-03-22"
             }
           }
         ],
@@ -187,10 +187,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "61758c5bed6d03d2",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-21.md",
     "Philosophy/Simple is underrated.md",
+    "Cycling/Logs/2025-03-22.md",
+    "Cycling/Logs/2025-03-21.md",
     "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
     "Cycling/Favorite cycling kit brands.md",
     "Cycling/Essential Garmin computer stats.md",
@@ -218,7 +219,6 @@
     "Like hacks/Take a nap to warm up.md",
     "Like hacks",
     "Knowledge management/Disable default automatic hard line breaks.md",
-    "Knowledge management/One thought per note principle.md",
     "Philosophy",
     "Food",
     "Knowledge management",
