@@ -12,4 +12,4 @@ I obviously prioritized my family as well, despite the events leading to the div
 
 What are my priorities going into my senior years?
 
-That's easy. I _will_ be that 90-year-old dude still riding his bike with skin that bears the proof of decades of living an active lifestyle, so help me God. Hopefully my knees will continue to work. And, by the way, what better way to demonstrate my love of God than taking immaculate care of the most valuable gift God's given me: my life and body. It's definitely a priority.
+That's easy. I _will_ be that 90-year-old dude still riding his bike with skin that bears the proof of decades of living an active lifestyle, so help me God. Hopefully my knees will continue to work. And, by the way, what better way to demonstrate my love of God than taking immaculate care of the most valuable gift God's given me: my life and body. It's been a priority most of my life.
