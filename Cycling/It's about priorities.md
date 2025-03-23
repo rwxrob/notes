@@ -1,4 +1,8 @@
-I once saw an interview with a 70-year-old who kicked ass on a century road race. I wish I could find it. I'll never forget him answering a question about him compared to everyone else his age, "It's about priorities." Whether it's about staying fit or free to enjoy your life the way you want, it always comes down to what a person _actually_ prioritizes. 
+I once saw an interview with a 70-year-old who kicked ass on a century road race. I wish I could find it. I'll never forget him answering a question about him compared to everyone else his age. "It's about priorities" was his answer. 
+
+Matt Ryder crosses America by bike and does a lot of other stuff. He explains he manages it by working for various jobs and organizations that he truly believes in to work up enough money to just ride his bike for as long as he wants. Then he goes back and works some more. He's not an "influencer" by trade like so many others. His life priorities are centered around what gives him joy. He's one of the most inspiring human beings I've ever run across on YouTube because of it.
+
+Whether it's about staying fit or living your life the way you want, it always comes down to what a person _actually_ prioritizes, what they _do_
 
 Priorities are shown by what we *do*, not say. What we document our priorities to be and what they actually are is demonstrated in our actions and how we spend our time. 
 
