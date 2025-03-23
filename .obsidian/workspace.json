@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/It's about priorities.md",
+                "file": "Cycling/Logs/2025-03-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It's about priorities"
+              "title": "2025-03-23"
             }
           }
         ],
@@ -231,8 +231,8 @@
   },
   "active": "ebd58a51519697b1",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-23.md",
     "Cycling/It's about priorities.md",
+    "Cycling/Logs/2025-03-23.md",
     "Philosophy/Simple is underrated.md",
     "Templates/Cycling log.md",
     "Cycling/Wheel set wish list.md",
