@@ -1,0 +1,1 @@
+For almost a decade a slice of almost burned toast was a staple of my pre-event meal combined with half a banana and a tablespoon of peanut butter. That meal led me to every PR I've ever made. I could eat it and do all the rest of event nutrition as liquid. It never got in the way of my full-gas Triah
