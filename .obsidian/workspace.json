@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crispy plain waffles instead of toast.md",
+                "file": "Cycling/Logs/2025-03-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crispy plain waffles instead of toast"
+              "title": "2025-03-22"
             }
           }
         ],
@@ -215,11 +215,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce33a4363a582d12",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-22.md",
-    "Crispy plain waffles instead of toast.md",
     "Cycling/Logs/2025-03-23.md",
+    "Cycling/Logs/2025-03-22.md",
+    "Cycling/Crispy plain waffles instead of toast.md",
     "Cycling/What causes legs to get sore?.md",
     "Templates/Cycling log.md",
     "Cycling/Logs/2025-03-21.md",
