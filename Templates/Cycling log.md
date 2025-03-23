@@ -1,4 +1,10 @@
-Today I plan to ...
+This morning ...
+
+----
+
+After that ride ...
+
+----
 ## Kit
 
 - 2024 ClubRide Go-Long shirt (grey)
@@ -20,10 +26,6 @@ Today I plan to ...
 ## Nutrition
 
 - Key Nutrients Electrolyte Recovery Plus, 2x500ml, 2 scoops ea.
-## Thoughts
-
-TODO
-
 
 
 
