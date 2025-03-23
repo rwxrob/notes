@@ -2,9 +2,9 @@ I once saw an interview with a 70-year-old who kicked ass on a century road race
 
 Matt Ryder crosses America by bike and does a lot of other stuff. He explains he manages it by working for various jobs and organizations that he truly believes in to work up enough money to just ride his bike for as long as he wants. Then he goes back and works some more. He's not an "influencer" by trade like so many others. His life priorities are centered around what gives him joy. He's one of the most inspiring human beings I've ever run across on YouTube because of it.
 
-Whether it's about staying fit or living your life the way you want, it always comes down to what a person _actually_ prioritizes, what they _do_
+Whether it's about staying fit or living your life the way you want, it always comes down to what a person _actually_ prioritizes, what they _do_, how they spend their money, how they make their money. With whom do they associate? What we document our priorities to be and what they actually are is so often completely out of sync and, let's face it, hypocritical.
 
-Priorities are shown by what we *do*, not say. What we document our priorities to be and what they actually are is demonstrated in our actions and how we spend our time. 
+We've all been that hypocrite and we've all been that authentic person for someone else. That balance is in constant flux. I think back to February 2023 when I bloated up to 93.3 kilograms mostly because of stress, booze, gaming, and livestreaming. What the hell was I thinking? I had lost all
 
 When I see a guy with a family on Strava get up at 5:30 AM to ride in circles in the cold dark to increase his base fitness before headed off to work and to support his family I see his priorities. This is a wonderful thing about Strava. "If it's not on Strava it didn't happen." The great thing about Strava is not the ability to boast, which is definitely a motivator and as fun as any video game, but to demonstrate what are priorities are and reward others who share those priorities. This is why I think even amateurs should post to Strava.
 
