@@ -15,7 +15,7 @@ Here's my normal daily food intake:
 - 2 Sam Adams _Just the Hop_ beers (1 immediately after ride, 1 later with popcorn)
 - big carb-heavy dinner with family, often pasta with roasted veggies (dinner )
 - 1 bowl popcorn popped in olive oil + salt (nothing else)
-- 1/6 Caminbaer  
+- 1/7 Camembert  cheese
 - 1 dark chocolate bar
 - 1 scoop Huel (just before bed)
 
@@ -25,3 +25,7 @@ When I do a century on a weekend I eat the following during each of the two pit 
 - 1 scoop Huel Black Chocolate (minimal water so no need to pee on ride)
 
 I also end up eating a lot more random snacks on evening of century.
+
+So my monthly shopping list looks something like this:
+
+- Waffle mix 4x $1.50
