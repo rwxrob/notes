@@ -11,7 +11,7 @@ Here's my normal daily food intake:
 - waffle + 1 scoop Huel Black Chocolate(+3 hours)
 - 1 cup white rice + 1 cup lentils (3 hours before ride)
 - coffee + waffle (30 minutes before ride)
-- 4x Electrolyte powder scoop (on ride)
+- 4x Electrolyte powder scoop + light corn syrup (on ride)
 - 2 Sam Adams _Just the Hop_ beers (1 immediately after ride, 1 later with popcorn)
 - big carb-heavy dinner with family, often pasta with roasted veggies (dinner )
 - 1 bowl popcorn popped in olive oil + salt (nothing else)
@@ -43,6 +43,7 @@ So my monthly shopping list without dinners looks something like this:
 | Olive Oil   | $20  |
 | Caffeine    | $10  |
 | Elecrolytes | $51  |
-| TOTAL       | $438 |
+| Corn Syrup  | $40  |
+| TOTAL       | $478 |
 
 Yeah, that's a lot considering it doesn't count dinner (which my wife always makes and generally pays for). Still, that is not a fraction of the cost people pay just to have a regular coffee or beer or eat out with friends. The best part about having this staples cover all my bases is that I really don't have to think about it and can add in variety randomly without freaking out that I'll be missing out on something.
