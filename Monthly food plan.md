@@ -28,4 +28,12 @@ I also end up eating a lot more random snacks on evening of century.
 
 So my monthly shopping list looks something like this:
 
-- Waffle mix 4x $1.50
+
+| Staple     | Monthly Cost |
+| ---------- | ------------ |
+| Waffle mix | $10          |
+| Rice       | $20          |
+| Eggs       | $40          |
+| Huel       | $90          |
+| Beer       | $85          |
+|            |              |
