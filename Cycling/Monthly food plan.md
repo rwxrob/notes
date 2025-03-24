@@ -28,7 +28,7 @@ When I do a century on a weekend I eat the following during each of the two pit 
 I also end up eating a lot more random snacks on evening of century.
 
 So my monthly shopping list without dinners looks something like this:
-	
+
 | Staple      | Cost |
 | ----------- | ---- |
 | Waffle Mix  | $10  |
@@ -43,4 +43,6 @@ So my monthly shopping list without dinners looks something like this:
 | Olive Oil   | $20  |
 | Caffeine    | $10  |
 | Elecrolytes | $51  |
-| TOTAL       |      |
+| TOTAL       | $438 |
+
+Yeah, that's a lot considering it doesn't count dinner (which my wife always makes and generally pays for). Still, that is not a fraction of the cost people pay just to have a regular coffee or beer or eat out with friends. The best part about having this staples cover all my bases is that I really don't have to think about it and can add in variety randomly without freaking out that I'll be missing out on something.
