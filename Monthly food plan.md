@@ -11,7 +11,7 @@ Here's my normal daily food intake:
 - waffle + 1 scoop Huel Black Chocolate(+3 hours)
 - 1 cup white rice + 1 cup lentils (3 hours before ride)
 - coffee + waffle (30 minutes before ride)
-- 4x Electrolyte Essentials powder (on ride)
+- 4x Electrolyte powder scoop (on ride)
 - 2 Sam Adams _Just the Hop_ beers (1 immediately after ride, 1 later with popcorn)
 - big carb-heavy dinner with family, often pasta with roasted veggies (dinner )
 - 1 bowl popcorn popped in olive oil + salt (nothing else)
@@ -23,17 +23,21 @@ When I do a century on a weekend I eat the following during each of the two pit 
 
 - 1 cup white rice
 - 1 scoop Huel Black Chocolate (minimal water so no need to pee on ride)
+- 100 mg Caffeine pill
 
 I also end up eating a lot more random snacks on evening of century.
 
-So my monthly shopping list looks something like this:
-
-
-| Staple     | Monthly Cost |
-| ---------- | ------------ |
-| Waffle mix | $10          |
-| Rice       | $20          |
-| Eggs       | $40          |
-| Huel       | $90          |
-| Beer       | $85          |
-|            |              |
+So my monthly shopping list without dinners looks something like this:
+	
+| Staple     | Cost |
+| ---------- | ---- |
+| Waffle Mix | $10  |
+| Rice       | $20  |
+| Eggs       | $40  |
+| Huel       | $90  |
+| Beer       | $85  |
+| Popcorn    | $20  |
+| Camembert  | $32  |
+| Chocolate  | $20  |
+| Olive Oil  | $20  |
+| Caffeine   | $10  |
