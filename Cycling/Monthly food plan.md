@@ -29,21 +29,23 @@ I also end up eating a lot more random snacks on evening of century.
 
 So my monthly shopping list without dinners looks something like this:
 
-| Staple      | Cost |
-| ----------- | ---- |
-| Waffle Mix  | $10  |
-| Rice        | $20  |
-| Lentils     | $40  |
-| Eggs        | $40  |
-| Huel        | $90  |
-| Beer        | $85  |
-| Popcorn     | $20  |
-| Camembert   | $32  |
-| Chocolate   | $20  |
-| Olive Oil   | $20  |
-| Caffeine    | $10  |
-| Elecrolytes | $51  |
-| Corn Syrup  | $40  |
-| TOTAL       | $478 |
+| Staple            | Cost |
+| ----------------- | ---- |
+| Waffle Mix        | $10  |
+| Rice              | $20  |
+| Lentils           | $40  |
+| Eggs              | $40  |
+| Huel              | $90  |
+| Beer              | $85  |
+| Popcorn           | $20  |
+| Camembert         | $32  |
+| Chocolate         | $20  |
+| Olive Oil         | $20  |
+| Caffeine Pills    | $10  |
+| Elecrolyte Powder | $51  |
+| Corn Syrup        | $40  |
+| TOTAL             | $478 |
 
 Yeah, that's a lot considering it doesn't count dinner (which my wife always makes and generally pays for). Still, that is not a fraction of the cost people pay just to have a regular coffee or beer or eat out with friends. The best part about having this staples cover all my bases is that I really don't have to think about it and can add in variety randomly without freaking out that I'll be missing out on something.
+
+Consider just the cost of a black coffee every single day mid ride would cost $3, that would be almost $90 per month just for coffee when having a nice coffee ground from beans at home in the fanciest coffee machine on the planet only costs a few cents per cup.
