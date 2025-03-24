@@ -9,4 +9,10 @@ Here's my normal weekday food intake:
 
 - Coffee + waffle + two hardboiled eggs mashed up with 1 tbsp mayo, paprika, salt (wake)
 - waffle + 1 scoop Huel Black Chocolate(+3 hours)
-- 1 cup white rice + 1 cup lentils (2 hours before ride)
+- 1 cup white rice + 1 cup lentils (3 hours before ride)
+- coffee + waffle (30 minutes before ride)
+- 4x Electrolyte Essentials powder (on ride)
+- 2 Sam Adams _Just the Hop_ beers (1 immediately after ride, 1 later with popcorn)
+- big carb-heavy dinner with family, often pasta with roasted veggies (dinner )
+- 1 bowl popcorn popped in olive oil + salt (nothing else)
+- 1 scoop Huel (just before bed)
