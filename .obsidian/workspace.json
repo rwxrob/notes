@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Logs/2025-03-24.md",
+                "file": "Cycling/Monthly food plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-24"
+              "title": "Monthly food plan"
             }
           }
         ],
@@ -245,10 +245,10 @@
   },
   "active": "6dfcf0f1c60ef079",
   "lastOpenFiles": [
-    "Cycling/Monthly food plan.md",
     "Cycling/Logs/2025-03-24.md",
-    "Cycling/Logs/2025-03-22.md",
     "Cycling/Logs/2025-03-23.md",
+    "Cycling/Monthly food plan.md",
+    "Cycling/Logs/2025-03-22.md",
     "Cycling/It's about priorities.md",
     "Philosophy/Simple is underrated.md",
     "Templates/Cycling log.md",
