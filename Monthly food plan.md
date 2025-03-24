@@ -29,15 +29,18 @@ I also end up eating a lot more random snacks on evening of century.
 
 So my monthly shopping list without dinners looks something like this:
 	
-| Staple     | Cost |
-| ---------- | ---- |
-| Waffle Mix | $10  |
-| Rice       | $20  |
-| Eggs       | $40  |
-| Huel       | $90  |
-| Beer       | $85  |
-| Popcorn    | $20  |
-| Camembert  | $32  |
-| Chocolate  | $20  |
-| Olive Oil  | $20  |
-| Caffeine   | $10  |
+| Staple      | Cost |
+| ----------- | ---- |
+| Waffle Mix  | $10  |
+| Rice        | $20  |
+| Lentils     | $40  |
+| Eggs        | $40  |
+| Huel        | $90  |
+| Beer        | $85  |
+| Popcorn     | $20  |
+| Camembert   | $32  |
+| Chocolate   | $20  |
+| Olive Oil   | $20  |
+| Caffeine    | $10  |
+| Elecrolytes | $51  |
+| TOTAL       |      |
