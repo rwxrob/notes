@@ -5,7 +5,7 @@ Over the years what I eat has really changed based on level of activity, trainin
 - Use Huel instead of daily multi-vitamins and fish oil
 - Focus on good cheap carbs to fill up: rice, waffles, potatoes
 
-Here's my normal weekday food intake:
+Here's my normal daily food intake:
 
 - Coffee + waffle + two hardboiled eggs mashed up with 1 tbsp mayo, paprika, salt (wake)
 - waffle + 1 scoop Huel Black Chocolate(+3 hours)
@@ -15,4 +15,13 @@ Here's my normal weekday food intake:
 - 2 Sam Adams _Just the Hop_ beers (1 immediately after ride, 1 later with popcorn)
 - big carb-heavy dinner with family, often pasta with roasted veggies (dinner )
 - 1 bowl popcorn popped in olive oil + salt (nothing else)
+- 1/6 Caminbaer  
+- 1 dark chocolate bar
 - 1 scoop Huel (just before bed)
+
+When I do a century on a weekend I eat the following during each of the two pit stops:
+
+- 1 cup white rice
+- 1 scoop Huel Black Chocolate (minimal water so no need to pee on ride)
+
+I also end up eating a lot more random snacks on evening of century.
