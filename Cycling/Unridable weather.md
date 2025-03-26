@@ -3,8 +3,7 @@ The main criterion is simple: will my normal training quality be affected by the
 - No daylight - not safe for normal training speeds, not fun, don't want extra lights to manage
 - <0C - risk of ice, not fun, better on lungs to train indoors
 - >32C  - too hard to maintain hydration and electrolytes compared to indoors
-- Rain and <10  - no gear can maintain optimal training conditions compared to indoor
-- Serious thunderstorms with lightning and wind hazard - stupid dangerous, down branches risk, etc.
+- Serious storms - stupid dangerous, lightening, down branches risk, etc.
 
 I've put studs into my knobby tires to ride in ice storms for my 20 mile commute in Portland, Oregon. I know there is nothing really "unrideable" but for me drawing the line someplace makes all the other routine logistics just a lot less time consuming to think about. I never wan to sacrifice training quality just to prove how tough I am to myself (been there, done that).
 
