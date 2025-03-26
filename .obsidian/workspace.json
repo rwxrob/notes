@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Headphones are not dangerous.md",
+                "file": "Cycling/Logs/2025-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Headphones are not dangerous"
+              "title": "2025-03-25"
             }
           }
         ],
@@ -259,8 +259,8 @@
   },
   "active": "7d61cffe5abc5962",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-25.md",
     "Headphones are not dangerous.md",
+    "Cycling/Logs/2025-03-25.md",
     "Cycling/Logs/2025-03-24.md",
     "Templates/Cycling log.md",
     "Cycling/Logs/2025-03-23.md",
