@@ -6,4 +6,6 @@ What is this type of riding? Well, you won't see a single YouTube video about it
 
 It's not gravel riding. Sure there will be a bit here and where when the street has been ripped up for some reason or there's a tiny gravel bit attaching two paved sections but on the whole there ain't much dirt at all. The _clothing_ choices might be a lot closer to what gravel riders wear, however, possibly even the shoes.
 
-It's not 
+It's not mountain biking. Mountain bikes are incredibly fun in the suburbs where you can build jumps and tracks in your yard around your first house on a new block but that is where the fun ends. Once those streets are pristinely paved and maintained by the suburb HOA you now have the best possible tarmac for suburban sprints and crits and mountain bikes just do not corner nearly as enjoyably on that stuff not even gravel tires.
+
+It's not urban bike messenger riding. Suburban roads are notoriously hilly and riding a fixie around isn't nearly as fun. You can't really bunny hop and you absolutely cannot attack a corner with tight angles. You might wear the same shirt as a bike messenger but as a suburban sprinter you are going to want just a bit of aero to go with that style. The element of being intimately familiar with the vibe of the hood is definitely still a part of it, however. Knowing when traffic will be where and what blind corners to watch for and which s
