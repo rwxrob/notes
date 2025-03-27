@@ -16,4 +16,4 @@ It's not bike touring or adventure cycling. While there is more on the bike than
 
 It's not peloton pro riding, obviously. The closest to this will be that occasional time that you go full lycra to get that extra KOM even though pretty much every other day you have a t-shirt or gravel shirt on. Suburban sprinters also wear helmets both to keep the mom's from calling the cops on them and because they aren't as absolutely braindead stupid to put cool over safety like bike messengers do during their short selfish, fearless, stupid lives.
 
-I admit I like confusing 
+I admit I enjoy confusing people when they seem to try and figure me out. My goal is to have the fitness and performance of a high-end amateur roady, the baseline skills of a bike messenger or XC mountain biker when it comes to bike handling and picking lines, and the style, attitude, and look of a cross between a messenger, gravel rider, and roady.
