@@ -1,6 +1,8 @@
-There's a style of bike riding that most people who love to ride into their adult years tend to downplay: sprinting on quiet suburban roads. Before I ever raced my first crit I was racing them around the house and then the block and eventually on the way to my girlfriends house ten miles away. Now that I'm considerably older I find myself realizing that is still my favorite way to ride a bike. It makes me wonder how much we allow ourselves to be influenced by others about what we actually enjoy.
+There's a style of bike riding that most people who love to ride into their adult years tend to downplay: sprinting on quiet suburban roads.
 
-I imagine if I grew up riding in New York I'd be prone to riding like a bike messenger and would enter tons of ally cat races, in Indiana a long, lonely farm road rider, and Moab, a MTB XC trail rider (which I did a lot of as well). The point is what we learned to love stays with us and shamelessly admitting that is not only okay but will likely lead to the most enjoyment possible.
+Before I ever raced my first crit I was racing around the house and then the block and eventually on the way to my girlfriend's house ten miles away. Now that I'm considerably older I find myself realizing that style of riding is still my favorite. It's scenic and exciting filling me with all the good drugs I can get from my own body—way more than I would get on a long-haul waiting to get killed from behind by some tired trucker.
+
+It makes me wonder how much we allow ourselves to be influenced by others about what we actually enjoy. I imagine if I grew up riding in New York I'd be prone to riding like a bike messenger and would enter tons of ally cat races, in Indiana a long, lonely farm road rider, and Moab, a MTB XC trail rider (which I did a lot of as well). The point is what we learned to love stays with us and shamelessly admitting that is not only okay but will likely lead to the most enjoyment possible.
 
 What is this type of riding? Well, you won't see a single YouTube video about it because it is a niche within a niche. Let's describe what it _isn't_ to help identify it.
 
