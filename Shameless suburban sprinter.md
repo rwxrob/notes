@@ -14,4 +14,8 @@ It's definitely not time trialing or triathlon. You absolutely do not want to fu
 
 It's not bike touring or adventure cycling. While there is more on the bike than a bike messenger (like water bottles) there definitely is not a light or rack or even a toolkit. The road bike looks like you mated a bike messenger fixie with a Specialized Allez or other bike made for speed and comfort. Endurance geometry is fine so you can get to the suburb one or two over and crush their KOMs.
 
-Yes this is Strava KOM hunting, something that a lot of serious cyclists make fun of. Oh wel
+It's not peloton pro riding, obviously. The closest to this will be that occasional time that you go full lycra to get that extra KOM even though pretty much every other day you have a t-shirt or gravel shirt on. Suburban sprinters also wear helmets both to keep the mom's from calling the cops on them and because they aren't as absolutely braindead stupid to put cool over safety like bike messengers do during their short selfish, fearless, stupid lives.
+
+Yes this is Strava KOM hunting, something that a lot of serious cyclists make fun of. Oh well, sucks to be them.
+
+On the whole I've had a realy 
