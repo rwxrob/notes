@@ -16,6 +16,4 @@ It's not bike touring or adventure cycling. While there is more on the bike than
 
 It's not peloton pro riding, obviously. The closest to this will be that occasional time that you go full lycra to get that extra KOM even though pretty much every other day you have a t-shirt or gravel shirt on. Suburban sprinters also wear helmets both to keep the mom's from calling the cops on them and because they aren't as absolutely braindead stupid to put cool over safety like bike messengers do during their short selfish, fearless, stupid lives.
 
-Yes this is Strava KOM hunting, something that a lot of serious cyclists make fun of. Oh well, sucks to be them.
-
-On the whole I've had a realy 
+I admit I like confusing 
