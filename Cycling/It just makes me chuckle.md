@@ -1,11 +1,13 @@
-I watched a video with a bunch of bike messengers more into the vibe and their look that anything. I had to chuckle. We all get that way.
-
-One guy was showing off the weight of his minimal titanium bike that he had to drill holes into for a water bottle cage and felt the need to justify. It had gorgeous deep-rim aero wheels. Then he raced with a five pound Kryptonite bike lock for no reason in an Ally Cat. The lock probably weighed slightly less than his bike.
-
-I know that bike messengers are not into logic and science—like at all. They are _so_ into the vibe. They wouldn't ride a fixie with no brakes and no helmet in the middle of New York if logic and good sense were involved in their decision making process. It's all about that look and "street cred" and—oh my god—don't you _dare_ call them out on it.
-
-The same could be said of seriously overweight people stuffing themselves into skintight spandex often riding $10,000 carbon bikes (that would literally break if they hit a speed bump the wrong way). It just makes me chuckle.  It isn't the aero drag that is slowing them down, obviously—especially on the downhills. They (like me) want the _look_ of speed even if their man boobs shout "I'm slow as fuck." It's not body shaming. It's just ridiculously ironic.
-
-I get that people are tribal and way into the vibe of their tribe, but sometimes form supplants function and people just look absolutely silly to everyone not in that tribe. Sometimes wearing the right thing to join the club (or cult) matters more than the reason the cult was formed in the first place. It just makes me chuckle.
-
-Now I have a confession to make. I proudly wear a gorgeous, slow wind-flapping western style gravel shirt that cost more than most professional cycling jerseys while riding my heavy aluminum bike with top-of-the-line carbon deep rim aero wheels Why? Because it looks so damn cool, obviously! I'm no better than any of the rest but so anyone looking at me from the suburban streets as I sprint by all they see is a semi-retired old man riding his bike _way_ to fast in a cowboy shirt. It just makes them chuckle.
+II watched a video with a bunch of bike messengers more into the vibe and their look that anything. I had to chuckle. We all get that way.  
+  
+One guy was showing off the weight of his minimal titanium bike that he had to drill holes into for a water bottle cage and felt the need to justify. It had gorgeous deep-rim aero wheels. Then he raced with a five pound Kryptonite bike lock for no reason in an Ally Cat. The lock probably weighed slightly less than his bike.  
+  
+I know that bike messengers are not into logic and science—like at all. They are _so_ into the vibe. They wouldn't ride a fixie with no brakes and no helmet in the middle of New York if logic and good sense were involved in their decision making process. It's all about that look and "street cred" and—oh my god—don't you _dare_ call them out on it. (Don't worry though. These guys would never be caught dead using Strava.)  
+  
+The same could be said of seriously overweight people stuffing themselves into skintight spandex often riding $10,000 carbon bikes (that would literally break if they hit a speed bump the wrong way). It just makes me chuckle. It isn't the aero drag that is slowing them down, obviously—especially on the downhills. They (like me) want the _look_ of speed even if their man boobs shout "I'm slow as fuck." It's not body shaming. It's just ridiculously ironic.  
+  
+I get that people are tribal and way into the vibe of their tribe, but sometimes form supplants function and people just look absolutely silly to everyone not in that tribe. Sometimes wearing the right thing to join the club (or cult) matters more than the reason the cult was formed in the first place. It just makes me chuckle.  
+  
+Now I have a confession to make. I proudly wear a gorgeous, slow wind-flapping western style gravel shirt that cost more than most professional cycling jerseys while riding my heavy aluminum bike with top-of-the-line carbon deep rim aero wheels that cost more than the entire cost of the bike itself. Why? Because it looks so damn cool!  
+  
+I'm no better than any of the rest. I just don't know what my tribe would even be, senior suburban sprinters? Anyone looking at me from their front lawn as I sprint by just sees a random, semi-retired, old man riding his bike _way_ to fast for a man of his age—in a thift-store cowboy shirt no less. "Good for him" they whisper to themselves before continuing to mow their lawn. It just makes them chuckle.
