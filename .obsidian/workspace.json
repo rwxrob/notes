@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "2025-03-27"
             }
+          },
+          {
+            "id": "0d6240549bfca6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bike messenger obsessions make know sense.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bike messenger obsessions make know sense"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -285,10 +299,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52c74714684c4a11",
+  "active": "0d6240549bfca6c4",
   "lastOpenFiles": [
-    "Cycling/Strength and core training.md",
     "Cycling/Logs/2025-03-27.md",
+    "Bike messenger obsessions make know sense.md",
+    "Cycling/Strength and core training.md",
     "Cycling/Shameless suburban sprinter.md",
     "Cycling/Headphones are not dangerous.md",
     "Cycling/weekly-schedule.png",
@@ -314,7 +329,6 @@
     "Cycling/It's about priorities.md",
     "Cycling/Monthly food plan.md",
     "Cycling/Unridable weather.md",
-    "Cycling/Performance adventure cycling kit.md",
     "Templates",
     "Cycling/Logs",
     "Clothing",
