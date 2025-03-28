@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/It just makes me chuckle.md",
+                "file": "Cycling/Logs/2025-03-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It just makes me chuckle"
+              "title": "2025-03-28"
             }
           }
         ],
@@ -301,8 +301,10 @@
   },
   "active": "0d6240549bfca6c4",
   "lastOpenFiles": [
-    "Cycling/Logs/2025-03-27.md",
+    "Templates/Cycling log.md",
+    "Cycling/Logs/2025-03-28.md",
     "Cycling/It just makes me chuckle.md",
+    "Cycling/Logs/2025-03-27.md",
     "Cycling/Strength and core training.md",
     "Cycling/Shameless suburban sprinter.md",
     "Cycling/Headphones are not dangerous.md",
@@ -327,8 +329,6 @@
     "Cycling/What causes legs to get sore?.md",
     "Cycling/Crispy plain waffles instead of toast.md",
     "Cycling/It's about priorities.md",
-    "Cycling/Monthly food plan.md",
-    "Cycling/Unridable weather.md",
     "Templates",
     "Cycling/Logs",
     "Clothing",
