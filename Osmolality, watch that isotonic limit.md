@@ -14,8 +14,5 @@ This is why heat and humidity are such a _huge_ performance factors. They radica
 
 This is why even though I _could_ have completely my bike trip last Summer in 136F weather last year it likely would have come close to killing me because it is impossible to both take in the level of carbs needed to fuel that effort _and_ take in enough water. I almost did it because it is "a dry heat" meaning my sweat actually does something (compared to same temps in NC). Even a minimally hot day makes fueling and hydration much, much harder. I likely would have went hypertonic and died of heat stroke (like so many others did that year from far less strenuous activities). "They should have brought more water" is a shallow, uneducated opinion about what actually happened to them. I'm glad I heeded the warnings from the national weather service even though I lost hundreds of dollars.
 
-So what should I actually eat and drink and how?
+So what should I actually eat and drink and how? I feel more comfortable ensuring I've got a little wiggle room in my overall gut fluid osmolality.  And since sodium does not factor nearly as much carbohydrate let's start with a safe glucose solution. 6-8% is the max of the isotonic zone so if my drinks with glucose come in at 4% I should be good. I've decided to always carry 750ml bottles after reading a ton of others who do (who are not pros with their own soigneurs). I'll shoot for one bottle an hour, which is relatively easy to work on 
 
-For me I feel more comfortable ensuring I've got a little wiggle room
-
-really push it while sodium does not nearly as much. I could also use more water in the process and have read a lot of other non-pro cyclists who use 750ml bottles all the time just because they don't have have a soigneur. Chloe, my AI, is the closest thing I have, but she cannot
