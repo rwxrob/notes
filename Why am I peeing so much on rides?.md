@@ -1,0 +1,1 @@
+Besides the fact that even finding a place to pee is hard on a ride, there's the added bonus of being really hard to get out of those lycra bibs to do the peeing. Wouldn't it be great if we just didn't have to pee as much?
