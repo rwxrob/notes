@@ -8,3 +8,5 @@ Besides the fact that even finding a place to pee is hard on a ride, there's the
 | ❌ Too much volume at once    | Overwhelms kidneys → excess is flushed quickly                   | Sip regularly instead of big gulps                       |
 | ❌ Cold weather               | Vasoconstriction → "cold diuresis"                                | Nothing to fix, just be aware it happens                 |
 | ⚠️ Caffeine overuse          | Mild diuretic, especially in big doses or pill form              | Balance caffeine with sodium and water                   |
+
+I'm convinced the main reason last time nature called more than today was because 1) I added slightly more sodium to the water 2) I drank slightly less water with my Huel pit stop shake and 3) it was significantly colder.
