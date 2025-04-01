@@ -1,0 +1,1 @@
+Since returning to a life focused on only the following priorities everything life has become 
