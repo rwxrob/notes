@@ -1,1 +1,1 @@
-Since returning to a life focused on only the following priorities everything life has become 
+Since returning to a life focused my family, job, and self everything has improved. I realize the collective cost to my mental and physical health by being spread out to thin trying to save the world was very high.
