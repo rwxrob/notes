@@ -6,4 +6,4 @@ These days Strava has been where I've been sending my bike stuff. I admit it is 
 
 Another hard lesson learned is that when I share something because it *might* help someone a lot of people think I'm sharing it for narcissistic "show off" reasons. They bring their own baggage and project motivations on me that having nothing to do with reality. One way to address that is to just not share it and be mindfully in the moment taking in the experience and the memory.
 
-Yesterday walking around Birkdale alone I had that experience of being present. I replayed memories of livestream moments at different locations with fond recollection but realized how different it was to just *be* there instead of having a camera or a phone pointed as something—or worse—cha
+Yesterday walking around Birkdale alone I had that experience of being present. I replayed memories of livestream moments at different locations with fond recollection but realized how different it was to just *be* there instead of having a camera or a phone pointed as something—or worse—changing my path to find targets for my camera to capture. Thankfully, I've almost fully recovered from that way of thinking.
