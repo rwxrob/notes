@@ -1,4 +1,4 @@
-Living every moment with a brain that evaluates every single experience as being worthy of sharing on social media is a form of metal illness. Recovering from it is harder than dropping 20 kilos of body weight.
+Living every moment with a brain that evaluates every single experience as being worthy of sharing on social media is a form of metal illness. Recovering from it is harder than dropping 20 kilos of body weight. Now that I have I can see the disease everywhere around me.
 
 It's difficult to accept in today's look-at-me society but doing things entirely for the pleasure of doing them for oneself without any record of it ever being made is completely fine. In fact, most of humanity's existence has been composed of actions that no one ever remembers except by the people who did them. Sure having a record is nice perhaps to help others learn. It's the human way to share generational knowledge in written form. But do we have to obsess about every single thing? Absolutely not. In fact, if you do you are probably mentally ill.
 
