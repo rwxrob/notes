@@ -1,0 +1,1 @@
+Often when I ride I realize that the ride I'm on and others like it are literally saving me from a sedentary life where I don't have to walk more than 100 steps per day to do my full-time job from home.
