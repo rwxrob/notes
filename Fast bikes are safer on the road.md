@@ -1,0 +1,1 @@
+I once purchased a scooter to commute to work in Arizona. I took it back and got a motorcycle instead.
