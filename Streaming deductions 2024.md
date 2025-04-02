@@ -3,4 +3,6 @@
 - $800 Starlink mini 
 - $1080: 6x$180 Starlink subscription
 - $349 DJI Action 5 camera
+- $639 DJI Osmo Action 3
+- $200 DJI Mic 2 transmitter x2
 - 
