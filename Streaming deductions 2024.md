@@ -9,3 +9,4 @@
 - $230 DJI Action 4
 - $100 USWE Action cam mount x2
 - $200 USWE Hydration pack x2
+- $1075 TRIO Flatmount Starlink mount
