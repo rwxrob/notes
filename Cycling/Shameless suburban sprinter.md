@@ -18,6 +18,6 @@ It's not bike touring or adventure cycling. While there is more on the bike than
 
 It's not peloton pro riding, obviously. The closest to this will be that occasional time that you go full lycra to get that extra KOM even though pretty much every other day you have a t-shirt or gravel shirt on. Suburban sprinters also wear helmets both to keep the mom's from calling the cops on them and because they aren't as absolutely braindead stupid to put cool over safety like bike messengers do during their short selfish, fearless, stupid lives.
 
-I admit I enjoy confusing people when they try and figure me out. My goal is to have the fitness and performance of a high-end amateur GC roady, the burst strength of a crit rider, the weight of a punchy climber, the line-picking and bike handling skills of a  messenger or XC racer, and the style, attitude, and look of messenger + gravel rider + roady.
+I admit I enjoy confusing people when they try and figure me out. My goal is to have the fitness and performance of a high-end amateur GC roady, the burst strength of a crit rider, the weight of a punchy climber, the line-picking and bike handling skills of a  messenger or XC racer, and the style, attitude, and look of messenger + gravel rider + roady. Obviously, I won't get all of that, but it will be fun trying.
 
 *Why do I need to write this all down? I don't know. Something to do. No one really cares to hear me talk about it so I'll just talk to myself about it.*

@@ -235,12 +235,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Weekly routine and schedule.md",
+                "file": "Logs/2025-04-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly routine and schedule"
+              "title": "2025-04-02"
             }
           }
         ],
@@ -276,7 +276,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -398,10 +398,11 @@
   },
   "active": "5e7c54aa2fdaf0f3",
   "lastOpenFiles": [
+    "Cycling/Shameless suburban sprinter.md",
+    "Cycling/Weekly routine and schedule.md",
     "Logs/2025-04-02.md",
     "Cycling/Goblin 42k Sweet Spot Workout.md",
     "Streaming deductions 2024.md",
-    "Cycling/Weekly routine and schedule.md",
     "Logs/2025-04-01.md",
     "Cycling/weekly-schedule.png",
     "Cycling/Cycling saves me.md",
@@ -424,7 +425,6 @@
     "Cycling/Why am I peeing so much on rides?.md",
     "Cycling/It just makes me chuckle.md",
     "Cycling/Strength and core training.md",
-    "Cycling/Shameless suburban sprinter.md",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Templates",
     "Logs",
