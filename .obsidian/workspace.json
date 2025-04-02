@@ -228,9 +228,23 @@
               "icon": "lucide-file",
               "title": "2025-04-02"
             }
+          },
+          {
+            "id": "5e7c54aa2fdaf0f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goblin 42k Sweet Spot Workout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goblin 42k Sweet Spot Workout"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -381,10 +395,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c551e0c8ccb7749",
+  "active": "5e7c54aa2fdaf0f3",
   "lastOpenFiles": [
-    "Streaming deductions 2024.md",
     "Logs/2025-04-02.md",
+    "Goblin 42k Sweet Spot Workout.md",
+    "Streaming deductions 2024.md",
     "Cycling/Weekly routine and schedule.md",
     "Logs/2025-04-01.md",
     "Cycling/weekly-schedule.png",
@@ -409,7 +424,6 @@
     "Cycling/It just makes me chuckle.md",
     "Cycling/Strength and core training.md",
     "Cycling/Shameless suburban sprinter.md",
-    "Cycling/Headphones are not dangerous.md",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Templates",
     "Logs",
