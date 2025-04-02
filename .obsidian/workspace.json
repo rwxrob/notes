@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Weekly routine and schedule.md",
+                "file": "Logs/2025-04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly routine and schedule"
+              "title": "2025-04-01"
             }
           }
         ],
@@ -367,10 +367,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "8f37a9379f09ac33",
   "lastOpenFiles": [
-    "Cycling/weekly-schedule.png",
     "Cycling/Weekly routine and schedule.md",
+    "Cycling/weekly-schedule.png",
     "Logs/2025-04-01.md",
     "Cycling/Cycling saves me.md",
     "Cycling/Fast bikes are safer on the road.md",
