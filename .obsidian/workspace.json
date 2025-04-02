@@ -214,9 +214,23 @@
               "icon": "lucide-file",
               "title": "Weekly routine and schedule"
             }
+          },
+          {
+            "id": "4c551e0c8ccb7749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Streaming deductions 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Streaming deductions 2024"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -367,10 +381,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f37a9379f09ac33",
+  "active": "4c551e0c8ccb7749",
   "lastOpenFiles": [
-    "Logs/2025-04-01.md",
     "Cycling/Weekly routine and schedule.md",
+    "Streaming deductions 2024.md",
+    "Logs/2025-04-01.md",
     "Cycling/weekly-schedule.png",
     "Cycling/Cycling saves me.md",
     "Cycling/Fast bikes are safer on the road.md",

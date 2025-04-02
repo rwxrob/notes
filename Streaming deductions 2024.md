@@ -1,0 +1,6 @@
+- $2880: 3x$80 Verizon data plans x 12 months
+- $1000 Starlink full size 
+- $800 Starlink mini 
+- $1080: 6x$180 Starlink subscription
+- $349 DJI Action 5 camera
+- 
