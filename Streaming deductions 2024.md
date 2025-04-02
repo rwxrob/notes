@@ -5,4 +5,7 @@
 - $349 DJI Action 5 camera
 - $639 DJI Osmo Action 3
 - $200 DJI Mic 2 transmitter x2
-- 
+- $400 DJI Mic 2
+- $230 DJI Action 4
+- $100 USWE Action cam mount x2
+- $200 USWE Hydration pack x2
