@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Cycling saves me.md",
+                "file": "Logs/2025-04-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cycling saves me"
+              "title": "2025-04-01"
             }
           }
         ],
@@ -357,8 +357,8 @@
   },
   "active": "0dae206248d0afee",
   "lastOpenFiles": [
-    "Cycling/Fast bikes are safer on the road.md",
     "Cycling/Cycling saves me.md",
+    "Cycling/Fast bikes are safer on the road.md",
     "Logs/2025-04-01.md",
     "Philosophy/No one needs to know.md",
     "Philosophy/Simple is underrated.md",
