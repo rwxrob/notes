@@ -11,9 +11,7 @@
 
 ## 11 am departure
 
-Depart at 11am most days so 11-1 weekdays. Logistics and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before 11 is very cold and damp from dew usually. No school traffic as well. Since NC Mountains to Coast doesn't care when you leave I can plan on leaving around 11 am every day as well, which means sleeping in past all the chilly morning temps in the tent and just enjoying morning coffee.
-
-!!!
+Depart at 11am most days so 11-1 weekdays. Logistics and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before 11 is very cold and damp from dew usually. No school traffic as well. Since NC Mountains to Coast doesn't care when you leave I can plan on leaving around 11 am every day as well, which means sleeping in past all the chilly morning temps in the tent and just enjoying morning coffee. I've never understood why cyclists face the coldest part of the day in absolute darkness. I used to do it when I had young kids, so perhaps that is the reason. I was home to be with the family before most of them woke up.
 ## 40k standard length
 
 40 km efforts are also easiest logistically and time-wise during the week. They are easily finished in under two hours. Since hydration and nutrition are per hour and per bottle that gives me two bottles to manage, 550ml or 750ml. The duration is less than anything that would require a complicated pit stop or refueling strategy. I can train those things on the weekend rides.
