@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-01.md",
+                "file": "Cycling/Weekly routine and schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-01"
+              "title": "Weekly routine and schedule"
             }
           }
         ],
@@ -369,9 +369,9 @@
   },
   "active": "8f37a9379f09ac33",
   "lastOpenFiles": [
+    "Logs/2025-04-01.md",
     "Cycling/Weekly routine and schedule.md",
     "Cycling/weekly-schedule.png",
-    "Logs/2025-04-01.md",
     "Cycling/Cycling saves me.md",
     "Cycling/Fast bikes are safer on the road.md",
     "Philosophy/No one needs to know.md",

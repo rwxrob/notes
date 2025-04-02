@@ -1,3 +1,4 @@
+Here is my *current* weekly schedule. It changes during the year somewhat but I'll make a note of it.
 
 | Day     | Focus                     | Distance   | Intensity | Fueling                      | Notes                                      |
 | ------- | ------------------------- | ---------- | --------- | ---------------------------- | ------------------------------------------ |
