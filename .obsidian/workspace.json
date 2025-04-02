@@ -235,12 +235,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-02.md",
+                "file": "Cycling/Weekly routine and schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-02"
+              "title": "Weekly routine and schedule"
             }
           }
         ],
@@ -276,7 +276,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutri",
+                "query": "goal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,7 +297,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -397,8 +398,8 @@
   },
   "active": "5e7c54aa2fdaf0f3",
   "lastOpenFiles": [
-    "Cycling/Goblin 42k Sweet Spot Workout.md",
     "Logs/2025-04-02.md",
+    "Cycling/Goblin 42k Sweet Spot Workout.md",
     "Streaming deductions 2024.md",
     "Cycling/Weekly routine and schedule.md",
     "Logs/2025-04-01.md",
