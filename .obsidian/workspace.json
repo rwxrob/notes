@@ -311,8 +311,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -410,7 +409,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea915a928ffe265e",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
     "Current FTP power zones (280 FTP).md",
     "Logs/2025-04-03.md",
