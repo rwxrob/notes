@@ -14,6 +14,7 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 | 2025 August 3    | 1     | Boone Gran Fondo       |   C   |   U    |  $160   |                                      |
 | 2025 August 17   | 1     | Lake Norman Gran Fondo |   C   |   R    |   $80   |                                      |
 | 2025 Sept 26     | 3     | Love Valley Omnium     |   C   |   R    |  $126   |                                      |
+| 2025 April 19    | 1     | Tour of Georgia        |   C   |   U    |         |                                      |
 
 | Date         | Days | Event                | Type | Status | Cost | Result | Notes |
 | :----------- | :--- | :------------------- | :--: | :----: | :--: | :----: | :---: |
