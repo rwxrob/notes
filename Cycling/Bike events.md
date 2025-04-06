@@ -6,14 +6,14 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 - Love https://ncsports.org/ and their supported cycling events
 - 24 Hours of Booty is super boring and mostly just a rich-kid party (still doing it once)
 
-| Date             | Days  | Event                  | Type  | Status |  Cost   |                Notes                |
-| :--------------- | :---- | :--------------------- | :---: | :----: | :-----: | :---------------------------------: |
-| ~~2025 July 19~~ | ~~1~~ | ~~RAIN~~               | ~~F~~ | ~~R~~  | ~~$80~~ | Conflicts with Gran Fondo Asheville |
-| 2025 July 25     | 2     | 24 Hours of Booty      |   F   |   R    |  $450   |                                     |
-| 2025 July 20     | 1     | Gran Fondo Asheville   |   C   |   U    |  $160   |                                     |
-| 2025 August 3    | 1     | Boone Gran Fondo       |   C   |   U    |  $160   |                                     |
-| 2025 August 17   | 1     | Lake Norman Gran Fondo |   C   |   R    |   $80   |                                     |
-| 2025 Sept 26     | 3     | Love Valley Omnium     |   C   |   R    |  $126   |                                     |
+| Date             | Days  | Event                  | Type  | Status |  Cost   |                Notes                 |
+| :--------------- | :---- | :--------------------- | :---: | :----: | :-----: | :----------------------------------: |
+| ~~2025 July 19~~ | ~~1~~ | ~~RAIN~~               | ~~F~~ | ~~R~~  | ~~$80~~ | Conflicts with Gran Fondo Asheville  |
+| 2025 July 20     | 1     | Gran Fondo Asheville   |   C   |   U    |  $160   |                                      |
+| 2025 July 25     | 2     | 24 Hours of Booty      |   F   |   R    |  $450   | Just this once. Prefer fondo series. |
+| 2025 August 3    | 1     | Boone Gran Fondo       |   C   |   U    |  $160   |                                      |
+| 2025 August 17   | 1     | Lake Norman Gran Fondo |   C   |   R    |   $80   |                                      |
+| 2025 Sept 26     | 3     | Love Valley Omnium     |   C   |   R    |  $126   |                                      |
 
 | Date         | Days | Event                | Type | Status | Cost | Result | Notes |
 | :----------- | :--- | :------------------- | :--: | :----: | :--: | :----: | :---: |
