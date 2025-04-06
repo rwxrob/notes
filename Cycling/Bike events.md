@@ -3,6 +3,7 @@ Keeping track of planned events and those I've done.
 | Date             | Days  | Event                    | Type  | Status |   Cost   | Result |     Notes      |
 | :--------------- | :---- | :----------------------- | :---: | :----: | :------: | :----: | :------------: |
 | 2025 July 19     | 1     | RAIN                     |   F   |   R    |   $80    |        |                |
+| 2025 July 25     | 2     | 24 Hours of Booty        |   F   |   R    |   $400   |        |                |
 | ~~2025 July 20~~ | ~~1~~ | ~~Gran Fondo Asheville~~ | ~~C~~ | ~~U~~  | ~~$160~~ |        | RAIN conflicts |
 | 2025 August 3    | 1     | Boone Gran Fondo         |   C   |   U    |   $160   |        |                |
 | 2025 August 17   | 1     | Lake Norman Gran Fondo   |   C   |   R    |   $80    |        |                |
@@ -12,7 +13,6 @@ Keeping track of planned events and those I've done.
 | 2026 June        | 1     | Gran Fondo Utah          |   C   |   U    |   $140   |        |                |
 | 2026 July        | 1     | Gran Fondo Asheville     |   C   |   U    |   $160   |        |                |
 | 2025 Sept 26     | 3     | Love Valley Omnium       |   C   |   R    |   $125   |        |                |
-| 2025 July 25     |       |                          |       |        |          |        |                |
 
 In order of month:
 
