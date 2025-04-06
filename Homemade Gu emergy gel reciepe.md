@@ -2,21 +2,13 @@ https://theplantedrunner.com/copycat-gu-gels/
 
 ## Lime
 
+- 40 grams maltodextrin 1/4 cup
+- 15 grams agave 2 teaspoons
+- 1 tablespoon pure corn syrup
+- 1/2 teaspoon vanilla
+- 1/16 teaspoon salt
+- 1/16 teaspoon Morton's Lite salt or sub regular salt
+- 1 teaspoon lemon juice
+- 1 to 2 tablespoons of water
+- 1/2 tablet of a 200mg caffeine pill crushed (optional)
 
-
-## Chocolate
-
-- 20 grams maltodextrin (8 teaspoons)
-- 7.5 grams agave (1.5 teaspoons)
-- 1/32 tsp salt
-- 1/8 tsp vanilla
-- 1/4 tsp cocoa powder
-- 2 tsp water
-- 1/32 tsp Morton's Lite Salt
-
-1. Mix all ingredients in a small bowl until smooth
-2. Pour into a gel flask or custom-made FoodSaver bag
-
-- 146mg sodium
-- 87.5mg potassium
-- 28g carbohydrate
