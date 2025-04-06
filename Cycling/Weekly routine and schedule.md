@@ -13,7 +13,7 @@ Here is my *current* weekly schedule. It changes during the year somewhat but I'
 
 Depart at 11am most days so 11-1 weekdays. Logistics and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before 11 is very cold and damp from dew usually. No school traffic as well. Since NC Mountains to Coast doesn't care when you leave I can plan on leaving around 11 am every day as well, which means sleeping in past all the chilly morning temps in the tent and just enjoying morning coffee. 
 
-I've never understood why cyclists face the coldest part of the day in absolute darkness. I used to do it when I had young kids, so perhaps that is the reason. I was home to be with the family before most of them woke up. Also it's cooler.
+I've never understood why cyclists face the coldest part of the day in absolute darkness. I used to do it when I had young kids, so perhaps that is the reason. I was home to be with the family before most of them woke up. Also it's cooler. I suppose it depends on your goals. If your goal is to be a pro then the training is something you have to do no matter what or how. If you enjoy it that's a bonus. If your goal is to enjoy every ride and get wicked fit for Gran Fondos then it makes less sense.
 
 11 am means I'm likely going to hit the heat in the Spring and Summer that I need to get myself heat adapted as well.
 ## Pre-fueling
