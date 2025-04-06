@@ -2,7 +2,7 @@ Here is my *current* weekly schedule. It changes during the year somewhat but I'
 
 | Day     | Focus                     | Distance   | Intensity | Fueling                      | Notes                                      |
 | ------- | ------------------------- | ---------- | --------- | ---------------------------- | ------------------------------------------ |
-| **Mon** | 🧘‍♂️ Recovery / Off      | —          | —         | —                            | House work, cleaning, maintenance          |
+| **Mon** | 🧘‍♂️ Recovery / Off      |            | —         | —                            | House work, cleaning, maintenance          |
 | **Tue** | ⚡️ Sweet Spot / Threshold | ~40 km     | Z3–Z4     | Pre-ride carbs + bottle/hour | Core effort day (e.g., 2x20min sweet spot) |
 | **Wed** | 🧘‍♂️ Easy Base           | ~40 km     | Z2        | Light fueling or fasted      | Low stress, aerobic focus                  |
 | **Thu** | 💣 VO₂ / Sprints          | ~40 km     | Z4–Z5     | Full fueling before/during   | Punchy ride or VO₂ intervals               |
