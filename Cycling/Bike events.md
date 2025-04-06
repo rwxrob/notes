@@ -2,15 +2,12 @@ Keeping track of planned events and those I've done.
 
 | Date         | Days | Event                | Type | Status | Cost | Result | Notes |
 | :----------- | :--- | :------------------- | :--: | :----: | :--: | :----: | :---: |
-| 2025 July 20 | 1    | Gran Fondo Asheville |  C   |        |      |        |       |
+| 2025 July 20 | 1    | Gran Fondo Asheville |  C   |   U    | $160 |        |       |
 | 2025 Sept 26 | 3    | Love Valley Omnium   |  C   |   R    | $126 |        |       |
 | 2026 March   | 1    | Gran Fondo Florida   |  C   |   U    | $150 |        |       |
 | 2026 April   | 3    | NC Coastal Ride      |  F   |   U    | $235 |        |       |
 | 2026 June    | 1    | Gran Fondo Utah      |  C   |   U    | $140 |        |       |
 | 2026 July    | 1    | Gran Fondo Asheville |  C   |   U    |      |        |       |
-
-
-
 
 In order of month:
 
