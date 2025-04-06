@@ -1,14 +1,14 @@
 Here is my *current* weekly schedule. It changes during the year somewhat but I'll make a note of it.
 
-| Day     | Focus                     | Kilometers | Intensity | Fueling       | Notes                                       |
-| ------- | ------------------------- | ---------- | --------- | ------------- | ------------------------------------------- |
-| **Mon** | 🧘‍♂️ Recovery / Off      | 40         | Z1        | Don't overeat | Also house work, cleaning, maintenance      |
-| **Tue** | ⚡️ Sweet Spot / Threshold | 40         | Z3–Z4     | Pre-fueled    | Core effort day, also strength              |
-| **Wed** | 🧘‍♂️ Base                | 60         | Z2        | Pre-fueled    | Low stress, aerobic focus                   |
-| **Thu** | 💣 VO₂ / Sprints          | 40         | Z4–Z5     | Pre-fueled    | Punchy ride or VO₂ intervals, also strength |
-| **Fri** | 🛠 Flex / Easy Spin       | 60         | Z1–Z2     | Pre-fueled    | Optional: rest if tired from the week       |
-| **Sat** | 🐢 Long Slow Ride         | 100–180    | Z2        | Gut training  | Main fat-burning aerobic base ride          |
-| **Sun** | 😄 Silly Recovery Ride    | 60         | Z1–Z2     | Pre-fueled    | Explore or loop, no performance goal        |
+| Day     | Focus                       | Kilometers | Intensity | Fueling       | Notes                                  |
+| ------- | --------------------------- | ---------- | --------- | ------------- | -------------------------------------- |
+| **Mon** | 🧘‍♂️ Recovery / Off        | 40         | Z1        | Don't overeat | Also house work, cleaning, maintenance |
+| **Tue** | ⚡️ Sweet Spot + Strength    | 40         | Z3–Z4     | Pre-fueled    | Core effort day                        |
+| **Wed** | 🧘‍♂️ Base                  | 60         | Z2        | Pre-fueled    | Low stress, aerobic focus              |
+| **Thu** | 💣 VO₂ / Sprints + Strength | 40         | Z4–Z5     | Pre-fueled    | Punchy ride or VO₂ intervals           |
+| **Fri** | 🛠 Flex / Easy Spin         | 60         | Z1–Z2     | Pre-fueled    | Optional: rest if tired from the week  |
+| **Sat** | 🐢 Long Slow Ride           | 100–180    | Z2        | Gut training  | Main fat-burning aerobic base ride     |
+| **Sun** | 😄 Silly Recovery Ride      | 60         | Z1–Z2     | Pre-fueled    | Explore or loop, no performance goal   |
 ## 11 am departure
 
 Depart at 11am most days so 11-1 weekdays. Logistics and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before 11 is very cold and damp from dew usually. No school traffic as well. Since NC Mountains to Coast doesn't care when you leave I can plan on leaving around 11 am every day as well, which means sleeping in past all the chilly morning temps in the tent and just enjoying morning coffee. 
