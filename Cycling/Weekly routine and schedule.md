@@ -3,9 +3,9 @@ Here is my *current* weekly schedule. It changes during the year somewhat but I'
 | Day     | Focus                       | Kilometers | Intensity | Fueling       | Notes                                  |
 | ------- | --------------------------- | ---------- | --------- | ------------- | -------------------------------------- |
 | **Mon** | 🧘‍♂️ Recovery / Off        | 40         | Z1        | Don't overeat | Also house work, cleaning, maintenance |
-| **Tue** | ⚡️ Sweet Spot + Strength    | 40         | Z3–Z4     | Pre-fueled    | Core effort day                        |
+| **Tue** | ⚡️ Strength + Sweet Spot    | 40         | Z3–Z4     | Pre-fueled    | Core effort day                        |
 | **Wed** | 🧘‍♂️ Base                  | 60         | Z2        | Pre-fueled    | Low stress, aerobic focus              |
-| **Thu** | 💣 VO₂ / Sprints + Strength | 40         | Z4–Z5     | Pre-fueled    | Punchy ride or VO₂ intervals           |
+| **Thu** | 💣 Strength + VO₂ / Sprints | 40         | Z4–Z5     | Pre-fueled    | Punchy ride or VO₂ intervals           |
 | **Fri** | 🛠 Flex / Easy Spin         | 60         | Z1–Z2     | Pre-fueled    | Optional: rest if tired from the week  |
 | **Sat** | 🐢 Long Slow Ride           | 100–180    | Z2        | Gut training  | Main fat-burning aerobic base ride     |
 | **Sun** | 😄 Silly Recovery Ride      | 60         | Z1–Z2     | Pre-fueled    | Explore or loop, no performance goal   |
