@@ -1,9 +1,9 @@
 Keeping track of planned events and those I've done.
 
-| Date       | Event              | Type        | Status | Cost | Result | Notes |
-| ---------- | ------------------ | ----------- | ------ | ---- | ------ | ----- |
-| March 2026 | Gran Fondo Florida | Competitive | U      |      |        |       |
-| April 2026 | NC Coastal Ride    | Fun         | U      | $235 | NA     |       |
+| Date       | Days | Event              | Type | Status | Cost | Result | Notes |
+| :--------- | :--- | :----------------- | :--: | :----: | :--: | :----: | :---: |
+| 2026 March | 1    | Gran Fondo Florida |  C   |   U    |      |        |       |
+| 2026 April | 3    | NC Coastal Ride    |  F   |   U    | $235 |        |       |
 
 
 
