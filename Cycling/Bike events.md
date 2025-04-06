@@ -1,22 +1,23 @@
 Keeping track of planned events and those I've done.
 
-| Date         | Days | Event                | Type | Status | Cost | Result | Notes |
-| :----------- | :--- | :------------------- | :--: | :----: | :--: | :----: | :---: |
-| 2025 July 20 | 1    | Gran Fondo Asheville |  C   |   U    | $160 |        |       |
-| 2025 Sept 26 | 3    | Love Valley Omnium   |  C   |   R    | $126 |        |       |
-| 2026 March   | 1    | Gran Fondo Florida   |  C   |   U    | $150 |        |       |
-| 2026 April   | 3    | NC Coastal Ride      |  F   |   U    | $235 |        |       |
-| 2026 June    | 1    | Gran Fondo Utah      |  C   |   U    | $140 |        |       |
-| 2026 July    | 1    | Gran Fondo Asheville |  C   |   U    |      |        |       |
+| Date           | Days | Event                  | Type | Status | Cost | Result | Notes |
+| :------------- | :--- | :--------------------- | :--: | :----: | :--: | :----: | :---: |
+| 2025 July 20   | 1    | Gran Fondo Asheville   |  C   |   U    | $160 |        |       |
+| 2025 August 3  | 1    | Boone Gran Fondo       |  C   |   U    | $160 |        |       |
+| 2025 August 17 | 1    | Lake Norman Gran Fondo |  C   |   R    | $80  |        |       |
+| 2025 Sept 26   | 3    | Love Valley Omnium     |  C   |   R    | $126 |        |       |
+| 2026 March     | 1    | Gran Fondo Florida     |  C   |   U    | $150 |        |       |
+| 2026 April     | 3    | NC Coastal Ride        |  F   |   U    | $235 |        |       |
+| 2026 June      | 1    | Gran Fondo Utah        |  C   |   U    | $140 |        |       |
+| 2026 July      | 1    | Gran Fondo Asheville   |  C   |   U    | $160 |        |       |
+|                |      |                        |      |        |      |        |       |
 
 In order of month:
 
-
-1. Gran Fondo Asheville - competitive (July 20)
-2. Gran Fondo Boone - competitive (August 3)
-3. Lake Norman Gran Fondo ($80) - competitive (August 17)
-4. Love Valley Roubaix Omnium ($130) - competitive (September)
-5. NC Mountains to Coast ($600) - non-competitive (October)
+\
+1. Lake Norman Gran Fondo ($80) - competitive (August 17)
+2. Love Valley Roubaix Omnium ($130) - competitive (September)
+3. NC Mountains to Coast ($600) - non-competitive (October)
 
 Love the[ Gran Fondo national series](https://www.granfondonationalseries.com/gfns-events-2025?utm_source=chatgpt.com).
 
