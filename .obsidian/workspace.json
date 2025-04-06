@@ -249,16 +249,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-05.md",
+                "file": "Cycling/Homemade Gu energy gel recipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-05"
+              "title": "Homemade Gu energy gel recipe"
+            }
+          },
+          {
+            "id": "3e76aeb417d04a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UCAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UCAN"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -409,9 +423,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea915a928ffe265e",
+  "active": "3e76aeb417d04a23",
   "lastOpenFiles": [
-    "Homemade Gu energy gel recipe.md",
+    "Cycling/Homemade Gu energy gel recipe.md",
+    "UCAN.md",
     "Logs/2025-04-05.md",
     "Cycling/Annual bike events.md",
     "Current FTP power zones (280 FTP).md",
@@ -437,7 +452,6 @@
     "Logs/2025-03-28.md",
     "Logs/2025-03-29.md",
     "Logs/2025-03-30.md",
-    "Logs/2025-03-31.md",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Templates",
     "Logs",

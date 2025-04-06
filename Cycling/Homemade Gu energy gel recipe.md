@@ -10,7 +10,7 @@ https://theplantedrunner.com/lemon-cream-pie-endurance-gel/
 - 1/16 teaspoon Morton's Lite salt
 - 1 teaspoon lemon juice
 - 1 to 2 tablespoons of water
-- 1/2 tablet of a 200mg caffeine pill crushed (optional)
+- 100mg caffeine capsule
 
 1. Mix all ingredients except caffeine if using, in a liquid measuring cup with a spout.
 2. Add one tablespoon of water at first and stir. I prefer my gels on the runny side so they are smoother to swallow so I add a second tablespoon of water.
