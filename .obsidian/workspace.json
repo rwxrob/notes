@@ -277,12 +277,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-07.md",
+                "file": "Cycling/Bike events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-07"
+              "title": "Bike events"
             }
           }
         ],
@@ -439,8 +439,8 @@
   },
   "active": "631bd8c88c367eae",
   "lastOpenFiles": [
-    "Cycling/Bike events.md",
     "Logs/2025-04-07.md",
+    "Cycling/Bike events.md",
     "Logs/2025-04-06.md",
     "Cycling/Homemade UCAN carb drink.md",
     "Cycling/Homemade electrolyte powder.md",
