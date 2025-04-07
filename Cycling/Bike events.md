@@ -8,7 +8,7 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 
 | Date           | Days | Event                       | Type | Status | Cost | Notes                  |
 | :------------- | :--- | :-------------------------- | :--: | :----: | :--: | :--------------------- |
-| 2025 April 19  | 1    | Tour of Georgia             |  C   |   U    | $190 |                        |
+| 2025 April 19  | 1    | Tour of Georgia Gran Fondo  |  C   |   U    | $190 |                        |
 | 2025 Apr 25    | 3    | NC Coastal Ride             |  F   |   U    | $280 | Car camping            |
 | 2025 May 18    | 1    | Cheaha Challenge Gran Fondo |  C   |   U    | $130 |                        |
 | 2025 June 1    | 1    | Highlands Gran Fondo        |  C   |   U    | $170 |                        |
