@@ -2,12 +2,13 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 
 - Prefer competitive Gran Fondos with semi-serious riders for most events
 - Happy to mix in some fun events for bike-lovers when no conflicts
-- Love the[ Gran Fondo national series](https://www.granfondonationalseries.com/gfns-events-2025?utm_source=chatgpt.com) most
+- The [Suarez Gran Fondo national series](https://www.granfondonationalseries.com/gfns-events-2025?utm_source=chatgpt.com) is really the best in America
 - Love https://ncsports.org/ and their supported cycling events (but prefer Suarez Gran Fondos)
-- 24 Hours of Booty is super boring and mostly just a rich-kid party (still doing it once)
+- 24 Hours of Booty is mostly a boring rich-kid party (still doing it once)
 
 | Date           | Days | Event                                                                                    | Type | Status | Cost | Travel | Notes                  |
 | :------------- | :--- | :--------------------------------------------------------------------------------------- | :--: | :----: | :--: | :----- | :--------------------- |
+| 2025 Mar 23    | 1    | [Gran Fondo Florida](https://www.granfondonationalseries.com/gran-fondo-florida/)        |  C   |   U    | $150 | 564    | Missed it.             |
 | 2025 April 19  | 1    | [Tour of Georgia Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-georgia) |  C   |   U    | $150 | 211    |                        |
 | 2025 May 18    | 1    | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                          |  C   |   U    | $130 | 351    |                        |
 | 2025 June 1    | 1    | [Highlands Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-highlands/)    |  C   |   U    | $170 | 621    |                        |
@@ -17,5 +18,4 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 | 2025 August 17 | 1    | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                   |  C   |   R    | $80  | 5      |                        |
 | 2025 Sept 26   | 3    | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                                 |  C   |   R    | $126 | 40     |                        |
 | 2025 Sept 14   | 1    | [Gran Fondo Maryland](https://www.granfondonationalseries.com/gran-fondo-maryland/)      |  C   |   U    | $150 | 392    | National championships |
-| 2025 Oct 4     | 7    | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)       |  F   |   R    | $400 |        | Tent camping           |
-|                |      |                                                                                          |      |        |      | 564    |                        |
+| 2025 Oct 4     | 7    | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)       |  F   |   R    | $400 | 105    | Tent camping           |
