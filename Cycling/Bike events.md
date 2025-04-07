@@ -16,6 +16,6 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 | 2025 July 25   | 2    | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                         |   R    | $450 | 30     | Fun. Just this once         |
 | 2025 August 3  | 1    | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)            |   R    | $160 | 98     |                             |
 | 2025 August 17 | 1    | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                   |   R    | $80  | 5      |                             |
+| 2025 Sept 14   | 1    | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)     |   R    | $150 | 392    | National championships      |
 | 2025 Sept 26   | 3    | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                                 |   R    | $126 | 40     |                             |
-| 2025 Sept 14   | 1    | [Gran Fondo Maryland](https://www.granfondonationalseries.com/gran-fondo-maryland/)      |   U    | $150 | 392    | National championships      |
 | 2025 Oct 4     | 7    | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)       |   R    | $400 | 105    | Fun. Tent camping           |
