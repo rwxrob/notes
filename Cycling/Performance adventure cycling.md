@@ -1,3 +1,7 @@
+I wrote this a while ago and as much as I love Dustin, I've since realized that 
+
+----
+
 Since discovering Dustin Klein and hearing him use the "adventure cycling" term in a way that most cyclists don't to refer to high-performance, usually epic day or overnight rides, I feel like adding "performance" so it makes sense. To me this rules out the long-haul, ultra slow bike touring that has been rebranded as "adventure cycling" and is more inclusive than "gravel biking" which often infers that there is no mountain bike involved. The term "adventure cycling" has also been widely adopted by people as an alternative term to "bike packing" and, let's face it, bike tourists have been calling themselves "adventure cyclists" now as well. 
 
 I like the term "performance adventure cycling" or even better "performance urban adventure cycling" which could includes fastpack bikepacking that I do hope to perfect over the coming year, connecting points of civilization on the map. In fact, I have decided to use NC Mountains to Coast to really dial in my edge season fastpacking rig (seat bag, bento, top-tube bag, hip pack, bivy, ultralight sleep kit,  etc.) I might even start doing some daily training fully loaded for fastpacking just to get a feel for it. I like the idea of doing essentially a solo fastpack bikepacking trip without the solo part and with all the logistics of food and where to sleep worked out. Those are the two parts of adventure cycling that are always the most annoying. Most nights I'll be sleeping under the stars.

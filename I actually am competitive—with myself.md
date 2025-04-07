@@ -1,0 +1,3 @@
+On this quiet Monday morning I'm realizing something I've always known. I am a very competitive person—with myself. From the first day of timing myself on loops around my house on my BMX bike I have been pushing my boundaries and finding out just how much faster and better I can be. I'm obsessed. Strangely, however, I don't get a lot of pleasure about being faster than anyone else. If anything I just want that cool jersey you can get if you do. If I have to beat someone else to get it, so be it. Of course, the prize money has *never* motivated me.
+
+Here's the thing, competing against other people is never as good as competing against yourself—ever. Some people have this or that genetic advantage that I will never have so
