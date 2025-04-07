@@ -1,4 +1,8 @@
-On this quiet Monday morning I'm realizing something I've always known. I am a very competitive person—with myself. From the first day of timing myself on loops around my house on my BMX bike I have been pushing my boundaries and finding out just how much faster and better I can be. I'm obsessed. Strangely, however, I don't get a lot of pleasure about being faster than anyone else. If anything I just want that cool jersey you can get if you do. If I have to beat someone else to get it, so be it. Of course, the prize money has *never* motivated me.
+On this quiet early Monday morning—after registering for several Suarez National Gran Fondo events— I'm realizing something I've always known. I am a very competitive person—with myself. This is why I've always liked timed events, of whatever kind.
+
+I've been timing myself forever. As a kid I would time myself running 100 meters to get the President's Physical Fitness Award (remember that), or to see how fast I could skateboard down our gradually sloping suburban street, or bike around the dirt track we made around the house. Later I would discover cross-country running as well. I'd even time myself to bike to my girlfriend's house or my friend's house for the next DnD game. There's something about seeing that improvement that just really turns me on.
+
+From the first day of timing myself on loops around my house on my BMX bike I have been pushing my boundaries and finding out just how much faster and better I can be. I'm obsessed. Strangely, however, I don't get a lot of pleasure about being faster than anyone else. If anything I just want that cool jersey you can get if you do. If I have to beat someone else to get it, so be it. Of course, the prize money has *never* motivated me.
 
 Here's the thing, competing against other people is never as good as competing against yourself—ever. Some people have this or that genetic advantage that I will never have. 
 
