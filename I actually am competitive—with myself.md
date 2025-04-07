@@ -1,3 +1,7 @@
 On this quiet Monday morning I'm realizing something I've always known. I am a very competitive person—with myself. From the first day of timing myself on loops around my house on my BMX bike I have been pushing my boundaries and finding out just how much faster and better I can be. I'm obsessed. Strangely, however, I don't get a lot of pleasure about being faster than anyone else. If anything I just want that cool jersey you can get if you do. If I have to beat someone else to get it, so be it. Of course, the prize money has *never* motivated me.
 
-Here's the thing, competing against other people is never as good as competing against yourself—ever. Some people have this or that genetic advantage that I will never have so
+Here's the thing, competing against other people is never as good as competing against yourself—ever. Some people have this or that genetic advantage that I will never have. 
+
+I was obsessed with basketball as a teen for a while until I realized I would *never* be competitive. I enjoyed it for sure but I would be constantly seeing how bad I was at it and making the letting the rest of the team down.
+
+Back then I was hell bent on discovering what I was actually better than everyone else at. Just like some had a distinct genetic advantage for basketball I knew I had some genetic advantage as well. I discovered what I would now call a naturally high V02 max and ability to suffer more than most with cardio stress. Turns out it really wasn't that great and all the doping of the cycling era I lived through just destroyed my desire to do any competition against anyone else.
