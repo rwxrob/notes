@@ -4,7 +4,9 @@ I've been timing myself forever. As a kid I would time myself running 100 meters
 
 I don't get a lot of pleasure about being faster than anyone else. If anything I just want that cool jersey or medal you can get if you do. If I have to beat someone else to get it, so be it. Of course, the prize money has *never* motivated me. The reality is that competing against other people is never as good as competing against myself—ever. I learned very early that some people have this or that genetic or financial advantage that I will never have.  Other slime balls like Pantani and Armstrong are content to cheat in disgusting ways because to them winning matters more than actually being legitimately good. Guess what? These asshole cheaters aren't only in pro pelotons. They're *everywhere*. This is why competing against myself is the only *authentic* form of competition.
 
-This is also why I have never liked team sports. I played four years of soccer (international football) and there were only a couple games that really mattered. One of them was an experiment where I ran around the field lying to every team mate pumping up their egos just to see if it would help. It did. We won. It was exhausting.
+This is also why I have never liked team sports. I was on a "bad news bears" baseball team that was beyond pathetic. I hated it. I also played four years of soccer (international football) and there were only a couple games that really mattered. One of them was an experiment where I ran around the field lying to every team mate pumping up their egos just to see if it would help. It did. We won. It was exhausting. I absolutely love football as a sport but the team dynamic is always a problem. I appreciate just how amazing it is when a team manages to all be on their best together. But yeah, just being on a team is mentally exhausting.
+
+I played tennis for years as well. 
 
 I was obsessed with basketball as a teen for a while until I realized I would *never* be competitive. I enjoyed it for sure but I would be constantly seeing how bad I was at it and making the letting the rest of the team down.
 
