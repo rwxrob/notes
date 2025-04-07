@@ -291,12 +291,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Bike events.md",
+                "file": "Cycling/Competitive bike events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bike events"
+              "title": "Competitive bike events"
             }
           }
         ],
@@ -456,7 +456,7 @@
     "I actually am competitive—with myself.md",
     "Cycling/Performance adventure cycling.md",
     "Cycling/Shameless suburban sprinter.md",
-    "Cycling/Bike events.md",
+    "Cycling/Competitive bike events.md",
     "Logs/2025-04-07.md",
     "Logs/2025-04-06.md",
     "Cycling/Homemade UCAN carb drink.md",

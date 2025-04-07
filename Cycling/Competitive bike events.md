@@ -1,12 +1,4 @@
-Keeping track of planned events and those I've done. Some thoughts about these lists:
-
-- Prefer competitive UCI-sanctioned Gran Fondos with semi-serious riders for most events
-- Happy to mix in some fun events for bike-lovers when no conflicts
-- The [Suarez Gran Fondo national series](https://www.granfondonationalseries.com/gfns-events-2025?utm_source=chatgpt.com) is really the best in America
-- Love supporting https://ncsports.org/ and their supported cycling events...
-- But would not sign up for again (preferring to train instead of sleep in a tent)
-- 24 Hours of Booty is turning out to be mostly a boring, expensive rich-kid party (still doing it once)
-
+Below is a list of  the events I plan to do every single year until I cannot turn the pedals anymore.
 
 | Date           | Days | Event                                                                                    | Status | Cost | Travel | Notes                       |
 | :------------- | :--- | :--------------------------------------------------------------------------------------- | :----: | :--: | :----- | :-------------------------- |
@@ -21,3 +13,6 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 | 2025 Sept 14   | 1    | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)     |   U    | $150 | 392    | National championships      |
 | 2025 Sept 26   | 3    | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                                 |   R    | $126 | 40     | LOCAL                       |
 | 2025 Oct 4     | 7    | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)       |   R    | $400 | 105    | Fun. Tent camping           |
+Also doing the following this year to try them out:
+
+NC Mountains to Coast this year to try it out.
