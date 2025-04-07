@@ -10,7 +10,7 @@ Keeping track of planned events and those I've done. Some thoughts about these l
 | :------------- | :--- | :--------------------------------------------------------------------------------------- | :----: | :--: | :----- | :-------------------------- |
 | 2025 Mar 23    | 1    | [Gran Fondo Florida](https://www.granfondonationalseries.com/gran-fondo-florida/)        |   P    | $150 | 564    | Missed it.                  |
 | 2025 April 19  | 1    | [Tour of Georgia Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-georgia) |   P    | $150 | 211    | Too late for a jersey, meh. |
-| 2025 May 18    | 1    | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                          |   P    | $130 | 351    | Next year.                  |
+| 2025 May 18    | 1    | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                          |   R    | $130 | 351    | Next year.                  |
 | 2025 June 1    | 1    | [Highlands Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-highlands/)    |   P    | $170 | 621    | Too far for this year.      |
 | 2025 July 20   | 1    | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/)    |   R    | $160 | 126    |                             |
 | 2025 July 25   | 2    | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                         |   R    | $450 | 30     | Fun. Just this once         |
