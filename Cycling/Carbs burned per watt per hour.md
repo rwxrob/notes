@@ -26,9 +26,9 @@ Here's how much is burned per watt per hour:
 | 250       | 900           | 80%                   | 720          | 180g             |
 | 275       | 990           | 85%                   | 841          | 210g             |
 | 300       | 1080          | 90%                   | 972          | 243g             |
-Based on these estimates it's easy so see whether eating and taking on carbs through the gut is needed.
+Based on these estimates it's easy so see whether eating and taking on carbs through the gut is needed. So with a 270 FTP 200 average watt sweet spot effort burns 252g over two hours. That could completely empty the liver and start into muscle glycogen as well. But beyond this point recovering and topping off those glycogen stores for the next day becomes harder than taking in some carb through the gut during the effort.
 
-Efforts typically less than 90 minutes can draw on stored glycogen and still be topped up through recovery and pre-fueling. The intensity dictates how much is taken from these stores. *Any* effort beyond 90 minutes should always include taking in watts through the gut in order to maintain performance or better recovery when training.
+Therefore, efforts typically less than 90 minutes can draw on stored glycogen and still be topped up through recovery and pre-fueling. *Any* effort beyond 90 minutes should always include taking in carbs through the gut in order to maintain performance or better recovery when training. This is where that "fueling "
 
 [Current FTP power zones (270 FTP)](Current%20FTP%20power%20zones%20(270%20FTP).md)
 
