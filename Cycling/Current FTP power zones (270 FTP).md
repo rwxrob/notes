@@ -9,4 +9,4 @@
 | **Zone 5** | 106–120% | 286–324 W | ~90%     | ~1029–1166 | ~231–262g | VO₂max (short, high-output intervals)                                                          |
 | **Zone 6** | 121–150% | 326–405 W | ~95%     | ~1174–1458 | ~279–364g | Anaerobic capacity (sprints, surges)                                                           |
 | **Zone 7** | >150%    | >405 W    | ~100%    | >1458      | >364g     | Neuromuscular power (max sprint)                                                               |
-[Carb intake based on watts per hour](Carb%20intake%20based%20on%20watts%20per%20hour.md)
+[Carbs burned per watt per hour](Carbs%20burned%20per%20watt%20per%20hour.md)
