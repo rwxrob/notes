@@ -12,4 +12,4 @@
 - Constant industrial traffic
 - Serious rumble-strip paint lines
 - It's a highway
-- Okay to 
+- Okay to cross in places but never ride it
