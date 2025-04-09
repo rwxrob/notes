@@ -333,7 +333,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best regular foods for cycling.md",
+                "file": "Cycling/Best regular foods for cycling.md",
                 "mode": "source",
                 "source": false
               },
@@ -347,7 +347,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Don't ride these roads.md",
+                "file": "Cycling/Don't ride these roads.md",
                 "mode": "source",
                 "source": false
               },
@@ -507,10 +507,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47212836f35f909b",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Best regular foods for cycling.md",
-    "Don't ride these roads.md",
+    "Cycling/Best regular foods for cycling.md",
+    "Cycling/Don't ride these roads.md",
     "Cycling/Carbs burned per watt per hour.md",
     "Logs/2025-04-09.md",
     "Cycling/Current FTP power zones (270 FTP).md",
