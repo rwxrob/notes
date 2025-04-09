@@ -6,4 +6,4 @@ After reading a lot about it I decided carrying an ultra minimal repair kit on m
 - [Flextail ultra mini usb bike pump](https://www.flextail.com/products/tiny-bike-pump)
 - [Ornot Ecopack black](https://www.ornotbike.com/products/seat-bag-ecopak-black)
 
-I can swap out the Mini 9 for my much heavier Crankbros for any rides where chain might be at risk and add in a master link and a section of chain, but honestly, I don't plan on riding in many of those events if at all. I mean, if I have road shoes on I'm not on anything but ultra light gravel. I'll swap out 
+I can swap out the Mini 9 for my much heavier Crankbros for any rides where chain might be at risk and add in a master link and a section of chain, but honestly, I don't plan on riding in many of those events if at all. I mean, if I have road shoes on I'm not on anything but ultra light gravel. I'll add some plugs when riding with tubeless gravel tires if I go that route but will keep the tube no matter what in case it fails.
