@@ -1,4 +1,20 @@
-These numbers are the total watts burned per hour for a given level of effort. The body requires these carbs no matter what. If they aren't there you bonk, period. *Any* effort beyond 90 minutes should always include 
+These numbers are the total watts burned per hour for a given level of effort. The body requires these carbs no matter what. If they aren't there you bonk, period. There are four ways the body gets these carbs:
+
+| Carb Source        | Description                                                           |
+| ------------------ | --------------------------------------------------------------------- |
+| 🍞 Ingested carbs  | Carbs from food, drinks, gels absorbed through the gut                |
+| 🧠 Liver glycogen  | Stored glucose released to maintain blood sugar and fuel early effort |
+| 💪 Muscle glycogen | Local energy stores in muscles used for moderate to high intensities  |
+| 🧬 Gluconeogenesis | Emergency glucose from protein/lactate (minor unless extreme effort)  |
+The human body only has three places to store glycogen
+
+| Storage Site       | Capacity (grams) | Energy (kcal)   | Notes                                                   |
+|--------------------|------------------|------------------|----------------------------------------------------------|
+| 💪 Muscle glycogen  | ~300–500g        | ~1200–2000 kcal  | Depends on muscle mass and training status               |
+| 🧠 Liver glycogen   | ~80–120g         | ~320–480 kcal    | Maintains blood glucose; depletes faster than muscle     |
+| 🩸 Blood glucose    | ~5g              | ~20 kcal         | Very small; tightly regulated by the body                |
+
+*Any* effort beyond 90 minutes should always include taking in watts through the gut in order to maintain performance or better recovery when training.
 
 | Avg Watts | Total kcal/hr | Carb % of fuel ([^1]) | Carb kcal/hr | Carb g/hr ([^2]) |
 | --------- | ------------- | --------------------- | ------------ | ---------------- |
