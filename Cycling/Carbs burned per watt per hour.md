@@ -6,7 +6,7 @@ These numbers are the total watts burned per hour for a given level of effort. T
 | 🧠 Liver glycogen  | Stored glucose released to maintain blood sugar and fuel early effort |
 | 💪 Muscle glycogen | Local energy stores in muscles used for moderate to high intensities  |
 | 🧬 Gluconeogenesis | Emergency glucose from protein/lactate (minor unless extreme effort)  |
-The human body only has three places to store glycogen
+The human body only has three places to store glycogen (fat is another system):
 
 | Storage Site       | Capacity (grams) | Energy (kcal)   | Notes                                                   |
 |--------------------|------------------|------------------|----------------------------------------------------------|
@@ -14,7 +14,7 @@ The human body only has three places to store glycogen
 | 🧠 Liver glycogen   | ~80–120g         | ~320–480 kcal    | Maintains blood glucose; depletes faster than muscle     |
 | 🩸 Blood glucose    | ~5g              | ~20 kcal         | Very small; tightly regulated by the body                |
 
-*Any* effort beyond 90 minutes should always include taking in watts through the gut in order to maintain performance or better recovery when training.
+Here's how much is burned per watt per hour:
 
 | Avg Watts | Total kcal/hr | Carb % of fuel ([^1]) | Carb kcal/hr | Carb g/hr ([^2]) |
 | --------- | ------------- | --------------------- | ------------ | ---------------- |
@@ -26,6 +26,10 @@ The human body only has three places to store glycogen
 | 250       | 900           | 80%                   | 720          | 180g             |
 | 275       | 990           | 85%                   | 841          | 210g             |
 | 300       | 1080          | 90%                   | 972          | 243g             |
+Based on these estimates it's easy so see whether eating and taking on carbs through the gut is needed.
+
+Efforts typically less than 90 minutes can draw on stored glycogen and still be topped up through recovery and pre-fueling. The intensity dictates how much is taken from these stores. *Any* effort beyond 90 minutes should always include taking in watts through the gut in order to maintain performance or better recovery when training.
+
 [Current FTP power zones (270 FTP)](Current%20FTP%20power%20zones%20(270%20FTP).md)
 
 [^1]: This is not completely accurate because it depends on how developed the fat oxidation energy system is, the better it is trained the less **Carb % of fuel**.
