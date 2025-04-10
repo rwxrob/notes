@@ -1,13 +1,15 @@
 Season goals:
 
-- Qualify for Gran Fondo Nationals
-- Transition
+- Qualify and finish Gran Fondo Nationals
+- Complete body transformations enabling competitive 2026 season
+- Finish a UCI qualifier in top 25% for age group
+- An age group podium spot would be awesome
 
 Training objectives:
 
 - 300 FTP by July 4
 - 40 minutes at 90% FTP after three hours by July 4
-- 9% body fat by July 4
+- 9% body fat by August 1 and maintain it forever god damnit!
 
 Key training elements:
 
