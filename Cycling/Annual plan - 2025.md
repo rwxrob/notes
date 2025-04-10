@@ -13,8 +13,9 @@ Key training elements:
 
 - Pro volume even though not shooting for pro events
 - 1 hour weight training for power on the bike twice per week
-- 30 minutes daily yoga focused on core strength
-- One entire day off per week (nothing but cleaning and organizing)
+- 30 minutes daily yoga focused on core strength and mobility
+- One entire day off per week (nothing but yoga, cleaning, organizing)
+- One 7-hour ride per week replaced by 2-3 hour recovery spin every four weeks
 
 | Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes |
 | ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ----- |
