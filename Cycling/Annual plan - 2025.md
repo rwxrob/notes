@@ -1,7 +1,7 @@
 Season goals:
 
 - Qualify for Gran Fondo Nationals
-- Podium at least one Gran Fondo event for age group
+- Transition
 
 Training objectives:
 
@@ -17,16 +17,10 @@ Key training elements:
 - One entire day off per week (nothing but yoga, cleaning, organizing)
 - One 7-hour ride per week replaced by 2-3 hour recovery spin every four weeks
 
+Note that I actually started non-specific training—almost entirely weight management and base training—second week of January. This schedule
+
 | Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes                    |
 | ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ------------------------ |
-|        |                                                                                       |          |        |     |              |                          |
-|        |                                                                                       |          |        |     |              |                          |
-|        |                                                                                       |          |        |     |              |                          |
-|        |                                                                                       |          |        |     |              |                          |
-| 3/10   |                                                                                       |          |        |     |              |                          |
-| 3/17   |                                                                                       |          |        |     |              |                          |
-| 3/24   |                                                                                       |          |        |     |              |                          |
-| 3/31   |                                                                                       |          |        |     |              |                          |
 | 4/7    |                                                                                       |          |        |     |              |                          |
 | 4/14   |                                                                                       |          |        |     |              |                          |
 | 4/21   |                                                                                       |          |        |     |              |                          |
