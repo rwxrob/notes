@@ -31,10 +31,18 @@ Note that I actually started non-specific training—almost entirely weight mana
 | 5/12   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        |        |     |              | UCI                      |
 | 5/19   |                                                                                       |          |        |     |              |                          |
 | 5/26   |                                                                                       |          |        |     |              |                          |
-| 7/20   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              | UCI                      |
-| 5/21   | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      | Z        |        |     | E            | too late to cancel       |
-| 5/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        |        |     |              | UCI                      |
-| 7/11   | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                | B        |        |     |              | local                    |
+| 6/2    |                                                                                       |          |        |     |              |                          |
+| 6/9    |                                                                                       |          |        |     |              |                          |
+| 6/16   |                                                                                       |          |        |     |              |                          |
+| 6/23   |                                                                                       |          |        |     |              |                          |
+| 6/30   |                                                                                       |          |        |     |              |                          |
+| 7/7    |                                                                                       |          | Peak   |     |              |                          |
+| 7/14   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              | UCI                      |
+| 7/21   | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      | Z        |        |     | E            | too late to cancel       |
+| 7/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        |        |     |              | UCI                      |
+| 8/4    |                                                                                       |          |        |     |              |                          |
+| 8/11   | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                | B        |        |     |              | local                    |
+| 9/1    |                                                                                       |          | Peak   |     |              |                          |
 | 9/8    | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  | AA       | Race   |     |              | UCI                      |
 | 9/22   | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              | B        |        |     |              | local                    |
 | 9/29   | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    | Z        |        |     | E            | paid, camping, week-long |
