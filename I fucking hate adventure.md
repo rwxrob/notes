@@ -1,0 +1,3 @@
+If adventure means preparing as best you can and just going out and doing something where you have no control of stuff that will come your way then, yeah, I fucking hate adventure.
+
+All those years where I *thought* I was having adventures were possible because they were highly regimented, there was a schedule. Whether it was being a river guide and having the exact same routine and tasks every single week of the season, to 
