@@ -9,13 +9,9 @@ Here is my *current* weekly schedule. It changes during the year somewhat but I'
 | **Friday** | 💤 Recovery Ride / Mobility Work      | 1–2 hrs Z1, stretch/yoga; keep HR low  
 | **Saturday**| 🏁 Race Simulation / Gran Fondo Pace | 180km long ride (Z2-Z3); every 4th week at race pace  
 | **Sunday** | ⛰️ Long Recovery Endurance Ride       | 2–4 hrs Z1–Z2, fun/solo or group base spin  
-## 11 am departure
+## 10 am departure
 
-Depart at 11am most days so 11-1 weekdays. Logistics and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before 11 is very cold and damp from dew usually. No school traffic as well. Since NC Mountains to Coast doesn't care when you leave I can plan on leaving around 11 am every day as well, which means sleeping in past all the chilly morning temps in the tent and just enjoying morning coffee. 
-
-I've never understood why cyclists face the coldest part of the day in absolute darkness. I used to do it when I had young kids, so perhaps that is the reason. I was home to be with the family before most of them woke up. Also it's cooler. I suppose it depends on your goals. If your goal is to be a pro then the training is something you have to do no matter what or how. If you enjoy it that's a bonus. If your goal is to enjoy every ride and get wicked fit for Gran Fondos then it makes less sense.
-
-11 am means I'm likely going to hit the heat in the Spring and Summer that I need to get myself heat adapted as well.
+Logistics, traffic, and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before this it's still hasn't warmed up at all in the colder months but is still cooler in the hotter months. No school traffic as well. I can finish a five hour ride and still not hit school traffic that starts heavily around 2:30pm.
 ## Pre-fueling
 
 I've noticed that it is just so much easier to plan for rides during the week that do not require any on-bike fueling. I just make sure to top up every morning and the night before and vary the carb intake based on what is planned. Then I do all my gut training and on-bike nutrition on the long ride on Saturday.
