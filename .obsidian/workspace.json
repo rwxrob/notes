@@ -377,12 +377,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Annual plan - 2025.md",
+                "file": "Cycling/Bike collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annual plan - 2025"
+              "title": "Bike collection"
             }
           }
         ],
@@ -418,7 +418,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "event",
+                "query": "collec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -439,7 +439,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -539,8 +540,8 @@
   },
   "active": "52f29af1d7692aea",
   "lastOpenFiles": [
-    "Logs/2025-04-10.md",
     "Cycling/Annual plan - 2025.md",
+    "Logs/2025-04-10.md",
     "Cycling/Competitive bike events.md",
     "Cycling/I fucking hate adventure.md",
     "Cycling/10 am departures.md",
