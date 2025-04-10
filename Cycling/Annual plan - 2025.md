@@ -23,7 +23,9 @@ Key training elements:
 | 4/14   |                                                                                       |          |        |     |              |                          |
 | 4/21   |                                                                                       |          |        |     |              |                          |
 | 4/28   |                                                                                       |          |        |     |              |                          |
-| 5/20   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        | Race   |     |              | UCI                      |
+| 5/5    |                                                                                       |          | Trans  |     |              | Gordon Graduation        |
+| 5/12   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        | Race   |     |              | UCI                      |
+| 5/19   |                                                                                       |          |        |     |              |                          |
 | 7/20   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              | UCI                      |
 | 5/21   | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      | Z        | Base   |     | E            | too late to cancel       |
 | 5/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        | Race   |     |              | UCI                      |
