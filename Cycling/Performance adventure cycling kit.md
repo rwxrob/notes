@@ -1,4 +1,4 @@
-Okay, forget this. Maybe someday. I would rather just ride my bike and create adventures based on new routes and new Gran Fondos to do all over the world.
+Okay, forget this. Maybe someday. I would rather just ride my bike and create adventures based on new routes and new Gran Fondos to do all over the world. Honestly, I hate all the distraction from packing this or that. I just want to ride fast in beautiful places and not have to think about any of that.
 
 ----
 
