@@ -17,10 +17,13 @@ Key training elements:
 - One entire day off per week (nothing but yoga, cleaning, organizing)
 - One 7-hour ride per week replaced by 2-3 hour recovery spin every four weeks
 
-| Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes |
-| ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ----- |
-| 5/20   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        | Race   |     |              |       |
-| 7/20   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              |       |
+| Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes              |
+| ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ------------------ |
+| 5/20   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        | Race   |     |              |                    |
+| 7/20   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              |                    |
+| 5/21   | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      | Z        | Base   |     | E            | Too late to cancel |
+| 5/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        | Race   |     |              |                    |
+|        | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |          |        |     |              |                    |
 
 [^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
 
