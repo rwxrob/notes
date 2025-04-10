@@ -7,6 +7,8 @@ Training objectives:
 
 - 300 FTP by July 4
 - 40 minutes at 90% FTP after three hours by July 4
+- 9% body fat by July 4
+- 
 
 | Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes |
 | ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ----- |
