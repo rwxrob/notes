@@ -1,4 +1,4 @@
-If adventure means preparing as best you can and just going out and doing something where you have no control of stuff that will come your way then, yeah, I fucking hate adventure. Even when I play Witcher I have to methodically cover all the territory instead of just going with the flow.
+If adventure means preparing as best you can and just going out and doing something where you have no control of stuff that will come your way then, yeah, I fucking hate adventure. I have feeling I'm not the only one. Even when I play Witcher I have to methodically cover all the territory instead of just going with the flow.
 
 All those years where I *thought* I was having adventures were possible because they were highly regimented, there was a schedule. Whether it was being a river guide and having the exact same routine and tasks every single week of the season, to preparing for hundreds of tourists as a cruise director, to preparing to take a bunch of 12 year olds on their first camp outs, it was always the routine and predictability of it that made it possible. People from the outside looking in might have seen what they thought was "adventure" but it actually never was.
 

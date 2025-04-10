@@ -377,12 +377,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/I fucking hate adventure.md",
+                "file": "Logs/2025-04-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I fucking hate adventure"
+              "title": "2025-04-10"
             }
           }
         ],
@@ -537,10 +537,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "52f29af1d7692aea",
   "lastOpenFiles": [
-    "Cycling/Annual plan - 2025.md",
     "Cycling/I fucking hate adventure.md",
+    "Logs/2025-04-10.md",
+    "Cycling/Annual plan - 2025.md",
     "Cycling/Competitive bike events.md",
     "Cycling/10 am departures.md",
     "Cycling/Performance adventure cycling kit.md",
@@ -565,7 +566,6 @@
     "Cycling/Homemade Gu energy gel recipe.md",
     "Logs/2025-04-03.md",
     "Logs/2025-04-02.md",
-    "Streaming deductions 2024.md",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Templates",
     "Logs",
