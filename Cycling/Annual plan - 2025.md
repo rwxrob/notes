@@ -8,7 +8,13 @@ Training objectives:
 - 300 FTP by July 4
 - 40 minutes at 90% FTP after three hours by July 4
 - 9% body fat by July 4
-- 
+
+Key training elements:
+
+- Pro volume even though not shooting for pro events
+- 1 hour weight training for power on the bike twice per week
+- 30 minutes daily yoga focused on core strength
+- One entire day off per week (nothing but cleaning and organizing)
 
 | Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes |
 | ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ----- |
