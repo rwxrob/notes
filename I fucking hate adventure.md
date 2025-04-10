@@ -1,3 +1,9 @@
 If adventure means preparing as best you can and just going out and doing something where you have no control of stuff that will come your way then, yeah, I fucking hate adventure.
 
-All those years where I *thought* I was having adventures were possible because they were highly regimented, there was a schedule. Whether it was being a river guide and having the exact same routine and tasks every single week of the season, to 
+All those years where I *thought* I was having adventures were possible because they were highly regimented, there was a schedule. Whether it was being a river guide and having the exact same routine and tasks every single week of the season, to preparing for hundreds of tourists as a cruise director, to preparing to take a bunch of 12 year olds on their first camp outs, it was always the routine and predictability of it that made it possible. People from the outside looking in might have seen what they thought was "adventure" but it actually never was.
+
+The most adventurous part of any of it always was something that altered the routine slightly but there was always a routine to be altered. True adventure, the type that adventure cyclists say is required in order to truly become an adventure cyclist is letting go of control of the next future events, of being okay not being prepared with whatever it is that might come my way. Fuck that. I require control and I always have.
+
+This is why I've always been into extremely controlled events like triathlons, criterium racing, and (these days) Gran Fondo races. Even when I would go biking the White Rim in Moab there was a daily schedule, a support van, and menus prepared already. It *felt* like an adventure enough to sell it to other people to pay to do but it never really was a *true* adventure. It was a guided tour.
+
+It's cost me several thousands of dollars to arrive at this conclusion. It angers me a little but I'm not letting it get to me.
