@@ -42,9 +42,9 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | UCI                      |
 |  8/4   |                                                                                       |          |   \|    |     |        |              |                          |
 |  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                    |
-|  8/18  |                                                                                       |          |         |     |        |              |                          |
-|  8/25  |                                                                                       |          |         |     |        |              |                          |
-|  9/1   |                                                                                       |          |  Peak   |     |        |              |                          |
+|  8/18  |                                                                                       |          |   \|    |     |        |              |                          |
+|  8/25  |                                                                                       |          |  Peak   |     |        |              |                          |
+|  9/1   |                                                                                       |          |   \|    |     |        |              |                          |
 |  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | UCI                      |
 |  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                          |
 |  9/22  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              |    B     |  Race   |     |        |              | local                    |
