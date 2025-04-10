@@ -25,6 +25,8 @@ Key training elements:
 | 5/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        | Race   |     |              | UCI                |
 | 7/11   | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                | B        | Race   |     |              | Local              |
 | 9/8    | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  | AA       | Race   |     |              | UCI                |
+| 9/22   | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              | B        | Race   |     |              | Local              |
+| 9/29   |                                                                                       |          |        |     |              |                    |
 
 [^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
 
