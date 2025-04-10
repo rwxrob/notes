@@ -17,16 +17,20 @@ Key training elements:
 - One entire day off per week (nothing but yoga, cleaning, organizing)
 - One 7-hour ride per week replaced by 2-3 hour recovery spin every four weeks
 
-| Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes              |
-| ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ------------------ |
-| 5/20   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        | Race   |     |              | UCI                |
-| 7/20   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              | UCI                |
-| 5/21   | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      | Z        | Base   |     | E            | Too late to cancel |
-| 5/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        | Race   |     |              | UCI                |
-| 7/11   | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                | B        | Race   |     |              | Local              |
-| 9/8    | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  | AA       | Race   |     |              | UCI                |
-| 9/22   | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              | B        | Race   |     |              | Local              |
-| 9/29   |                                                                                       |          |        |     |              |                    |
+| Monday | Event                                                                                 | Priority | Period | TSS | Focus ([^1]) | Notes                    |
+| ------ | ------------------------------------------------------------------------------------- | -------- | ------ | --- | ------------ | ------------------------ |
+| 4/7    |                                                                                       |          |        |     |              |                          |
+| 4/14   |                                                                                       |          |        |     |              |                          |
+| 4/21   |                                                                                       |          |        |     |              |                          |
+| 4/28   |                                                                                       |          |        |     |              |                          |
+| 5/20   | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       | B        | Race   |     |              | UCI                      |
+| 7/20   | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) | A        | Race   |     |              | UCI                      |
+| 5/21   | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      | Z        | Base   |     | E            | too late to cancel       |
+| 5/28   | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         | B        | Race   |     |              | UCI                      |
+| 7/11   | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                | B        | Race   |     |              | local                    |
+| 9/8    | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  | AA       | Race   |     |              | UCI                      |
+| 9/22   | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              | B        | Race   |     |              | local                    |
+| 9/29   | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    | Z        | Base   |     | E            | paid, camping, week-long |
 
 [^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
 
