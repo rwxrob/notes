@@ -5,7 +5,8 @@ Season goals:
 
 Training objectives:
 
-- 300 FTP by 
+- 300 FTP by June 1
+- 40 minutes at 90% FTP after three hours
 
 | Monday | Event | Priority | Period | TSS | Focus ([^1]) | Notes |
 | ------ | ----- | -------- | ------ | --- | ------------ | ----- |

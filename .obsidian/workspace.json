@@ -363,12 +363,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annual plan - 2025.md",
+                "file": "Cycling/Competitive bike events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annual plan - 2025"
+              "title": "Competitive bike events"
             }
           }
         ],
@@ -525,8 +525,8 @@
   },
   "active": "0ed627ab97d451f2",
   "lastOpenFiles": [
-    "Cycling/10 am departures.md",
     "Annual plan - 2025.md",
+    "Cycling/10 am departures.md",
     "Cycling/Performance adventure cycling kit.md",
     "Cycling/weekly-schedule.png",
     "Logs/2025-04-09.md",
