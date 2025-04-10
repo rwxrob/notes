@@ -21,32 +21,32 @@ Key training elements:
 
 Note that I actually started non-specific training—almost entirely weight management and base training—second week of January. This schedule
 
-| Monday | Event                                                                                 | Priority | Period  | TSS | Focus ([^1]) | Notes                    |
-| :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----------: | ------------------------ |
-|  4/7   |                                                                                       |          |         |     |              |                          |
-|  4/14  |                                                                                       |          |         |     |              |                          |
-|  4/21  |                                                                                       |          |         |     |              |                          |
-|  4/28  |                                                                                       |          |         |     |              |                          |
-|  5/5   |                                                                                       |          |  Trans  |     |              | Gordon Graduation        |
-|  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |              | UCI                      |
-|  5/19  |                                                                                       |          |   Bui   |     |              |                          |
-|  5/26  |                                                                                       |          |         |     |              |                          |
-|  6/2   |                                                                                       |          |         |     |              |                          |
-|  6/9   |                                                                                       |          | Build 2 |     |              |                          |
-|  6/16  |                                                                                       |          |   \|    |     |              |                          |
-|  6/23  |                                                                                       |          |   \|    |     |              |                          |
-|  6/30  |                                                                                       |          |   \|    |     |              |                          |
-|  7/7   |                                                                                       |          |  Peak   |     |              |                          |
-|  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |              | UCI                      |
-|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |    Z     |         |     |      E       | too late to cancel       |
-|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     |         |     |              | UCI                      |
-|  8/4   |                                                                                       |          |         |     |              |                          |
-|  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |         |     |              | local                    |
-|  9/1   |                                                                                       |          |  Peak   |     |              |                          |
-|  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |              | UCI                      |
-|  9/22  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              |    B     |         |     |              | local                    |
-|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |    Z     |         |     |      E       | paid, camping, week-long |
-|        |                                                                                       |          |         |     |              |                          |
+| Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                    |
+| :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ------------------------ |
+|  4/7   |                                                                                       |          | Base 3  |     |        |              |                          |
+|  4/14  |                                                                                       |          |   \|    |     |        |              |                          |
+|  4/21  |                                                                                       |          |   \|    |     |        |              |                          |
+|  4/28  |                                                                                       |          |   \|    |     |        |              |                          |
+|  5/5   |                                                                                       |          |  Trans  |     |        |              | Gordon Graduation        |
+|  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | UCI                      |
+|  5/19  |                                                                                       |          |   \|    |     |        |              |                          |
+|  5/26  |                                                                                       |          |   \|    |     |        |              |                          |
+|  6/2   |                                                                                       |          |   \|    |     |        |              |                          |
+|  6/9   |                                                                                       |          | Build 2 |     |        |              |                          |
+|  6/16  |                                                                                       |          |   \|    |     |        |              |                          |
+|  6/23  |                                                                                       |          |   \|    |     |        |              |                          |
+|  6/30  |                                                                                       |          |   \|    |     |        |              |                          |
+|  7/7   |                                                                                       |          |  Peak   |     |        |              |                          |
+|  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | UCI                      |
+|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |    Z     | Base 3  |     |        |      E       | too late to cancel       |
+|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     |   \|    |     |        |              | UCI                      |
+|  8/4   |                                                                                       |          | Build 2 |     |        |              |                          |
+|  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                    |
+|  9/1   |                                                                                       |          |  Peak   |     |        |              |                          |
+|  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | UCI                      |
+|  9/22  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              |    B     |  Race   |     |        |              | local                    |
+|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |    Z     |         |     |        |      E       | paid, camping, week-long |
+|        |                                                                                       |          |         |     |        |              |                          |
 
 [^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
 
