@@ -9,6 +9,20 @@ Here is my *current* weekly schedule. It changes during the year somewhat but I'
 | **Fri** | 🛠 Flex / Easy Spin         | 60         | Z1–Z2     | Pre-fueled    | Optional: rest if tired from the week  |
 | **Sat** | 🐢 Long Slow Ride           | 100–180    | Z2        | Gut training  | Main fat-burning aerobic base ride     |
 | **Sun** | 😄 Silly Recovery Ride      | 60         | Z1–Z2     | Pre-fueled    | Explore or loop, no performance goal   |
+|         |                             |            |           |               |                                        |
+|         |                             |            |           |               |                                        |
+
+sc
+
+| Day        | Focus                               | Notes |
+|------------|--------------------------------------|-------|
+| **Monday** | 🏋️ Strength Training + Recovery Spin | Gym: Full-body (squats, rows, core); 60–90 min Z1 ride or walk  
+| **Tuesday**| ⚡ Sweet Spot / Threshold Intervals   | 2–3 hrs: steady-state or over/unders (88–105% FTP)  
+| **Wednesday**| 🚴 Long Endurance (Z2)              | 3–5 hrs: keep in fat-burn range (~154–210W)  
+| **Thursday**| 🏋️ Strength Training + Sprint Drills | Gym AM; short ride with 10–15s sprint repeats (2 hrs max)  
+| **Friday** | 💤 Recovery Ride / Mobility Work      | 1–2 hrs Z1, stretch/yoga; keep HR low  
+| **Saturday**| 🏁 Race Simulation / Gran Fondo Pace | 180km long ride (Z2-Z3); every 4th week at race pace  
+| **Sunday** | ⛰️ Long Recovery Endurance Ride       | 2–4 hrs Z1–Z2, fun/solo or group base spin  
 ## 11 am departure
 
 Depart at 11am most days so 11-1 weekdays. Logistics and weather are just ideal and predictable at that time. Afternoons are almost always rainy in NC. Before 11 is very cold and damp from dew usually. No school traffic as well. Since NC Mountains to Coast doesn't care when you leave I can plan on leaving around 11 am every day as well, which means sleeping in past all the chilly morning temps in the tent and just enjoying morning coffee. 
