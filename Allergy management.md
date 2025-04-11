@@ -1,0 +1,1 @@
+One very serious health condition I have is random allergies to just about everything. Right now my beard itches, my scalp itches, my stomach is so bloated it's distended, and I *really* hungry and unable to s
