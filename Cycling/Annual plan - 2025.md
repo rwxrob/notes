@@ -23,10 +23,10 @@ Note that I actually started non-specific training—almost entirely weight mana
 
 | Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                    |
 | :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ------------------------ |
-|  4/7   |                                                                                       |          | Base 3  |     |        |              |                          |
-|  4/14  |                                                                                       |          |   \|    |     |        |              |                          |
-|  4/21  |                                                                                       |          |   \|    |     |        |              |                          |
-|  4/28  |                                                                                       |          |   \|    |     |        |              |                          |
+|  4/7   |                                                                                       |          | Base 3  |     |        |     E,W      |                          |
+|  4/14  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
+|  4/21  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
+|  4/28  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
 |  5/5   |                                                                                       |          |  Trans  |  —  |        |              | Gordon Graduation        |
 |  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned               |
 |  5/19  |                                                                                       |          |   \|    |     |        |              |                          |
@@ -48,7 +48,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | Sanctioned               |
 |  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                          |
 |  9/22  |                                                                                       |          |   \|    |  —  |        |              |                          |
-|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |    Z     |   \|    |  —  |        |              | paid, camping, week-long |
+|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |          |   \|    |  —  |        |              | paid, camping, week-long |
 |        |                                                                                       |          |         |     |        |              |                          |
 
 [^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
