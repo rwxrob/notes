@@ -1,8 +1,10 @@
-I suffer from chronic inflammation. I don't understand all the reasons but know they are very complex and include mental issues as well as food and environmental allergens. For some reason, doing 90 minutes of endurance work silences them completely. It's very odd.
+I suffer from chronic inflammation. I don't understand all the reasons but know they are very complex and include mental stress as well as food and environmental allergens. For some reason, doing 90 minutes of endurance work silences them completely. It's very odd.
 
-Right now my beard itches, my scalp itches, my stomach is so bloated it's distended, and I *really* hungry and unable to sleep. Here's the thing, yes there's a lot of pollen around but this isn't that. Endurance sports somehow reduce them all making me able to eat things I normally can't, like cereal with lactose free milk, but not today. Today I just lifted weights and didn't do endurance and I'm having a serious allergy attack like I used to have. So this is my list of foods I'm pretty sure cause me problems. Some of these cause itching, others cause intestinal distress, some cause both.
+When I do get a flare up my whole body itches—including my beard, scalp, and arms—and my stomach gets so bloated it's distended. Sometimes I get small, very itchy sores. I'm told all of that is a histamine reaction. Benedryl shuts it all down but also shuts down my brain and body making it impossible to do anything but sleep. Other daily allergy meds are hit or miss. I also get *really* hungry and unable to sleep. The worst symptom is what it does to my mood. I get really, really angry and frustrated, which just makes it worse.
 
-- Milk even without lactose
+Here are the foods that I know will almost always trigger an acute chromic inflammation attack:
+
+- More than two cups of milk even without lactose
 - Salted Nut Rolls
 - Peanuts (which also keep me up at night)
 - Tootsie rolls (ate a few from gym)
