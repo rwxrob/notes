@@ -38,7 +38,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  6/30  |                                                                                       |          |   \|    |     |        |              |                          |
 |  7/7   |                                                                                       |          |  Peak   |     |        |              |                          |
 |  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | Sanctioned               |
-|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |    Z     | Base 3  |     |        |      E       | too late to cancel       |
+|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |          | Base 3  |     |        |      E       | too late to cancel       |
 |  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | Sanctioned               |
 |  8/4   |                                                                                       |          |   \|    |     |        |              |                          |
 |  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                    |
