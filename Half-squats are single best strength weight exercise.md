@@ -1,0 +1,8 @@
+- Scientifically proven in studies to be just as effective as full squat
+- Less risk to joints than full squat
+- Highest producer of Testosterone and growth hormone of any weight exercise
+- 5x5 well-proven treatment for "low T" syndrome
+- Compression of spine and supporting tissues promotes bone density and strength leading to GH production
+- Multiple supporting muscles including core and arms involved for stabilization
+- 5x5 well-proven treatment for "low T" syndrome
+- Just twice a week with no other exercise produced 30% power gains in cyclist in study
