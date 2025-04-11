@@ -1,5 +1,6 @@
 Designed for: mobility, core stability, and recovery  
 Focus: No hypertrophy — only tone, control, and flow  
+Intensity: should break minimal sweat but not much
 Suggested: first thing out of bed, fasted, kickstarts metabolism
 
 ---
