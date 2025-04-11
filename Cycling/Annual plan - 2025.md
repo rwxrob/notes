@@ -28,7 +28,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  4/21  |                                                                                       |          |   \|    |     |        |              |                          |
 |  4/28  |                                                                                       |          |   \|    |     |        |              |                          |
 |  5/5   |                                                                                       |          |  Trans  |  —  |        |              | Gordon Graduation        |
-|  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | UCI                      |
+|  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned               |
 |  5/19  |                                                                                       |          |   \|    |     |        |              |                          |
 |  5/26  |                                                                                       |          |   \|    |     |        |              |                          |
 |  6/2   |                                                                                       |          |   \|    |     |        |              |                          |
@@ -37,15 +37,15 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  6/23  |                                                                                       |          |   \|    |     |        |              |                          |
 |  6/30  |                                                                                       |          |   \|    |     |        |              |                          |
 |  7/7   |                                                                                       |          |  Peak   |     |        |              |                          |
-|  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | UCI                      |
+|  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | Sanctioned               |
 |  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |    Z     | Base 3  |     |        |      E       | too late to cancel       |
-|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | UCI                      |
+|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | Sanctioned               |
 |  8/4   |                                                                                       |          |   \|    |     |        |              |                          |
 |  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                    |
 |  8/18  |                                                                                       |          |   \|    |     |        |              |                          |
 |  8/25  |                                                                                       |          |  Peak   |     |        |              |                          |
 |  9/1   |                                                                                       |          |   \|    |     |        |              |                          |
-|  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | UCI                      |
+|  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | Sanctioned               |
 |  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                          |
 |  9/22  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              |    B     |  Race   |     |        |              | local                    |
 |  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |    Z     |  Trans  |  —  |        |              | paid, camping, week-long |
