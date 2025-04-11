@@ -1,4 +1,4 @@
-Season goals:
+xSeason goals:
 
 - Qualify and finish Gran Fondo Nationals
 - Complete body transformations enabling competitive 2026 season

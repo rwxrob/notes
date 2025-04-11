@@ -419,12 +419,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Allergy management.md",
+                "file": "Cycling/Annual plan - 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Allergy management"
+              "title": "Annual plan - 2025"
             }
           }
         ],
@@ -581,8 +581,8 @@
   },
   "active": "c18d8667240d34e0",
   "lastOpenFiles": [
-    "Cycling/Why don't more people join USA Cycling?.md",
     "Cycling/Allergy management.md",
+    "Cycling/Why don't more people join USA Cycling?.md",
     "Cycling/Annual plan - 2025.md",
     "Cycling/Competitive bike events.md",
     "Logs/2025-04-10.md",
