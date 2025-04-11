@@ -1,3 +1,4 @@
+From Cyclist Training Bible
 
 | Indicator                            | Warning                 | Score |
 | ------------------------------------ | ----------------------- | ----- |

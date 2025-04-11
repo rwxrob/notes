@@ -433,7 +433,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning warning indicators.md",
+                "file": "Cycling/Morning warning indicators.md",
                 "mode": "source",
                 "source": false
               },
@@ -447,12 +447,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-11.md",
+                "file": "Cycling/Allergy management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-11"
+              "title": "Allergy management"
             }
           }
         ],
@@ -609,9 +609,9 @@
   },
   "active": "b53f91b6f80e17fa",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Cycling/Morning warning indicators.md",
     "Logs/2025-04-11.md",
-    "Morning warning indicators.md",
+    "Untitled.md",
     "Cycling/Annual plan - 2025.md",
     "Cycling/Allergy management.md",
     "Cycling/Why don't more people join USA Cycling?.md",
