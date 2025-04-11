@@ -1,0 +1,1 @@
+The insurance coverage alone is worth it: 0 deductible for up to $50,000 for any bodily injury while in any sanctioned event or training or bike commuting (unsanctioned events are *not* covered).
