@@ -47,8 +47,8 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  9/1   |                                                                                       |          |   \|    |     |        |              |                          |
 |  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | Sanctioned               |
 |  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                          |
-|  9/22  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              |    B     |  Race   |     |        |              | local                    |
-|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |    Z     |  Trans  |  —  |        |              | paid, camping, week-long |
+|  9/22  |                                                                                       |          |   \|    |  —  |        |              |                          |
+|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |    Z     |   \|    |  —  |        |              | paid, camping, week-long |
 |        |                                                                                       |          |         |     |        |              |                          |
 
 [^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
