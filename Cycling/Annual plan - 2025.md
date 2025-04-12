@@ -7,7 +7,7 @@ xSeason goals:
 
 Training objectives:
 
-- 35,000 annual TSS (673/week) - upper masters, low cat 2)
+- 32,200 annual TSS (600/week) - upper masters, low cat 2)
 - 300 FTP by July 4
 - 40 minutes at 90% FTP after three hours by July 4
 - 9% body fat by August 1 and maintain it forever god damnit!
@@ -25,10 +25,10 @@ Note that I actually started non-specific training—almost entirely weight mana
 
 | Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
 | :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
-|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     | 1.5-3h@Z2 + 3xweights               |
-|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | 1.5-3h@Z2 + 3xweights               |
-|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | 1.5-3h@Z2 + 3xweights               |
-|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | 1.5-3h@Z2 + 3xweights               |
+|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     | 3x3h@Z2+3xweights+1x7h@Z2           |
+|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | 3x3h@Z2+3xweights+1x7h@Z2           |
+|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | 3x3h@Z2+3xweights+1x7h@Z2           |
+|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | 3x3h@Z2+3xweights+1x7h@Z2           |
 |  5/5   |                                                                                       |          |  Trans  |  —  |        |     OFF      | Gordon graduation                   |
 |  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned, logistics training, fun |
 |  5/19  |                                                                                       |          |   \|    |     |        |              |                                     |
@@ -64,4 +64,5 @@ Also see:
 
 - Mon/Wed/Fri: 3 hrs Z1-Z2 *only* with no watt bomb spikes (75 TSS at most)
 - Tue/Thu/Sat: weight training and nothing else (70 TSS)
-- Sunday: 7 hrs Z1-Z2 (120 TSS)
+- Sunday: 7 hrs Z1-Z2 (170 TSS)
+- 605 TSS
