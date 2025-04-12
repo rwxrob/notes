@@ -23,7 +23,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 
 | Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                    |
 | :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ------------------------ |
-|  4/7   |                                                                                       |          | Base 3  |     |        |     E,W      |                          |
+|  4/7   |                                                                                       |          | Base 1  |     |        |     E,W      |                          |
 |  4/14  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
 |  4/21  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
 |  4/28  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
