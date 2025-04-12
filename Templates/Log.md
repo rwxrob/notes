@@ -10,6 +10,6 @@
 | Mood                                 | Grumpy?                 | 2     | no    |
 | Sleep                                | Bad sleep?              | 2     | no    |
 | Lying-standing heart rate comparison | High difference?        | 2     | no    |
-| Health                               | Something wrong?        | 2     |       |
-| Muscles, joints                      | Sore?                   | 2     |       |
-| Heart rate variability               | Low?                    | 2     |       |
+| Health                               | Something wrong?        | 2     | no    |
+| Muscles, joints                      | Sore?                   | 2     | no    |
+| Heart rate variability               | Low?                    | 2     | no    |
