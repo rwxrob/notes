@@ -1,3 +1,3 @@
 - Get up when body naturally wakes me up. No alarms.
 - Make coffee and start rice cooker (1 cup basmati rice for the day)
-- 
+- Enter
