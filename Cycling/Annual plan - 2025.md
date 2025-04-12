@@ -18,15 +18,16 @@ Key training elements:
 - 1 hour weight training for power on the bike 2-3 times per week
 - 30 minutes daily yoga focused on core strength and mobility
 - One entire day off per week (nothing but yoga, cleaning, organizing)
+- NO WATT BOMBs on Z2 rides during base phases since weights
 
 Note that I actually started non-specific training—almost entirely weight management and base training—second week of January. This schedule
 
 | Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
 | :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
-|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     | late adding weights                 |
-|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | no intensity other than weights     |
-|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | no intensity other than weights     |
-|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | no intensity other than weights     |
+|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     | 1.5-3h@Z2 + 3xweights               |
+|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | 1.5-3h@Z2 + 3xweights               |
+|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | 1.5-3h@Z2 + 3xweights               |
+|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | 1.5-3h@Z2 + 3xweights               |
 |  5/5   |                                                                                       |          |  Trans  |  —  |        |              | Gordon Graduation                   |
 |  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned, logistics training, fun |
 |  5/19  |                                                                                       |          |   \|    |     |        |              |                                     |

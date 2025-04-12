@@ -545,12 +545,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-12.md",
+                "file": "Cycling/Annual plan - 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-12"
+              "title": "Annual plan - 2025"
             }
           }
         ],
@@ -707,8 +707,8 @@
   },
   "active": "df5a1e8e1de6b292",
   "lastOpenFiles": [
-    "Logs/2025-04-10.md",
     "Logs/2025-04-12.md",
+    "Logs/2025-04-10.md",
     "Logs/2025-04-11.md",
     "Cycling/Annual plan - 2025.md",
     "Cycling/Weight training routine.md",
