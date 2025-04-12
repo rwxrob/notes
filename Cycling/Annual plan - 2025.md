@@ -21,37 +21,37 @@ Key training elements:
 
 Note that I actually started non-specific training—almost entirely weight management and base training—second week of January. This schedule
 
-| Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                    |
-| :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ------------------------ |
-|  4/7   |                                                                                       |          | Base 1  |     |        |     E,W      |                          |
-|  4/14  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
-|  4/21  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
-|  4/28  |                                                                                       |          |   \|    |     |        |     E,W      |                          |
-|  5/5   |                                                                                       |          |  Trans  |  —  |        |              | Gordon Graduation        |
-|  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned               |
-|  5/19  |                                                                                       |          |   \|    |     |        |              |                          |
-|  5/26  |                                                                                       |          |   \|    |     |        |              |                          |
-|  6/2   |                                                                                       |          |   \|    |     |        |              |                          |
-|  6/9   |                                                                                       |          | Build 2 |     |        |              |                          |
-|  6/16  |                                                                                       |          |   \|    |     |        |              |                          |
-|  6/23  |                                                                                       |          |   \|    |     |        |              |                          |
-|  6/30  |                                                                                       |          |   \|    |     |        |              |                          |
-|  7/7   |                                                                                       |          |  Peak   |     |        |              |                          |
-|  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | Sanctioned               |
-|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |          | Base 3  |     |        |      E       | too late to cancel       |
-|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | Sanctioned               |
-|  8/4   |                                                                                       |          |   \|    |     |        |              |                          |
-|  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                    |
-|  8/18  |                                                                                       |          |   \|    |     |        |              |                          |
-|  8/25  |                                                                                       |          |  Peak   |     |        |              |                          |
-|  9/1   |                                                                                       |          |   \|    |     |        |              |                          |
-|  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | Sanctioned               |
-|  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                          |
-|  9/22  |                                                                                       |          |   \|    |  —  |        |              |                          |
-|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |          |   \|    |  —  |        |              | paid, camping, week-long |
-|        |                                                                                       |          |         |     |        |              |                          |
+| Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
+| :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
+|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     | late adding weights                 |
+|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | no intensity other than weights     |
+|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | no intensity other than weights     |
+|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | no intensity other than weights     |
+|  5/5   |                                                                                       |          |  Trans  |  —  |        |              | Gordon Graduation                   |
+|  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned, logistics training, fun |
+|  5/19  |                                                                                       |          |   \|    |     |        |              |                                     |
+|  5/26  |                                                                                       |          |   \|    |     |        |              |                                     |
+|  6/2   |                                                                                       |          |   \|    |     |        |              |                                     |
+|  6/9   |                                                                                       |          | Build 2 |     |        |              |                                     |
+|  6/16  |                                                                                       |          |   \|    |     |        |              |                                     |
+|  6/23  |                                                                                       |          |   \|    |     |        |              |                                     |
+|  6/30  |                                                                                       |          |   \|    |     |        |              |                                     |
+|  7/7   |                                                                                       |          |  Peak   |     |        |              |                                     |
+|  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | Sanctioned                          |
+|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |          | Base 3  |     |        |      E       | too late to cancel                  |
+|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | Sanctioned                          |
+|  8/4   |                                                                                       |          |   \|    |     |        |              |                                     |
+|  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                               |
+|  8/18  |                                                                                       |          |   \|    |     |        |              |                                     |
+|  8/25  |                                                                                       |          |  Peak   |     |        |              |                                     |
+|  9/1   |                                                                                       |          |   \|    |     |        |              |                                     |
+|  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | Sanctioned                          |
+|  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                                     |
+|  9/22  |                                                                                       |          |   \|    |  —  |        |              |                                     |
+|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |          |   \|    |  —  |        |              | paid, camping, week-long            |
+|        |                                                                                       |          |         |     |        |              |                                     |
 
-[^1]: W - weights, E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
+[^1]: W - weights (AA - anatomical adaptation, MT - muscular transition, MS - muscular strength, SM - strength maintenance), E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
 
 Also see:
 
