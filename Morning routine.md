@@ -1,0 +1,2 @@
+- Get up when body naturally wakes me up. No alarms.
+- Make coffee and warm up waffle iron
