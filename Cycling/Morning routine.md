@@ -3,4 +3,6 @@
 - Start rice cooker (1 cup rice = 3 cups for day)
 - Start egg cooker (4 hard boiled for day)
 - Log morning indicators in training log
-- Decide training session "on demand" for the day
+- Check annual plan and focus for the week
+- Set day's training goals with "on demand" TSS for the day
+- 
