@@ -59,3 +59,8 @@ Also see:
 
 - [Current FTP power zones (270 FTP)](Current%20FTP%20power%20zones%20(270%20FTP).md)
 - [Competitive bike events](Competitive%20bike%20events.md)
+
+## Base 1
+
+- Tue/Thu/Sat weight training and nothing else (70 TSS)
+- Sun
