@@ -25,10 +25,10 @@ Note that I actually started non-specific training—almost entirely weight mana
 
 | Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
 | :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
-|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     | 3x3h@Z2+3xweights+1x7h@Z2           |
-|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | 3x3h@Z2+3xweights+1x7h@Z2           |
-|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | 3x3h@Z2+3xweights+1x7h@Z2           |
-|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | 3x3h@Z2+3xweights+1x7h@Z2           |
+|  4/7   |                                                                                       |          | Base 1  |     |        |    E,WAA     |                                     |
+|  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     |                                     |
+|  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     |                                     |
+|  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     |                                     |
 |  5/5   |                                                                                       |          |  Trans  |  —  |        |     OFF      | Gordon graduation                   |
 |  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned, logistics training, fun |
 |  5/19  |                                                                                       |          |   \|    |     |        |              |                                     |
@@ -62,7 +62,8 @@ Also see:
 
 ## Base 1
 
-- Mon/Wed/Fri: 3 hrs Z1-Z2 *only* with no watt bomb spikes (75 TSS at most)
-- Tue/Thu/Sat: weight training and nothing else (70 TSS)
-- Sunday: 7 hrs Z1-Z2 (170 TSS)
+- Only variation is in weight training intensity and load, endurance training is constant week to week
+- Mon/Wed/Fri: 3 hrs Z1-Z2, ***no watt bombs*** (75 TSS)
+- Tue/Thu/Sat: focused weights, core/yoga, mild housework (70 TSS)
+- Sunday: 7 hrs Z1-Z2 ***no watt bombs*** (170 TSS)
 - 605 TSS
