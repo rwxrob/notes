@@ -1,0 +1,1 @@
+So according to some research zone 1 and 2 are okay even on long ride even though it is hard to walk from muscles being sore from weight training.
