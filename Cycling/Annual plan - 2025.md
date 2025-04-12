@@ -62,5 +62,6 @@ Also see:
 
 ## Base 1
 
-- Mon/Wed/Fri: 3 hrs Z1-Z2 *only* with no watt bomb spikes
-- Tue/Thu/Say: weight training and nothing else (70 TSS)
+- Mon/Wed/Fri: 3 hrs Z1-Z2 *only* with no watt bomb spikes (75 TSS at most)
+- Tue/Thu/Sat: weight training and nothing else (70 TSS)
+- Sunday: 7 hrs Z1-Z2 (120 TSS)
