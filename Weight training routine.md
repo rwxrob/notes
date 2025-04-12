@@ -3,4 +3,5 @@ I don't care about anything but improved power, which means as few reps as I can
 - 15 minutes gradually increasing difficulty on stationary gym bike
 - 10 reps with just the bar (20 lbs) focusing on form
 - (do the sets)
-- 5 minutes comfor
+- 5 minutes comfortably high cadence to get legs back
+- eat 10-25g of protein within three hours (2 boiled eggs, 300ml milk, etc.)
