@@ -62,8 +62,8 @@ Also see:
 
 ## Base 1
 
-- Only variation is in weight training intensity and load, endurance training is constant week to week
+- Only variation is in weight training intensity and load, endurance intensity is constant
 - Mon/Wed/Fri: 3 hrs Z1-Z2, ***no watt bombs*** (75 TSS)
 - Tue/Thu/Sat: focused weights, core/yoga, mild housework (70 TSS)
 - Sunday: 7 hrs Z1-Z2 ***no watt bombs*** (170 TSS)
-- 605 TSS
+- **TOTAL TSS: 605**
