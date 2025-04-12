@@ -19,6 +19,7 @@ Key training elements:
 - 30 minutes daily yoga focused on core strength and mobility
 - One entire day off per week (nothing but yoga, cleaning, organizing)
 - NO WATT BOMBs on Z2 rides during base phases since weights
+- Only yoga on weight days during base, no recovery rides
 
 Note that I actually started non-specific training—almost entirely weight management and base training—second week of January. This schedule
 
@@ -28,7 +29,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  4/14  |                                                                                       |          |   \|    |     |        |    E,WMT     | 1.5-3h@Z2 + 3xweights               |
 |  4/21  |                                                                                       |          |   \|    |     |        |    E,WMS     | 1.5-3h@Z2 + 3xweights               |
 |  4/28  |                                                                                       |          |   \|    |     |        |    E,WMS     | 1.5-3h@Z2 + 3xweights               |
-|  5/5   |                                                                                       |          |  Trans  |  —  |        |              | Gordon Graduation                   |
+|  5/5   |                                                                                       |          |  Trans  |  —  |        |     OFF      | Gordon graduation                   |
 |  5/12  | [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/)                       |    B     | Build 1 |     |        |              | Sanctioned, logistics training, fun |
 |  5/19  |                                                                                       |          |   \|    |     |        |              |                                     |
 |  5/26  |                                                                                       |          |   \|    |     |        |              |                                     |
@@ -39,7 +40,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  6/30  |                                                                                       |          |   \|    |     |        |              |                                     |
 |  7/7   |                                                                                       |          |  Peak   |     |        |              |                                     |
 |  7/14  | [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) |    A     |  Race   |     |        |              | Sanctioned                          |
-|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |          | Base 3  |     |        |      E       | too late to cancel                  |
+|  7/21  | [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/)                      |          |  Peak   |     |        |      E       | too late to cancel                  |
 |  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)         |    B     | Build 2 |     |        |              | Sanctioned                          |
 |  8/4   |                                                                                       |          |   \|    |     |        |              |                                     |
 |  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                                |    B     |   \|    |     |        |              | local                               |
