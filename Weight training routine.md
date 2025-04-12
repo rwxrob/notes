@@ -2,7 +2,7 @@ I don't care about anything but improved power, which means as few reps as I can
 
 - 15 minutes gradually increasing difficulty on stationary gym bike
 - 10 reps with just the bar (20 lbs) focusing on form
-- Half-squats for raw power
+- Half-squats for raw power (3 days 5x5 off season, 2 days 3x3 on)
 - Leg curls for muscular balance, not power
 - 5 minutes comfortably high cadence to get legs back
 - eat 10-25g of protein within three hours (2 boiled eggs, 300ml milk, etc.)
