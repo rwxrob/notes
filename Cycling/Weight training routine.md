@@ -9,4 +9,4 @@ More power please, which means as few reps as I can go. I also am only intereste
 
 Weight should be 80-90% of 1RPM and always leave 1-2 reps "in the tank" (don't go until full exhaustion) in order to preserve muscle function and recover for riding.
 
-I'm going to attempt three days a week in the off season (October through February) and two days in season always only 
+I'm going to attempt three days a week in the off season (October through February) and two days in season.
