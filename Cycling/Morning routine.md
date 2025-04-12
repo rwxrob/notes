@@ -1,3 +1,6 @@
 - Get up when body naturally wakes me up. No alarms.
-- Make coffee and start rice cooker (1 cup basmati rice for the day)
-- Enter
+- Make coffee
+- Start rice cooker (1 cup rice = 3 cups for day)
+- Start egg cooker (4 hard boiled for day)
+- Log morning indicators in training log
+- Decide training session "on demand" for the day
