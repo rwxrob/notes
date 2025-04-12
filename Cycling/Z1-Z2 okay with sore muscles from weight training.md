@@ -1,0 +1,1 @@
+So according to some research zone 1 and 2 are okay on long rides even though it is hard to walk from muscles being sore from weight training. In fact, it can help to clear the muscles of waste created. Keep a high cadence and never go big. Save that for after recovery. This way I don't don't have to miss aerobic training days.
