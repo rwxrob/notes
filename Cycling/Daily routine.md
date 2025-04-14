@@ -1,29 +1,17 @@
 Training requires a routine, period. No one ever got good without one. This is why so many people fail. Most of them just let their lives happen to them without taking control.
 ## General hours
 
-Bike training days a the busiest since I try to get 2-3 hours in on those days. Gym days only take about an hour.
-
-Monday/Wednesday/Friday: bike training
+Bike training days are Monday, Wednesday, and Friday and are the busiest since I try to get 2-3 hours in on those days. Gym days only take about an hour so bike day time is made up by shorter gym t. Saturday is my "get shit done" day. Sunday is my "all day on the bike" day.
 
 - 7-7:30 Breakfast and morning routine
 - 7:30-9:30 Focused work time (most productive of day)
-- 9:30 Drive to bike shed and change
-- 10:00 Start ride (attend work call on Wednesdays while riding)
-- 12:30 Change back, drink shake, update Strava, drive home, shower
-- 1:00-7:30 Work from home
-
-Tuesday/Thursday/Saturday: gym
-
-- 7-7:30 Breakfast and morning routine
-- 7:30-9:30 Focused work time (most productive of day)
-- 9:30 Change and drive to gym
-- 10:00 Gym leg weight workout + core exercises
-- 11:00 Drink shake, update Strava, drive home, shower
-- 11:30-7:30 Work from home or other life stuff
+- 9:30 Drive to bike shed or gym
+- 10:00 Start training
+- noon-ish to 7 Work
 
 Sunday: century
 
-- 140+km Train long
+- 140+km Long, slow training on bike
 ## Morning routine
 
 - Get up when body naturally wakes me up around 7am. No alarms.
