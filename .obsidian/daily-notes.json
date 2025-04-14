@@ -1,4 +1,5 @@
 {
   "folder": "Logs",
-  "template": "Templates/Log"
+  "template": "Templates/Log",
+  "format": "YYYY-MM-DD (\"TSS\" 0)"
 }
