@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stre",
+                "query": "routine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7dfdfb059b0fb45",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Cycling/Rudy Venger helmet with anti-bee netting.md",
     "Cycling/Prescription Raybans with photo-chromatic lenses FTW.md",
