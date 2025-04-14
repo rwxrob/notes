@@ -16,7 +16,7 @@ Bike training days are Monday, Wednesday, and Friday and are the busiest since I
 - 7:30-9:30 Focused work time (most productive of day)
 - 9:30 Drive to bike shed or gym
 - 10:00 Start training
-- noon-ish to 7 Work
+- noon-ish to 7 Work (with Yoga mixed in somewhere)
 
 [10 am is best time to start training](10%20am%20is%20best%20time%20to%20start%20training.md)
 ## Morning routine
