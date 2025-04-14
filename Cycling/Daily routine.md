@@ -1,7 +1,7 @@
-Training requires a routine, period. No one ever got good without one. This is why so many people fail. Most of them just let their lives happen to them without taking control.
+Training like a pro while still having a full-time job requires a routine. No one ever got good without one. This is why so many people fail. Most of them just let their lives happen to them without taking control and pushing to get things done more efficiently.
 ## General hours
 
-Bike training days are Monday, Wednesday, and Friday and are the busiest since I try to get 2-3 hours in on those days. Gym days only take about an hour so bike day time is made up by shorter gym t. Saturday is my "get shit done" day. Sunday is my "all day on the bike" day.
+Bike training days are Monday, Wednesday, and Friday and are the busiest since I try to get 2-3 hours in on those days. Gym days only take about an hour so the longer time taken from bike training days is made up by shorter gym training session. Plus I can actually attend a meeting on Wednesday while on the bike because it is a "listen in" meeting mostly. Saturday is my "get shit done" day. Sunday is my "all day on the bike" day.
 
 - 7-7:30 Breakfast and morning routine
 - 7:30-9:30 Focused work time (most productive of day)
@@ -9,9 +9,7 @@ Bike training days are Monday, Wednesday, and Friday and are the busiest since I
 - 10:00 Start training
 - noon-ish to 7 Work
 
-Sunday: century
-
-- 140+km Long, slow training on bike
+[10 am is best time to start training](10%20am%20is%20best%20time%20to%20start%20training.md)
 ## Morning routine
 
 - Get up when body naturally wakes me up around 7am. No alarms.
