@@ -5,7 +5,9 @@ My Daily 60k is the safest route with the best roads in terms of quality and tra
 
 https://www.strava.com/routes/3346725453013739892
 
-This route takes me 2.5 hours at my slowest pace in Z1-Z2 which will only increase and is the perfect time to train fat-burning systems and not run completely out of water without a refill. I only have to carry 2x750ml and an emergency Payday candy bar or homemade gel in case I failed pre-fueling. There are plenty of places to cover me if I did fail. I've flatted before and needed that candy bar.
+This route takes me 2.5 hours at my slowest pace in Z1-Z2 which will only increase as I get better. Since recovery and base are the slowest all my other on-bike training will take less time than this.
+
+2.5 hours on base endurance days is the perfect duration for me to train fat-burning systems and not run completely out of water without a refill. I only have to carry 2x750ml and an emergency Payday candy bar or homemade gel in case I failed pre-fueling. There are plenty of places to cover me if I did fail. I've flatted before and needed that candy bar. I also do a different 7-hour ride on Sunday (except the recovery )
 ## General hours
 
 Bike training days are Monday, Wednesday, and Friday and are the busiest since I try to get 2-3 hours in on those days. Gym days only take about an hour so the longer time taken from bike training days is made up by shorter gym training session. Plus I can actually attend a meeting on Wednesday while on the bike because it is a "listen in" meeting mostly. Saturday is my "get shit done" day. Sunday is my "all day on the bike" day.
