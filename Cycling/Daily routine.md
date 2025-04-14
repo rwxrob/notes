@@ -1,13 +1,16 @@
 Training requires a routine, period. No one ever got good without one. This is why so many people fail. Most of them just let their lives happen to them without taking control.
 ## General hours
 
+Monday/Wednesday/Friday: bike training
+
 - 7-7:30 Breakfast and morning routine
 - 7:30-9:30 Focused work time (most productive of day)
-- 9:30 Drive to bike shed and change or change and then gym
-- 10:00 Start Garmin on the bike on the road riding
-- 12:30 Change back and drive home (if bike, earlier if gym)
-- 
+- 9:30 Drive to bike shed and change
+- 10:00 Start ride (attend work call on Wednesdays while riding)
+- 12:30 Change back, drink shake, update Strava, drive home, shower
+- 1:00-7:30 Work from home
 
+Tuesday/Thursday/Saturday: gym
 ## Morning routine
 
 - Get up when body naturally wakes me up around 7am. No alarms.
