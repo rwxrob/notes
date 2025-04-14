@@ -1,0 +1,3 @@
+Studio 54 meets practical farm-road cruising speeds. I've been stung at least two times on the open farm roads here. Both times, coincidentally when I was wearing highly colorful jerseys for visibility. This is the only pro helmet on the market with a net to block insects from getting trapped in the helmet vents. Plus it just looks amazing.
+
+https://www.rudyprojectna.com/collections/best-selling-rudy-project-cycling-helmets/products/venger?variant=41803242733768
