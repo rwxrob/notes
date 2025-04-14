@@ -1,8 +1,0 @@
-- Get up when body naturally wakes me up. No alarms.
-- Make coffee
-- Start rice cooker (1 cup rice = 3 cups for day)
-- Start egg cooker (4 hard boiled for day)
-- Log morning indicators in training log
-- Check annual plan and focus for the week including target TSS for week
-- Set day's training goals with "on demand" TSS for the day
-- 
