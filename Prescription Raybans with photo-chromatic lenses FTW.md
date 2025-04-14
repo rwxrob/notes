@@ -4,4 +4,4 @@ The whole point of the cycling obsession (for me) is amazing scenery! When I wea
 
 And no, tri-focals aren't even an option for inserts so good luck seeing your bike computer no matter what that font. 
 
-So look for the guy in that #1 podium spot at Gran Fondoa nationals in the 55-59 age group with the so-nerdy-their-hip retro Raybans with the thick lenses. Who knows maybe I'll even start a new trend. (Probably not, I'll just be another old may)
+So look for the guy in that #1 podium spot at Gran Fondoa nationals in the 55-59 age group with the so-nerdy-their-hip retro Raybans with the thick lenses. Who knows maybe I'll even start a new trend. (Probably not, I'll just be another old man who doesn't give a fuck wearing whatever he wants.) Personally, I think these give me devil-may-care DKLEIN meets Sportif look—especially with my so sparkly it almost looks bedazzled Rudy Venger helmet (which comes with a bug-net lining to keep NC bees and wasps out, btw, unlike *any* other helmet on the market)
