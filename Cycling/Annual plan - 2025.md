@@ -16,8 +16,7 @@ Key training elements:
 
 - Pro volume even though not shooting for pro events
 - 1 hour weight training for power on the bike 2-3 times per week
-- 30 minutes daily yoga focused on core strength and mobility
-- One entire day off per week (nothing but yoga, cleaning, organizing)
+- 30 minutes daily yoga focused on core strength and mobility 2-3 times per week
 - NO WATT BOMBs on Z2 rides during base phases since weights
 - Only yoga on weight days during base, no recovery rides
 
