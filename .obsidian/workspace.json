@@ -11,10 +11,14 @@
             "id": "72edee830663855e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Log.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Log"
             }
           }
         ]
@@ -168,13 +172,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "72edee830663855e",
   "lastOpenFiles": [
+    "Logs/2025-04-15 (TSS 0).md",
+    "Logs/2025-04-14 (TSS 45).md",
     "Cycling/Weekday routine.md",
     "Cycling/Local road reviews.md",
     "Cycling/10 am is best time to start training.md",
     "Cycling/Annual plan - 2025.md",
-    "Logs/2025-04-14 (TSS 45).md",
     "Cycling/Rudy Venger helmet with anti-bee netting.md",
     "Cycling/Prescription Raybans with photo-chromatic lenses FTW.md",
     "Cycling/Goblin Medio Fondo.md",
@@ -196,7 +201,6 @@
     "Cycling/Allergy management.md",
     "Cycling/Why don't more people join USA Cycling?.md",
     "Cycling/Domane SLR 7 Gen 4.md",
-    "Cycling/Bike collection.md",
     "Cycling/weekly-schedule.png",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
     "Templates",
