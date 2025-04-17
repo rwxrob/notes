@@ -7,7 +7,7 @@ xSeason goals:
 
 Training objectives:
 
-- 32,200 annual TSS (600/week - upper masters, low cat 2)
+- 32,200 annual TSS (600/week- upper masters, low cat 2)
 - 300 FTP by July 4
 - 40 minutes at 90% FTP after three hours by July 4
 - 9% body fat by August 1 and maintain it forever god damnit!
