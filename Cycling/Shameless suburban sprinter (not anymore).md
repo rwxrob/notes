@@ -1,3 +1,8 @@
+
+Update: I'm too fast for the suburbs now. I don't want to take any chances of hurting someone else—especially one of the cute kids having fun in their local neighborhood. Plus the number of tight, blind turns is fun but dangerous (as my slide out after a rainstorm confirms). Even though a dumb ass hauling a boat on a completely remote farm road almost took me out this week, it's still better than the risk of hurting another innocent person.
+
+----
+
 There's a style of bike riding that most people who love to ride into their adult years tend to downplay: sprinting on quiet suburban roads.
 
 Before I ever raced my first crit I was racing around the house and then the block and eventually on the way to my girlfriend's house ten miles away. Now that I'm considerably older I find myself realizing that style of riding is still my favorite. It's scenic and exciting filling me with all the good drugs I can get from my own body—way more than I would get on a long-haul waiting to get killed from behind by some tired trucker.
