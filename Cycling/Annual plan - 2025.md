@@ -47,10 +47,13 @@ Note that I actually started non-specific training—almost entirely weight mana
 |  8/25  |                                                                                       |          |  Peak   |     |        |              |                                     |
 |  9/1   |                                                                                       |          |   \|    |     |        |              |                                     |
 |  9/8   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)  |    AA    |  Race   |     |        |              | Sanctioned                          |
-|  9/15  |                                                                                       |          |  Trans  |  —  |        |              |                                     |
-|  9/22  |                                                                                       |          |   \|    |  —  |        |              |                                     |
-|  9/29  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |          |   \|    |  —  |        |              | paid, camping, week-long            |
-|        |                                                                                       |          |         |     |        |              |                                     |
+|  9/15  |                                                                                       |          |  Peak   |     |        |              |                                     |
+|  9/22  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)                              |    B     |  Race   |     |        |              | Champagne gravel                    |
+|  9/29  |                                                                                       |          |  Trans  |  —  |        |              |                                     |
+|  10/6  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)    |          |   \|    |     |        |              | paid, camping, week-long            |
+| 10/13  |                                                                                       |          |         |     |        |              |                                     |
+| 10/20  |                                                                                       |          |         |     |        |              |                                     |
+| 10/27  |                                                                                       |          |         |     |        |              |                                     |
 
 [^1]: W - weights (AA - anatomical adaptation, MT - muscular transition, MS - muscular strength, SM - strength maintenance), E - aerobic endurance, F - muscular force, S - speed skills, ME - muscular endurance, AE - anaerobic endurance, P - sprint power
 
