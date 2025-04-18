@@ -1,3 +1,8 @@
+270 is my real FTP when not super tired from weekly weight training. But for 2025 I'm going to adjust it to take weights into account.
+
+
+
+----
 
 | Zone       | % of FTP | Power (W) | %  Carbs | kcal/hr    | Carb g/hr | Description                                                                                    |
 | ---------- | -------- | --------- | -------- | ---------- | --------- | ---------------------------------------------------------------------------------------------- |
