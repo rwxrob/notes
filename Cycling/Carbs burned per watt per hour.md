@@ -32,7 +32,7 @@ Therefore, efforts typically less than 90 minutes can draw on stored glycogen an
 
 This is where that "fueling on bike over 90 minutes" rule comes from but it is more subtle than the generic way people say it. A lot of people on the Internet are talking about elite/pro trained athletes who have a very well-trained gut and also are pushing 300 watts _in zone 2_ "easy" mode. That is not most people. Taking in 90-120g as recommended for an average person with a 150 W zone 2 would not only stop all fat-as-fuel system training but bloat them out and likely end up _putting on fat_ instead—if they didn't puke first. Most average people should *not* shoot for more than 20-40g per hour—especially at first when the gut isn't trained well.
 
-[Current FTP power zones (270 FTP)](Current%20FTP%20power%20zones%20(270%20FTP).md)
+[Current FTP power zones (230 FTP)](Current%20FTP%20power%20zones%20(230%20FTP).md)
 
 [^1]: This is not completely accurate because it depends on how developed the fat oxidation energy system is, the better it is trained the less **Carb % of fuel**.
 

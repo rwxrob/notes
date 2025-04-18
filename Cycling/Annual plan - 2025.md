@@ -59,7 +59,7 @@ Note that I actually started non-specific training—almost entirely weight mana
 
 Also see:
 
-- [Current FTP power zones (270 FTP)](Current%20FTP%20power%20zones%20(270%20FTP).md)
+- [Current FTP power zones (230 FTP)](Current%20FTP%20power%20zones%20(230%20FTP).md)
 - [Competitive bike events](Competitive%20bike%20events.md)
 
 ## Base 1
