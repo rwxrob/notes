@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c76925a2df277180",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Logs/2025-04-20 (TSS 0).md",
     "Untitled.md",
