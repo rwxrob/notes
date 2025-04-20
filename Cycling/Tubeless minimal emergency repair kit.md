@@ -1,4 +1,4 @@
-This kit is designed for Gran Fondo events and long training rides for Gran Fondo events. The idea is that it is enough to cover anything that is reasonably repairable during an event. Everything b
+This kit is designed for Gran Fondo events and long training rides for Gran Fondo events. The idea is that it is enough to cover anything that is reasonably repairable during an event. Everything beyond what is repairable with this kit is a "call for support" situation. The same kit can be used for all-road/gravel events so long as the tube is swapped out.
 
 - **Ornot minimal seat bag**
 - **Flextail Pro USB Pump** – Compact electric pump for tubeless/tube tires
