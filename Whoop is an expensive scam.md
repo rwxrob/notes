@@ -1,0 +1,8 @@
+- The thing doesn't work, just ask Dylan Johnson
+- Averaged HR
+- Morning questions and dialing in personal feel for variable training is better than HRV
+- Creates skin health issues for having to be on all the time
+- Is not "free trial"
+- Had to pay $10 to cancel and my own shipping
+- Had to send within 7 days or pay $124 restocking fee
+- No refund whatsoever for any "additional" straps or accessories
