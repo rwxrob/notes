@@ -1,5 +1,5 @@
 - The thing doesn't work, just ask Dylan Johnson
-- Averaged HR
+- Averaged HRV is not based on the HRV point in time scientific studies
 - Morning questions and dialing in personal feel for variable training is better than HRV
 - Creates skin health issues for having to be on all the time
 - Is not "free trial"
