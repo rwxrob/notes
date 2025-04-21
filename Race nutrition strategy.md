@@ -10,5 +10,5 @@
 ## Training ride plan to train gut
 
 - Pre-fuel on waffles and/or rice (120g) 2-3 hours before
-- Work up to 60g of carbs
+- Work from 40g to 60g of carbs in each 550ml bottle
 - Additional 10g per week
