@@ -17,3 +17,4 @@
 - Keep training sessions 3+ hours with identical carb strategy to train gut but vary intensity
 - Move away from fat-burning as primary fuel source gradually
 - Reduce body fat with daily diet without changing training carb strategy, eat less _after_ ride
+- Push pace higher on training rides and find recoverability limit
