@@ -1,3 +1,5 @@
+- Bring my own nutrition to everything
+- Plan on six hours every time, even if shorter just to get into the  bha
 - I've decided to only use 550 bottles to practice for group rides and competition and just top them off with water.
 - After studying Chris Miller's strategy the first two bottles will have electrolyte and carb and the refills will just be water to keep things simple. 
 - Carbs then later come from 1 or two "sugar flasks" with my a homemade gel (multiple carb sources + electrolytes, etc.) so that water can vary depending on the heat for the day.
