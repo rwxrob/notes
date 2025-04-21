@@ -9,4 +9,4 @@
 
 ## Training ride plan to train gut
 
-- 
+- Pre-fuel on waffles and/or rice 
