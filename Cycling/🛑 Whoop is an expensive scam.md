@@ -3,6 +3,7 @@
 - Morning questions and dialing in personal feel for variable training is better than HRV
 - Creates skin health and allergy issues for having to be on all the time
 - Is not _really_ "free trial"
+- $20 per month subscription is not worth what an HR strap will give you
 - Had to pay $10 to cancel and pay my own shipping
 - Had to send within 7 days or pay $124 restocking fee
 - No refund whatsoever for any "additional" straps or accessories
