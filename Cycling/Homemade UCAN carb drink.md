@@ -1,3 +1,7 @@
+Update: decided against this.
+
+----
+
 https://theplantedrunner.com/generation-ucan-alternative-you-can-make-for-pennies/
 
 - 8 2/3 tbsp cornstarch or tapioca flour ((70 grams))

@@ -1,7 +1,7 @@
-
-
+- Most races and group rides start in morning
+- Best to dial-in race-day clothing kit selection
 - Afternoons are almost always rainy in NC
 - Earlier is colder outside
 - Later is much hotter outside
-- No school or work traffic (which gets heavy at about 1:30)
+- Less school or work traffic (which gets heavy at about 1:30)
 - Off the good, long roads by 1pm—especially the connectors
