@@ -13,4 +13,6 @@
 - Work from 40g to 100g of carbs in each 550ml bottle (2:1 maltodextrin to fructose + sodium, 2 hours worth)
 - Additional 10g per week
 - Convert to gel and water at 2 hour mark
-- Always train for 2.5 hours or longer in 2025
+- Keep training sessions 3+ hours with identical carb strategy in 2025 to train gut but vary intensity
+- Move away from fat-burning as primary fuel source gradually
+- Reduce body fat with daily diet without changing training carb strategy, eat less _after_ ride

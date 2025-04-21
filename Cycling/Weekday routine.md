@@ -18,7 +18,7 @@ Bike training days are Monday, Wednesday, and Friday and are the busiest since I
 - 10:00 Start training
 - noon-ish to 7 Work (with Yoga and possibly 30 minute nap mixed in somewhere)
 
-[10 am is best time to start training](10%20am%20is%20best%20time%20to%20start%20training.md)
+[Morning is best time for training](Morning%20is%20best%20time%20for%20training.md)
 ## Morning routine
 
 - Get up when body naturally wakes me up around 7am. No alarms.

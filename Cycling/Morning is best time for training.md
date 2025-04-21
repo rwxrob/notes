@@ -1,4 +1,4 @@
-Logistics, traffic, and weather are just ideal and predictable at 10am.
+
 
 - Afternoons are almost always rainy in NC
 - Earlier is colder outside
