@@ -7,6 +7,8 @@ The secret of Matrodextrin's osmolality is the single biggest breakthrough in nu
 
 - 83g Fructose powder (83g)
 - 178g Maltodextrin powder (167g carb)
+- 12g Key Nutrients Electrolyte powder
+- Morton Sea Salt (550mg sodium per 1/4 tsp)
 - 
 
 >[!TIP]
