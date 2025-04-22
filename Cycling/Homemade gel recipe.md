@@ -1,5 +1,3 @@
 This will fill one 250ml flask producing 250 grams of carbs in a 2:1 Maltodextrin/Fructose split (scientifically proven to be the best balance). Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) entirely which has a glycemic index of 100 versus Maltodextrin's 130 and makes it way too sweet. Even worse, the [osmolality](Osmolality,%20watch%20that%20isotonic%20limit.md) of corn syrup is ridiculously high compared to Maltodextrin which has the lowest of any sugar source. ***I only need 70ml (one swig) of water for every 20g of Maltodextrin (about a mouthful of gel) for it to digest and not dehydrate me.***  If I was using anything *but* Maltodextrin I'd have to drink 380 ml for that same 20g. That's more than half a small 550ml water bottle! The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered.
 
-
-
-I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth. Then I match it with one gulp of water per estimated 20
+I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by a 

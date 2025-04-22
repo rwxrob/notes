@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Measure your full mouth capacity.md",
+                "file": "Cycling/Homemade gel recipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Measure your full mouth capacity"
+              "title": "Homemade gel recipe"
             }
           }
         ],
@@ -187,10 +187,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d52b59d61cbb830",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "Cycling/Full mouth capacity is 100ml.md",
     "Cycling/Homemade gel recipe.md",
-    "Measure your full mouth capacity.md",
     "Cycling/Osmolality, watch that isotonic limit.md",
     "Cycling/Don't ride these roads.md",
     "Cycling/Performance adventure cycling kit.md",

@@ -1,0 +1,1 @@
+I took water into my mouth to the point where it couldn't hold any more and spit it into a measuring bowl. This helps estimate just how much gel and water I'm taking in while on a ride.
