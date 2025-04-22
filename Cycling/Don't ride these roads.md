@@ -13,3 +13,9 @@
 - Serious rumble-strip paint lines
 - It's a highway
 - Okay to cross in places but never ride it
+
+## Saw Road
+
+- Traffic
+- No shoulder
+- Bumpy
