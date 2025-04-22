@@ -1,12 +1,18 @@
-This recipe produces the fastest sugar intake possible by the human body according to modern nutritional science. It fills one 250ml flask producing 250 grams of carbs in a 2:1 Maltodextrin/Fructose split, scientifically proven to be the best balance (which, incidentally, is the exact balance in a banana making it still the best common source for carb fueling when gels aren't available).
+This recipe produces the fastest carb intake possible by the human body according to modern nutritional science. It fills one 250ml flask producing 250 grams of carbs in a 2:1 Maltodextrin/Fructose split, scientifically proven to be the best balance (which, incidentally, is the exact balance in a banana making it still the best common source for carb fueling when gels aren't available).
 
 >[!TIP]
 Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) entirely which has a glycemic index of 100 versus Maltodextrin's 130 and makes it way too sweet. Even worse, the [osmolality](Osmolality,%20watch%20that%20isotonic%20limit.md) of corn syrup is ridiculously high compared to Maltodextrin which has the lowest of any sugar source. ***I only need 70ml (one swig) of water for every 20g of Maltodextrin (1/5th a mouthful of gel) for it to digest and not dehydrate me.***  If I was using anything *but* Maltodextrin I'd have to drink 380 ml—more than half a small water bottle—for that same 20g! This is why Gummie Bears, Jolly Ranchers, Swedish Fish, Sour Patch Kids, PayDay, and Snickers candy bars are all horrible in comparison. Those might have worked for boomer marathoners but not modern endurance athletes.
 
 The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum size to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
 
-- 
+
+
+>[!TIP]
+>Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
 
 To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Make sure it has a handle and can be poured. Add in the Agave syrup at the bottom then add the electrolyte powder and salt followed by some of the Maltodextrin powder to fill the bowl. Slowly start to stir the Maltodextrin into the Agave syrup. It will liquify and reduce in size. Then add a bit of water to make it easier to liquify the rest. Keep adding Maltodextrin powder until it has all been liquified. When you are done mixing it you should have exactly 500ml. Add water to make it match if not. 
 
-This makes enough gel to fill two flasks or 500 grams of carbs. That should be enough for most amateur athletes for any Gran Fondo but check your personal [carbs burned per watt per hour](Carbs%20burned%20per%20watt%20per%20hour.md) based on your personal FTP. Plus you'll have to train your gut to take it in. Thankfully, this is literally the easiest thing on your gut most people will ever be able to absorb.
+This makes enough gel to fill two flasks or 500 grams of carbs. That should be more than enough carbs for most amateur athletes for any Gran Fondo but check your personal [carbs burned per watt per hour](Carbs%20burned%20per%20watt%20per%20hour.md) based on your personal FTP. Most will be fine with just a single flask for anything under six hours (like the local group ride) if they've properly pre-fueled as well.\
+
+>![WARNING]
+>Don't use this gel to recover. The last pull should be at the top of the last hour of the event. The glycemic index is so high it will reek havoc on your system
