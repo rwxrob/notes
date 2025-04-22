@@ -1,11 +1,11 @@
-This recipe produces the fastest carb intake possible by the human body according to modern nutritional science. It fills one easy to carry and manage 250ml flask producing 250 grams of carbs in the optimal 2:1 Maltodextrin/Fructose split.
+This recipe produces the fastest carb intake possible by the human body according to modern nutritional science. It fills one easy to carry and manage 250ml flask producing 250 grams of carbs in the optimal 2:1 Maltodextrin/Fructose split. For every flask one 750ml water bottle must be drunk for minimum osmolality (most will drink much more water than that). This gel strategy frees water bottles to contain only water.
 
 >[!TIP]
 Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) entirely which has a glycemic index of 100 versus Maltodextrin's 130 and makes it way too sweet. Even worse, the [osmolality](Osmolality,%20watch%20that%20isotonic%20limit.md) of corn syrup is ridiculously high compared to Maltodextrin which has the lowest of any sugar source. ***I only need 70ml (one swig) of water for every 20g of Maltodextrin (1/5th a mouthful of gel) for it to digest and not dehydrate me.***  If I was using anything *but* Maltodextrin I'd have to drink 380 ml—more than half a small water bottle—for that same 20g! This is why Gummie Bears, Jolly Ranchers, Swedish Fish, Sour Patch Kids, PayDay, and Snickers candy bars are all horrible in comparison. Those might have worked for boomer marathoners but not modern endurance athletes.
 
 The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum amount of water to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
 
-- 100 ml water
+- 100 ml water (just to start mixing)
 - 83 g Fructose powder (83 g)
 - 178 g Maltodextrin powder (167 g carb)
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
