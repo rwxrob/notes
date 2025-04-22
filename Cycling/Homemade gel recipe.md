@@ -1,5 +1,4 @@
-https://theplantedrunner.com/copycat-gu-gels/
-https://theplantedrunner.com/lemon-cream-pie-endurance-gel/
+This will fill one 250ml flask producing 250 grams of carbs in a 2:1 Maltodextrin/Fructose split. Unlike other recipes I've eliminated glucose entirely which has a GI of 100 versus Maltodextrin's 130 and makes it way too sweet. This makes the osmolality [Osmolality, watch that isotonic limit](Osmolality,%20watch%20that%20isotonic%20limit.md)
 ## Lime
 
 - 40 grams maltodextrin 1/4 cup
