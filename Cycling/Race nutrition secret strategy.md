@@ -1,3 +1,5 @@
+The secret to durability is carbs.
+
 - Pre-fuel on waffles or other carb (120g) 2-3 hours before event
 - Carry own homemade gel since predictable, supplement with feed zones if and when needed (just bananas)
 - Adapt homemade gel to conditions (pace, gut training, sodium) in 250ml flasks with hourly carb + electrolyte
