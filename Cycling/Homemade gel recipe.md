@@ -5,16 +5,16 @@ Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) ent
 
 The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum amount of water to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
 
+- 100ml water
 - 83g Fructose powder (83g)
 - 178g Maltodextrin powder (167g carb)
-- 12g Key Nutrients Electrolyte powder
-- Morton Sea Salt (550mg sodium per 1/4 tsp)
-- 
+- 12g Key Nutrients Electrolyte powder (330mg sodium, 750 potassium, etc.)
+- ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
 
 >[!TIP]
 >Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
 
-To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Set it on a kitchen scale and clear the weight to zero grams. Make sure it has a handle and can be poured. Add the water at the bottom then add the electrolyte powder and salt followed gradually by the powders to fill the bowl. Slowly start to stir the Maltodextrin into the water. It will liquify and reduce in size. Keep adding powder until it has all been liquified. When you are done mixing it you should have exactly 500ml and be able to pour it into a flask.
+To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Set it on a kitchen scale and clear the weight to zero grams. Make sure it has a handle and can be poured. Add the water at the bottom then add the electrolyte powder and salt followed gradually by the powders to fill the bowl. Slowly start to stir the powders into the water. It will liquify and reduce in size. Keep adding powder until it has all been liquified. When you are done mixing it you should have exactly 500ml and be able to pour it into a flask.
 
 >[!TIP]
 >Hold the bowl up high so that the stream of gel is smaller and fits though the hole. Or just use a funnel.
