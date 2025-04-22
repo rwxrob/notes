@@ -6,11 +6,13 @@ Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) ent
 The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum amount of water to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
 
 - 
+- 90g pure Maltodextrin (84g carb)
+- 
 
 >[!TIP]
 >Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
 
-To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Make sure it has a handle and can be poured. Add in the Agave syrup at the bottom then add the electrolyte powder and salt followed by some of the Maltodextrin powder to fill the bowl. Slowly start to stir the Maltodextrin into the Agave syrup. It will liquify and reduce in size. Then add a bit of water to make it easier to liquify the rest. Keep adding Maltodextrin powder until it has all been liquified. When you are done mixing it you should have exactly 500ml. Add water to make it match if not. 
+To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Set it on a kitchen scale and clear the weight to zero grams. Make sure it has a handle and can be poured. Add in the Agave syrup at the bottom then add the electrolyte powder and salt followed by some of the Maltodextrin powder to fill the bowl. Slowly start to stir the Maltodextrin into the Agave syrup. It will liquify and reduce in size. Then add a bit of water to make it easier to liquify the rest. Keep adding Maltodextrin powder until it has all been liquified. When you are done mixing it you should have exactly 500ml. Add water to make it match if not. 
 
 This makes enough gel to fill two flasks or 500 grams of carbs. That should be more than enough carbs for most amateur athletes for any Gran Fondo but check your personal [carbs burned per watt per hour](Carbs%20burned%20per%20watt%20per%20hour.md) based on your personal FTP. Most will be fine with just a single flask for anything under six hours (like the local group ride) if they've properly pre-fueled as well.
 
