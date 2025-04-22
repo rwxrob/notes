@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Race nutrition strategy.md",
+                "file": "Cycling/Carbs burned per watt per hour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Race nutrition strategy"
+              "title": "Carbs burned per watt per hour"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "123255ae632d468d",
   "lastOpenFiles": [
-    "Logs/2025-04-21.md",
     "Cycling/Race nutrition strategy.md",
+    "Logs/2025-04-21.md",
     "Cycling/Tubeless minimal emergency repair kit.md",
     "Cycling/Essential Gran Fondo repair kit.md",
     "Cycling/Homemade UCAN carb drink.md",
