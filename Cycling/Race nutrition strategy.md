@@ -1,7 +1,7 @@
 - Carry own nutrition since predictable, supplement with feed zones if and when needed (just bananas)
 - Plan own nutrition for six hours every time, even if shorter just to get into the habit and cover unexpected (worth 300grams or so)
 - Only use 550 bottles to simulate race on-bike nutrition skills
-- First two bottles hourly carb requirement + electrolyte to start (first two hours)
+- Never anything but water in bottles
 - Remaining hours 550 water per hour minimum
 - Refill with only water too keep feed zones fast and allow use of water for cooling, cleaning injuries, dogs, etc.
 - Gels with hourly carb and electrolyte for hours 3-6 (250ml + 150ml)
