@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "2025-04-26"
             }
+          },
+          {
+            "id": "fc02087972d54efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-04-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-26"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,10 +229,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "fc02087972d54efb",
   "lastOpenFiles": [
-    "Cycling/160mm crank arms + 52x36 chainrings.md",
+    "Cycling/\"The don't have kids ... or lives\".md",
     "Logs/2025-04-26.md",
+    "Cycling/160mm crank arms + 52x36 chainrings.md",
     "Cycling/Annual plan - 2025.md",
     "Logs/2025-04-25.md",
     "Cycling/Current FTP power zones (230 FTP).md",
@@ -242,7 +257,6 @@
     "Cycling/Essential Gran Fondo repair kit.md",
     "Cycling/Homemade UCAN carb drink.md",
     "Cycling/Best regular foods for cycling.md",
-    "Cycling/Morning is best time for training.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
