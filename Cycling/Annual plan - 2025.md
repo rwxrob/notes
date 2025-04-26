@@ -1,9 +1,8 @@
-xSeason goals:
+Season goals:
 
 - Qualify and finish Gran Fondo Nationals
 - Complete body transformations enabling competitive 2026 season
 - Finish a UCI qualifier in top 25% for age group
-- An age group podium spot would be awesome
 
 Training objectives:
 
