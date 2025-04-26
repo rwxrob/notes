@@ -191,14 +191,14 @@
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
       "quickadd:QuickAdd": false,
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "d044cb394228ad24",
