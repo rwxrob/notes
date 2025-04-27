@@ -24,6 +24,7 @@ Key training elements:
 - Saturday, June 7th - [CCT Metric Century](https://raceroster.com/events/2025/99053/cct) (fun, local, charity)
 - Sunday, July 20th - [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) (USAC sanctioned, official, qualifier)
 - Friday, July 25th - [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/) (fun, local, charity)
+- Sunday, August 3rd - [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/) (USAC sanctioned, official, qualifier)
 - 
 
 | Monday | Event                                                                                | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
@@ -44,7 +45,7 @@ Key training elements:
 |  7/7   |                                                                                      |          |  Peak   |     |        |              |                                     |
 |  7/14  |                                                                                      |    A     |  Race   |     |        |              | Sanctioned                          |
 |  7/21  |                                                                                      |          |  Peak   |     |        |      E       | too late to cancel                  |
-|  7/28  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)        |    B     | Build 2 |     |        |              | Sanctioned                          |
+|  7/28  |                                                                                      |    B     | Build 2 |     |        |              | Sanctioned                          |
 |  8/4   |                                                                                      |          |   \|    |     |        |              |                                     |
 |  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                               |    B     |   \|    |     |        |              | local                               |
 |  8/18  |                                                                                      |          |   \|    |     |        |              |                                     |
