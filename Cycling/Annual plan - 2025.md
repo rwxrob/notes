@@ -25,7 +25,9 @@ Key training elements:
 - Sunday, July 20th - [Gran Fondo Asheville](https://www.granfondonationalseries.com/gran-fondo-asheville/) (USAC sanctioned, official, qualifier)
 - Friday, July 25th - [24 Hours of Booty](https://24foundation.org/24-hours-of-booty/) (fun, local, charity)
 - Sunday, August 3rd - [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/) (USAC sanctioned, official, qualifier)
+- Sunday, August 17th - [Lake Norman Gran Fondo](https://lakenormanfondo.com/) (fun, local, charity)
 - Sunday, September 14th - [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/) (USAC sanctioned, official, MAIN EVENT)
+- [Love Valley Omnium](https://www.lovevalleyroubaix.com/) ()
 
 | Monday | Event                                                                                | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
 | :----: | ------------------------------------------------------------------------------------ | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
@@ -47,7 +49,7 @@ Key training elements:
 |  7/21  |                                                                                      |          |  Peak   |     |        |      E       | too late to cancel                  |
 |  7/28  |                                                                                      |    B     | Build 2 |     |        |              | Sanctioned                          |
 |  8/4   |                                                                                      |          |   \|    |     |        |              |                                     |
-|  8/11  | [Lake Norman Gran Fondo](https://lakenormanfondo.com/)                               |    B     |   \|    |     |        |              | local                               |
+|  8/11  |                                                                                      |    B     |   \|    |     |        |              | local                               |
 |  8/18  |                                                                                      |          |   \|    |     |        |              |                                     |
 |  8/25  |                                                                                      |          |  Peak   |     |        |              |                                     |
 |  9/1   |                                                                                      |          |   \|    |     |        |              |                                     |
