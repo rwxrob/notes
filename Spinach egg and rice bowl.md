@@ -9,8 +9,8 @@ This is my main goto meal that satisfies all my normal macro and some micro nutr
 
 I smash up the eggs in the oil and add the salt and paprika while I'm heating up the spinach in a bowl in the microwave. Then I add the egg mash to the spinach in the bowl, add in the rice, and heat the whole thing in the microwave for about a minute. Then I just mix it up with a fork.
 
-- Carbs: 61
-- Protein: 22
+- Carbs: 61g
+- Protein: 22g
 - Fat: 25g
 - 557 calories
 
