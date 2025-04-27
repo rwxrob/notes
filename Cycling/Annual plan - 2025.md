@@ -7,19 +7,18 @@ Season goals:
 Training objectives:
 
 - 32,200 annual TSS (600/week- upper masters, low cat 2)
-- 300 FTP by July 4
 - 40 minutes at 90% FTP after three hours by July 4
 - 9% body fat by August 1 and maintain it forever god damnit!
+- At least 280 FTP by end of season
 
 Key training elements:
 
 - Pro volume even though not shooting for pro events
-- 1 hour weight training for power on the bike 2-3 times per week
-- 30 minutes daily yoga focused on core strength and mobility 2-3 times per week
-- NO WATT BOMBs on Z2 rides during base phases since weights
-- Only yoga on weight days during base, no recovery rides
+- Almost entirely base endurance training
+- Intervals and durability training during group rides and events
+- Full body yoga for strength and mobility 3x per week
 
-Note that I actually started non-specific training—almost entirely weight management and base training—second week of January. This schedule
+## Events
 
 | Monday | Event                                                                                 | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
 | :----: | ------------------------------------------------------------------------------------- | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
