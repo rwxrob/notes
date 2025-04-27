@@ -27,7 +27,7 @@ Key training elements:
 - Sunday, August 3rd - [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/) (USAC sanctioned, official, qualifier)
 - Sunday, August 17th - [Lake Norman Gran Fondo](https://lakenormanfondo.com/) (fun, local, charity)
 - Sunday, September 14th - [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/) (USAC sanctioned, official, MAIN EVENT)
-- [Love Valley Omnium](https://www.lovevalleyroubaix.com/) ()
+- Friday, September 26th -  [Love Valley Omnium](https://www.lovevalleyroubaix.com/) (3-days, grueling, light gravel, casual)
 
 | Monday | Event                                                                                | Priority | Period  | TSS | Actual | Focus ([^1]) | Notes                               |
 | :----: | ------------------------------------------------------------------------------------ | :------: | :-----: | :-: | :----: | :----------: | ----------------------------------- |
