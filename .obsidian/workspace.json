@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Annual plan - 2025"
             }
+          },
+          {
+            "id": "7aff7a6f0a67ab39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spinach egg and rice bowl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spinach egg and rice bowl"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +187,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "123255ae632d468d",
+  "active": "7aff7a6f0a67ab39",
   "lastOpenFiles": [
-    "Cycling/Competitive bike events.md",
     "Cycling/Annual plan - 2025.md",
+    "Spinach egg and rice bowl.md",
+    "Cycling/Competitive bike events.md",
     "Cycling/Homemade gel recipe.md",
     "Logs/2025-04-26.md",
     "().md",
@@ -199,7 +215,6 @@
     "Cycling/Easy and hard.md",
     "Cycling/I fucking hate adventure.md",
     "Cycling/Carbs burned per watt per hour.md",
-    "Cycling/Tubeless minimal emergency repair kit.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
