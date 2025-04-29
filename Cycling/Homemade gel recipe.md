@@ -8,14 +8,16 @@ Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) ent
 
 
 - 80 ml water (less is harder to pour into the flasks + better osmolality)
-- 83 g Fructose powder (83 g)
-- 178 g Maltodextrin powder (167 g carb)
+- 83 g fructose powder (83 g)
+- 178 g maltodextrin powder (167 g carb)
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
 - ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
 
 This will fill about 1.5 250ml Hydroflasks. Each flask contains approximately the following:
 
-- 67 ml water
+- 67ml water
+- 166g carbs (55g fructose + 111g glucose)
+- 
 
 The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum amount of water to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
 
