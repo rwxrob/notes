@@ -7,7 +7,7 @@ Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) ent
 
 
 
-- 80 ml water (less is harder to pour into the flasks + better osmolality)
+- 80 ml warm water (less is harder to pour into the flasks + better osmolality)
 - 83 g fructose powder (83 g)
 - 178 g maltodextrin powder (167 g carb)
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
@@ -20,12 +20,16 @@ This will fill about 1.5 250ml Hydroflasks. Each flask contains approximately th
 - ~700mg sodium, 500 potassium
 - B12 and other various performance micronutrients
 
-Drink at least three times as much water as gel each time you take some gel, no matter how much. That's roughy one 550ml bottle per flask. This is the equivalent of making a carb drink with the same ratios but so much easier to adjust allowing only water in the bottles. The amount of carbs is somewhat limited for someone pushing extremely high watts for a very long time. I five hour stage of TdF for a pro burning 100g or more per hour would require four flasks. But most people don't need nearly that much. I truly depends on the watts put out. According to Xert on a recent six hour ride with lots of punchy gill intervals and chases I used 208g fat and 308g of carb. That's 50g per hour, which is pretty normal. I only took one flask and felt it at the end (and stopped for a beer instead). For me, I'll usually not exceed two flasks (320g of carbs) on any event I have planned (nothing goes over six hours). If and when my FTP reaches 300 I'll need three for the same event.
+Drink at least three times as much water as gel each time you take some gel, no matter how much. That's roughy one 550ml bottle per flask. You'll likely need more water depending on weather and the event, but this is the minimum to safely process gel during the event. This is easier than making a carb drink with the same ratios allowing only water in the bottles.
+
+The amount of carbs is somewhat limited for someone pushing extremely high watts for a very long time. A five hour stage of TdF for a pro burning 100g or more per hour would require four flasks. But most people don't need nearly that much. It truly depends on the watts put out. According to Xert on a recent six hour ride with lots of punchy hill intervals and chases I used 208g fat and 308g of carb. That's 50g per hour, which is pretty normal. I only took one flask and felt it at the end (and stopped for a beer instead). For me, I'll usually not exceed two flasks (320g of carbs) on any event I have planned (nothing goes over six hours). If and when my FTP reaches 300 I'll need three for the same event.
 
 >[!TIP]
 >Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
 
-To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Set it on a kitchen scale and clear the weight to zero grams. Make sure it has a handle and can be poured. Add the water at the bottom then add the electrolyte powder and salt followed gradually by the powders to fill the bowl. Slowly start to stir the powders into the water. It will liquify and reduce in size. Keep adding powder until it has all been liquified. Add more water as needed. When you are done mixing it you should have exactly 250ml and be able to pour it into a flask. Vary amount of salt based on expected sweat loss of event or training and how much gel per hour you are planning on taking in. Don't forget this is _per hour_—not total per flask. So for a 5-hour event with 50g of carbs per hour that's 5 times the "sodium per hour" listed. Thankfully salt is really compact and has virtually no impact on osmolality. Just one and a quarter teaspoons (2750 mg) is enough for most any event at that 50 g carb per hour carb rate.
+To mix this get a mixing bowl that has measurements to 500ml on the side but a little more capacity above that. Set it on a kitchen scale and clear the weight to zero grams. Make sure it has a handle and can be poured. Add the water at the bottom then add the electrolyte powder and salt followed gradually by the powders to fill the bowl. Mix it with a small blender (like for making frosting). When you are done mixing it you can pour it into a flask. Start the pour high to get a nice thin bead of gel going into the flask. 
+
+Vary amount of salt based on expected sweat loss of event or training and how much gel per hour you are planning on taking in. Don't forget this is _per hour_—not total per flask. So for a 5-hour event with 50g of carbs per hour that's 5 times the "sodium per hour" listed. Thankfully salt is really compact and has virtually no impact on osmolality. Just one and a quarter teaspoons (2750 mg) is enough for most any event at that 50 g carb per hour carb rate.
 
 | **Condition**                         | **Sodium per Hour** |
 |--------------------------------------|---------------------|
