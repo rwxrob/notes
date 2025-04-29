@@ -7,7 +7,7 @@ Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) ent
 
 The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum amount of water to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
 
-- 100 ml water (just to start mixing)
+- 80 ml water (just to start mixing)
 - 83 g Fructose powder (83 g)
 - 178 g Maltodextrin powder (167 g carb)
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
