@@ -20,7 +20,7 @@ This will fill about 1.5 250ml Hydroflasks. Each flask contains approximately th
 - ~700mg sodium, 500 potassium
 - B12 and other various performance micronutrients
 
-Drink at least three times as much water as gel each time you take some gel, no matter how much. This is the equivalent of making a carb drink with the same ratios but so much easier to adjust allowing only water in the bottles. The amount of 
+Drink at least three times as much water as gel each time you take some gel, no matter how much. This is the equivalent of making a carb drink with the same ratios but so much easier to adjust allowing only water in the bottles. The amount of carbs is somewhat limited for someone pushing extremely high watts for a very long time. I five hour stage of TdF for a pro burning 100g or more per hour would require four flasks. But most people don't need nearly that much. I truly depends on the watts put out. According to Xert on a recent six hour ride with lots of punchy gill intervals and chases I used 208g fat and 308g of carb. I only tool one flask and felt it at the end (and stopped for a beer instead). For me, which a 260 FTP (for now), 
 
 >[!TIP]
 >Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
