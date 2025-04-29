@@ -13,6 +13,8 @@ The secret of Matrodextrin's osmolality is the single biggest breakthrough in nu
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
 - ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
 
+This will fill about 1.5 250ml Hydroflasks.
+
 >[!TIP]
 >Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
 
