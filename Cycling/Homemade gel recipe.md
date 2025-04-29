@@ -17,9 +17,10 @@ This will fill about 1.5 250ml Hydroflasks. Each flask contains approximately th
 
 - 67ml water
 - 166g carbs (55g fructose + 111g glucose)
-- 
+- ~700mg sodium, 500 potassium
+- B12 and other various performance micronutrients
 
-The secret of Matrodextrin's osmolality is the single biggest breakthrough in nutrition I've uncovered. I do a pull on the gel flask once per hour and decide how much by how much it fills my mouth ([my full mouth capacity is 100ml](Full%20mouth%20capacity%20is%20100ml.md)). Then I match it with three times more water. So 50g is half a mouth full followed by 1.5 full mouth fulls of water. This is super easy to remember and practice. If I need more than that I usually just increase the frequency of the same routine from once per hour to once every 45 or even 30 minutes. It also means that a single 750ml water bottle is exactly the right minimum amount of water to accompany a single 250ml flask. Drinking more water is certainly fine, less is not.
+Drink at least three times as much water as gel each time you take some gel, no matter how much. This is the equivalent of making a carb drink with the same ratios but so much easier to adjust allowing only water in the bottles. The amount of 
 
 >[!TIP]
 >Don't add caffeine since taking a 200mg (NoDoze) caffeine pill or two at the right time is more strategic.
