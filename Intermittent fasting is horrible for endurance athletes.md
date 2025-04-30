@@ -1,0 +1,1 @@
+I'm so tired of hearing endurance influencer idiots say that people should try intermittent fasting. Only people who have really screwed up their systems should even consider it as a drastic measure before starting to take pills for years of screwing up their systems.
