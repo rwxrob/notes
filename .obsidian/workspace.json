@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2025-04-30"
             }
+          },
+          {
+            "id": "76bdddb9b46135d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cycling/Performance gel is high-octane fuel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Performance gel is high-octane fuel"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,10 +201,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "73cd8927222f1ccb",
+  "active": "76bdddb9b46135d9",
   "lastOpenFiles": [
-    "Cycling/Digital Nomad by Bike was catastrophic failure.md",
     "Logs/2025-04-30.md",
+    "Cycling/Performance gel is high-octane fuel.md",
+    "Cycling/Digital Nomad by Bike was catastrophic failure.md",
     "Logs/2025-04-29.md",
     "Cycling/Homemade gel recipe.md",
     "Logs/2025-04-28.md",
@@ -214,7 +229,6 @@
     "Cycling/Don't ride these roads.md",
     "Cycling/Performance adventure cycling kit.md",
     "Cycling/Allergy management.md",
-    "Cycling/Daily Yoga for Cyclists (~30 Min).md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",
