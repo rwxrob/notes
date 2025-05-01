@@ -1,6 +1,6 @@
 Here are my ongoing notes to develop a high performance road bikepacking gear that can be used in October in North Carolina on the Mountains to Coast ride, which spans a variety of geographies and weather needs. I love that the conditions on Mountain to Coast end up making these gear selections  work on a cross-country ride if I ever wanted to do one. I also love that I can overpack a bunch of other stuff in case I end up packing the wrong main stuff. It's like a live lab to test new high-performance road bikepacking gear.
 
-- TailFin Aeropack
+- [ TailFin Aeropack Carbon Cargo](https://www.tailfin.cc/product/rear-systems/aeropacks/aeropack/)
 - [Nemo Tensor All-Season Ultralight Insulated sleeping pad](https://www.outdoorgearlab.com/topics/camping-and-hiking/best-sleeping-pad#best-overall-sleeping-pad)
 
 ----
