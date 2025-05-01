@@ -1,4 +1,4 @@
-Below is a list of mostly USAC sanctioned events I plan to do every single year until I cannot turn the pedals anymore. (Star means unsanctioned.)
+Below is a list of mostly USAC sanctioned events I plan to do every year until I cannot turn the pedals anymore. (Star means unsanctioned.) I might occasionally replace an event with a fun alternative or trip special.
 
 | Date      | Event                                                                                    | Cost | Travel |
 | :-------- | :--------------------------------------------------------------------------------------- | :--: | :----- |
@@ -12,3 +12,12 @@ Below is a list of mostly USAC sanctioned events I plan to do every single year 
 | August 17 | [Lake Norman Gran Fondo](https://lakenormanfondo.com/) *                                 | $80  | 5      |
 | Sept 14   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)     | $150 | 392    |
 |  Sept 26  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)*                                | $100 | 40     |
+
+There are a few fun events that I might also consider some years:
+
+- NC Mountains to Coast
+- NC Coastal Ride
+- NC Mountain Ride
+- 24 Hours of Booty
+
+The NC rides are all varied every year whereas the Gran Fondos are always the same courses.
