@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ornot",
+                "query": "bikepa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +203,9 @@
   },
   "active": "123255ae632d468d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Cycling/Performance bikepacking gear.md",
     "Logs/2025-05-01.md",
+    "Untitled.md",
     "Cycling/Homemade gel recipe.md",
     "Cycling/Current FTP power zones (230 FTP).md",
     "Logs/2025-04-30.md",
@@ -227,7 +229,6 @@
     "Logs/2025-04-21.md",
     "Cycling/Sodium intake per hour requirements.md",
     "Cycling/Race nutrition secret strategy.md",
-    "Cycling/Full mouth capacity is 100ml.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Cycling/mens-go-long-western-ride-shirt-808549.webp",

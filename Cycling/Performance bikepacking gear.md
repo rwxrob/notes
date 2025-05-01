@@ -1,7 +1,3 @@
-Okay, forget this. Maybe someday. I would rather just ride my bike and create adventures based on new routes and new Gran Fondos to do all over the world. Honestly, I hate all the distraction from packing this or that. I just want to ride fast in beautiful places and not have to think about any of that.
-
-----
-
 Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina on the Mountains to Coast ride, which spans a variety of geographies and weather needs.
 
 I love that the conditions on Mountain to Coast end up making these gear selections  work on a cross-country ride if I ever wanted to do one. I also love that I can overpack a bunch of other stuff in case I end up backing the wrong main stuff.
