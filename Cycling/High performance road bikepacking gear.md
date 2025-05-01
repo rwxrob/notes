@@ -1,10 +1,16 @@
-Here are my ongoing notes to develop a high-performance adventure cycling kit that can be used in October in North Carolina on the Mountains to Coast ride, which spans a variety of geographies and weather needs.
+Here are my ongoing notes to develop a high performance road bikepacking gear that can be used in October in North Carolina on the Mountains to Coast ride, which spans a variety of geographies and weather needs.
 
 I love that the conditions on Mountain to Coast end up making these gear selections  work on a cross-country ride if I ever wanted to do one. I also love that I can overpack a bunch of other stuff in case I end up backing the wrong main stuff.
+
+-
+
+
+----
+
+_This is old, leaving for reference._
 ## Bags
 
 - TailFin Aeropack  (carbon, no fast dropouts, no pannier mounts, $385)
-- LeadOut bento box
 
 This bag setup is 100% aero and covers everything that is needed. I cannot believe the difference compared to even bikepacking light panniers and seat bags. This is _so_ much simpler, lighter, and faster. I can go on all-roads I would ever want to ride with this.
 
