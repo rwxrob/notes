@@ -1,3 +1,10 @@
+- 80 ml warm water (less is harder to pour into the flasks + better osmolality)
+- 83 g fructose powder (83 g)
+- 104 g 
+- 178 g maltodextrin powder (167 g carb)
+- 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
+- ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
+
 This recipe produces the fastest carb intake possible by the human body according to modern nutritional science, costs almost _nothing_ compared to pro gels, tastes amazing, and makes nutrition management during a high speed race as easy as it possibly can be. This works *so well* I've been seriously tempted to keep it a competitive secret but I'd rather that everyone learn about it and try it themselves. This gel strategy doesn't require a bunch of overpriced annoying gels to carry, open, and throw away. It also frees water bottles to contain only water which significantly reduces the time spent to stop-and-fill at a feed zone. It also allows water bottles to be used for cooling, rinsing salt from eyes, angry dogs, water fights, cleaning wounds, or whatever. Oh, and you can adjust the sodium based on the amount of sweat expected.
 
 This recipe fills one easy to carry and manage 250ml flask producing 250 grams of carbs in the optimal 1:0.8 Maltodextrin/Fructose split. For every flask one 750ml water bottle must be drunk for minimum osmolality (most will drink much more water than that, also syrup, honey, or sugary alternatives would require *five whole 750ml water bottles* to achieve the same osmolality).
@@ -7,11 +14,7 @@ Unlike other recipes, I've eliminated raw glucose (like in light corn syrup) ent
 
 
 
-- 80 ml warm water (less is harder to pour into the flasks + better osmolality)
-- 83 g fructose powder (83 g)
-- 178 g maltodextrin powder (167 g carb)
-- 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
-- ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
+
 
 This will fill about 1.5 250ml Hydroflasks. Each flask contains approximately the following:
 
