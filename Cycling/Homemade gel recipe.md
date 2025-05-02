@@ -2,7 +2,7 @@
 - 100 g fructose powder (100 g carb)
 - 123 g maltodextrin powder (126 g carb)
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
-- ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
+- 1/4 tsp Morton Sea Salt (550mg sodium, adjust for activity)
 
 This recipe produces the fastest carb intake possible by the human body according to modern nutritional science, costs almost _nothing_ compared to pro gels, tastes amazing, and makes nutrition management during a high speed race as easy as it possibly can be. This works *so well* I've been seriously tempted to keep it a competitive secret but I'd rather that everyone learn about it and try it themselves. This gel strategy doesn't require a bunch of overpriced annoying gels to carry, open, and throw away. It also frees water bottles to contain only water which significantly reduces the time spent to stop-and-fill at a feed zone. It also allows water bottles to be used for cooling, rinsing salt from eyes, angry dogs, water fights, cleaning wounds, or whatever. Oh, and you can adjust the sodium based on the amount of sweat expected.
 
