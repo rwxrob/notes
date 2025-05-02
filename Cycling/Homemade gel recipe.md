@@ -1,3 +1,5 @@
+This recipe produces the fastest carb intake possible by the human body according to modern nutritional science with a ratio of 1:0.8 of glucose (maltodextrine)
+
 - 60 ml warm water (less is harder to pour into the flasks + better osmolality)
 - 100 g fructose powder (100 g carb)
 - 134 g maltodextrin powder (126 g carb)
@@ -6,10 +8,12 @@
 - 250 ml Hydroflask
 - 500 ml mixing bowl
 
-Combine all the dry ingredients (everything but the water). Consider putting as much combined powder mix into a Nalgene or other container for transport to an event (powders are not restricted by airlines.) Later combine the powder ingredients with the warm (or even hot) water and mix. A plain fork will work for mixing. An electric mixer is nice but not necessary. Pour the gel from a high level above the flask so the stream thins to fit into the opening. A funnel is generally not needed and just makes for more waste. Get as much into the flask as possible but know that this produces 225 total carbs with the idea that about 25 grams will likely be lost in the mixing bowl or stuck in the flask. Assume each flask carries 200 grams of carbs
+Combine all the dry ingredients (everything but the water). Consider putting as much combined powder mix into a Nalgene or other container for transport to an event (powders are not restricted by airlines.) Later combine the powder ingredients with the warm (or even hot) water and mix. A plain fork will work for mixing. An electric mixer is nice but not necessary. Pour the gel from a high level above the flask so the stream thins to fit into the opening. A funnel is generally not needed and just makes for more waste. Get as much into the flask as possible but know that this produces 225 total carbs with the idea that about 25 grams will likely be lost in the mixing bowl or stuck in the flask. Assume each flask carries 200 grams of carbs and should be more accurate for planning. This also leaves some room in the flask for expansion due to elevation changes, etc. The gel contains no preservatives of any kind so refrigerating it reduces chance of it becoming a huge petri dish. Heat from the body softens it during activity.
 
 
-This recipe produces the fastest carb intake possible by the human body according to modern nutritional science, costs almost _nothing_ compared to pro gels, tastes amazing, and makes nutrition management during a high speed race as easy as it possibly can be. This works *so well* I've been seriously tempted to keep it a competitive secret but I'd rather that everyone learn about it and try it themselves. This gel strategy doesn't require a bunch of overpriced annoying gels to carry, open, and throw away. It also frees water bottles to contain only water which significantly reduces the time spent to stop-and-fill at a feed zone. It also allows water bottles to be used for cooling, rinsing salt from eyes, angry dogs, water fights, cleaning wounds, or whatever. Oh, and you can adjust the sodium based on the amount of sweat expected.
+
+
+, costs almost _nothing_ compared to pro gels, tastes amazing, and makes nutrition management during a high speed race as easy as it possibly can be. This works *so well* I've been seriously tempted to keep it a competitive secret but I'd rather that everyone learn about it and try it themselves. This gel strategy doesn't require a bunch of overpriced annoying gels to carry, open, and throw away. It also frees water bottles to contain only water which significantly reduces the time spent to stop-and-fill at a feed zone. It also allows water bottles to be used for cooling, rinsing salt from eyes, angry dogs, water fights, cleaning wounds, or whatever. Oh, and you can adjust the sodium based on the amount of sweat expected.
 
 This recipe fills one easy to carry and manage 250ml flask producing 250 grams of carbs in the optimal 1:0.8 Maltodextrin/Fructose split. For every flask one 750ml water bottle must be drunk for minimum osmolality (most will drink much more water than that, also syrup, honey, or sugary alternatives would require *five whole 750ml water bottles* to achieve the same osmolality).
 
