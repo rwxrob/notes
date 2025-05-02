@@ -1,7 +1,6 @@
 - 80 ml warm water (less is harder to pour into the flasks + better osmolality)
-- 83 g fructose powder (83 g)
-- 104 g 
-- 178 g maltodextrin powder (167 g carb)
+- 83 g fructose powder (83 g carb)
+- 111 g maltodextrin powder (104 g carb)
 - 12 g Key Nutrients Electrolyte powder (330 mg sodium, 750 mg potassium, etc.)
 - ~ Morton Sea Salt (550mg sodium per 1/4 tsp)
 
