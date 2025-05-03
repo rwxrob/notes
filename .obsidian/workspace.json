@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cycling/Events instead of bikepacking.md",
+                "file": "Logs/2025-05-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Events instead of bikepacking"
+              "title": "2025-05-03"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "whe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,10 +216,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
-    "Cycling/Annual bike events.md",
     "Cycling/Events instead of bikepacking.md",
+    "Cycling/Annual bike events.md",
     "Logs/2025-05-03.md",
     "Logs/2025-05-02.md",
     "Logs/2025-05-01.md",
