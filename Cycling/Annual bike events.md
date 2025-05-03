@@ -11,7 +11,8 @@ Below is a list of mostly USAC sanctioned events I plan to do every year until I
 | August 3  | [Boone Gran Fondo](https://www.granfondonationalseries.com/gran-fondo-boone/)            | $160 | 98     |
 | August 17 | [Lake Norman Gran Fondo](https://lakenormanfondo.com/) *                                 | $80  | 5      |
 | Sept 14   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)     | $150 | 392    |
-|  Sept 26  | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)*                                | $100 | 40     |
+| Sept 26   | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)*                                | $100 | 40     |
+|           |                                                                                          |      |        |
 
 There are a few fun events that I might also consider some years:
 
