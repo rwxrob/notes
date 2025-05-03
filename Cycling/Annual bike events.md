@@ -15,4 +15,4 @@ Below is a list of mostly USAC sanctioned events I plan to do every year until I
 | Sep 26 | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)*                                | $100 | 40     |
 | Oct 5  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)*      | $475 | 100    |
 
-Total event cost
+Total event registration cost: $2030
