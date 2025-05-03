@@ -12,7 +12,8 @@ Below is a list of mostly USAC sanctioned events I plan to do every year until I
 | August 17 | [Lake Norman Gran Fondo](https://lakenormanfondo.com/) *                                 | $80  | 5      |
 | Sept 14   | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)     | $150 | 392    |
 | Sept 26   | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)*                                | $100 | 40     |
-|           |                                                                                          |      |        |
+| Oct 5     | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)*      | $475 | 100    |
+|           | [NC Coastal Ride](https://ncsports.org/event/cyclenc_coastal_ride/)*                     |      |        |
 
 There are a few fun events that I might also consider some years:
 
