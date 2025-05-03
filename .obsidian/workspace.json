@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Road biking is best NC summer activity.md",
+                "file": "Logs/2025-05-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Road biking is best NC summer activity"
+              "title": "2025-05-03"
             }
           },
           {
@@ -243,10 +243,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c621cf7acb9e8d87",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "Cycling/Road biking is best NC summer activity.md",
     "Logs/2025-05-03.md",
-    "Road biking is best NC summer activity.md",
     "Cycling/Shameless suburban sprinter (not anymore).md",
     "Cycling/Annual bike events.md",
     "Cycling/Events instead of bikepacking.md",
