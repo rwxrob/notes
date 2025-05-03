@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bikepa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "411692d07d3c80ce",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
     "Cycling/Annual bike events.md",
     "Cycling/Events instead of bikepacking.md",
