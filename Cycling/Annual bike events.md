@@ -14,5 +14,6 @@ Below is a list of mostly USAC sanctioned events I plan to do every year until I
 | Sep 14 | [Gran Fondo Nationals](https://www.granfondonationalseries.com/gran-fondo-maryland/)                            | $150 | 392    |
 | Sep 26 | [Love Valley Omnium](https://www.lovevalleyroubaix.com/)*                                                       | $100 | 40     |
 | Oct 5  | [NC Mountains to Coast](https://ncsports.org/event/cyclenc_mountainstocoast_ride/)*                             | $475 | 100    |
+|        |                                                                                                                 |      |        |
 
 Total event registration cost: $2030
