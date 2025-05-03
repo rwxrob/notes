@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-05-02.md",
+                "file": "Cycling/Annual bike events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "Annual bike events"
             }
           },
           {
@@ -202,10 +202,10 @@
   },
   "active": "123255ae632d468d",
   "lastOpenFiles": [
+    "Logs/2025-05-02.md",
     "Logs/2025-05-01.md",
     "Logs/2025-04-05.md",
     "Logs/2025-04-21.md",
-    "Logs/2025-05-02.md",
     "Cycling/Performance gel recipe.md",
     "Logs/2025-04-23.md",
     "Logs/2025-04-24.md",
