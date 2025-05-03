@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-05-03.md",
+                "file": "Cycling/Annual bike events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-03"
+              "title": "Annual bike events"
             }
           },
           {
@@ -243,10 +243,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "c621cf7acb9e8d87",
   "lastOpenFiles": [
-    "Cycling/Road biking is best NC summer activity.md",
     "Logs/2025-05-03.md",
+    "Cycling/Road biking is best NC summer activity.md",
     "Cycling/Shameless suburban sprinter (not anymore).md",
     "Cycling/Annual bike events.md",
     "Cycling/Events instead of bikepacking.md",
