@@ -1,3 +1,5 @@
 Yesterday during my test race pace ride for Cheaha, an upcoming UCI sanctioned event I had a lot of time and suffering to get me to ask the important question: Why am I doing this? My inability to immediately produce an answer caught me off guard.
 
-If the question was more general, why am I riding my bike, then the answer is easy. I love it for all the r
+If the question was more general "why am I riding my bike" then the answer is easy. I love it for all the regular reasons, being outside, seeing interesting things, getting my heart rate up, breathing fresh air, mooing at cows, occasionally racing cars in traffic, and, of course, staying healthy and skinny which lets me wear cool clothes. I know, oh so vain, right?
+
+The answer definitely was not "because I want to be the fastest 57 year old in all of these events." While I would enjoy that—and I frequently joke about it—that fundamentally isn't what motivates me. In fact, these events, if I'm honest, are more about being around people equally co
