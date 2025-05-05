@@ -1,1 +1,1 @@
-
+I've noticed some people on Strava put out major average watts on their rides but have relatively low average speed for the same distance and elevation as others. This just proves why Pogacar prefers HR data over everything else. Watts are often unreliable and highly relative to the person, bike, 
