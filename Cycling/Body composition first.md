@@ -1,5 +1,9 @@
 Power really does not matter when hauling around 20% more body mass than the competition. It's not just watts. It's watts *per kilo*. For most mere mortals working on the "per kilo" part will produce the quickest performance gains before working on the watts. It seems obvious but with all the passion and hype to get good its worth a reminder. I know I need it.
 
+It's been fun watching my performance increase for the same amount of effort but it took months before my weight on the scale actually changed. I had to ignore it. My training was working but not showing up on the scale. It was obvious I was slimming down but new muscle weighed more than the fat I'd been losing. Even though I was only doing long slow rides I was *still* developing muscle in those early months.
+
+Now I'm at a crossroads. I can build my power and continue to carry around this extra fat or I can focus on losing the fat at the cost 
+
 At the end of the day it's just physics. Apply the same force to something that weighs less and it will travel faster. This is obviously why horse-racing jockeys and cycling classics pros like Tadej have 5% body fat and weigh 68 kilos even though they are 175 cm tall. And yes, someone that small can actually produce the same force as a swole person double that size.
 
 Most people are not anywhere close to pro numbers when they pick up cycling. It's super easy to get sucked into all the hype and media out there related to competitive cycling that applies to trained riders with under 10% body fat—especially for those who *once were* competitive endurance athletes and have lost their way, like me. We immediately focus on everything about power and intensity to increase our power to get fast when, in fact, that intensity might just be making us even slower.
