@@ -1,6 +1,16 @@
 Power does not matter if I'm hauling 15% more body mass than the competition. All the pros prove this over and over. In fact, wanna get fast immediately in Zwift which *only* looks at watts per kilo? Lose weight.
 
-It's super easy to get sucked into all the hype and media out there related to competitive cycling that applies to trained riders with under 10% body fat. Pros like Tadej have 5% and weigh 68 kilos even though they are 175cm tall. The Cyclist's Training Bible and Coggins stuff, all of it assumes a level of fitness that most people coming to cycling just won't have—even if they had it at one time during their live. There is almost zero discussion of what a person with an "overweight" BMI can do, not a chapter discusses this at all. 
+At the end of the day it's just physics. Put the same power in something that weighs less and it will travel faster. This is obviously why horse-racing jockeys and cycling classics pros like Tadej have 5% body fat and weigh 68 kilos even though they are 175 cm tall. 
+
+But most people are not anywhere close to those numbers when they pick up cycling. It's super easy to get sucked into all the hype and media out there related to competitive cycling that applies to trained riders with under 10% body fat—especially for those who *once were* competitive endurance athletes and have lost their way, like me. We immediately focus on everything about power and intensity to increase our power to get fast when, in fact, that intensity might just be making us even slower.
+
+Cortisol, produced by stress, makes you fat in the worst way. It also tanks testosterone production. Guess what 
+
+
+
+
+
+The Cyclist's Training Bible and Coggins stuff, all of it assumes a level of fitness that most people coming to cycling just won't have—even if they had it at one time during their live. There is almost zero discussion of what a person with an "overweight" BMI can do, not a chapter discusses this at all. 
 
 The assumption is always that the person looking to train for performance already has a normal amount of fitness and body fat. It can make people who have never had that—or lost it—feel excluded and ignored. This is exacerbated by pros making jokes about [MAMILs](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md) who actually are doing really well given all that life demands of them outside of their "hobby" no matter how passionate they are.
 
