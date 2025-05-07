@@ -1,4 +1,4 @@
-Power does not matter if I'm hauling 15% more body mass than the competition. All the pros prove this over and over. In fact, wanna get fast immediately in Zwift which *only* looks at watts per kilo? Lose weight.
+Power really does not matter when hauling around 20% more body mass than the competition. That ultra expensive, light-weight aero racing bike can't help you. All the pros prove this over and over. It's an unpopular topic but must be said. Focus on getting under 10% body fat before anything else.
 
 At the end of the day it's just physics. Put the same power in something that weighs less and it will travel faster. This is obviously why horse-racing jockeys and cycling classics pros like Tadej have 5% body fat and weigh 68 kilos even though they are 175 cm tall. 
 
@@ -6,13 +6,9 @@ But most people are not anywhere close to those numbers when they pick up cyclin
 
 Cortisol, produced by stress, makes you fat in the worst way. It produces visceral body fat around the organs that directly causes inflammation and inhibits healing and recovery.  Cortisol also tanks testosterone production which is catastrophic for older riders who already struggle with T production from their youth. 
 
-Guess what causes the most cortisol production? You guessed it: intensity. All those videos about increasing intensity, strength training, and performance don't ever mention the high-paid sports medical professional who takes *daily* blood samples of the pros during training to ensure that the levels of cortisol don't increase and T decrease. The average person passionate about getting good is *not* going to get that right, ever. Instead, they are going to flood their system with cortisol, get fat, frustrated, and give up.
+Guess what causes the most cortisol production? You guessed it: intensity. All those videos about increasing intensity, strength training, and performance don't ever mention the high-paid sports medical professional who takes *daily* blood samples of the pros during training to ensure that the levels of cortisol don't increase and T decrease. The average person passionate about getting good is *not* going to get that right, ever. Instead, they are going to overtrain, flood their system with cortisol, get fat, frustrated, and give up.
 
-
-
-
-
-The Cyclist's Training Bible and Coggins stuff, all of it assumes a level of fitness that most people coming to cycling just won't have—even if they had it at one time during their live. There is almost zero discussion of what a person with an "overweight" BMI can do, not a chapter discusses this at all. 
+The Cyclist's Training Bible and Coggins stuff, all of it assumes a level of fitness that most people coming to cycling just won't have—even if they had it at one time during their live. There is almost zero discussion of what a person with an "overweight" BMI can do, not a chapter discusses this at all. Why? Because that topic is rather boring and won't get any media attention or accolades.
 
 The assumption is always that the person looking to train for performance already has a normal amount of fitness and body fat. It can make people who have never had that—or lost it—feel excluded and ignored. This is exacerbated by pros making jokes about [MAMILs](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md) who actually are doing really well given all that life demands of them outside of their "hobby" no matter how passionate they are.
 
