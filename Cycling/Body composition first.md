@@ -10,6 +10,10 @@ Intensity produces cortisol. All those videos about increasing intensity, streng
 
 The Cyclist's Training Bible and Coggins are relatively silent on this issue. It's not that they don't know about it or think it is unimportant. It's just not sexy. Most of their material assumes a level of fitness that most people coming to cycling just won't have—even if they had it at one time during their live. There is almost zero discussion of what a person with an "overweight" BMI can do, not a chapter discusses this at all. 
 
-For whatever reason, the assumption seems to be person looking to train for performance already has a normal amount of fitness and body fat. This can make people who have never had that—or lost it—feel excluded and ignored. The problem is exacerbated by pros making jokes about [MAMILs](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md) who actually are doing really well given all that life demands of them outside of their "hobby" no matter how passionate they are. Is it true that someone with 23% body fat should probably not be wear tight-fitting lycra? Absolutely. What is it getting you? Aero gains? Even at 20% aero sav
+For whatever reason, the assumption seems to be person looking to train for performance already has a normal amount of fitness and body fat. This can make people who have never had that—or lost it—feel excluded and ignored. The problem is exacerbated by pros making jokes about [MAMILs](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md) who actually are doing really well given all that life demands of them outside of their "hobby" no matter how passionate they are. 
+
+
+> [!NOTE]
+>Is it true that someone with 23% body fat should probably not be wear tight-fitting lycra? Absolutely. How is it helping? Aero gains? Even at 20% aero savings all that extra weight is completely countering them but if it helps them stay motivated why not, even it that's not my thing.
 
 I've witnessed this subtle but perceptible dynamic at many group rides and events in the past. People wearing lycra are already of a particular mindset when it comes to fitness and judgement in general. It's like walking into a Gold's Gym with a typical competitive cyclist body. As much as I don't care for it, it's just human tribal nature to do so. People gravitate toward others with similar personalities, passions, and, yes, physical characteristics.
