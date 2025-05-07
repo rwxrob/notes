@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wheel",
+                "query": "inflamma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5d3978bf42732100",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Logs/2025-05-07.md",
     "Cycling/Body composition first.md",
