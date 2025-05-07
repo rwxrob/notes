@@ -1,0 +1,3 @@
+Doesn't matter how powerful the engine is if its hauling 15% more mass than the competition. All the GC and even sprinter pros prove this over and over. 
+
+It's easy to get sucked into all the hype and media around competitive cycling that applies to trained riders with under 10% body fat pros like Tadej with 5%. The Cyclist's Training Bible and Coggins stuff, all of it assumes a level of fitness that most people coming to cycling
