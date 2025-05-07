@@ -4,7 +4,9 @@ At the end of the day it's just physics. Put the same power in something that we
 
 But most people are not anywhere close to those numbers when they pick up cycling. It's super easy to get sucked into all the hype and media out there related to competitive cycling that applies to trained riders with under 10% body fat—especially for those who *once were* competitive endurance athletes and have lost their way, like me. We immediately focus on everything about power and intensity to increase our power to get fast when, in fact, that intensity might just be making us even slower.
 
-Cortisol, produced by stress, makes you fat in the worst way. It also tanks testosterone production. Guess what 
+Cortisol, produced by stress, makes you fat in the worst way. It produces visceral body fat around the organs that directly causes inflammation and inhibits healing and recovery.  Cortisol also tanks testosterone production which is catastrophic for older riders who already struggle with T production from their youth. 
+
+Guess what causes the most cortisol production? You guessed it: intensity. All those videos about increasing intensity, strength training, and performance don't ever mention the high-paid sports medical professional who takes *daily* blood samples of the pros during training to ensure that the levels of cortisol don't increase and T decrease. The average person passionate about getting good is *not* going to get that right, ever. Instead, they are going to flood their system with cortisol, get fat, frustrated, and give up.
 
 
 
