@@ -1,0 +1,1 @@
+As much as I just love riding I would like to do some cat 5 rides and work up to cat 4 and 3. I just don't know if it would be worth it.  I am also considering some team rides and finding the right team with a focus on performance over fun. A team with serious commitment without taking themselves too seriouslyI read the term "race craft" in one team description.
