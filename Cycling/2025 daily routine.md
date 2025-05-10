@@ -9,7 +9,7 @@ I've modified my daily routine to matching ride times with sunrise during the wa
 - ~7:00 eat, relax, hang
 - 9:30 sleep
 
-That's six hours of my day, every day. There's not much left for work and family but I think I can make this work.
+That's six hours of my day, every day but Sunday. There's not much left for work and family but I think I can make this work.
 
 - 6 hours prep and training
 - 8 hours sleep
@@ -20,4 +20,4 @@ I can make up any missing work stuff on the weekend.
 
 The hardest part of this is missing the morning work hours. We often have a meeting or two between 10am and noon. One of them I can actually take while on the bike ride because I just have to listen in. Others I have to be home for so will have to cut the ride on those days a bit short. Most of my work team work their hardest and most collaboratively from noon to six at night and sometimes work until 8pm my time. Since Doris normally doesn't come home until 7pm this works out fine and makes the best use of that time until she gets home.
 
-Someone will look at the 35 hours of slow riding a week and start to wonder what is wrong with me.
+Someone will look at the 30 hours of slow riding a week and start to wonder what is wrong with me.
