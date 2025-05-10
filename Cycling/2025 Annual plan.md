@@ -6,16 +6,18 @@ Season goals:
 
 Training objectives:
 
-- Competitive body composition: 9% body fat, 68 kilos
-- Even
-- 280 FTP, power is *not* the focus for 2025
+- Build a Gran Fondo GC/climber body
+- Restore competitive body composition: <10% body fat, ~68 kilos
+- Get event experience, restore bike handling skills, race craft
+- Completely dial in nutrition strategy
+- Perfect optimal bike training and racing setup
+- 280 FTP, power/strength is *not* the focus for 2025
 
 Key training elements:
 
 - Pro volume even though not shooting for pro events
 - Almost entirely base endurance training
 - Intervals and durability training during group rides and events
-- Full body yoga for strength and mobility 3x per week
 
 ## Events
 
