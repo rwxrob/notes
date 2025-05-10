@@ -4,4 +4,4 @@ I've modified my daily routine to matching ride times with sunrise during the wa
 - 6:00 prep water bottles, gel flask, huel recovery
 - 6:15 drive to shed, change, pump, lube
 - 6:30 depart, start Garmin
-- 11:30 back at shed, recovery drink, 
+- 11:30 back at shed, recovery drink, change, head home
