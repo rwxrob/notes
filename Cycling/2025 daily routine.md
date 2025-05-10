@@ -4,4 +4,10 @@ I've modified my daily routine to matching ride times with sunrise during the wa
 - 6:00 prep water bottles, gel flask, huel recovery
 - 6:15 drive to shed, change, pump, lube
 - 6:30 depart, start Garmin
-- 11:30 back at shed, recovery drink, change, head home
+- 11:30 back at shed, recovery drink, change, home, shower, start rice
+- Noon work
+- 
+
+That's six hours of my day, every day. There's not much left for work and family but I think I can make this work.
+
+- 6 hours prep and training
