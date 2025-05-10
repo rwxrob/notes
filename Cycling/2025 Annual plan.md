@@ -2,23 +2,22 @@ Season goals:
 
 - Qualify and finish Gran Fondo Nationals
 - Complete body transformations enabling competitive 2026 season
-- Finish a UCI qualifier in top 25% for age group
+- Integrate competitive endurance training back into daily life
 
 Training objectives:
 
-- Build a Gran Fondo GC/climber body
+- Build the foundation of a Gran Fondo GC/climber body
 - Restore competitive body composition: <10% body fat, ~68 kilos
-- Get event experience, restore bike handling skills, race craft
-- Completely dial in nutrition strategy
-- Perfect optimal bike training and racing setup
+- Get amateur event experience, restore bike handling skills, race craft
+- Completely dial in nutrition strategy on and off bike
+- Perfect optimal bike configuration for training and racing
 - 280 FTP, power/strength is *not* the focus for 2025
 
 Key training elements:
 
+- Remember 2025 is year of preparation to be competitive in 2026
 - Pro volume even though not shooting for pro events
-- Almost entirely base endurance training
-- Intervals and durability training during group rides and events
-
+- Almost entirely low-intensity base endurance training
 ## Events
 
 - Sunday, May 19th - [Cheaha Challenge Gran Fondo](https://www.cheahachallenge.com/) (USAC sanctioned, partner, qualifier, sanctioned)

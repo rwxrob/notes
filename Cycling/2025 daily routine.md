@@ -1,4 +1,4 @@
-I've modified my daily routine to matching ride times with sunrise during the warm months (May-July). This is also consistent with when most events happen. August and September I just shorten the training ride and push out when I wake up.
+I've modified my daily routine to matching ride times with sunrise during the warm months (May-July). This is also consistent with when most events happen. August and September I just shorten the training ride and push out when I wake up. This will help with early morning kit adjustments to offset the chill without weighing me down too much.
 
 - 5:30 wake, pee, water, coffee, waffle, notes, void, weigh in
 - 6:00 prep water bottles, gel flask, huel recovery
