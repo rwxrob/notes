@@ -1,4 +1,9 @@
-I've modified my daily routine to matching ride times with sunrise during the warm months
+I've modified my daily routine to matching ride times with sunrise during the warm months. This is also consistent with when most events happen.
+
+- 5:30 wake, pee, water, coffee, waffle, notes, void, weigh in
+- 6:00 prep water bottles, gel flask, huel recovery
+- 6:15 drive to shed, change, pump, lube
+
 
 
 **5:30 a.m. — Wake**
