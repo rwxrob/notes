@@ -6,10 +6,9 @@ Season goals:
 
 Training objectives:
 
-- 32,200 annual TSS (600/week- upper masters, low cat 2)
-- 40 minutes at 90% FTP after three hours by July 4
-- 9% body fat by August 1 and maintain it forever god damnit!
-- At least 280 FTP by end of season
+- Competitive body composition: 9% body fat, 68 kilos
+- Even
+- 280 FTP, power is *not* the focus for 2025
 
 Key training elements:
 
