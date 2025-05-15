@@ -1,5 +1,3 @@
-
-
 As I do final prep and research for The Cheaha challenge, the only GFNat "partner" event I'm doing, I see that it includes the overall start-to-finish time in the calculation of final GFNAT points. In fact, there is only a single timed segment (3-mile climb) on the whole 84 mile route for my age group that I'm forced to do instead of the 100. That just sucks. This defeats the main attraction of the GFNat series in the first place. The entire point of timed-segment events is to promote casual fun at the rest stops and camaraderie while allowing serious competition during the timed segments—especially when "packs" are prohibited.  
   
 There are also several other reasons I won't be doing Cheaha ever again:  
