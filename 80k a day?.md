@@ -1,0 +1,1 @@
+While I'm still deciding how competitive to get for 2026 I do know that I 
