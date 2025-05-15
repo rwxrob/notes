@@ -15,4 +15,4 @@ I can double up on Sundays to ride an ultra-century if the weather is nice to ge
 
 In 2026, however, I might well end up riding 40k (25 miles) per day instead and just alternating the intensity with a lot more sweet spot work. 90 minutes is trivial to manage when it comes to a bike ride. Managing water and nutrition also gets trivial, too trivial. I would need to be sure and do long rides on the weekends to manage logistics and nutrition.
 
-If I move to 40k, however, I can also add back daily morning yoga for an hour, which I really want to add back.
+If I move to 40k, however, I can also add back daily morning yoga for an hour, which I really want to add back. I remember I got back into yoga after running immediately after I woke up fasted. When I do it again it will be in the morning after drinking coffee and journaling a bit. Then I can ride in the afternoon when its the warmest in the winter. Hell, I could even start doing that again now. Yoga in the morning. Bike ride at night. That way I have my day wrapped in physical activity and plenty of recovery time between.
