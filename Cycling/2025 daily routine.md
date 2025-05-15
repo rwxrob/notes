@@ -1,11 +1,15 @@
 After Cheaha I'm going to mix things up a bit with more focus on health and wellness and less on competitive cycling fitness. Most notably, I'm adding yoga back as my *primary* daily fitness routine with riding my bike as mostly a means to keep my heart healthy and body composition in check.
 
+- 7:39 up, coffee
+- 8:00 yoga
+- 9:30 shower, breakfast
+- 10:00 work
 - 5:00 bike
+- 8:00 shower, relax
 
 > [!WARNING]
 > 
 > It's worth noting that the last two years I seem to lose whatever fitness routine I'm doing when I add yoga back. I cannot let that happen again.
-
 
 ----
 Following is old but for reference:
