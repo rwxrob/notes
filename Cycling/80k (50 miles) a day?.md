@@ -1,6 +1,7 @@
-I seem to be hitting a good rhythm with 80k (50 mile) rides per day. 
+I seem to be hitting a good rhythm with 80k (50 mile) rides per day. Riding that length in zone 2 takes about three hours. 
+I've tried five hours of low-intensity and it is just too much stress and lost time. It's actually at least six hours a day for cycling and recovery. Add 7-8 hours of work and there is very little left of the day for anything else at all. 
 
-While I'm still deciding how competitive to get for 2026 I do know that I pretty much need to ride 80k per day to maintain base health and fitness since I have a remote day job working literally from my bedroom (where I also have a desk). Riding that length in zone 2 takes about three hours. 
+While I'm still deciding how competitive to get for 2026 I do know that I pretty much need to ride 80k per day to maintain base health and fitness since I have a remote day job working literally from my bedroom (where I also have a desk).
 
 If I want to boost my FTP or sprint I can up the intensity for some intervals and mix in recovery taking slightly less time.
 
@@ -10,6 +11,8 @@ Part of the time lost is the hour-long nap required even for this level of train
 
 I can double up on Sundays to ride an ultra-century if the weather is nice to get all of Monday off.
 
-I've tried five hours of low-intensity and it is just too much stress and lost time. It's actually at least six hours a day for cycling and recovery. Add 7-8 hours of work and there is very little left of the day for anything else at all.
-
 80k a day is also a nice leisurely pace to cross the country by bike, which I still haven't ruled out doing at some point. 
+
+In 2026, however, I might well end up riding 40k (25 miles) per day instead and just alternating the intensity with a lot more sweet spot work. 90 minutes is trivial to manage when it comes to a bike ride. Managing water and nutrition also gets trivial, too trivial. I would need to be sure and do long rides on the weekends to manage logistics and nutrition.
+
+If I move to 40k, however, I can also add back daily morning yoga for an hour, which I really want to add back.
