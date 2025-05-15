@@ -1,17 +1,19 @@
 After Cheaha I'm going to mix things up a bit with more focus on health and wellness and less on competitive cycling fitness. Most notably, I'm adding yoga back as my *primary* daily fitness routine with riding my bike as mostly a means to keep my heart healthy and body composition in check.
 
-- 7:39 up, coffee
+- 7:30 up, coffee
 - 8:00 yoga (adjust per recovery needs)
 - 9:00 shower, breakfast
 - 9:30 work
-- 5:00 bike
+- 5:00 bike or paddleboard
 - 8:00 shower, relax
 
 > [!WARNING]
 > 
 > It's worth noting that the last two years I seem to lose whatever fitness routine I'm doing when I add yoga back. I cannot let that happen again.
 
-While going for a bike ride at rush hour and during thunderstorm season is always risky there are a number of advantages beginning with it being the warmest part of the day during the Winter months as well as having the least amount of UV radiation.
+While going for a bike ride at rush hour and during thunderstorm season is always risky there are a number of advantages beginning with it being the warmest part of the day during the Winter months as well as having the least amount of UV radiation. I can always bail and ride Goblin through the suburbs on mellow days or if it gets really late.
+
+I can also swap in paddle-boarding at sunset instead of bike riding any time I want.
 
 ----
 Following is old but for reference:
