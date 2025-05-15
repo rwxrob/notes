@@ -2,8 +2,8 @@ After Cheaha I'm going to mix things up a bit with more focus on health and well
 
 - 7:39 up, coffee
 - 8:00 yoga
-- 9:30 shower, breakfast
-- 10:00 work
+- 9:00 shower, breakfast
+- 9:30 work
 - 5:00 bike
 - 8:00 shower, relax
 

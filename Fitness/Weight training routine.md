@@ -1,4 +1,4 @@
-I'm going to attempt three days a week with nothing else on those days in the off season (October through February) and two days in season with a recovery ride that same day as well. More power please, which means as few reps as I can go. I also am only interested in doing  [half squats](Cycling/Half-squats%20are%20single%20best%20strength%20weight%20exercise.md) balanced with leg curls instead of a bunch of different leg things. There are tons of studies that show only half squats are needed for cycling power.
+I'm going to attempt three days a week with nothing else on those days in the off season (October through February) and two days in season with a recovery ride that same day as well. More power please, which means as few reps as I can go. I also am only interested in doing  [half squats](Half-squats%20are%20single%20best%20strength%20weight%20exercise.md) balanced with leg curls instead of a bunch of different leg things. There are tons of studies that show only half squats are needed for cycling power.
 
 - 10 minutes gradually increasing difficulty on stationary gym bike
 - 10 reps with just the bar (20 lbs) focusing on form

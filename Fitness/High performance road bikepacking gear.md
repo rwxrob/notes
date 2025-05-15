@@ -12,7 +12,7 @@ _This is old, leaving for reference._
 
 This bag setup is 100% aero and covers everything that is needed. I cannot believe the difference compared to even bikepacking light panniers and seat bags. This is _so_ much simpler, lighter, and faster. I can go on all-roads I would ever want to ride with this.
 
-- [Best performance adventure cycling pack](Cycling/Best%20performance%20adventure%20cycling%20pack.md)
+- [Best performance adventure cycling pack](Best%20performance%20adventure%20cycling%20pack.md)
 
 > [!Take 'em on the plane]
 > I can fly anywhere and rent a bike and add these bags to any rentable, endurance, all-road bike that exists. This means I don't have to meticulously pack all my stuff _and_ my bike and pray it doesn't get damaged in the process. Sure it limits my rides to those that have places to rent bikes and I have to either do a loop or catch a bus or train back but who cares. If I'm in an area where I cannot rent a bike there's a good chance I want nothing to do with that area of the world—especially in these uncertain times.
