@@ -1,7 +1,14 @@
+After Cheaha I'm going to mix things up a bit with more focus on health and wellness and less on competitive cycling fitness. Most notably, I'm adding yoga back as my *primary* daily fitness routine with riding my bike as mostly a means to keep my heart healthy and body composition in check.
 
-Yeah, none of this turned out to be real. Just not enough time. Need to revise.
+- 5:00 bike
+
+> [!WARNING]
+> 
+> It's worth noting that the last two years I seem to lose whatever fitness routine I'm doing when I add yoga back. I cannot let that happen again.
+
 
 ----
+Following is old but for reference:
 
 I've modified my daily routine to matching ride times with sunrise during the warm months (May-July). This is also consistent with when most events happen. August and September I just shorten the training ride and push out when I wake up. This will help with early morning kit adjustments to offset the chill without weighing me down too much.
 
