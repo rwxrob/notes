@@ -4,7 +4,7 @@ After Cheaha I'm going to mix things up a bit with more focus on health and well
 - 8:00 yoga (adjust per recovery needs)
 - 9:00 shower, breakfast
 - 9:30 work
-- 5:00 bike or paddleboard
+- 4:30 bike or paddleboard
 - 8:00 shower, relax
 
 > [!WARNING]
@@ -18,7 +18,7 @@ I can also swap in paddle-boarding at sunset instead of bike riding any time I w
 Once my body composition is where I want I can cut bike/paddleboard time to 90 minutes and possibly up yoga time and add jump throughs.
 
 ----
-Following is old but for reference:
+*This stuff is old for reference.*
 
 I've modified my daily routine to matching ride times with sunrise during the warm months (May-July). This is also consistent with when most events happen. August and September I just shorten the training ride and push out when I wake up. This will help with early morning kit adjustments to offset the chill without weighing me down too much.
 
