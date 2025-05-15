@@ -15,6 +15,8 @@ While going for a bike ride at rush hour and during thunderstorm season is alway
 
 I can also swap in paddle-boarding at sunset instead of bike riding any time I want.
 
+Once my body composition is where I want I can cut bike/paddleboard time to 90 minutes and possibly up yoga time and add jump throughs.
+
 ----
 Following is old but for reference:
 
