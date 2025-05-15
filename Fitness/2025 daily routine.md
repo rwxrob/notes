@@ -11,6 +11,8 @@ After Cheaha I'm going to mix things up a bit with more focus on health and well
 > 
 > It's worth noting that the last two years I seem to lose whatever fitness routine I'm doing when I add yoga back. I cannot let that happen again.
 
+While going for a bike ride at rush hour and during thunderstorm season is always risky there are a number of advantages beginning with it being the warmest part of the day during the Winter months as well as having the least amount of UV radiation.
+
 ----
 Following is old but for reference:
 
