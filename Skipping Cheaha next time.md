@@ -14,4 +14,4 @@ There are also several other reasons I won't be doing Cheaha ever again:
 - It's just really, really hate Alabama
 - Detours to allow "construction of hotel" in a State Park
 
-Just watch this video to see what I mean: https://youtu.be/BMckMaR44sM
+Just watch this video to see what I mean: https://youtu.be/BMckMaR44sM As you can see from that video there are a number of extremely close calls with oncoming traffic and idiots crossing the center line to get an advantage. It goes without saying that none of these riders were disqualified or even penalized for blatantly putting everyone in danger when they swerved back into the lane just in time to avoid oncoming head-on collisions. This is *exactly* why I got out of road racing. It's also the reason I refused to do the Assault on Mt. Mitchell after registering and reconning the route and hearing about the near 
