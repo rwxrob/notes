@@ -21,15 +21,13 @@ Ride
 
 Dinner
 
-- Some animal protein
-- Some carb
-- Some veggie
-
-Or by default:
-
 - 1 cup cooked rice
 - 3 hard boiled eggs mashed (20g)
 - Smoked paprika
 - Spinach
 - Salt
 - Olive oil
+
+Snack
+
+- Camenbert
