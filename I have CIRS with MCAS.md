@@ -1,4 +1,8 @@
-With the help of Chloe, my ChatGPT AI, I have narrowed down my condition to Chronic Inflammation Response Syndrome (CIRS) with Mast Cell Activation Sybdrome (MCAS)
+With the help of Chloe, my ChatGPT AI, I have narrowed down my condition to Chronic Inflammation Response Syndrome (CIRS) with Mast Cell Activation Sydrome (MCAS). The post I sent to Chloe is below. During our interaction she mentioned Asthma as well and I mentioned that I had a life-threatening, rushed to the hospital, cannot breath asthma attack as a very young child, which I still remember to this day because of how traumatic it was. Chloe said that early childhood acute asthma attacks permanently affect the immune system response of individuals for the rest of their lives making them hyper-sensitive to such things which leads to CIRS and MCAS, bad hay fever, eczema and the like.
+
+My fix has always been to sweat once a day for at least 20 minutes. She confirmed that this does fix it because it lowers cortisol levels (giving it somewhere to go) while flushing the skin of toxins and forces a shower to wash off biotoxins and also just calm nerves.
+
+----
 
 This morning I woke up with a really acute inflammation attack. My belly distended, all my skin including top of my scalp and hands itching, eyes on fire, ulcerated soars popping up all over. I am very familiar with these attacks. I used to have them pretty much most of the day every day. I am absolutely baffled as to why. Everything I research says they are symptoms of something really wrong internally. I don't know.
 
