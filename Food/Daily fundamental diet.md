@@ -1,4 +1,4 @@
-The hardest part of the diet is getting 180g of protein into my day.
+The hardest part of the diet is getting 180g of protein into my day (1.9x80k)
 
 Wake
 - Coffee
