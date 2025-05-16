@@ -30,4 +30,11 @@ Dinner
 
 Snack
 
-- Camenbert
+- Camembert wedge
+- Non-alcoholic beer
+- Boil of popcorn with salt and popped in olive oil
+- Orgain protein shake (20g)
+
+Before bed
+
+- Orgain protein shake (20g)
