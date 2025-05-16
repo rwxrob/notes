@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I have CIRS with MCAS.md",
+                "file": "Logs/2025-05-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I have CIRS with MCAS"
+              "title": "2025-05-16"
             }
           }
         ],
@@ -217,8 +217,8 @@
   },
   "active": "bea0e765830123f5",
   "lastOpenFiles": [
+    "Fitness/Battling CIRS and MCAS with sweat.md",
     "Logs/2025-05-16.md",
-    "I have CIRS with MCAS.md",
     "Fitness/Weight training routine.md",
     "Fitness/Daily fitness routine.md",
     "Fitness/2026 annual plan.md",
