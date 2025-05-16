@@ -28,12 +28,8 @@ Dinner
 Or by default:
 
 - 1 cup cooked rice
-- 2 hard boiled eggs mashed
+- 3 hard boiled eggs mashed (20g)
 - Smoked paprika
 - Spinach
 - Salt
 - Olive oil
-
-Dinner
-
-- 
