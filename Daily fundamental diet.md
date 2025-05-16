@@ -3,6 +3,7 @@ The hardest part of the diet is getting 180g of protein into my day.
 Wake
 - Coffee
 - Six chocolate chips
+- Orgain shake (20g)
 
 Breakfast
 
