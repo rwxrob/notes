@@ -1,6 +1,6 @@
 *Written day before would be event on May 17, 2025*
 
-Welp. Today I'm supposed to be driving to Jackson, Alabama for the Cheaha Challenge but I'm not. After talking through yet another last minute change and email from the race director my wife has (wisely) helped confirm that my doubts about this event are very valid. She agrees with my decision to just cut my losses ($130) and go for a century ride around here instead.
+Welp. Today I'm supposed to be driving to Jackson, Alabama for the Cheaha Challenge but I'm not. After talking through yet another last minute change and email from the race director. My wife has (wisely) helped confirm that my doubts about this event are very valid. She agrees with my decision to just cut my losses ($130) and go for a century ride around here instead. I just cannot support this level of incompetence.
 
 I'm pretty pissed off that I ever signed up for Cheaha in the first place and very strongly recommend against anyone ever doing it. I don't see how this event ever qualified as a "partner" for GFNats. It's nothing more than a last-minute organized, underfunded, understaffed local fondo except now they have *tons* of people to deal with since it is a UCI qualifier (which it should NEVER have earned, imo).
 
