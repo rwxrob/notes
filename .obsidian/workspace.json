@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "daily",
+                "query": "gel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,9 +231,11 @@
   },
   "active": "c101d1193c9f827a",
   "lastOpenFiles": [
-    "Fitness/2026 annual plan.md",
     "Fitness/Cheaha Challenge is a bad joke.md",
     "Logs/2025-05-17.md",
+    "Fitness/Performance gel recipe.md",
+    "Fitness/Performance gel is high-octane fuel.md",
+    "Fitness/2026 annual plan.md",
     "Fitness/Battling CIRS and MCAS with sweat.md",
     "Food/Daily fundamental diet.md",
     "Logs/2025-05-16.md",
@@ -255,8 +257,6 @@
     "Logs/2025-05-07.md",
     "Fitness/Body composition first.md",
     "Fitness/Fasted training is for morons.md",
-    "Fitness/Intermittent fasting is horrible for endurance athletes.md",
-    "Logs/2025-05-03.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
