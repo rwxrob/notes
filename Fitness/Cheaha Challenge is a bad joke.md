@@ -32,7 +32,7 @@ The email says that police will be on the road "at times" rather than regularly 
 
 I also saw a video of the entire race being stopped at the top of the climb in the state park after airlifting a person off the mountain who missed a turn on the descent. This eliminated the entire race dynamic of that part of the event. I think all events should be mandated to release statistics about injuries ever year in order to qualify to even be an official event. People need to know. Instead, they sweep these things under the rug and try to hide them to keep from giving their event a bad reputation. Just like anything, money is the ultimate motivator. This is why group rides organized *by one or more of the riders* are always better than these events.
 
-In short, I had my doubts before that email, they were completely solidified when I read it. Cheaha is a fucking joke and honestly the more people who know that in advance the better. At least I know how to spot a shitty event in the future.
+In short, I had my doubts before that email, they were completely solidified when I read it. Cheaha Challenge is a joke and honestly the more people who know that in advance the better. At least I know how to spot a bad event in the future.
 
 ----
 *Written week before event*
