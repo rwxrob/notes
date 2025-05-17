@@ -16,4 +16,4 @@ The USA Cycling Gran Fondo National Series is a climbing competition, period. Ev
 
 **Hill climb training.** I do have a lot of hills in my normal training but I don't currently have a lot of *long* hills. I need to scope those out and ride only those since those are the segments I will be timed on. I really need to find one good hill that is the maximum distance of any timed climbing segment on any of the official events I'm focused on. This specificity should be over the top compared to the competition.
 
-**Group rides are useless.** I makes my heart sing to learn that I don't need no fucking group rides to do what I really need.
+**Group rides are useless.** It makes my heart sing to learn that I don't need no group rides to do what I really need.
