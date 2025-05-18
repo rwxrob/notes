@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tire pressure.md",
+                "file": "Logs/2025-05-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tire pressure"
+              "title": "2025-05-17"
             }
           }
         ],
@@ -273,9 +273,9 @@
   },
   "active": "8191878fc039bc0b",
   "lastOpenFiles": [
+    "Fitness/Tire pressure.md",
+    "Fitness/Addicted to endorphins.md",
     "Logs/2025-05-17.md",
-    "Tire pressure.md",
-    "Addicted to endorphins.md",
     "Fitness/GFNat focus.md",
     "Fitness/Cheaha Challenge is a bad joke.md",
     "Fitness/Performance gel recipe.md",
