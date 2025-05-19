@@ -1,10 +1,16 @@
-The USA Cycling Gran Fondo National Series is a climbing competition, period. Every single major official event is won based on four climbing segments that each average 6% or higher. They might have flats and a bit of descent but pack dynamics, aerodynamics, and race skills matter very little compared to raw climbing ability. Not even durability matters because everyone can do the absolute minimum on the non-timed segments and effectively fully recover before the next all-out climb. Keeping up with the lead pack doesn't matter at all when even top riders will be doing 18 kph maximum up hills like that. At that speed, power to weight ratio and rolling resistance are all that matter. This changes *everything* about my preparation (and is the reason [Cheaha Challenge is a bad joke](Cheaha%20Challenge%20is%20a%20bad%20joke.md)). Here's how my focus must change to be competitive:
+The USA Cycling Gran Fondo National Series is really just a climbing competition. You could say each race is just four intense hill climb races connected with a recovery rides. Only one timed segment (Maryland T-3) of the 12 I will be doing contains any significant descent at all. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer during the climbs. This unique quality of the official GFNat events makes them very special—and wonderful. It also makes training for them entirely different than what most people expect.
 
-- Lowest weight possible: 68 kg or less
-- Lightest bike possible
-- Best rolling resistance possible
-- Best nutrition management
-- Hill climbing adaptation
+The most important thing to train for these events is *durability*. Maryland T-4 is 10 miles long (16 km) and starts at mile 41 (66 km) but that is after three other grueling hill climbs. Training for this therefore requires regularly riding 70 km and *then* riding the fastest possible for about 20 km without blowing up so bad I cannot complete the remaining 80 km. I can limp to the end as slow as possible (10 mph "average progression" only applies to timed segments) but I have to finish.
+
+Training for a century ride that only counts the climbing for competitive points requires a much different training focus:
+
+- Massive amounts of low-intensity volume (regular weekend centuries, 2-5 hours zone 2 per week day)
+- Focus on weight (68 kg or less) and comfort over power and aero (absolutely no weight training)
+- Practice going as slow as possible *with stops* and keeping above 16 kph "progression average time"
+- Lighten the bike as much as possible (comfy climbing wheels, etc.)
+- Make the bike as comfortable as possible (endurance, fully upright position, saddle)
+- Dial in best rolling resistance possible (tubeless 28c or more at 58-65 psi)
+- Train gut on nutrition specifically available from aid stations
 
 **Dropping weight.**  Lower weight matters way more than higher power for all of these events. In fact, building FTP is a horrible idea until weight is in an acceptable area. I was shooting for 70 kg but now I'm going to go even lower. This means tons more base training miles to keep a healthy caloric deficit. I'll only be able to hit 72 for Asheville but should hit 68 by Nationals. I cannot screw this up. It's the most important thing I can do besides maintain base fitness.
 
@@ -17,3 +23,5 @@ The USA Cycling Gran Fondo National Series is a climbing competition, period. Ev
 **Hill climb training.** I do have a lot of hills in my normal training but I don't currently have a lot of *long* hills. I need to scope those out and ride only those since those are the segments I will be timed on. I really need to find one good hill that is the maximum distance of any timed climbing segment on any of the official events I'm focused on. This specificity should be over the top compared to the competition.
 
 **Group rides are useless.** It makes my heart sing to learn that I don't need no group rides to do what I really need.
+
+**So happy.**  I absolutely love that I discovered all this and found GFNat. Training for these events completely jives  
