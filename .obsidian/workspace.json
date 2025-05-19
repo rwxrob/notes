@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gel",
+                "query": "garmin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,10 +187,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15250c1e994081d9",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Fitness/GFNat focus.md",
+    "Fitness/Daily fitness routine.md",
+    "Fitness/Essential Garmin computer stats.md",
     "Logs/2025-05-19.md",
+    "Untitled",
+    "Fitness/GFNat focus.md",
     "Fitness/Timed-segment competition.md",
     "Logs/2025-05-17.md",
     "Logs/2025-05-15.md",
@@ -204,7 +207,6 @@
     "Fitness/2026 annual plan.md",
     "Food/Daily fundamental diet.md",
     "Fitness/Weight training routine.md",
-    "Fitness/Daily fitness routine.md",
     "Fitness/160mm crank arms + 52x36 chainrings.md",
     "Fitness/80k (50 miles) a day?.md",
     "Fitness/2025 annual plan.md",
@@ -214,7 +216,6 @@
     "Logs/2025-05-10.md",
     "Logs/2025-05-08.md",
     "Logs/2025-05-09.md",
-    "Fitness/Should I join a team.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
@@ -230,7 +231,6 @@
     "Knowledge management/Search titles with GitHub.png",
     "qr-code.png",
     "qr-rwxrob-fun.svg",
-    "Fitness and freshness",
     "Knowledge management/obsidian-settings.png",
     "Screenshot 2025-02-02 at 9.56.15 AM.png",
     "Untitled.canvas"

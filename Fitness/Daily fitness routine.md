@@ -1,3 +1,9 @@
+My training got really simple since 
+
+----
+
+*Yeah, this also didn't work. Keeping for reference.*
+
 After Cheaha I'm going to mix things up a bit with more focus on health and wellness and less on competitive cycling fitness. Most notably, I'm adding yoga back as my *primary* daily fitness routine with riding my bike as mostly a means to keep my heart healthy and body composition in check.
 
 - 7:30 up, coffee
@@ -25,7 +31,8 @@ I've modified my daily routine to matching ride times with sunrise during the wa
 - 5:30 wake, pee, water, coffee, waffle, notes, void, weigh in
 - 6:00 prep water bottles, gel flask, huel recovery
 - 6:15 drive to shed, change, pump, lube
-- 6:30 depart, start Garmin
+- 6:30 depart, start 
+- Garmin
 - 11:30 back at shed, recovery drink, change, home, shower, start rice
 - Noon work (small nap as needed during workday)
 - ~7:00 eat, relax, hang
