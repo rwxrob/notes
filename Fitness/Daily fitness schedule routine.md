@@ -1,4 +1,4 @@
-My training got really simple since 
+My training routine got really simple since started [GFNat focus](GFNat%20focus.md). I just get on my bike after work for three hours every day. On the weekend I might do 3-7 hours to get a full century in. I always do three hours but just make it all active recovery if had a hard day before that. Most important thing is to keep my body used to three hours in the saddle (at least). I can't afford to lose callouses and stuff.
 
 ----
 
