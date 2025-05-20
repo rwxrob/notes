@@ -1,16 +1,15 @@
-The USA Cycling Gran Fondo National Series (GFNats) is really just a climbing competition. You could say each race is just four intense hill climb races connected with slow recovery rides. Of all the official events I'll be doing (Asheville, Boone, Maryland) only one timed segment (Maryland T-3) contains any significant descent or flat at all. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer during the climbs. This unique quality of the official GFNat events makes them very special—and wonderful. It also makes training for them entirely different than what most people expect.
+The USA Cycling Gran Fondo National Series (GFNats) is really just a climbing competition. You could say each race is just four intense hill climb races connected with slow recovery rides. Of all the official events I'll be doing (Asheville, Boone, Maryland) only one timed segment (Maryland T-3) contains any significant descent or flat at all. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push the climbs. This unique quality of these specific official GFNat events makes them very special—and wonderful. It also makes training for them *entirely* different than what most people expect.
 
-The most important thing to train for these events is *durability*. Maryland T-4 is 10 miles long (16 km) and starts at mile 41 (66 km) but that is after three other grueling hill climbs. Training for this therefore requires regularly riding 70 km and *then* riding the fastest possible for about 20 km without blowing up so bad I cannot complete the remaining 80 km. I can limp to the end as slow as possible (10 mph "average progression" only applies to timed segments) but I have to finish.
+The most important thing to train is *durability*. Maryland T-4 is 16 km (10 miles) and starts at 66 km (mile 41) but that is after three other grueling hill climbs. Training for this therefore requires regularly riding 70 km and *then* riding the fastest possible for about 20 km without blowing up so I can complete the remaining 80 km. I can limp to the end as slow as possible (10 mph "average progression" only applies to timed segments) but I have to finish, that's all. Everything else I can leave at the top of the hill after the climb, even if I puke, lol.
 
 Training for a century ride that only counts the climbing for competitive points requires a much different training focus:
 
-- Massive amounts of low-intensity volume (regular weekend centuries, 2-5 hours zone 2 per week day)
-- Focus on weight (68 kg or less) and comfort over power and aero (absolutely no weight training)
-- Practice going as slow as possible *with stops* and keeping above 16 kph "progression average time"
-- Lighten the bike as much as possible (comfy climbing wheels, etc.)
-- Make the bike as comfortable as possible (endurance, fully upright position, saddle)
+- Massive amounts of low-intensity volume
+- Focus on weight and comfort over power and aero
+- Train to go as slow as possible *with stops* and keeping above 16 kph "progression average time"
+- Make the bike as comfortable and light as possible, forget about aero
 - Dial in best rolling resistance possible (tubeless 28c or more at 58-65 psi)
-- Train gut on nutrition specifically available from aid stations
+- Train gut on nutrition specifically available from aid stations of these events
 
 **Dropping weight.**  Lower weight matters way more than higher power for all of these events. In fact, building FTP is a horrible idea until weight is in an acceptable area. I was shooting for 70 kg but now I'm going to go even lower. This means tons more base training miles to keep a healthy caloric deficit. I'll only be able to hit 72 for Asheville but should hit 68 by Nationals. I cannot screw this up. It's the most important thing I can do besides maintain base fitness.
 
