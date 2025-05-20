@@ -17,4 +17,4 @@ Here's my target body specs:
 |**Body fat**|6–8%|
 |**Ride volume**|~24 hrs/week (~1,200+ TSS)|
 
-Ambitious? Sure but why not. It will take several years to get there but I like having goals. It's fun to remember I didn't even fit into my clothes in December. I've made a ton of progress a
+Ambitious? Sure but why not. It will take several years to get there but I like having goals. It's fun to remember I didn't even fit into my clothes in December. I've made a ton of progress and I don't see that changing. I'm in it for the long haul and playing the long game, as they say.
