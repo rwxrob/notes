@@ -1,9 +1,9 @@
-I have everything in place in my life to allow training at the pro level even if I never race with pros:
+I have everything in place in my life to allow training like a pro even if I never race with pros:
 
 - My family is raised leaving me mostly alone
 - My wife is completely immersed in her art and work
 - I don't really have friends who take up any time at all
-- My work is not stressful, flexible, remote, and pays very well
+- My work is stress free, flexible, remote, and pays well
 
 Therefore, I see no reason not to shoot for the stars, in this case, the ones on the shoulders of the GFNats jersey. Sure I'll probably never even come close but it will be fun to work on it.
 
