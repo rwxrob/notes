@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garmin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15250c1e994081d9",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Fitness/Daily fitness schedule routine.md",
     "Fitness/Tire pressure.md",
