@@ -1,10 +1,11 @@
 I have everything in place in my life to allow training at the pro level even if I never race with pros:
 
-- My family is raised
+- My family is raised leaving me mostly alone
 - My wife is completely immersed in her art and work
-- My work is flexible, remote, and pays very well
+- I don't really have friends who take up any time at all
+- My work is not stressful, flexible, remote, and pays very well
 
-Therefore, I see no reason not to shoot for the stars, in this case, the GFNats jersey stars. Sure I'll probably never even come close but it will be fun to work on it.
+Therefore, I see no reason not to shoot for the stars, in this case, the ones on the shoulders of the GFNats jersey. Sure I'll probably never even come close but it will be fun to work on it.
 
 Here's my target body specs:
 
