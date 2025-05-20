@@ -1,4 +1,9 @@
-There can be no doubt in 2025, the secret to durability is carbs, on race day _and_ on every training day.
+I'm training my gut to use the excellent, reliable nutrition provided *only* by the official Suarez Gran Fondo National Series events. Since this 
+
+----
+*Funny reading this former plan now that I'm 100% focused on official GFNats with different goals.*
+
+The secret to durability is carbs, on race day _and_ on every training day.
 
 - Pre-fuel on waffles or other carb (120g) 2-3 hours before event
 - Carry own homemade gel since predictable, supplement with feed zones if and when needed (just bananas)
