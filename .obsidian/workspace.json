@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zone",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
