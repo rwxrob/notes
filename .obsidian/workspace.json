@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mori",
+                "query": "morning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,10 +187,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d66ce5fcd308145c",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Fitness/Morning routine.md",
+    "Fitness/Morning warning indicators.md",
     "Logs/2025-05-21.md",
+    "Fitness/Morning routine.md",
     "Fitness/4 days on, 1 off.md",
     "Logs/2025-05-20.md",
     "Fitness/Long term cycling goals.md",
@@ -216,7 +216,6 @@
     "Fitness/Performance gel recipe.md",
     "Fitness/Performance gel is high-octane fuel.md",
     "Fitness/2026 annual plan.md",
-    "Food/Daily fundamental diet.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
