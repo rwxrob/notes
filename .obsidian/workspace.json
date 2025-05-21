@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "morni",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "81dc4bf9995f4c34",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Fitness/4 days on, 1 off.md",
     "Logs/2025-05-21.md",
