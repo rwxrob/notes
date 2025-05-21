@@ -4,5 +4,6 @@ Having a consistent morning routine seems to be the best way for me to get the t
 - Make one cup coffee (2-2 setting)
 - Bake waffle and six eggs hard-boiled for later
 - Make 1 scoop Huel shake with water to line in mixer
-- Consume waffle, shake, coffee while talking to wife and starting daily notes
-- Void and weigh myself (consistent)
+- Consume waffle, shake, coffee while talking to wife, checking weather and TP, making daily notes
+- Void and weigh myself (consistent clothing)
+- Fill water bottles and leave for bike shed

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morning routine.md",
+                "file": "Logs/2025-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morning routine"
+              "title": "2025-05-21"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morni",
+                "query": "mori",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,10 +188,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3e841498f2b3ceba",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
+    "Fitness/Morning routine.md",
     "Logs/2025-05-21.md",
-    "Morning routine.md",
     "Fitness/4 days on, 1 off.md",
     "Logs/2025-05-20.md",
     "Fitness/Long term cycling goals.md",
