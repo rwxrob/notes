@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time",
+                "query": "zone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Logs/2025-05-20.md",
     "Fitness/4 days on, 1 off.md",
