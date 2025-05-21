@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/4 days on, 1 off.md",
+                "file": "Logs/2025-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 days on, 1 off"
+              "title": "2025-05-21"
             }
           }
         ],
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,10 +201,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d66ce5fcd308145c",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Logs/2025-05-20.md",
     "Fitness/4 days on, 1 off.md",
+    "Logs/2025-05-21.md",
+    "Logs/2025-05-20.md",
     "Fitness/Long term cycling goals.md",
     "Fitness/GFNats winning strategy.md",
     "Fitness/GFNats race nutrition secret strategy.md",
@@ -230,7 +230,6 @@
     "Fitness/2026 annual plan.md",
     "Food/Daily fundamental diet.md",
     "Fitness/Weight training routine.md",
-    "Fitness/160mm crank arms + 52x36 chainrings.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
