@@ -1,16 +1,15 @@
 Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. So how do I train for this?
 
-The single most important skill seems to be **fatigued 20-minute power. Sure some segments are slightly shorter and a few are longer but that just means adjusting the target normalized power depending on the exact duration.
+Here are the most important skills in order as I see it:
 
-a fatigued 20-minute power competition that favors light GCers and climbers who might be pulled along at near recovery pace in other events until the time to launch a 20-minute power attack arrives. Then they leave everyone in the dust who cannot hold their wheel.
+1. Endurance for seven hours
+2. Fatigued 20-minute power
+3. Gut training for high carb intake
+4. High-speed group
 
-Unlike other races, however, there's no need to hold the lead between attacks. Everyone fully recovers.  In TdF terms, it is as if the 20-minute power monster attacker teleported his team across the gap with him to draft and feed him once they got a perfect break away.
+The single most important skill seems to be **fatigued 20-minute power***. Sure some segments are slightly shorter and a few are longer but that just means adjusting the target normalized power depending on the exact duration.
 
-With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push for 20 minutes when the time comes. Those 20 minutes are filled with intense pain and posturing because even a slight advantage might be enough to give up those points. After those 20 minutes of pain are over *everyone* recovers. Sure there are hours of riding left but everyone in these events will be easily able to do a century with four 10-20-minute power intervals in it. Ultimately, that's all these are.
-
-
-
-It's also really about training the gut perfectly in order to run 100% on carbs after about 90 minutes. 
+The second most important skill is ***gut training***. Given the It's also really about training the gut perfectly in order to run 100% on carbs after about 90 minutes. 
 
 ----
 
