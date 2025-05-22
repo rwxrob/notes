@@ -1,13 +1,10 @@
-The USA Cycling Gran Fondo National Series (GFNats) is really just a fatigued 20-minute power competition. Of all the official events I'll be doing (Asheville, Boone, Maryland) only hone timed segment (Maryland T-3) contains any significant descent or flat at all. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push the climbs. This unique quality of these specific official GFNat events makes them very special—and wonderful. It also makes training for them *entirely* different than what most people expect.
+The USA Cycling Gran Fondo National Series (GFNats) is really just a fatigued 20-minute power competition that favors GCers and climbers. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push for 20 minutes when the time comes. This unique quality of these specific official GFNat events makes them very special—and wonderful. It also makes training for them *entirely* different than what most people expect.
 
-The most important thing to train is *durability*. Maryland T-4 is 16 km (10 miles) and starts at 66 km (mile 41) but that is after three other grueling hill climbs. Training for this therefore requires regularly riding 70 km and *then* riding the fastest possible for about 20 km without blowing up so I can complete the remaining 80 km. I can limp to the end as slow as possible (10 mph "average progression" only applies to timed segments) but I have to finish, that's all. Everything else I can leave at the top of the hill after the climb, even if I puke, lol.
-
-Training for a century ride that only counts the climbing for competitive points requires a much different training focus:
+Training for a century ride that only counts the 10 and 20-minute segments for competitive points requires a much different training focus:
 
 - Massive amounts of low-intensity volume
 - Focus on weight and comfort over power and aero
 - Train to go as slow as possible *with stops* and keeping above 16 kph "progression average time"
-- Make the bike as comfortable and light as possible, forget about aero
 - Dial in best rolling resistance possible (tubeless 28c or more at 58-65 psi)
 - Train gut on nutrition specifically available from aid stations of these events
 
