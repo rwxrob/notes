@@ -5,12 +5,15 @@ Before I can do any other skills training I have to be able to ride 161 kilomete
 ## Gut training for high carb intake
 
 Along with training for the century length I have to prepare my body to use mostly carbs as fuel. Whether the intensity flips my primary energy source from fat to carb or the longer duration does I just can't do any of this unless I train my body to take in as much energy as I'm spending. Pretty much no casual will even think of this. But casuals don't sing up for the UCI categories. My competition will definitely be doing this.
-
 ## Fatigued 20-minute power
 
-### Breaking away and chasing
+If all I was doing was a 10-30 minute road race I might as well just train to be a sprinter. Once you add in all the bursting for attacking and chasing in such a race that's all it would be, an almost dangerously fast road race or criterium. Thankfully, these races are part of the larger century race so they will be significantly subdued by the fatigue that will have set in
+
+### Attacking and chasing
 
 All the advantages I dutifully trained hours a day for are obliterated if I end up just pulling someone who puts in less effort to the end. On the flip side, if I'm weaker than another rider but have the skills to burst and hold the wheel while putting out a lot less power I can blow them up mentally and physically.
+
+These skills are only things I can train in a very spicy group setting. I'll have to find the spiciest group and go for it, or not. These are not things that I really have to train that hard for because I do still have a fair amount of criterium and road racing in my past that I still remember. But wouldn't hurt so long as such rides don't interfere with the higher training priorities. 20 minute power is way more important than breaking and chasing.
 
 ----
 
