@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,9 +257,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0771f2087efdcc1c",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Watts per kilogram over 3-second power.md",
+    "Fitness/Watts per kilogram over 3-second power.md",
     "Logs/2025-05-22.md",
     "Fitness/Garmin Index scale and blood pressure.md",
     "Fitness/Morning routine.md",
