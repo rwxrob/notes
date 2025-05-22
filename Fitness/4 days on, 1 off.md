@@ -1,3 +1,6 @@
+
+*This absolutely did not work. Don't do it.*
+
 I've been having good results pushing the volume and intensity by doing a 4 days on, 1 off cycle:
 
 1. 4 hours @62%
