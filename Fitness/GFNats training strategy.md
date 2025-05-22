@@ -1,4 +1,6 @@
-Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery. It's four 10-30 minute road races for the price of one, you just have to ride to the next one.
+Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. So how do I train for this?
+
+The single most important skill seems to be **fatigued 20-minute power. Sure some segments are slightly shorter and a few are longer but that just means adjusting the target normalized power depending on the exact duration.
 
 a fatigued 20-minute power competition that favors light GCers and climbers who might be pulled along at near recovery pace in other events until the time to launch a 20-minute power attack arrives. Then they leave everyone in the dust who cannot hold their wheel.
 
