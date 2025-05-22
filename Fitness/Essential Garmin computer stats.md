@@ -1,3 +1,8 @@
+
+----
+
+*Old information for reference.*
+
 Here are the essential Garmin stats I have and why:
 
 1. 10 second power - best indication of power trend, smooths spikes and recoveries

@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "2025-05-22"
             }
+          },
+          {
+            "id": "0771f2087efdcc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fitness/Essential Garmin computer stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essential Garmin computer stats"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "morning",
+                "query": "garmin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,10 +258,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ad514e37dab847a",
+  "active": "0771f2087efdcc1c",
   "lastOpenFiles": [
-    "Fitness/Garmin Index scale and blood pressure.md",
+    "Watts per kilogram over 3-second power.md",
     "Logs/2025-05-22.md",
+    "Fitness/Garmin Index scale and blood pressure.md",
     "Fitness/Morning routine.md",
     "Fitness/Training by block and feel.md",
     "Fitness/Fatigued 20-min power workouts.md",
@@ -271,7 +287,6 @@
     "Logs/2025-05-17.md",
     "Logs/2025-05-15.md",
     "Logs/2025-05-16.md",
-    "Fitness/Battling CIRS and MCAS with sweat.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
