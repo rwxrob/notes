@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/GFNats winning strategy.md",
+                "file": "Fitness/GFNats training strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GFNats winning strategy"
+              "title": "GFNats training strategy"
             }
           }
         ],
@@ -204,7 +204,7 @@
   "active": "dd1bac893a233eba",
   "lastOpenFiles": [
     "Logs/2025-05-21.md",
-    "Fitness/GFNats winning strategy.md",
+    "Fitness/GFNats training strategy.md",
     "Fitness/4 days on, 1 off (not).md",
     "Fitness/GFNats race nutrition secret strategy.md",
     "Fitness/Warmup.md",

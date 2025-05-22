@@ -1,4 +1,6 @@
-The USA Cycling Gran Fondo National Series (GFNats) is really just a fatigued 20-minute power competition that favors GCers and climbers. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push for 20 minutes when the time comes. It's also really about training the gut perfectly in order to run 100% on carbs after about 90 minutes. 
+The USA Cycling Gran Fondo National Series (GFNats) is really just a fatigued 20-minute power competition that favors light GCers and climbers who might be pulled along at near recovery pace in other events until the time to launch a 20-minute power attack arrives. Unlike other races, however, there's no need to hold the lead between attacks. Everyone fully recovers. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push for 20 minutes when the time comes. In TdF terms, it is as if the 20-minute power monster attacker teleported his team across the gap with him to draft once they got a perfect break away.
+
+It's also really about training the gut perfectly in order to run 100% on carbs after about 90 minutes. 
 
 ----
 
