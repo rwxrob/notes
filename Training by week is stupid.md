@@ -1,0 +1,1 @@
+There I said it. Weekly divisions are absolutely arbitrary. No pro follows a weekly schedule. They use 3:1 and 2:1 load/absorb
