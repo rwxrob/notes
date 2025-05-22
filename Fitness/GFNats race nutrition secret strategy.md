@@ -1,11 +1,16 @@
-I'm training my gut to use the same stuff available at pretty much any supported ride plus the very specific, excellent, and reliable nutrition provided *only* by the official Suarez Gran Fondo National Series events:
+I'm training my gut to use the same stuff available at pretty much any supported ride:
 
-- 
+- Gatorade with ice
 - Bananas
 - Rice crispy treats
 - Glucose/Fructose gels with maltodextrin
 
-So far I've had much better results with actual food than the performance stuff.
+So far I've had much better results with actual food than the performance stuff. I've noticed that I get palette fatigue really quickly with gels.
+
+I'm also preparing for the very specific, excellent, and reliable nutrition provided *only* by the official Suarez Gran Fondo National Series events:
+
+- Hammer Nutrition
+- ...
 
 ----
 *Funny reading this former plan now that I'm 100% focused on official GFNats with different goals.*
