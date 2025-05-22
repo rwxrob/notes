@@ -1,0 +1,1 @@
+When I started really weighing daily in earnest in 2020 I always tried to get my lowest possible weight. That's just stupid. I'm ashamed to admit that didn't occur to me until I changed my main [Garmin computer stats](Fitness/Essential%20Garmin%20computer%20stats.md) to use W/kg for everything instead of power. 

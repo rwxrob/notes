@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Morning routine.md",
+                "file": "Logs/2025-05-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morning routine"
+              "title": "2025-05-22"
+            }
+          },
+          {
+            "id": "c65392ca14c4405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use realistic weight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use realistic weight"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "garmin",
+                "query": "weight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,13 +271,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0771f2087efdcc1c",
+  "active": "c65392ca14c4405d",
   "lastOpenFiles": [
     "Logs/2025-05-22.md",
+    "Use realistic weight.md",
+    "Fitness/Morning routine.md",
     "Fitness/Essential Garmin computer stats.md",
     "Fitness/Watts per kilogram over 3-second power.md",
     "Fitness/Garmin Index scale and blood pressure.md",
-    "Fitness/Morning routine.md",
     "Fitness/Training by block and feel.md",
     "Fitness/Fatigued 20-min power workouts.md",
     "Fitness/GFNats training strategy.md",
@@ -285,7 +300,6 @@
     "Fitness/Timed-segment competition.md",
     "Logs/2025-05-17.md",
     "Logs/2025-05-15.md",
-    "Logs/2025-05-16.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
