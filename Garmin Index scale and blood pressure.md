@@ -1,1 +1,0 @@
-I figured why not buy the high-priced smart scale and blood pressure meter. I'm already in the Garmin ecosystem and have someone who works there who can get me most anything at wholesale. Weight, body composition, and blood pressure are really good daily indicators of health and I'm 57 as of this writing so might as well get even more obsessive about tra
