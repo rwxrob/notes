@@ -1,10 +1,10 @@
-1. 10 second power - best indication of power trend, smooths spikes and recoveries
-2. Heart rate - best sanity check even though drifts, explains why sluggish if not high enough
-3. Cadence - good sanity check that I glance at when seeing other things
-4. 
-5. Distance - how much left do I have, perfect when riding same loop daily
-6. Duration - when to drink and eat and if I'm going to make it before a sunset
-7. Time of day - reality check and general sunset warning
+1. Lap W/kg - solid segment target based on event goals, sanity check
+2. Heart rate - am I warmed up? overreaching? dehydrated?
+3. W/kg - main metric all load (automatically updated from daily weigh in)
+4. Distance - how much do I have left, perfect when riding same loop daily
+5. Duration - when to drink and eat and if I'm going to make it before a sunset
+6. 
+7. 
 
 - [Watts per kilogram over 3-second power](Watts%20per%20kilogram%20over%203-second%20power.md)
 
