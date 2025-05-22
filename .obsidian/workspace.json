@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fatigued 20-minute power.md",
+                "file": "Fitness/Fatigued 20-min power workouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fatigued 20-minute power"
+              "title": "Fatigued 20-min power workouts"
             }
           }
         ],
@@ -218,7 +218,7 @@
   "active": "81b7d6f0243518ef",
   "lastOpenFiles": [
     "Fitness/GFNats training strategy.md",
-    "Fatigued 20-minute power.md",
+    "Fitness/Fatigued 20-min power workouts.md",
     "Logs/2025-05-21.md",
     "Fitness/4 days on, 1 off (not).md",
     "Fitness/GFNats race nutrition secret strategy.md",

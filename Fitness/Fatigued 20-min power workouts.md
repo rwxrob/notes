@@ -1,10 +1,5 @@
 *From my AI.
 
-These workouts are designed to simulate riding timed Gran Fondo segments under fatigue—after 2+ hours of steady endurance riding. Perform one per week during your build phase.
-
----
-# 🚴‍♂️ Fatigued 20-Minute Power Workouts
-
 These workouts simulate timed Gran Fondo segments after endurance fatigue. Perform one per week during your build phase. Fuel aggressively, and track each 20-minute interval for analysis.
 
 ---
