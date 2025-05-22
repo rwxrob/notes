@@ -2,11 +2,11 @@ Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big
 
 Here are the most important skills to train in the order or priority as I see it:
 
-***Endurance for seven hours.*** It really does not matter how fast I ride between timed segments but I do have to arrive at the start of the segment recovered and still able to turn the pedals and—though it goes without saying—I have to finish. Seven hours is a safe amount of time to expect. Before I can do any other skills training I have to be able to ride 161 kilometers in seven hours with four off-bike refueling breaks every 40k.
+***Endurance for seven hours.*** Before I can do any other skills training I have to be able to ride 161 kilometers in seven hours with four off-bike refueling breaks every 40k. If I cannot even do that I have no business working on the rest.
+
+***Gut training for high carb intake.*** Along with training for the century length I have to prepare my body to use mostly carbs as fuel. Whether the intensity flips my primary energy source from fat to carb or the longer duration does I just can't do any of this unless I train my body to take in as much energy as I'm spending. Pretty much no casual will even think of this. But casuals don't sing up for the UCI categories. My competition will definitely be
 
 ***Fatigued 20-minute power.***
-
-***Gut training for high carb intake.***
 
 ***Breakaway tactics.***
 
