@@ -1,16 +1,16 @@
-Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. So how do I train for this?
+Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. So how do I train for this? Here are the most important skills to train as I see it.
+## Endurance for seven hours
 
-Here are the most important skills to train in the order or priority as I see it:
+Before I can do any other skills training I have to be able to ride 161 kilometers in seven hours with four off-bike refueling breaks every 40k. If I cannot even do that I have no business working on the rest.
+## Gut training for high carb intake
 
-***Endurance for seven hours.*** Before I can do any other skills training I have to be able to ride 161 kilometers in seven hours with four off-bike refueling breaks every 40k. If I cannot even do that I have no business working on the rest.
+Along with training for the century length I have to prepare my body to use mostly carbs as fuel. Whether the intensity flips my primary energy source from fat to carb or the longer duration does I just can't do any of this unless I train my body to take in as much energy as I'm spending. Pretty much no casual will even think of this. But casuals don't sing up for the UCI categories. My competition will definitely be doing this.
 
-***Gut training for high carb intake.*** Along with training for the century length I have to prepare my body to use mostly carbs as fuel. Whether the intensity flips my primary energy source from fat to carb or the longer duration does I just can't do any of this unless I train my body to take in as much energy as I'm spending. Pretty much no casual will even think of this. But casuals don't sing up for the UCI categories. My competition will definitely be
+## Fatigued 20-minute power
 
-***Fatigued 20-minute power.***
+### Breaking away and chasing
 
-***Breakaway tactics.***
-
-
+All the advantages I dutifully trained hours a day for are obliterated if I end up just pulling someone who puts in less effort to the end. On the flip side, if I'm weaker than another rider but have the skills to burst and hold the wheel while putting out a lot less power I can blow them up mentally and physically.
 
 ----
 
