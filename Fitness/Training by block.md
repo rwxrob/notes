@@ -1,4 +1,4 @@
-Training by week is stupid. There I said it. Weekly divisions are absolutely arbitrary. No pro follows a weekly schedule. They use 3:1 and 2:1 load/absorb blocks, sometimes an overreaching 5:1 followed by a de-load block when preparing for an event.
+Training by week is stupid. There I said it. Weekly divisions are absolutely arbitrary.  I use 3:1 and 2:1 load/absorb blocks, sometimes an overreaching 5:1 followed by a de-load block when preparing for an event.
 
 **Cycle 1**
 - Day 1: 4 hr Z2 long ride
