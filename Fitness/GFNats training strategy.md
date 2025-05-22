@@ -1,6 +1,12 @@
-The USA Cycling Gran Fondo National Series (GFNats) is really just a fatigued 20-minute power competition that favors light GCers and climbers who might be pulled along at near recovery pace in other events until the time to launch a 20-minute power attack arrives. Then they leave everyone in the dust who cannot hold their wheel. Those 20 minutes are filled with intense pain and posturing because even a slight advantage might be enough to give up those points. After those 20 minutes of pain are over *everyone* recovers.
+Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy century group ride with four specific all-out 
 
-Unlike other races, however, there's no need to hold the lead between attacks. Everyone fully recovers. With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push for 20 minutes when the time comes. In TdF terms, it is as if the 20-minute power monster attacker teleported his team across the gap with him to draft once they got a perfect break away.
+a fatigued 20-minute power competition that favors light GCers and climbers who might be pulled along at near recovery pace in other events until the time to launch a 20-minute power attack arrives. Then they leave everyone in the dust who cannot hold their wheel.
+
+Unlike other races, however, there's no need to hold the lead between attacks. Everyone fully recovers.  In TdF terms, it is as if the 20-minute power monster attacker teleported his team across the gap with him to draft and feed him once they got a perfect break away.
+
+With a "progression average time" requirement of 16 kph (which includes stopped time at aid stations) the competition is as much about having the will power to stay really slow and fully recover as it is to suffer and push for 20 minutes when the time comes. Those 20 minutes are filled with intense pain and posturing because even a slight advantage might be enough to give up those points. After those 20 minutes of pain are over *everyone* recovers. Sure there are hours of riding left but everyone in these events will be easily able to do a century with four 10-20-minute power intervals in it. Ultimately, that's all these are.
+
+
 
 It's also really about training the gut perfectly in order to run 100% on carbs after about 90 minutes. 
 
