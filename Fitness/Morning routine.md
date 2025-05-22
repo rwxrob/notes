@@ -2,9 +2,10 @@ Having a consistent morning routine seems to be the best way for me to get the t
 
 - Wake, check watch, pee, drink 200ml water
 - Make and start drinking cup coffee (2-2 setting, 100ml)
+- Take Allegra (non-drowsy) allergy medication
 - Bake waffle and six eggs hard-boiled for later
-- Consume waffle coffee while making notes and updating training plan
-- Go outside and check weather forecast, sip coffee on steps if nice
+- Consume waffle and coffee while making notes and updating training plan
+- Go outside and check weather forecast, sip coffee on steps if nice, chat with Doris
 - Void and weigh in
-- Drink 400 ml water or Huel (depending on what's coming)
-- Start the day smiling
+- Drink 1-scoop of Huel with 400ml water
+- Start the day smiling!
