@@ -1,10 +1,10 @@
-1. Lap W/kg - solid segment target based on event goals, sanity check
-2. Heart rate - am I warmed up? overreaching? dehydrated?
+1. Lap W/kg - solid target based on lap goal, sanity check
+2. Lap Duration - for intervals, better than distance since hills
 3. W/kg - main metric all load (automatically updated from daily weigh in)
 4. Distance - how much do I have left, perfect when riding same loop daily
 5. Duration - when to drink and eat and if I'm going to make it before a sunset
-6. 
-7. 
+6. Heart rate - am I warmed up? overreaching? dehydrated?
+7. Time of day - what am I late for? how much sun left? what will traffic be like?
 
 - [Watts per kilogram over 3-second power](Watts%20per%20kilogram%20over%203-second%20power.md)
 

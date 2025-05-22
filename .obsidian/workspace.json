@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Essential Garmin computer stats.md",
+                "file": "Logs/2025-05-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essential Garmin computer stats"
+              "title": "2025-05-22"
             }
           }
         ],
@@ -257,8 +257,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "0771f2087efdcc1c",
   "lastOpenFiles": [
+    "Fitness/Essential Garmin computer stats.md",
     "Fitness/Watts per kilogram over 3-second power.md",
     "Logs/2025-05-22.md",
     "Fitness/Garmin Index scale and blood pressure.md",
@@ -280,7 +281,6 @@
     "Fitness/Daily fitness schedule routine.md",
     "Fitness/Tire pressure.md",
     "Logs/2025-05-19.md",
-    "Fitness/Essential Garmin computer stats.md",
     "Untitled",
     "Fitness/Timed-segment competition.md",
     "Logs/2025-05-17.md",
