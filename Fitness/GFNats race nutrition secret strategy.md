@@ -1,4 +1,11 @@
-I'm training my gut to use the excellent, reliable nutrition provided *only* by the official Suarez Gran Fondo National Series events. Since this 
+I'm training my gut to use the same stuff available at pretty much any supported ride plus the very specific, excellent, and reliable nutrition provided *only* by the official Suarez Gran Fondo National Series events:
+
+- 
+- Bananas
+- Rice crispy treats
+- Glucose/Fructose gels with maltodextrin
+
+So far I've had much better results with actual food than the performance stuff.
 
 ----
 *Funny reading this former plan now that I'm 100% focused on official GFNats with different goals.*
