@@ -4,7 +4,7 @@ Having a consistent morning routine seems to be the best way for me to get the t
 - Make two cups coffee (2x2-2 setting, 200ml)
 - Bake waffle and six eggs hard-boiled for later
 - Drink 400 ml water or Huel (depending on what's coming)
-- Consume waffle, water/shake, coffee while making notes
-- Go outside and checking weather and TP, making daily notes
+- Consume waffle, water/shake, coffee while making notes and updating training plan
+- Go outside and check weather forecast, coffee on steps if nice
 - Void and weigh myself (consistent clothing)
-- Start the day
+- Start the day smiling
