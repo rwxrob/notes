@@ -1,4 +1,4 @@
-Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. So how do I train for this? Here are the most important skills to train as I see it.
+Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. Or, in terms most will understand: 4x20 @ 110% with 60 minute recoveries and 40 min warmup and cooldown. So how do I train for this? Here are the most important skills to train as I see it.
 ## Endurance for seven hours
 
 Before I can do any other skills training I have to be able to ride 161 kilometers in seven hours with four off-bike refueling breaks every 40k. If I cannot even do that I have no business working on the rest.
@@ -7,7 +7,9 @@ Before I can do any other skills training I have to be able to ride 161 kilomete
 Along with training for the century length I have to prepare my body to use mostly carbs as fuel. Whether the intensity flips my primary energy source from fat to carb or the longer duration does I just can't do any of this unless I train my body to take in as much energy as I'm spending. Pretty much no casual will even think of this. But casuals don't sing up for the UCI categories. My competition will definitely be doing this.
 ## Fatigued 20-minute power
 
-If all I was doing was a 10-30 minute road race I might as well just train to be a sprinter. Once you add in all the bursting for attacking and chasing in such a race that's all it would be, an almost dangerously fast road race or criterium. Thankfully, these races are part of the larger century race so they will be significantly subdued by the fatigue that will have set in
+If all I was doing was a 10-30 minute road race I might as well just train to be a sprinter. Once you add in all the bursting for attacking and chasing in such a race that's all it would be, an almost dangerously fast road race or criterium. Thankfully, these races are part of the larger century race so the pace will be significantly subdued by the fatigue that will have set in but it will still be very spicy and hard.
+
+In one sense these things are like the longest 20-minute interval set you could imagine, 4x20 @95% with 
 
 ### Attacking and chasing
 
