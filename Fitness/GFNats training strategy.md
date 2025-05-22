@@ -8,9 +8,6 @@ Along with training for the century length I have to prepare my body to use most
 ## *Fatigued* 20-minute power
 
 If all I was doing was a 10-30 minute road race I might as well just train to be a sprinter. Once you add in all the bursting for attacking and chasing in such a race that's all it would be, an almost dangerously fast road race or criterium. Thankfully, these races are part of the larger century race so the pace will be significantly subdued by the fatigue that will have set in but it will still be very spicy.
-
-In one sense these things are like the longest 20-minute interval set you could imagine, 4x20 @95% with 
-
 ### Attacking and chasing
 
 All the advantages I dutifully trained hours a day for are obliterated if I end up just pulling someone who puts in less effort to the end. On the flip side, if I'm weaker than another rider but have the skills to burst and hold the wheel while putting out a lot less power I can blow them up mentally and physically.
