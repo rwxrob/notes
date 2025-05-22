@@ -1,15 +1,16 @@
 Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one. So how do I train for this?
 
-Here are the most important skills in order as I see it:
+Here are the most important skills to train in the order or priority as I see it:
 
-1. Endurance for seven hours
-2. Fatigued 20-minute power
-3. Gut training for high carb intake
-4. High-speed group
+***Endurance for seven hours.*** It really does not matter how fast I ride between timed segments but I do have to arrive at the start of the segment recovered and still able to turn the pedals and—though it goes without saying—I have to finish. Seven hours is a safe amount of time to expect. Before I can do any other skills training I have to be able to ride 161 kilometers in seven hours with four off-bike refueling breaks every 40k.
 
-The single most important skill seems to be **fatigued 20-minute power***. Sure some segments are slightly shorter and a few are longer but that just means adjusting the target normalized power depending on the exact duration.
+***Fatigued 20-minute power.***
 
-The second most important skill is ***gut training***. Given the It's also really about training the gut perfectly in order to run 100% on carbs after about 90 minutes. 
+***Gut training for high carb intake.***
+
+***Breakaway tactics.***
+
+
 
 ----
 
