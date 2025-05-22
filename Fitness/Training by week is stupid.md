@@ -1,1 +1,0 @@
-There I said it. Weekly divisions are absolutely arbitrary. No pro follows a weekly schedule. They use 3:1 and 2:1 load/absorb blocks, sometimes more like a 5:1 followed by a de
