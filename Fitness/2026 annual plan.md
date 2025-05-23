@@ -1,3 +1,5 @@
+*I manage all this in TrainingPeaks these days. I'll probably also keep an ATP overview like this hear just so I have a summary in one place.*
+
 Season goals:
 
 - Qualify and finish Gran Fondo Nationals
