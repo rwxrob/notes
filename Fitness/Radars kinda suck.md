@@ -14,5 +14,5 @@ It is almost always better to put two small blinking lights on instead, one on t
 
 I thought the audible warning of the Carback in my earphones was so great when I first started using it. Then I started to loathe it completely. I listen to music and it pretty much kills the vibe of the music and just the silence when there is no music. I really do not need to be reminded of every fucking car behind me.
 
-I see people riding with these shitty things in Gran Fondos where there are hundreds of riders on the roads. Who cares if they are open. No radar is going to work with that many people. At least they don't have mirrors attached to their glasses and helmets. Just learn to pick your 
+I see people riding with these shitty things in Gran Fondos where there are hundreds of riders on the roads. Who cares if they are open. No radar is going to work with that many people. At least they don't have mirrors attached to their glasses and helmets. Just learn to pick your routes well and be able to glance behind you at all times. If the shoulder is too sketchy to glance behind you the road is probably too horrible to even be on, either stop and check stuff out when needing to cross or never ride on a road like that.
 
