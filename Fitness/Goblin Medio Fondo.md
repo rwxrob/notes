@@ -1,3 +1,5 @@
+*I never ride Goblin any more. Too dangerous and sporadic for the speeds and intervals I need. Goblin became popular with me because it has a lot of visual interest and my priority was on livestreaming before. I don't do that at all anymore and probably never will.*
+
 Looks like a Goblin, right? This smooth, safe, scenic route has evolved over years of tweaking. It's all fun and fast suburban roads that are freshly paved and pristinely maintained. This is literally the best route in the area for 2-3 hours of serious daily road riding. Do it slow in zone 2 or as a sweet spot session with long intervals connected by casual segments ideally spaced for recovery and regrouping. Double it on the weekend to convert this Medio Fondo into an official UCI Gran Fondo (120km, 75 miles).
 
 Go ahead, pull out the race wheels. They'll be safe. There are several very popular Strava segments on this route and, depending on the day, you'll likely pass one or two peloton group rides (although all the local groups choose routes that have unnecessarily bad traffic).
