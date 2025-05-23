@@ -1,7 +1,0 @@
-Look, I know they don't look nearly as cool as my Rudy spin shades. They are also probably less aero and heavier. So what. Photo-chromatic lenses that adapt to being on a shady road versus a sunny one are completely worth it. 
-
-The whole point of the cycling obsession (for me) is amazing scenery! When I wear my overpriced Rudys I have to pick which level of shading and then transferring the insert to that pair only to have it not line up and then vibrate so badly while riding it gives me a headache and blows out all my depth perception. It stresses me out, literally. Wearing my latest Rayban perception is peaceful and meditative in comparision.
-
-And no, tri-focals aren't even an option for inserts so good luck seeing your bike computer no matter what that font. 
-
-So look for the guy in that #1 podium spot at Gran Fondoa nationals in the 55-59 age group with the so-nerdy-their-hip retro Raybans with the thick lenses. Who knows maybe I'll even start a new trend. (Probably not, I'll just be another old man who doesn't give a fuck wearing whatever he wants.) Personally, I think these give me devil-may-care DKLEIN meets Sportif look—especially with my so sparkly it almost looks bedazzled Rudy Venger helmet (which comes with a bug-net lining to keep NC bees and wasps out, btw, unlike *any* other helmet on the market)
