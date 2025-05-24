@@ -1,0 +1,1 @@
+It's not something I'd recommend anyone else do but I have successfully done a 1-week protein fast in the past. It can be a devastating blow to fitness and endurance training but does drop weight about 5 kilograms. It's also a good opportunity t
