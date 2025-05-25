@@ -1,4 +1,4 @@
-Adventure cycling has many forms and crosses over with bikepacking in confusing ways so I'm coining the term **performance adventure cycling** or PAC. I've also heard people call it "fastpacking" or "fast bikepacking" or "minimal bikepacking." PAC combines two major ways to ride a bike:
+Adventure cycling has many forms and crosses over with bikepacking in confusing ways so I'm coining the term ***performance adventure cycling*** or PAC. I've also heard people call it "fastpacking" or "fast bikepacking" or "minimal bikepacking." PAC combines two major ways to ride a bike:
 
 - **Adventure cycling**: Self-supported exploration off-grid and urban
 - **Performance cycling**: Data-driven, power-based training, and racing discipline
