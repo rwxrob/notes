@@ -19,5 +19,7 @@ In fact, it was on one of these 5-hour training rides on the weekend on mostly t
 
 The realization that I didn't even really need a pack at all do this stuff blew my mind. All I had to do was limit where I went each day and make sure that I stopped someplace with a hotel, two things that barely qualify as adventure other than not knowing in advance all the details of either.
 
-The next mental leap wasn't hard. "What if I did add a rack/pack?"
+The next mental leap wasn't hard. "What if I did add a rack/pack?" I could potentially sleep out under the stars and carry a bit of food so that I could plan routes that don't even have a lot of people nearby. Now that I have a gravel tire set I could just swap those on and unlock tons of gravel destinations like all of Two Gorges Loop.
+
+And, of course, the idea returned, "What if I took a few weeks off and crossed the country?"
 
