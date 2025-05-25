@@ -131,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d66ce5fcd308145c",
+  "active": "0b0cd387812f5672",
   "lastOpenFiles": [
     "Logs/2025-05-25.md",
     "Fitness/Performance adventure cycling FTW.md",
