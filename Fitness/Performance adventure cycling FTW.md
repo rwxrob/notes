@@ -23,7 +23,7 @@ The next mental leap wasn't hard. "What if I did add a rack/pack?" I could poten
 
 And, of course, the idea returned, "What if I took a few weeks off and crossed the country on mostly gravel roads? How long would it take if I covered at least 100 miles per day?"
 
-It turns out that is exactly what TABN is. A fully self-supported crossing of the USA on the historic ACA TramsAm trail. Most participants do 150-300 miles per day to finish in 25-35 days. As grueling as it is, I wonder if I'd like that more than Tour Divide if only because I don't have to deal with bear country at all. It would be something to work up to, for sure.
+It turns out that is exactly what TABNS is. A fully self-supported crossing of the USA on the historic ACA TramsAm trail. Most participants do 150-300 miles per day to finish in 25-35 days. As grueling as it is, I wonder if I'd like that more than Tour Divide if only because I don't have to deal with bear country at all. It would be something to work up to, for sure.
 
 Perhaps the biggest draw of PAC for me is the training is mostly just insane amounts of low-intensity volume instead of any high-intensity intervals and stuff. Endurance *means* enduring long hours in the saddle and figuring out how to enjoy them. Suffice it to say, I can start experimenting with this now and see if it is something that I actually enjoy.
 
