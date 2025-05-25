@@ -3,4 +3,4 @@ It's not something I'd recommend anyone else do but I have successfully done a 1
 - 1.6 grams per kilo so I'm just using 200g per day
 - Mix up protein sources between eggs, chicken, and protein powder
 - Take a daily multivitamin and fish oil supplement
-- Drink 3-4 liters of water daily with electrolyte powder ()
+- Drink 3-4 liters of water daily with electrolyte powder
