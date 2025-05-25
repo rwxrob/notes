@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-05-24.md",
+                "file": "Fitness/1-week protein fast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-24"
+              "title": "1-week protein fast"
             }
           }
         ],
@@ -189,8 +189,8 @@
   },
   "active": "d68d71425694a7d1",
   "lastOpenFiles": [
-    "Fitness/1-week protein fast.md",
     "Logs/2025-05-24.md",
+    "Fitness/1-week protein fast.md",
     "Logs/2025-05-22.md",
     "Logs/2025-05-21.md",
     "Fitness/GFNats training strategy.md",
