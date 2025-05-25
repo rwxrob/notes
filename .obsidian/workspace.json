@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Performance adventure cycling FTW.md",
+                "file": "Fitness/Performance adventure cycling FTW.md",
                 "mode": "source",
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perform",
+                "query": "adventure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,10 +230,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0b0cd387812f5672",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Logs/2025-05-25.md",
-    "Performance adventure cycling FTW.md",
+    "Fitness/Performance adventure cycling FTW.md",
     "Fitness/Thinking of performance adventure cycling again.md",
     "Fitness/Too much intensity kills old people.md",
     "Fitness/1-week protein fast.md",

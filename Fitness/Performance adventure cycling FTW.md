@@ -1,3 +1,9 @@
+I've had lots of opinions about adventure cycling over the years:
+
+- [Digital Nomad by Bike was catastrophic failure](Digital%20Nomad%20by%20Bike%20was%20catastrophic%20failure.md)
+- [Events instead of bikepacking](Events%20instead%20of%20bikepacking.md)
+- [Bike touring is horrible for your health](Bike%20touring%20is%20horrible%20for%20your%20health.md)
+
 Adventure cycling has many forms and crosses over with bikepacking in confusing ways so I'm coining the term ***performance adventure cycling*** or PAC. I've also heard people call it "fastpacking" or "fast bikepacking" or "minimal bikepacking." PAC combines two major ways to ride a bike:
 
 - **Adventure cycling**: Self-supported exploration off-grid and urban
