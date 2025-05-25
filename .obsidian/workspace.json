@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bad road",
+                "query": "adventure cycling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "426fe2262e37dec9",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Fitness/Too much intensity kills old people.md",
     "Logs/2025-05-25.md",
