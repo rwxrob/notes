@@ -17,5 +17,7 @@ Rides that fall into this category are Tour Divide and Trans Am Bike Race (TABR)
 
 In fact, it was on one of these 5-hour training rides on the weekend on mostly the same farm roads I use for training every day that I asked a rather obvious question, "What if I went straight instead of returning home?" I had also started fueling based on what I could find and buy rather than carry. It was also the first time I had ever even been to Cleveland, NC and I felt that child-like obsession with unlocking new areas of the map to which I'd never been. When I got home I imagined stretching out the Strava route spaghetti string to see what it could reach. That's when I knew. I could do the exact same endurance training rides and just stay overnight in a hotel and do another the next day to come home. Hell, I wouldn't even need to bring a change of clothes. I could just rinse them all out and sleep (like a rock after such rides) in the buff and get up the next day and put the same stuff back on.
 
-The realization that I didn't even really need a pack at all do this stuff blew my mind. All I had to do was limit where I went each day and make sure that I stopped someplace with a hotel.
+The realization that I didn't even really need a pack at all do this stuff blew my mind. All I had to do was limit where I went each day and make sure that I stopped someplace with a hotel, two things that barely qualify as adventure other than not knowing in advance all the details of either.
+
+The next mental leap wasn't hard. "What if I did add a rack/pack?"
 
