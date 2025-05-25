@@ -1,0 +1,3 @@
+Since rediscovering that my main motivation for doing anything fitness related is pure endorphin addiction and narcissism I have felt the attraction of adventure cycling again, the kind that DKLEIN does. I still like the focus on performance but all long-distance adventure cycling has that.
+
+The single biggest attraction to adventure cycling is not even the adventure itself but the people it attracts, their mindset, culture, and ethics. I have not found a single race-oriented, roadie with a personality that is compatible with mine—let alone that I would actually admire enough to want to emulate and spend time with. There are some genuinely nice pe
