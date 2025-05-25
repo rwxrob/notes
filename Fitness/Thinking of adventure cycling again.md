@@ -2,9 +2,9 @@ Since rediscovering that my main motivation for doing anything fitness related i
 
 The single biggest attraction to adventure cycling is not even the adventure itself but the people it attracts, their mindset, culture, and ethics. I have not found a single race-oriented, roadie with a personality that is compatible with mine—let alone that I would actually admire enough to want to emulate and spend time with. In fact, 9 out of 10 roadies are completely assholes and I could actively avoid if at all possible. There are some genuinely nice roadies on Strava for sure but, in my experience, the people I generally would get excited to just hang out with are often not even on Strava. 
 
-Then again, I'm not a fan of hanging out with MAMILs either. 
+Then again, I'm not a fan of hanging out with MAMILs who have no idea what Strava even is either, people with absolutely zero sense of style who hardly get on their bike during the week, some of whom wouldn't be caught dead getting their over-priced bike wet in the winter. I have no desire at all to hang out with these people at all.
 
-I've said it before. I'm looking for people who are a mix of Dustin Klein, Terry B, and Dylan Johnson, people I could go on a seriously intense ride that spans 2.5 days and actually want to talk to during large parts of it. Other parts we could be informally competing to get to the top of a hill or in a pace line to get through a bad segment of traffic.
+I've said it before. I'm looking for people who are a mix of Dustin Klein, Terry B, and Dylan Johnson, people I could go on a seriously intense ride that spans 2.5 days and actually want to talk to during large parts of it. Other parts of the ride we could be informally competing to get to the top of a hill or in a pace line only to get through a bad segment of traffic. The pace is fun, social, but intense. The only class of riders that matches this category are, what I call, performance adventure cyclists.
 
 Then again, there's just solo riding as well. I'm actually totally okay with it provided it is safe.
 
