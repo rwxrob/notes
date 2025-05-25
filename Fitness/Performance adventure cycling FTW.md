@@ -23,5 +23,5 @@ The next mental leap wasn't hard. "What if I did add a rack/pack?" I could poten
 
 And, of course, the idea returned, "What if I took a few weeks off and crossed the country on mostly gravel roads? How long would it take if I covered at least 100 miles per day?"
 
-It turns out that is exactly what 
+It turns out that is exactly what Trans Am Bike Race (TABR) is. A fully self-supported crossing of the USA on the historic ACA TramsAm trail. Most participants do 150-300 miles per day to finish in 25-35 days. As grueling as it is, I wonder if I'd like that more than Tour Divide if only because I don't have to deal with bear country at all.
 
