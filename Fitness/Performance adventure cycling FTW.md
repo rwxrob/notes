@@ -4,7 +4,7 @@ I've had lots of opinions about adventure cycling over the years:
 - [Events instead of bikepacking](Events%20instead%20of%20bikepacking.md)
 - [Bike touring is horrible for your health](Bike%20touring%20is%20horrible%20for%20your%20health.md)
 
-I think I'm finally narrowing in on what it is that I actually *really* love: ***performance adventure cycling*** or PAC. That's a term that according to my research looks like I just invented.  I've also heard people call similar things "fastpacking" or "fast bikepacking" or "minimal bikepacking."
+I think I'm finally narrowing in on what it is that I actually *really* love: ***performance adventure cycling*** or PAC. That's a term that according to my research looks like I just invented.  I've also heard people call similar things "fastpacking" or "fast bikepacking" or "minimal bikepacking" or "credit card touring."
 
 PAC combines two major cycling styles:
 
@@ -15,5 +15,7 @@ Rides that fall into this category are Tour Divide and Trans Am Bike Race (TABR)
 
 **PAC rides are something that you *train for* during the week and *do* on the weekend or longer.**  They are characterized by relatively fast training rides—even some intervals—with nothing but tire repair kit during the week and then strapping on [an aero bikepacking bag](Best%20performance%20adventure%20cycling%20pack.md) and some aero bars for the weekend trip.
 
-In fact, it was on one of these 5-hour training rides on the weekend on mostly the same farm roads I use for training every day that I asked a rather obvious question, "What if I went straight instead of returning home?" I had also started fueling based on what I could find and buy rather than carry. It was also the first time I had ever even been to Cleveland, NC and 
+In fact, it was on one of these 5-hour training rides on the weekend on mostly the same farm roads I use for training every day that I asked a rather obvious question, "What if I went straight instead of returning home?" I had also started fueling based on what I could find and buy rather than carry. It was also the first time I had ever even been to Cleveland, NC and I felt that child-like obsession with unlocking new areas of the map to which I'd never been. When I got home I imagined stretching out the Strava route spaghetti string to see what it could reach. That's when I knew. I could do the exact same endurance training rides and just stay overnight in a hotel and do another the next day to come home. Hell, I wouldn't even need to bring a change of clothes. I could just rinse them all out and sleep (like a rock after such rides) in the buff and get up the next day and put the same stuff back on.
+
+The realization that I didn't even really need a pack at all do this stuff blew my mind. All I had to do was limit where I went each day and make sure that I stopped someplace with a hotel.
 
