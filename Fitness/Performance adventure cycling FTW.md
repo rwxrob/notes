@@ -21,5 +21,7 @@ The realization that I didn't even really need a pack at all do this stuff blew 
 
 The next mental leap wasn't hard. "What if I did add a rack/pack?" I could potentially sleep out under the stars and carry a bit of food so that I could plan routes that don't even have a lot of people nearby. Now that I have a gravel tire set I could just swap those on and unlock tons of gravel destinations like all of Two Gorges Loop.
 
-And, of course, the idea returned, "What if I took a few weeks off and crossed the country?"
+And, of course, the idea returned, "What if I took a few weeks off and crossed the country on mostly gravel roads? How long would it take if I covered at least 100 miles per day?"
+
+It turns out that is exactly what 
 
