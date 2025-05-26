@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adventure",
+                "query": "aero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +230,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0b0cd387812f5672",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Fitness/1-week protein fast.md",
     "Fitness/Monthly food plan.md",
