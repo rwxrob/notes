@@ -110,8 +110,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performanc",
-                "matchingCase": false,
+                "query": "PAC",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
