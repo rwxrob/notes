@@ -2,5 +2,5 @@
 - 46k 7:15 Lincolnton
 - 84k 8:40 Casar (Dollar General)
 - 137k 11:00 West Marion (Dollar General)
-- 153k Old Fort (Lunch, McDowell Tourism Center)
+- 153k 12:00 Old Fort (Lunch, McDowell Tourism Center)
 - 
