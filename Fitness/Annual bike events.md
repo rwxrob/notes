@@ -1,3 +1,9 @@
+After much consideration I've decided to stop doing doing Gran Fondos and return to [performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) which is a much mo
+
+----
+
+*Keeping this for reference*
+
 Below is a list of mostly USAC sanctioned events I plan to do every year until I cannot turn the pedals anymore. (Star means unsanctioned.) I might occasionally replace an event with a fun alternative or trip special.
 
 | Date       | Event                                                                                 | Cost | Travel |
