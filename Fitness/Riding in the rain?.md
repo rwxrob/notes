@@ -10,8 +10,8 @@ There are other minor reasons:
 - Uncomfortable unless mount fenders every time
 - Decreases visibility to drivers
 
-I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I think that about myself somewhat. There's something intriguing about being able to put in massive volume all year round no matter what the weather
+I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I think that about myself somewhat. There's something intriguing about being able to put in massive volume all year round no matter what the weather and the challenge of honing my kit and bike so that it is actually enjoyable and safe even in those conditions.
 
 ## Reconciling with adventure cycling
 
-[Performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) requires riding hundreds, even thousands of miles in the rain and cold. Most would say that is a main part of the experience.
+[Performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) requires riding hundreds, even thousands of miles in the rain and cold. Most would say that is a main part of the experience. Therefore, if I am to ever actually consider doing the Bike Nonstop US, even slowly so that rides are only during the daylight, I need to get really good at riding in the rain and cold.
