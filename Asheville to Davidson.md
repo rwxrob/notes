@@ -1,5 +1,3 @@
-- 0k 6:00 depart
-- 46k 8:00 Lincolnton
-- 74k 9:00 Dollar General
-- 105k :00 break in Washburn
+- 0k 5:30 depart
+- 46k 6 Lincolnton
 - 
