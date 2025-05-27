@@ -3,4 +3,5 @@
 - 84k 8:40 Casar (Dollar General)
 - 137k 11:00 West Marion (Dollar General)
 - 153k 12:00 Old Fort (Lunch, McDowell Tourism Center)
-- 
+- 166k 1:00 Ridgecrest (NibbleNook Ice Cream)
+- 193k 2:00 Asheville
