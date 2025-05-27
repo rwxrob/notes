@@ -1,3 +1,5 @@
-- 0k 5:40 depart
-- 50k 6:40 leave Lincolnton
+- 0k 6:00 depart
+- 
+- 50k 8:00 break in Lincolnton
+- 105k :00 break in Washburn
 - 
