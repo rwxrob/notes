@@ -2,3 +2,6 @@
 - 46k 7:15 Lincolnton
 - 84k 8:40 Casar (Dollar General)
 - 115k Dysartsville
+- 137k West Marion (Dollar General)
+- 153k Old Fort
+- 
