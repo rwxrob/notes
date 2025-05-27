@@ -1,7 +1,6 @@
 - 0k 5:30 depart
 - 46k 7:15 Lincolnton
 - 84k 8:40 Casar (Dollar General)
-- 115k Dysartsville
-- 137k West Marion (Dollar General)
-- 153k Old Fort
+- 137k 11:00 West Marion (Dollar General)
+- 153k Old Fort (Lunch, McDowell Tourism Center)
 - 
