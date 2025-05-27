@@ -1,0 +1,1 @@
+My Domane is the perfect bike for me. I can quickly add the TailFin Cargo pack and aerobars when doing [performance adventure cycling](Fitness/Performance%20adventure%20cycling%20FTW.md) or just training to far-flung locations here locally.
