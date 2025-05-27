@@ -11,3 +11,7 @@ There are other minor reasons:
 - Decreases visibility to drivers
 
 I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I would have thought that at one point myself. I just love my last years on Earth too much and want to prolong them way too much. The bottom line, however, is much simpler: I don't get as much enjoyment or training effect from riding in the rain when I could ride on the trainer instead.
+
+## Reconciling with adventure cycling
+
+[Performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) requires riding hundreds, even thousands of miles in the rain and cold. Most would say that is a main part of the experience.
