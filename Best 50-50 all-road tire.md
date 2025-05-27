@@ -1,0 +1,1 @@
+Rene Herse Barlow Pass 38c Endurance is my new standard tire. They are not cheap at $200 a pair but they are absolutely perfect for all riding I ever want to do at this point.
