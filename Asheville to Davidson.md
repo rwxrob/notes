@@ -1,5 +1,6 @@
 - 0k 6:00 depart
 - 22k 7:00 Quicktrip
-- 48k 8:00 Fausto Coffee
+- 46k 8:00 McDonalds
+- 72k 9:00 ??
 - 105k :00 break in Washburn
 - 
