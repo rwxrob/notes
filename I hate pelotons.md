@@ -1,1 +1,0 @@
-There, I said it. I seem to go through this evolution every time I get back into cycling. At first I just start riding slow to get healthy, then I start picking up the pace and watch Tour de France and race on Zwift and think I want to do that in the real world, then I do a few local group rides
