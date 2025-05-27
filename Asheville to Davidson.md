@@ -1,3 +1,4 @@
 - 0k 5:30 depart
 - 46k 7:15 Lincolnton
-- 80k 8:37 Olive Grove
+- 84k 8:40 Casar (Dollar General)
+- 
