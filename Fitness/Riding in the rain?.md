@@ -2,4 +2,12 @@ Even though rain itself does not qualify as [unridable weather](Unridable%20weat
 
 You could argue that lonely farm roads are pretty immune from the effects of bad rain but you have to get to them. Then there's the higher lightning risk when the rain comes from thunderstorms. Then there is the crazy high speeds of those flat descents where going down wouldn't just give me road rash in a neighborhood full of people asking if they can help.
 
-I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I would have thought that at one point myself. I just love my last years on Earth too much and want to prolong them way too much. The bottom line, however, is much simpler: I don't get as much enjoyment or training effe
+There are other minor reasons:
+
+- More flats when it rains
+- Have to clean the bike
+- Wears down bike faster
+- Uncomfortable unless mount fenders every time
+- Decreases visibility to drivers
+
+I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I would have thought that at one point myself. I just love my last years on Earth too much and want to prolong them way too much. The bottom line, however, is much simpler: I don't get as much enjoyment or training effect from riding in the rain when I could ride on the trainer instead.
