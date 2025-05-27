@@ -1,3 +1,3 @@
 - 0k 5:30 depart
-- 46k 6 Lincolnton
+- 46k 7:15 Lincolnton
 - 
