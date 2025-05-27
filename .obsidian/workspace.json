@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Fast in Zwift, Steady IRL.md",
+                "file": "Logs/2025-05-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fast in Zwift, Steady IRL"
+              "title": "2025-05-27"
             }
           }
         ],
@@ -369,10 +369,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "06c9b886fb47ce4b",
   "lastOpenFiles": [
-    "Fitness/All-road PAC bike setup.md",
     "Fitness/Fast in Zwift, Steady IRL.md",
+    "Fitness/All-road PAC bike setup.md",
     "Fitness/Gravel is fine if you go slow.md",
     "Logs/2025-05-27.md",
     "Fitness/Durability over drafting.md",
