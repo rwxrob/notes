@@ -10,7 +10,7 @@ There are other minor reasons:
 - Uncomfortable unless mount fenders every time
 - Decreases visibility to drivers
 
-I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I would have thought that at one point myself. 
+I know that *tons* of bike riders of all types will find my fair-weather position on the rain somewhat wimpy. I think that about myself somewhat. There's something intriguing about being able to put in massive volume all year round no matter what the weather
 
 ## Reconciling with adventure cycling
 
