@@ -1,4 +1,4 @@
 - 0k 5:30 depart
 - 46k 7:15 Lincolnton
 - 84k 8:40 Casar (Dollar General)
-- 
+- 115k Dysartsville
