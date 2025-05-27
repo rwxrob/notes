@@ -1,1 +1,0 @@
-One of the key realizations about all-road cycling is that gravel is just fine—even when wet—if you have the right tires, pressure, and speed. It's only sketch if you push the boundaries and speed limits—even more in a pack while getting dirt thrown up in your face. Gravel in a *time trial* situation is fine, such as in Bike Nonstop US.
