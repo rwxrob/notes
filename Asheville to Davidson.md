@@ -1,5 +1,5 @@
 - 0k 6:00 depart
 - 22k 7:00 Quicktrip
-- 50k 8:00 break in Lincolnton
+- 48k 8:00 Fausto Coffee
 - 105k :00 break in Washburn
 - 
