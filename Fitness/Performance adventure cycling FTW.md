@@ -12,7 +12,7 @@ PAC combines two major cycling styles:
 - **Adventure cycling**: Self-supported exploration off-grid and urban, occasional train rides, etc.
 - **Performance cycling**: Data-driven, power-based training, and racing discipline
 
-Rides that fall into this category are Tour Divide and Trans Am Bike Nonstop (BNSUS) but these are more brutal and less enjoyable than the stuff I'm talking about. I'm mostly interested in the BNSUS "legal" route that keeps out the dogs from Kentucky and Missouri (such absolutely shitty states on the whole for tons )
+Rides that fall into this category are Tour Divide and Trans Am Bike Nonstop (BNSUS) but these are more brutal and less enjoyable than the stuff I'm talking about. I'm mostly interested in the BNSUS "legal" route that keeps out the dogs from Kentucky and Missouri (such absolutely shitty states on the whole for tons of reasons, St. Louis is the murder capital of America). Compared to Iowa that does RAGRAI every year it's a no-brainer.
 
 The bike setups are mostly identical, however. 63mm aero rims—and possibly even some removable aero bars—are totally common on a PAC bike but a watt-waisting handlebar bag never would be. This puts PAC bike setups in a very specific class where comfort, aerodynamics, and the least amount of weight possible. A PAC bike would never add weight to the frame just to support more load. Instead, PAC rides are designed to only carry the essentials. PAC bikes are not so extreme as a triathlon bike. In fact, a good endurance PAC bike could legally be used to compete in GFNats, which is good because the training for fun PAC rides is the same as for most Gran Fondos, which is how I discovered this (more on that later).
 
