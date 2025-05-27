@@ -1,0 +1,3 @@
+- 0k 5:40 depart
+- 50k 6:40 leave Lincolnton
+- 
