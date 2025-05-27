@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asheville to Davidson.md",
+                "file": "Fitness/Asheville to Davidson (Shortest).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asheville to Davidson"
+              "title": "Asheville to Davidson (Shortest)"
             }
           }
         ],
@@ -260,7 +260,7 @@
   "active": "811781081e835099",
   "lastOpenFiles": [
     "Logs/2025-05-25.md",
-    "Asheville to Davidson.md",
+    "Fitness/Asheville to Davidson (Shortest).md",
     "Fitness/Performance adventure cycling FTW.md",
     "Fitness/Morons choose TramsAm classic route.md",
     "Fitness/1-week protein fast.md",
