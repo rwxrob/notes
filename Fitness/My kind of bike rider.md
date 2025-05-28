@@ -10,5 +10,15 @@ Here are some ideas about the type of bike rider I want to find and befriend.
 - Bikes to Critical Mass (instead of driving to it) from miles away if necessary
 - Enters 24 Hours of Booty with other bike friends
 - Averages 20+ hours on their bike per week
-- Has SPD pedals and shoes since lives on bike
-- Runs [aerobars on their bike](Aerobars%20repel%20roadies.md) for long-ride comfort
+- Averages three hours per "training" ride
+- Has lots of "bike to store" segments in Strava
+- Has about 8% body fat from the occasional alcoholic beverage
+- Tends to eat a plant-based diet
+- Only wears 5-panel hats
+- Runs SPD pedals and shoes on an all-road bike with 38c+ tires
+- Runs [aerobars on their bike](Aerobars%20repel%20roadies.md) pretty much all the time for long-ride comfort
+- Runs a Tailfin Aero rack constantly or quick release since most rides are 80+ miles
+- Actually still cares about performance and things like aero gains
+- Would never run a dynamo hub because to many lost watts for no reason
+- Doesn't run a handlebar bag because aero
+- Wears tight-fitting lycra without a lot of logos because aero
