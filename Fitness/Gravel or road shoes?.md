@@ -1,3 +1,3 @@
 Perhaps the single hardest decision I have ever had to make about gear is about which shoes to wear and what pedals to go with those shoes. Shoes are the most important piece of clothing any rider wears. The wrong pick and not only do you lose 5-10 watts of power right away but you also risk serious damage to your feet over long rides and the ability to easily recover from a problem.
 
-The problem stems from the fact that all the types of riding I like fall under the all-road category. Long gran fondos are almost entirely compatible with loaded down adventure cycling. My all-road Trek Domane is the perfect bk
+The problem stems from the fact that all the types of riding I like fall under the all-road category. Long gran fondos are almost entirely compatible with loaded down adventure cycling. It does not make sense for me to have a gravel bike. If riding anything with over 50% gravel I'll just take my XC mountain bike instead.
