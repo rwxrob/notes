@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/How to meet the good bike riders?.md",
+                "file": "Fitness/My kind of bike rider.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to meet the good bike riders?"
+              "title": "My kind of bike rider"
             }
           }
         ],
@@ -215,10 +215,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "997d8309d4385b43",
   "lastOpenFiles": [
     "Logs/2025-05-28.md",
-    "Fitness/How to meet the good bike riders?.md",
+    "Fitness/My kind of bike rider.md",
     "Fitness/Aerobars repel roadies.md",
     "Fitness/Long term cycling goals.md",
     "Fitness/High performance road bikepacking gear.md",
