@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PAC",
+                "query": "goal",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,8 +190,9 @@
   },
   "active": "87b0b9fdfde4f65a",
   "lastOpenFiles": [
-    "Fitness/High performance road bikepacking gear.md",
+    "Fitness/Long term cycling goals.md",
     "Logs/2025-05-28.md",
+    "Fitness/High performance road bikepacking gear.md",
     "Fitness/Gravel over road shoes.md",
     "Fitness/Durability over drafting.md",
     "Fitness/Riding in the rain?.md",
@@ -214,7 +216,6 @@
     "Fitness/Too much intensity kills old people.md",
     "Logs/2025-05-24.md",
     "Logs/2025-05-22.md",
-    "Logs/2025-05-21.md",
     "Untitled",
     "Streaming",
     "Cycling/weekly-schedule.png",
