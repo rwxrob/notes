@@ -1,7 +1,8 @@
+*At the end of May I changed my [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under over any competition in GFNats. Many of the short-term fitness goals overlap but not all. The focus from May onward in 2025
+
 Season goals:
 
-- Qualify and finish Gran Fondo Nationals
-- Complete body transformations enabling competitive 2026 season
+- Complete body transformations
 - Integrate competitive endurance training back into daily life
 
 Training objectives:
