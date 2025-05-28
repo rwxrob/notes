@@ -1,4 +1,4 @@
-*At the end of May I changed my main [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under 30 days with 7 hours of sleep per day and biking mostly during the day for safety reasons. Before it was competing in Gran Fondo Nationals. Many of the short-term fitness goals overlap but not all.
+*At the end of May I changed my main [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under 30 days with 7 hours of sleep per day and biking mostly during the day for safety reasons. Before it was competing in Gran Fondo Nationals. Many of the short-term fitness goals overlap but not all. The most important change is that I'm removing any and all strength and intensity training and replacing it with volume and yoga to create a body that can maintain ultra-distance comfort in the saddle.
 
 Season goals:
 
