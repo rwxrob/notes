@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d732c0674d5660",
+        "id": "c90758fcb33fe983",
         "type": "tabs",
         "children": [
           {
-            "id": "06c9b886fb47ce4b",
+            "id": "9fafdac0e2b52236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Best 50-50 all-road tire.md",
+                "file": "Logs/2025-05-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best 50-50 all-road tire"
+              "title": "2025-05-28"
             }
           }
         ]
@@ -172,19 +172,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "06c9b886fb47ce4b",
+  "active": "9fafdac0e2b52236",
   "lastOpenFiles": [
+    "Logs/2025-05-28.md",
+    "Fitness/Riding in the rain?.md",
+    "Fitness/Best 50-50 all-road tire.md",
     "Logs/2025-05-27.md",
     "Fitness/All-road PAC bike setup.md",
     "Fitness/Fast in Zwift, Steady IRL.md",
     "Fitness/Gravel is fine if you go slow.md",
     "Fitness/Durability over drafting.md",
-    "Fitness/Best 50-50 all-road tire.md",
     "Fitness/Performance adventure cycling FTW.md",
     "Fitness/Annual bike events.md",
     "Fitness/Events instead of bikepacking?.md",
     "Fitness/I hate pelotons.md",
-    "Fitness/Riding in the rain?.md",
     "Fitness/Unridable weather.md",
     "Fitness/Homemade electrolyte powder.md",
     "Fitness/Davidson to Asheville (Shortest).md",
@@ -199,7 +200,6 @@
     "Logs/2025-05-21.md",
     "Fitness/GFNats training strategy.md",
     "Fitness/Fatigued 20-min power workouts.md",
-    "Fitness/2026 annual plan.md",
     "Untitled",
     "Streaming",
     "Cycling/weekly-schedule.png",
