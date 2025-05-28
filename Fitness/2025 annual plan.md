@@ -1,4 +1,4 @@
-*At the end of May I changed my [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under over any competition in GFNats. Many of the short-term fitness goals overlap but not all. The focus from May onward in 2025
+*At the end of May I changed my main [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under 30 days with 7 hours of sleep per day and biking mostly during the day for safety reasons. Before it was competing in Gran Fondo Nationals. Many of the short-term fitness goals overlap but not all.
 
 Season goals:
 
