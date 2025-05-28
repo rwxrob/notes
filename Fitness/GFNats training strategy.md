@@ -1,3 +1,5 @@
+*My personal goals no longer include GFNats
+
 Each of the USA Cycling Gran Fondo National Series (GFNats) events is just a big spicy fully-supported century group ride with four specific all-out competitive segments followed by 100% full recovery slowly riding to the next one and taking a fully-catered break on top of that. It's like four 10-30 minute road races for the price of one or one big 4x20 @110% interval session spread out over 6-7 hours. 😉 So how do I train for this?
 ## Endurance for seven hours
 
