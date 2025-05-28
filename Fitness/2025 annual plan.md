@@ -1,9 +1,11 @@
 *At the end of May I changed my main [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under 30 days with 7 hours of sleep per day and biking mostly during the day for safety reasons. Before it was competing in Gran Fondo Nationals. Many of the short-term fitness goals overlap but not all:
 
 - Remove any and all strength and intensity training
+- Focus entirely on sustainable pace and quickest possible recovery
+- Train gut to take in on-the-road carbs to keep energy and recovery high
 - Add ultra-high volume with at least one century per week
 - More yoga to create a body that can maintain ultra-distance comfort in the saddle
-- Focus on fun over speed without sacrificing speed
+- Focus on fun (which reduces stress and speed recovery) over speed without sacrificing speed
 - Add one or two bivy overnighters per week
 
 Season goals:
