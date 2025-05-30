@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goal",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2c9e046c39cef54b",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
     "Fitness/2025 annual plan.md",
