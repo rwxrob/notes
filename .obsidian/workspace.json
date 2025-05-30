@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Performance gel recipe.md",
+                "file": "Logs/2025-05-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Performance gel recipe"
+              "title": "2025-05-30"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,8 +172,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2c9e046c39cef54b",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "Fitness/Performance gel recipe.md",
+    "Logs/2025-05-30.md",
     "Fitness/Performance gel is high-octane fuel.md",
     "Fitness/2025 annual plan.md",
     "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
@@ -199,8 +200,6 @@
     "Fitness/I hate pelotons.md",
     "Fitness/Unridable weather.md",
     "Fitness/Homemade electrolyte powder.md",
-    "Fitness/Davidson to Asheville (Shortest).md",
-    "Logs/2025-05-25.md",
     "Untitled",
     "Streaming",
     "Cycling/weekly-schedule.png",
