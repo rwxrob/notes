@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-05-31.md",
+                "file": "Logs/2025-06-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-31"
+              "title": "2025-06-01"
             }
           }
         ]
@@ -172,10 +172,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "2c9e046c39cef54b",
   "lastOpenFiles": [
-    "Logs/2025-05-30.md",
     "Logs/2025-05-31.md",
+    "Logs/2025-06-01.md",
+    "Logs/2025-05-30.md",
     "Knowledge management/Why I don't follow most of Zettelkasten approach.md",
     "Knowledge management/Keep Obsidian compatible with GitHub.md",
     "Fitness/Performance gel recipe.md",
@@ -199,7 +200,6 @@
     "Fitness/Gravel is fine if you go slow.md",
     "Fitness/Performance adventure cycling FTW.md",
     "Fitness/Annual bike events.md",
-    "Fitness/Events instead of bikepacking?.md",
     "Untitled",
     "Streaming",
     "Cycling/weekly-schedule.png",
