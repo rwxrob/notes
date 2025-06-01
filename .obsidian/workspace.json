@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Best BNSUS tires.md",
+                "file": "Logs/2025-06-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best BNSUS tires"
+              "title": "2025-06-01"
             }
           }
         ],
@@ -189,8 +189,8 @@
   },
   "active": "399ca0c925f67cae",
   "lastOpenFiles": [
+    "Fitness/Best BNSUS tires.md",
     "Logs/2025-06-01.md",
-    "Best BNSUS tires.md",
     "Logs/2025-05-31.md",
     "Logs/2025-05-30.md",
     "Knowledge management/Why I don't follow most of Zettelkasten approach.md",
