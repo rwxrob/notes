@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Best BNSUS tires.md",
+                "file": "Logs/2025-06-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Best BNSUS tires"
+              "title": "2025-06-01"
+            }
+          },
+          {
+            "id": "963d63707550e8d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People who inspire me.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "People who inspire me"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,9 +201,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "399ca0c925f67cae",
+  "active": "963d63707550e8d9",
   "lastOpenFiles": [
     "Logs/2025-06-01.md",
+    "People who inspire me.md",
     "Fitness/Best BNSUS tires.md",
     "Logs/2025-05-31.md",
     "Logs/2025-05-30.md",
@@ -214,7 +229,6 @@
     "Fitness/All-road PAC bike setup.md",
     "Fitness/Fast in Zwift, Steady IRL.md",
     "Fitness/Gravel is fine if you go slow.md",
-    "Fitness/Performance adventure cycling FTW.md",
     "Untitled",
     "Streaming",
     "Cycling/weekly-schedule.png",
