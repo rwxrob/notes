@@ -8,8 +8,11 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Kubespray for both infra and k8s
 - Configuration management in simple git repo
 - k8sapp spec 2.0
+- Limit scope of k8sapps to those required and supported by team (Istio, MetalLB, Harbor, Nvidia Device Plugin, etc.)
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
 ## Procedures
 
 - For each k8sapp:
-	- 
+	- Check for compatibility with planned k8s version
+	- Identify any breaking changes to existing apps that depend on k8sapps
+	- Update k8sapp to latest k8sapp specification
