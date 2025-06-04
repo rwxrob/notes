@@ -20,3 +20,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 		- Create branch/draft pr
 		- Run `build` on latest
 		- Run `git diff` to see changes and assess impact to apps that use it
+
+## Related
+
+- https://akuity.io/blog/the-rendered-manifests-pattern
+- 
