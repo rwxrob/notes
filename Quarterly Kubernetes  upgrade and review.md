@@ -3,5 +3,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ## Assumptions and requirements
 
 - Kubespray
-- GitOpts
+- Configuration management in simple git repo
+- Ansible playbooks repo for node creation (managed by infra team)
+- Ansible playbooks repo for Kubernetes cluster creation and modification
 - k8sapp spec 2.0
+- Ansible playbooks for node creation
