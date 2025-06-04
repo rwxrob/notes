@@ -13,7 +13,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Blue/green evaluated and proved too expensive given number of high-cost GPUs involved
 ## Procedures
 
-- Build target upgraded cluster and all k8sapps in new ("green") cluster
+- Build target upgraded cluster and all k8sapps in new cluster to allow customer testing
 
 - For each k8sapp:
 	- Check for compatibility with planned k8s version
