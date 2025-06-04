@@ -19,4 +19,4 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- If k8sapp from Helm chart:
 		- Create branch/draft pr
 		- Run `build` on latest
-		- Run `git diff` to see changes and assess impact to 
+		- Run `git diff` to see changes and assess impact to apps that use it
