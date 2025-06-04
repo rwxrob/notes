@@ -5,7 +5,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Configuration management in simple git repo
 - RedHat Ansible Automation Platform for node/machine creation (managed by infra team)
 - Custom Ansible playbooks calling Kubespray for Kubernetes cluster creation and modification
-- Ansible versions for infr and k8s *not* in synch (to allow Kubespray updates independently)
+- Ansible versions for infra and k8s *not* in synch (to allow Kubespray updates independently)
 - Configuration management in simple git repo
 - k8sapp spec 2.0
 - Limit scope of k8sapps to those required and supported by team (Istio, MetalLB, Harbor, Nvidia Device Plugin, etc.)
