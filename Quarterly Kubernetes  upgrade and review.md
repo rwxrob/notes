@@ -17,6 +17,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 
 - For each k8sapp:
 	- Check for compatibility with planned k8s version
+	- Check that the k8sapp resource and code is the same as what is currently in cluster
 	- Identify any breaking changes to existing apps that depend on k8sapps
 	- Communicate all changes to customers *before* upgrade
 	- Update k8sapp to latest k8sapp specification
