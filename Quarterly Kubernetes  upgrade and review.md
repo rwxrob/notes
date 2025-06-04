@@ -12,9 +12,12 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
 ## Procedures
 
+- Build latest clust
+
 - For each k8sapp:
 	- Check for compatibility with planned k8s version
 	- Identify any breaking changes to existing apps that depend on k8sapps
+	- Communicate all changes to customers *before* upgrade
 	- Update k8sapp to latest k8sapp specification
 	- If k8sapp from Helm chart:
 		- Create branch/draft pr
