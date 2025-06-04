@@ -8,3 +8,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Kubespray for both infra and k8s
 - Configuration management in simple git repo
 - k8sapp spec 2.0
+
+## Tasks
+
+- 
