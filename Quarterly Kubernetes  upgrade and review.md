@@ -3,7 +3,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ## Assumptions and requirements
 
 - Configuration management in simple git repo
-- Ansible Automation Platform for node/machine creation (managed by infra team)
+- RedHat Ansible Automation Platform for node/machine creation (managed by infra team)
 - Custom Ansible playbooks (not RedHat) for Kubernetes cluster creation and modification
 - Kubespray for both infra and k8s
 - Configuration management in simple git repo
@@ -12,6 +12,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
 ## Procedures
 
+- 
 - For each k8sapp:
 	- Check for compatibility with planned k8s version
 	- Identify any breaking changes to existing apps that depend on k8sapps
