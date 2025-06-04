@@ -8,7 +8,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Kubespray for both infra and k8s
 - Configuration management in simple git repo
 - k8sapp spec 2.0
+- Only upgrade to minor versions n-1 (1.23 -> 1.31)
+## Procedures
 
-## Tasks
-
-- 
+- For each k8sapp:
+	- 
