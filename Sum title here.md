@@ -1,0 +1,1 @@
+I need to make sure to put in at least a hundred miles a day if i'm gonna finish the bike, not stop
