@@ -22,10 +22,10 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Spin up a new sandbox cluster at targeted version with old/existing core k8sapps
 	- Validate that core k8sapps are working (regression test scripts, benchmarking, etc.)
 	- For each k8sapp:
-	- Check for compatibility with planned k8s version
-	- Check that the k8sapp resource and code is the same as what is currently in cluster
-	- Identify any breaking changes to existing apps that depend on k8sapps
-	- 
+		- Check for compatibility with planned k8s version
+		- Check that the k8sapp resource and code is the same as what is currently in cluster
+		- Identify any breaking changes to existing apps that depend on k8sapps
+		- Address breaking changes and assess need to communicate to customers
 	- Update k8sapp to latest k8sapp specification
 	- If k8sapp from Helm chart:
 		- Create branch/draft pr
