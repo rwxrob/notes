@@ -89,4 +89,6 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 What triggers an upgrade?
 - Regularly reminder
 - Event based or polling
-- Person on-call checking for version upgrades?
+- ~~Person on-call checking for version upgrades?~~ (won't get done)
+- What if we added `check` to the k8sapp v3 spec?
+- What if we
