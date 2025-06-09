@@ -36,6 +36,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Audit customer contact information to ensure up to date (moves, latest emails, etc.)
 	- Invite customers to test apps on new cluster with new core k8sapps
 	- Await completion and validation of all customer testing
+- Update and practice disaster recovery for new cluster and k8sapps
 - Move new cluster and k8sapps into production
 
 ## Related
