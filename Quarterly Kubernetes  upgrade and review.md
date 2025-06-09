@@ -29,7 +29,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 				- Run `build` on latest
 				- Run `git diff` to see changes and assess impact to apps that use it
 				- Identify any potential breaking changes to existing customer apps that depend on k8sapps
-					- If the namespace has the `po
+					- If the namespace has the `prod`
 				- Address breaking changes and assess need to communicate to customers
 	- Update `kubectl`
 	- Update `klogin`
