@@ -15,7 +15,10 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 
 - Research new Kubernetes version
 	- Are there any breaking changes or deprecations?
+		- Documented changes
+		- Undocumented changes (source code diff perhaps)
 - Build target upgraded cluster and all k8sapps in new cluster to allow customer testing
+	- 
 
 - For each k8sapp:
 	- Check for compatibility with planned k8s version
