@@ -89,3 +89,4 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 What triggers an upgrade?
 - Regularly reminder
 - Event based or polling
+- Person on-call checking for version upgrades?
