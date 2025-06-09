@@ -89,3 +89,9 @@ What triggers an upgrade?
 	- Make each check configurable using some "n-n" threshold for reporting
 	- Regular intervals with email notifications and/or web page dashboard
 
+1. Get the current version of kuberetes, capture to var
+2. foreach k8sapp:
+	1. pull down the `check` script from github
+	2. run check script capturing version to var
+3. Output JSON per JSON schema
+
