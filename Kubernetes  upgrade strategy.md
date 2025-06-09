@@ -70,4 +70,4 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 
 1. Immediately security upgrade
 2. Safe to to in-place upgrade
-3. 
+3. Requires migration of all apps (blue/green)
