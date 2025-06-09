@@ -10,19 +10,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - k8sapp spec 2.0 (potentially 3.0)
 - Limit scope of k8sapps to those required and supported by team (Istio, MetalLB, Harbor, Nvidia Device Plugin, etc.)
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
-
-
-
-
-
-
-
 ## Procedures
-
-
-
-
-
 
 - Research new Kubernetes version
 	- Identify the version targeted (n-1)
@@ -84,11 +72,15 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 2. In-place upgrades (no migration needed)
 3. Full cluster upgraded (all apps must be migrated)
 
-
-
 What triggers an upgrade?
 - Regularly reminder
 - Event based or polling
 - ~~Person on-call checking for version upgrades?~~ (won't get done)
-- What if we added `check` to the k8sapp v3 spec?
-- What if we
+- What about a regular polling system that generates a business event that triggers upgrade SOP:
+	- What if we added `check` to the k8sapp v3 spec?
+	- What if we added k8sapp that checks k8s cluster version releases and calls all `system` and `service` k8sapp `check` scripts?
+
+# Idea for start up or open source project
+
+- Create a
+
