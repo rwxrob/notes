@@ -10,7 +10,6 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - k8sapp spec 2.0 (potentially 3.0)
 - Limit scope of k8sapps to those required and supported by team (Istio, MetalLB, Harbor, Nvidia Device Plugin, etc.)
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
-- Blue/green evaluated and proved too expensive given number of high-cost GPUs involved
 ## Procedures
 
 - Research new Kubernetes version
@@ -52,3 +51,12 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - What if we scheduled time blocks for customers to test with limited H100 capacity in sandbox?
 - Could we get through all customers testing within a safe time frame to maintain quarterly upgrades?
 - Can we stagger k8sapp upgrades every two quarters (or whatever)?
+
+## Conclusions and recommendations
+
+- Recommend blue/green on whatever cycle we can hit
+	- Most like what we just did
+	- Tooling for migration applies
+	- Requires H100s in both clusters but not "sandbox" so easier to justify
+	- Allows customers to migrate at their leisure within a specific time frame
+	- Eliminates need to migrate from sandbox to "production" since sandbox *is* production
