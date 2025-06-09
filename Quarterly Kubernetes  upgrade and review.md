@@ -30,12 +30,13 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 				- Run `git diff` to see changes and assess impact to apps that use it
 				- Identify any potential breaking changes to existing customer apps that depend on k8sapps
 				- Address breaking changes and assess need to communicate to customers
+	- Update `kubectl`
+	- Update `klogin`
 - Allow customers to test their apps
 	- Audit customer contact information to ensure up to date (moves, latest emails, etc.)
 	- Invite customers to test apps on new cluster with new core k8sapps
 	- Await completion and validation of all customer testing
-- Convert sandbox
-- Update `kubectl` and `klogin1
+- Move new cluster and k8sapps into production
 ## Related
 
 - https://akuity.io/blog/the-rendered-manifests-pattern
