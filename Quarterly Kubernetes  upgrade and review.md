@@ -20,22 +20,22 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Build new cluster and k8sapps versions and test for breakages
 	- Spin up a new sandbox cluster at targeted version with existing core k8sapps (kubespray)
 	- Validate that core k8sapps are working (regression test scripts, benchmarking, etc.)
-	- For each k8sapp:
+	- For each core k8sapp:
 		- Check for compatibility with planned k8s version
 		- Check that the k8sapp resource and code is the same as what is currently in cluster
-		- Identify any breaking changes to existing apps that depend on k8sapps
-		- Address breaking changes and assess need to communicate to customers
-	- Update k8sapp to latest k8sapp specification
-	- If k8sapp from Helm chart:
-		- Create branch/draft pr
-		- Run `build` on latest
-		- Run `git diff` to see changes and assess impact to apps that use it
+			- Update k8sapp to latest k8sapp specification
+			- If k8sapp from Helm chart:
+				- Create branch/draft pr
+				- Run `build` on latest
+				- Run `git diff` to see changes and assess impact to apps that use it
+				- Identify any potential breaking changes to existing customer apps that depend on k8sapps
+				- Address breaking changes and assess need to communicate to customers
 - Allow customers to test their apps
 	- Audit customer contact information to ensure up to date (moves, latest emails, etc.)
 	- Invite customers to test apps on new cluster with new core k8sapps
 	- Await completion and validation of all customer testing
 - Convert sandbox
-- Make sure `kubectl` and `klogin` are in sync with version
+- Update `kubectl` and `klogin1
 ## Related
 
 - https://akuity.io/blog/the-rendered-manifests-pattern
