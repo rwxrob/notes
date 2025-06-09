@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes  upgrade strategy.md",
+                "file": "Kubernetes/Kubernetes  upgrade strategy.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,16 +172,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "47e39741d35d73d4",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "Kubernetes",
+    "Kubernetes/Kubernetes  upgrade strategy.md",
+    "Untitled.md",
     "Quarterly",
     "Logs/2025-06-01.md",
     "Logs/2025-06-02.md",
-    "Kubernetes  upgrade strategy.md",
     "Logs/2025-06-08.md",
     "Logs/2025-06-07.md",
     "Sum title here.md",
-    "Untitled.md",
     "Fitness/2025 annual plan.md",
     "Fitness/Best BNSUS tires.md",
     "Fitness/People who inspire me.md",
@@ -200,7 +201,6 @@
     "Fitness/Long term cycling goals.md",
     "Fitness/High performance road bikepacking gear.md",
     "Fitness/Gravel over road shoes.md",
-    "Untitled",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
@@ -211,7 +211,6 @@
     "Philosophy",
     "Food",
     "Knowledge management",
-    "Fitness",
     "Cycling/dtswiss-arc-1100.jpg",
     "Knowledge management/Search titles with GitHub.png",
     "qr-code.png",
