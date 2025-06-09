@@ -39,11 +39,11 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ## Related
 
 - https://akuity.io/blog/the-rendered-manifests-pattern
-- 
-
 
 ## Questions for discussion
 
+- Are we going to entertain an in-place upgrade?
+- Do we even want our customers to test their apps *before* deploying latest cluster and core k8sapps?
 - Can we even spend the money on an even a single H100 in sandbox just long-term testing?
 - Can we even have customers truly test their apps if they require H100 to even try?
 - What if we scheduled time blocks for customers to test with limited H100 capacity in sandbox?
