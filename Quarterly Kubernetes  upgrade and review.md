@@ -16,6 +16,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Are there any breaking changes or deprecations?
 		- Documented changes
 		- Undocumented changes (source code diff perhaps)
+	- Can this be done as in-place upgrade?
 - Build new cluster and k8sapps versions and test for breakages
 	- Spin up a new sandbox cluster at targeted version with existing core k8sapps (kubespray)
 	- Validate that core k8sapps are working (regression test scripts, benchmarking, etc.)
@@ -28,6 +29,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 				- Run `build` on latest
 				- Run `git diff` to see changes and assess impact to apps that use it
 				- Identify any potential breaking changes to existing customer apps that depend on k8sapps
+					- If the namespace has the `po
 				- Address breaking changes and assess need to communicate to customers
 	- Update `kubectl`
 	- Update `klogin`
