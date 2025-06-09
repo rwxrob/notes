@@ -40,3 +40,11 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 
 - https://akuity.io/blog/the-rendered-manifests-pattern
 - 
+
+
+## Questions for discussion
+
+- Can we even spend the money on an even a single H100 in sandbox just long-term testing?
+- Can we even have customers truly test their apps if they require H100 to even try?
+- What if we scheduled time blocks for customers to test with limited H100 capacity in sandbox?
+- Could we get through all customers testing within a safe time frame to maintain quarterly upgrades?
