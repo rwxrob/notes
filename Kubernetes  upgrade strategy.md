@@ -63,9 +63,9 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Requires H100s in both clusters but not "sandbox" so easier to justify
 	- Allows customers to migrate at their leisure within a specific time frame
 	- Eliminates need to migrate from sandbox to "production" since sandbox *is* production
-- Consider tagging `system` (Istio, MetaLB, nvidia device plugin, node feature discover, etc.) and `system-service`
-
-
+- Consider labeling additions, changes:
+	- `system` - Istio, MetaLB, nvidia device plugin, node feature discover, etc.
+	- `system`, `service` - Harbor, ArgoCD, Auth, MkDocs, etc.
 ## Notes
 
 1. Immediately security upgrade
