@@ -10,7 +10,19 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - k8sapp spec 2.0 (potentially 3.0)
 - Limit scope of k8sapps to those required and supported by team (Istio, MetalLB, Harbor, Nvidia Device Plugin, etc.)
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
+
+
+
+
+
+
+
 ## Procedures
+
+
+
+
+
 
 - Research new Kubernetes version
 	- Identify the version targeted (n-1)
@@ -69,5 +81,11 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ## Notes
 
 1. Immediately security upgrade
-2. Safe to to in-place upgrade
-3. Requires migration of all apps (blue/green)
+2. In-place upgrades (no migration needed)
+3. Full cluster upgraded (all apps must be migrated)
+
+
+
+What triggers an upgrade?
+- Regularly reminder
+- Event based or polling
