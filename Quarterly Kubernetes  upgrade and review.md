@@ -37,6 +37,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Invite customers to test apps on new cluster with new core k8sapps
 	- Await completion and validation of all customer testing
 - Move new cluster and k8sapps into production
+
 ## Related
 
 - https://akuity.io/blog/the-rendered-manifests-pattern
