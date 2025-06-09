@@ -82,5 +82,10 @@ What triggers an upgrade?
 
 # Idea for start up or open source project
 
-- Create a
+- Create an application that can run as a standalone server, container, or k8sapp that simply checks the following and reports or calls a web-hook:
+	- Check the current standard Kubernetes version
+	- Check the current version of any k8sapp
+	- Check other versions using any customizable check script
+	- Make each check configurable using some "n-n" threshold for reporting
+	- Regular intervals with email notifications and/or web page dashboard
 
