@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarterly Kubernetes  upgrade and review.md",
+                "file": "Kubernetes  upgrade strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarterly Kubernetes  upgrade and review"
+              "title": "Kubernetes  upgrade strategy"
             }
           }
         ]
@@ -177,7 +177,7 @@
     "Quarterly",
     "Logs/2025-06-01.md",
     "Logs/2025-06-02.md",
-    "Quarterly Kubernetes  upgrade and review.md",
+    "Kubernetes  upgrade strategy.md",
     "Logs/2025-06-08.md",
     "Logs/2025-06-07.md",
     "Sum title here.md",

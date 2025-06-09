@@ -13,6 +13,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ## Procedures
 
 - Research new Kubernetes version
+	- Identify the version targeted (n-1)
+	- Are there immediate security concerns or requirements?
 	- Are there any breaking changes or deprecations?
 		- Documented changes
 		- Undocumented changes (source code diff perhaps)
@@ -61,3 +63,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Requires H100s in both clusters but not "sandbox" so easier to justify
 	- Allows customers to migrate at their leisure within a specific time frame
 	- Eliminates need to migrate from sandbox to "production" since sandbox *is* production
+
+## Notes
+
+1. Immediately security upgrade
+2. Safe to to in-place 
