@@ -13,6 +13,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Blue/green evaluated and proved too expensive given number of high-cost GPUs involved
 ## Procedures
 
+- Audit customer contact information for version upgrade communications
 - Research new Kubernetes version
 	- Are there any breaking changes or deprecations?
 		- Documented changes
@@ -20,12 +21,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Build new version and test for breakages
 	- Spin up a new sandbox cluster at targeted version with old/existing core k8sapps
 	- Validate that core k8sapps are working (regression test scripts, benchmarking, etc.)
-	- Inform customers of new version version and testable sandbox cluster
-	- Wait for customer
-	- target upgraded cluster and all k8sapps in new cluster to allow customer testing
-	- 
-
-- For each k8sapp:
+	- For each k8sapp:
 	- Check for compatibility with planned k8s version
 	- Check that the k8sapp resource and code is the same as what is currently in cluster
 	- Identify any breaking changes to existing apps that depend on k8sapps
@@ -35,6 +31,11 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 		- Create branch/draft pr
 		- Run `build` on latest
 		- Run `git diff` to see changes and assess impact to apps that use it
+	
+	- nform customers of new version version and testable sandbox cluster
+	- Await completion and validation of all customer testing
+
+- 
 
 ## Related
 
