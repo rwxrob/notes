@@ -17,7 +17,12 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Are there any breaking changes or deprecations?
 		- Documented changes
 		- Undocumented changes (source code diff perhaps)
-- Build target upgraded cluster and all k8sapps in new cluster to allow customer testing
+- Build new version and test for breakages
+	- Spin up a new sandbox cluster at targeted version with old/existing core k8sapps
+	- Validate that core k8sapps are working (regression test scripts, benchmarking, etc.)
+	- Inform customers of new version version and testable sandbox cluster
+	- Wait for customer
+	- target upgraded cluster and all k8sapps in new cluster to allow customer testing
 	- 
 
 - For each k8sapp:
