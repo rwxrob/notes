@@ -13,7 +13,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - Blue/green evaluated and proved too expensive given number of high-cost GPUs involved
 ## Procedures
 
-- Audit customer contact information for version upgrade communications
+
 - Research new Kubernetes version
 	- Are there any breaking changes or deprecations?
 		- Documented changes
@@ -25,18 +25,17 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 	- Check for compatibility with planned k8s version
 	- Check that the k8sapp resource and code is the same as what is currently in cluster
 	- Identify any breaking changes to existing apps that depend on k8sapps
-	- Communicate all changes to customers *before* upgrade
+	- 
 	- Update k8sapp to latest k8sapp specification
 	- If k8sapp from Helm chart:
 		- Create branch/draft pr
 		- Run `build` on latest
 		- Run `git diff` to see changes and assess impact to apps that use it
-	
-	- nform customers of new version version and testable sandbox cluster
+- Allow customers to test their apps
+	- Audit customer contact information to ensure up to date (moves, latest emails, etc.)
+	- Invide customers to test apps on new cluster with new core k8sapps
 	- Await completion and validation of all customer testing
-
-- 
-
+- Convert sandbox
 ## Related
 
 - https://akuity.io/blog/the-rendered-manifests-pattern
