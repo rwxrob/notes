@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes  upgrade strategy.md",
+                "file": "Logs/2025-06-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes  upgrade strategy"
+              "title": "2025-06-10"
             }
           }
         ]
@@ -172,10 +172,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "47e39741d35d73d4",
   "lastOpenFiles": [
-    "Kubernetes",
     "Kubernetes/Kubernetes  upgrade strategy.md",
+    "Logs/2025-06-10.md",
+    "Kubernetes",
     "Untitled.md",
     "Quarterly",
     "Logs/2025-06-01.md",
