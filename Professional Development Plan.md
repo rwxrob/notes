@@ -1,5 +1,5 @@
 
-- [ ] Setup networking 
+- [ ] Setup networking in front room with physically separated networks
 - [ ] Move server tower and network connection to front room
 - [ ] Update Proxmox on server tower
 - [ ] Automate setting up and tearing down VMs simulating work nodes (including one passthrough GPU node)
