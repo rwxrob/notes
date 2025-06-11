@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-06-10.md",
+                "file": "Fitness/160mm crank arms + 52x36 chainrings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-10"
+              "title": "160mm crank arms + 52x36 chainrings"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recip",
+                "query": "52",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,8 +175,10 @@
   },
   "active": "47e39741d35d73d4",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes  upgrade strategy.md",
+    "Logs/2025-04-26.md",
+    "Logs/2025-04-19.md",
     "Logs/2025-06-10.md",
+    "Kubernetes/Kubernetes  upgrade strategy.md",
     "Kubernetes",
     "Untitled.md",
     "Quarterly",
@@ -200,8 +203,6 @@
     "Logs/2025-05-29.md",
     "Logs/2025-05-28.md",
     "Fitness/Long term cycling goals.md",
-    "Fitness/High performance road bikepacking gear.md",
-    "Fitness/Gravel over road shoes.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
