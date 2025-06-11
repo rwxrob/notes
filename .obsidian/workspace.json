@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "630e7005a55b8872",
+        "id": "e75742a6508bde81",
         "type": "tabs",
         "children": [
           {
-            "id": "6688ebde84c190fa",
+            "id": "fec753fa53a28a90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-06-11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-06-11"
+              "title": "New tab"
             }
           }
         ]
@@ -172,13 +168,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6688ebde84c190fa",
+  "active": "fec753fa53a28a90",
   "lastOpenFiles": [
+    "Logs/2025-06-01.md",
+    "Logs/2025-05-31.md",
+    "Logs/2025-06-02.md",
     "Logs/2025-06-07.md",
+    "Logs/2025-06-11.md",
     "TODO.md",
     "Logs/2025-06-08.md",
     "Logs/2025-06-10.md",
-    "Logs/2025-06-11.md",
     "Professional Development Plan.md",
     "Fitness/160mm crank arms + 52x36 chainrings.md",
     "Logs/2025-04-26.md",
@@ -186,13 +185,10 @@
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "Kubernetes",
     "Quarterly",
-    "Logs/2025-06-01.md",
-    "Logs/2025-06-02.md",
     "Sum title here.md",
     "Fitness/2025 annual plan.md",
     "Fitness/Best BNSUS tires.md",
     "Fitness/People who inspire me.md",
-    "Logs/2025-05-31.md",
     "Logs/2025-05-30.md",
     "Knowledge management/Why I don't follow most of Zettelkasten approach.md",
     "Knowledge management/Keep Obsidian compatible with GitHub.md",
