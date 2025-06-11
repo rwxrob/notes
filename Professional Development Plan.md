@@ -1,5 +1,7 @@
 
-- [ ] Get my Proxmox server tower back up
+- [ ] Setup networking 
+- [ ] Move server tower and network connection to front room
+- [ ] Update Proxmox on server tower
 - [ ] Automate setting up and tearing down VMs simulating work nodes (including one passthrough GPU node)
 - [ ] Consider getting an A10 and adding to server tower as another passthrough GPU VM node
 - [ ] Attempt to get existing Jetson Nanos to appear as GPU-enabled edge nodes in cluster
