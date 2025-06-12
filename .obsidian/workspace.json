@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional Development Plan.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Professional Development Plan"
+              "title": "TODO"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "active": "fec753fa53a28a90",
   "lastOpenFiles": [
+    "Professional Development Plan.md",
     "Logs/2025-06-01.md",
     "Logs/2025-05-31.md",
     "Logs/2025-06-02.md",
@@ -182,7 +183,6 @@
     "TODO.md",
     "Logs/2025-06-08.md",
     "Logs/2025-06-10.md",
-    "Professional Development Plan.md",
     "Fitness/160mm crank arms + 52x36 chainrings.md",
     "Logs/2025-04-26.md",
     "Logs/2025-04-19.md",

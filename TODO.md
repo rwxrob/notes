@@ -1,14 +1,15 @@
 
+- [ ] 
 - [ ] Attach the magnet charging phone mount
-- [ ] Activate electricity account for apartment
-- [ ] Activate Internet for apartment
+- [x] Activate electricity account for apartment
+- [x] Activate Internet for apartment
 - [ ] Contact remain bill accounts for insurance reimbursement
 - [ ] Find IRL rig rain gear
 - [ ] Batch of laundry
-- [ ] Dishes
-- [ ] Order inflation attachment (Park?)
+- [x] Dishes
+- [x] Order inflation attachment (Park?)
 - [ ] Clean the patio?
-- [ ] Order rear through axle that won't conflict with Tailfin
+- [x] Order rear through axle that won't conflict with Tailfin
 - [ ] Order a light mount
 ## DONE
 
