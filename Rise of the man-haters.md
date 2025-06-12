@@ -10,4 +10,4 @@ Is this an accomplishment? Hell yeah! It should be celebrated for what it is but
 
 I fucking tired of seeing this. This tribalism among women against men. I understand where it comes from but it isn't helping. In fact, it just makes it worse because I have never felt a stronger kinship with fellow men than right now. This sort of gender slamming just pushes us apart like any other tribal conflict. This is how men get radicalized and start *wrongly* thinking someone like Andrew Tate is someone to listen to. It's bad for everyone.
 
-And for the love of 
+And for the love of Susan B. Anthony stop saying "feminism is for men as well." It's not. Gender equality is. People who say shit like that are usually the first ones to create narratives that demonize all men for the rampant and horrible sins of the men who came before us. I'm not them. I'm just not.
