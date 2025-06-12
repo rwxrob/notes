@@ -1,5 +1,8 @@
 
-- [ ] 
+- [ ] Organize the bedroom
+- [ ] Organize the yoga room
+- [ ] Check the outlet in the front room
+- [ ] Clean out the fridge
 - [ ] Attach the magnet charging phone mount
 - [x] Activate electricity account for apartment
 - [x] Activate Internet for apartment
