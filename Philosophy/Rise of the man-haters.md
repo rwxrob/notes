@@ -16,7 +16,7 @@ Is this an accomplishment? Hell yeah! It should be celebrated for what it is but
 
 I am not saying this just because, as someone might say, "she is showing up the men and you are just pissed off."  I openly admit she is, in this race. Hell, if I cared about that I would have added a comment that she is now in fourth place behind two other men, who are 1/3 and half her age. Hell, we don't even know if *any* of them are actual men. There was no genital inspection in this event. 
 
-The point is *it is not about the gender of the person, it's about the accomplishment!* Not only do you not have to bash an entire populations of other humans to celebrate those accomplishments but you remove the distraction from the accomplishment itself.
+The point is *it is not about the gender of the person, it's about the accomplishment!* Not only do you not have to bash an entire population of other humans to celebrate those accomplishments but you remove the distraction from the accomplishment itself.
 
 Honestly, I am just so fucking tired of seeing this tribalism among women against men. I understand where it comes from but it isn't helping. In fact, it just makes it worse because I have never felt a stronger kinship with fellow men than right now. I understand why some men become radicalized. This sort of gender slamming just pushes us apart like any other tribal conflict. This is how some men start *wrongly* thinking someone like Andrew Tate is someone to listen to. It's bad for everyone.
 
