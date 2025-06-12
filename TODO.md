@@ -8,7 +8,8 @@
 - [x] Activate Internet for apartment
 - [ ] Contact remain bill accounts for insurance reimbursement
 	- [ ] Anasthesiologist
-	- [ ] Nose photo
+	- [ ] Nose photos
+	- [ ] 
 - [ ] Find IRL rig rain gear
 - [ ] Batch of laundry
 - [x] Dishes
