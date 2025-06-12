@@ -1,4 +1,4 @@
-I have been a solidly respectful and decent man my whole life. Are there things in my world and psyche that I'm not even aware of? Certainly. But I have *never* been guilty of the egregious misogeny that is waved around like pictures of mutilated infants at a "pro-life" rally. Are there absolutely fucking assholes out there who are men? *Absolutely!* Am I one of them? *No.* So stop lumping me in with all of them just because you disagree with me or don't want to hear what I am feeling, or worse, don't care about my honest feelings that make you uncomfortable. Stop using misogeny as a shield for not treating me like another human who deserves basic respect.
+I have been a solidly respectful and decent man my whole life. Are there things in my world and psyche that I'm not even aware of? Certainly. But I have *never* been guilty of the egregious misogeny that is waved around like pictures of mutilated babies at a "pro-life" rally. Are there absolutely fucking assholes out there who are men? *Absolutely!* Am I one of them? *No.* So stop lumping me in with all of them just because you disagree with me or don't want to hear what I am feeling, or worse, don't care about my honest feelings that make you uncomfortable. Stop using misogeny as a shield for not treating me like another human who deserves basic respect.
 
 Let me give you one example from an actual post:
 
@@ -9,6 +9,8 @@ Let me give you one example from an actual post:
 >She is hoping to win this year and show once again that women from ... are some of the toughest out there. What she is doing is nothing short of amazing and we are right here behind her every kilometre of the way.
 
 The photo of them has the woman posting it in a bikini putting her arm around the other tired, ripped, racer.
+
+The poster didn't bother to describe the event as being a "choose your own adventure" where you can take routes that cater to your preferences, or gear. Or that the person has 30m tires that require riding on *flat* roads compared to the other "males" who took the standard gravel route that is slower and harder with more hills and larger tires. No, the poster wanted to make a big deal—based on completely inaccurate con
 
 Is this an accomplishment? Hell yeah! It should be celebrated for what it is but why does it have to be about beating "the men" and why can't it just be about the accomplishment itself. This whole obsession with gender is tired, inaccurate, and—worst of all—bigoted and exclusionary. What about trans women, for example?
 
