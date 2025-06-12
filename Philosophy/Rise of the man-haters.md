@@ -10,7 +10,7 @@ Let me give you one example from an actual post:
 
 The photo of them has the woman posting it in a bikini putting her arm around the other tired, ripped, racer.
 
-The poster didn't bother to describe the event as being a "choose your own adventure" where you can take routes that cater to your preferences, or gear. Or that the person has 30m tires that require riding on *flat* roads compared to the other "males" who took the standard gravel route that is slower and harder with more hills and larger tires. No, the poster wanted to make a big deal—based on completely inaccurate con
+The poster didn't bother to describe the event as being a "choose your own adventure" where you can take routes that cater to your preferences, or gear. Or that the person has 30m tires that require riding on *flat* roads compared to the other "males" who took the standard gravel route that is slower and harder with more hills and larger tires. No, the poster wanted to make a big deal—based on completely inaccurate conclusions—that this "woman" was better than these "males."
 
 Is this an accomplishment? Hell yeah! It should be celebrated for what it is but why does it have to be about beating "the men" and why can't it just be about the accomplishment itself. This whole obsession with gender is tired, inaccurate, and—worst of all—bigoted and exclusionary. What about trans women, for example?
 
