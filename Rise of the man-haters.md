@@ -10,10 +10,12 @@ Let me give you one example from an actual post:
 
 The photo of them has the woman posting it in a bikini putting her arm around the other tired, ripped, racer.
 
-Is this an accomplishment? Hell yeah! It should be celebrated for what it is but why does it have to be about beating "the men" and why can't it just be about the accomplishment itself. This whole obsession with gender is tired, inaccurate, and
+Is this an accomplishment? Hell yeah! It should be celebrated for what it is but why does it have to be about beating "the men" and why can't it just be about the accomplishment itself. This whole obsession with gender is tired, inaccurate, and—worst of all—bigoted and exclusionary. What about trans women, for example?
 
-I am not saying this just because, as someone might say, "she is showing up the men" and I openly admit she is, in this race. Hell, if I cared about that I would have added a comment that she is now in fourth place behind two other men, who are 1/3 and half her age. The point is *it is not about the gender of the person, it's about the accomplishment!* 
+I am not saying this just because, as someone might say, "she is showing up the men and you are just pissed off."  I openly admit she is, in this race. Hell, if I cared about that I would have added a comment that she is now in fourth place behind two other men, who are 1/3 and half her age. Hell, we don't even know if *any* of them are actual men. There was no genital inspection in this event. 
 
-I fucking tired of seeing this. This tribalism among women against men. I understand where it comes from but it isn't helping. In fact, it just makes it worse because I have never felt a stronger kinship with fellow men than right now. This sort of gender slamming just pushes us apart like any other tribal conflict. This is how men get radicalized and start *wrongly* thinking someone like Andrew Tate is someone to listen to. It's bad for everyone.
+The point is *it is not about the gender of the person, it's about the accomplishment!* 
 
-And for the love of Susan B. Anthony stop saying "feminism is for men as well." It's not. Gender equality is. People who say shit like that are usually the first ones to create narratives that demonize all men for the rampant and horrible sins of the men who came before us. I'm not them. I'm just not.
+I fucking tired of seeing this tribalism among women against men. I understand where it comes from but it isn't helping. In fact, it just makes it worse because I have never felt a stronger kinship with fellow men than right now. This sort of gender slamming just pushes us apart like any other tribal conflict. This is how men get radicalized and start *wrongly* thinking someone like Andrew Tate is someone to listen to. It's bad for everyone.
+
+And for the love of Susan B. Anthony stop saying "feminism is for men as well." It's not. Gender equality is. People who say shit like that are usually the first ones to create narratives that demonize all men for the rampant and horrible sins of the men who came before us. I'm not them. I'm just not. Stop grouping me with them to make yourself feel more comfortable abusing me with your rhetoric.
