@@ -1,0 +1,1 @@
+I have been a solidly respectful and decent man my whole life. Are there things in my world and psyche that I'm not even aware of? Certainly. But I have *never* been guilty of the egregious misogeny that is waved around like pictures of mutilated infants a 
