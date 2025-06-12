@@ -20,4 +20,4 @@ Honestly, I am just so fucking tired of seeing this tribalism among women agains
 
 And for the love of Susan B. Anthony stop saying "feminism is for men." It's not. Gender equality is. People who say shit like that are usually the first ones to create narratives that demonize all men for the rampant and horrible sins of the men who came before us. I'm not them. I'm just not. Stop grouping me with them to make yourself feel more comfortable abusing me with your rhetoric.
 
-Most women reading this will immediately dismiss my message with, "well he just doesn't understand how hard it has been for woman in a man's world" and they would be right. But bashing and comparing accomplishments is absolutely not the way to address that problem.
+Most women reading this will immediately dismiss my message with, "well he just doesn't understand how hard it has been for woman in a man's world" and they would be right. But bashing and comparing accomplishments is absolutely not the way to address that problem. So many women now have the freedom to fulfill their own hopes and dreams, like 
