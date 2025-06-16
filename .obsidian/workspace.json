@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Rise of the man-haters.md",
+                "file": "Logs/2025-06-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rise of the man-haters"
+              "title": "2025-06-16"
             }
           }
         ],
@@ -187,9 +187,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "1b6c69380d660351",
   "lastOpenFiles": [
     "TODO.md",
+    "Logs/2025-06-16.md",
+    "Rag and tagging.md",
     "Philosophy/Rise of the man-haters.md",
     "Professional Development Plan.md",
     "Logs/2025-06-01.md",
@@ -215,8 +217,6 @@
     "Fitness/Performance gel recipe.md",
     "Fitness/Performance gel is high-octane fuel.md",
     "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
-    "Fitness/GFNats training strategy.md",
-    "Fitness/My kind of bike rider.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
