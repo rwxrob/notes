@@ -1,4 +1,9 @@
 This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security.
+## Terms
+
+- k8sapp - Kubernetes application encapsulated into git repo with version
+- component - some part of Kubernetes that is not a k8sapp
+- cluster - vanilla Kubernetes cluster with its core k8sapps
 
 ## Handle Kubernetes upgrades
 
