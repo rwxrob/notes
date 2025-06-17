@@ -6,24 +6,21 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 4. Update to current versions
 
 
-## 
+## Compile and/or update list of all components with version
 
-
-## Auditing to know our current version status
+TODO
+## Check version of all components to identify which have changed
 
 1. Check the overall Kubernetes version
 2. Check the versions of all core Kubernetes components
 3. Check all k8apps for new version
+## Evaluate impact of each new component version
 
+TODO
 
+## Update to current versions
 
-## Upgrading to current versions
-
-
-
-
-
-
+TODO
 ## Terms
 
 - k8sapp - Kubernetes application encapsulated into git repo with version
