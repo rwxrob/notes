@@ -29,7 +29,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ```mermaid
 graph TD
     A{Is there a new version of Kubernetes?}
-    A -- No --> Upgrade cluster
+    A -- Yes --> B[Upgrade Kubernetes cluster]
+    A -- No --> C[Check]
 ```
 ## Can it wait until quarterly or later?
 
