@@ -1,18 +1,16 @@
 This document outlines an upgrade strategy to address new versions of Kubernetes, its core dependencies, and any k8sapps that are maintained. This strategy consists of the following high-level procedures:
 
-1. Update list of everything with a version
-2. For each thing with a version:
-	1. Check to see if it has a new version for each
-3. Evaluate impact of each new version
-4. Update everything with relevant change to targeted version (immediately or quarterly)
+1. Update list of everything with a version and check for new versions (can be automated)
+2. Evaluate impact of each new version (must be done "by hand")
+3. Update everything with relevant change to targeted version (immediately or quarterly)
 
-Step one should be done regularly in order to detect urgent changes soon after they happen rather that be exposed to security vulnerabilities.
+Step one should be done regularly in order to detect urgent changes soon after they happen.
 
-Step two happens after the list has been compiled, not during the compilation of the list or any individual version check. This ensures the entire list is created and checked in a timely manner. Evaluation and upgrades can then happen based on the urgency to get the new version installed and the scope of the thing that needs an upgraded version.
+Step two happens *after everything* with a version has been checked for a new version. This ensures the entire list is created and checked in a timely manner. Evaluation and upgrades can then happen based on the urgency to get the new version installed and the scope of the thing that needs an upgraded version.
 
-Step three takes place during one of two time windows:
+Step three takes place during one of two following time windows:
 
-1. Immediately to address urgency of upgrade
+1. Immediately after version update detection
 2. Quarterly upgrade window
 ## Compile and/or update list of everything with a version
 
