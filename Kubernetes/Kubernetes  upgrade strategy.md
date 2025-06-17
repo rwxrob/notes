@@ -20,15 +20,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 
 ```mermaid
 graph TD
-
-    A[Start] --> B{Is it working?}
-
-    B -- Yes --> C[Ship it]
-
-    B -- No --> D[Fix it]
-
-    D --> B
-
+    A[Start]
 ```
 
 ## Can it wait until quarterly or later?
