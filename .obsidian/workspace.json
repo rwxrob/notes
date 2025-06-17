@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-06-16.md",
+                "file": "Kubernetes/Kubernetes  upgrade strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-16"
+              "title": "Kubernetes  upgrade strategy"
             }
           }
         ],
@@ -189,8 +189,9 @@
   },
   "active": "1b6c69380d660351",
   "lastOpenFiles": [
-    "TODO.md",
+    "Kubernetes/Kubernetes",
     "Logs/2025-06-16.md",
+    "TODO.md",
     "Rag and tagging.md",
     "Philosophy/Rise of the man-haters.md",
     "Professional Development Plan.md",
@@ -216,7 +217,6 @@
     "Knowledge management/Keep Obsidian compatible with GitHub.md",
     "Fitness/Performance gel recipe.md",
     "Fitness/Performance gel is high-octane fuel.md",
-    "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
