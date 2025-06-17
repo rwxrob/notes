@@ -22,6 +22,8 @@ Step two happens *after everything* with a version has been checked for a new ve
 - Is it n-1 or older?
 - Can it wait until quarterly upgrade window?
 - Do customers have to validate the change is compatible with their app?
+- What about customers having a liveness probe?
+- Automatic sandbox duplicates from prod per namespace with liveness prob?
 ## 3. Upgrade everything with relevant change to targeted version
 
 Step three takes place during one of two following time windows:
