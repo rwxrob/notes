@@ -17,6 +17,20 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
                 - End
 
 
+
+```mermaid
+graph TD
+
+    A[Start] --> B{Is it working?}
+
+    B -- Yes --> C[Ship it]
+
+    B -- No --> D[Fix it]
+
+    D --> B
+
+```
+
 ## Can it wait until quarterly or later?
 
 If the answer is yes to the following then the upgrade can wait:
