@@ -1,6 +1,6 @@
 This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy consists of the following high-level practices:
 
-1. Compile and/or update list of everything with a version
+1. Compile and/or update list of everything with a version and chea
 2. Check everything with a version and create list of things that changed
 3. Evaluate impact of each new version
 4. Update everything with relevant change to targeted version
@@ -12,7 +12,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 - How can we iterate through each thing and check its version?
 ## Check everything with a version and create list of things that changed
 
-- Highly dependent o
+- Highly dependent on type for specific method of version check
 ## Evaluate impact of each new version
 
 - Does is pass a CIS scan?
