@@ -1,7 +1,12 @@
-This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy can be summarized into to main parts:
+This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy consists of two high-level practices:
 
-1. Know our current version status
-2. Upgrade to current versions
+1. Auditing to know our current version status
+2. Upgrading to current versions
+
+This division 
+## Auditing to know our current version status
+
+## Upgrading to current versions
 
 
 
