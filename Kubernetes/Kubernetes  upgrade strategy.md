@@ -16,6 +16,24 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
                     - Upgrade Kubernetes
                 - End
 
+
+## Can it wait until quarterly or later?
+
+If the answer is yes to the following then the upgrade can wait:
+
+- Does the upgrade patch a critical security flaw?
+- Is the new version > n-1?
+
+
+- Is it newer than 
+	- Identify the version targeted (n-1)
+	- Are there immediate security concerns or requirements?
+	- Are there any breaking changes or deprecations?
+		- Documented changes
+		- Undocumented changes (source code diff perhaps)
+	- Can this be done as in-place upgrade?
+
+
 ## Upgrade k8sapp
 
 TODO
@@ -23,6 +41,10 @@ TODO
 ## Upgrade kubernetes
 
 TODO
+
+## Work items
+
+- Specify the `check` script or alternative
 
 ----
 
@@ -38,13 +60,6 @@ TODO
 - Only upgrade to minor versions n-1 (1.23 -> 1.31)
 ## Procedures
 
-- Research new Kubernetes version
-	- Identify the version targeted (n-1)
-	- Are there immediate security concerns or requirements?
-	- Are there any breaking changes or deprecations?
-		- Documented changes
-		- Undocumented changes (source code diff perhaps)
-	- Can this be done as in-place upgrade?
 - Build new cluster and k8sapps versions and test for breakages
 	- Spin up a new sandbox cluster at targeted version with existing core k8sapps (kubespray)
 	- Validate that core k8sapps are working (regression test scripts, benchmarking, etc.)
