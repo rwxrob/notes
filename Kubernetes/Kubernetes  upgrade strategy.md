@@ -4,8 +4,6 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 2. Check version of all components to identify which have changed
 3. Evaluate impact of each new component version
 4. Update to current versions
-
-
 ## Compile and/or update list of all components with version
 
 TODO
@@ -17,7 +15,6 @@ TODO
 ## Evaluate impact of each new component version
 
 TODO
-
 ## Update to current versions
 
 TODO
