@@ -1,9 +1,28 @@
-This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security.
+This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy can be summarized into to main parts:
+
+1. Know our current version status
+2. Upgrade to current versions
+
+
+
+
+
+
 ## Terms
 
 - k8sapp - Kubernetes application encapsulated into git repo with version
 - component - some part of Kubernetes that is not a k8sapp
 - cluster - vanilla Kubernetes cluster with its core k8sapps
+
+## Key takeaways
+
+- Weekly Kubernetes CronJob generating version status report
+	- Kubernetes version
+	- Kubectl version
+	- All core k8sapps
+	
+
+
 
 ## Handle Kubernetes upgrades
 
