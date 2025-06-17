@@ -7,10 +7,10 @@ This document outlines an upgrade strategy to address new versions of Kubernetes
 
 Step one should be done regularly in order to detect urgent changes soon after they happen.
 
-- Can it be automated?
-- What things is HPC ML responsible to keep up to date?
 - What are the types of things that have a version?
 - Can the list be automatically generated?
+- Can it be automated and do we want to?
+- What things is HPC ML responsible to keep up to date?
 - How can we iterate through each thing and check its version?
 ## 2. Evaluate impact of each new version 
 
@@ -33,8 +33,7 @@ Step three takes place during one of two following time windows:
 
 This timing is dependent on the urgency of the version upgrade as determined during step two after throughly evaluating the changes in the new version.
 
-- Depends heavily on the type of thing being updated
-- Immediately or quarterly?
+This step depends heavily on the type of thing being upgraded. Critical interdependencies must be tracked and accounted for.
 
 ----
 ## Terms
@@ -50,9 +49,6 @@ This timing is dependent on the urgency of the version upgrade as determined dur
 	- Kubectl version
 	- All core k8sapps
 	
-
-
-
 ## Handle Kubernetes upgrades
 
 - Is there a new version of Kubernetes?
