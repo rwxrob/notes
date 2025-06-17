@@ -1,17 +1,28 @@
 This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security.
 
-- For each Kubernetes component and k8sapp:
-    - Learn there is a new version available
+## Handle kubneretes and k8sapp upgrades
+
+- For each Kubernetes component and core k8sapp:
+    - Check if there is a new version available
     - Assess urgency of upgrading to new version
         - Can it wait until quarterly upgrade or later?
             - If yes:
                 - Add to list of planner quarterly upgrades
                 - End
             - Else:
-                - Create story and assign
+                - Create story with relevant urgency
+                - Assign to one or more admins
                 - End
 
+## Upgrade k8sapp
 
+## Upgrade 
+
+##
+
+
+
+----
 
 ## Assumptions and requirements
 
