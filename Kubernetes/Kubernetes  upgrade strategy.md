@@ -6,7 +6,9 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 4. Update to current versions
 ## Compile and/or update list of all components with version
 
-TODO
+- What is HPC ML team responsible for keeping up to date?
+- What are the types of things that have a version?
+- How can we iterate through all the versioned things and check each?
 ## Check version of all components to identify which have changed
 
 1. Check the overall Kubernetes version
