@@ -9,7 +9,18 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 
 - Is there a new version of Kubernetes?
 	- Can it wait until quarterly upgrade window?
-		- No: Upgrade Kubernetes cluster
+		- Yes:
+			- Create story for during targeted upgrade window
+			- End
+		- Else: 
+			- Create story for upgrade
+			- Upgrade Kubernetes cluster
+			- End
+- For each core k8sapp:
+	- Is there a new version of k8sapp (call `check`)?
+		- Can it wait until quarterly upgrade window?
+			- Yes:
+				- 
 
 
 - For each Kubernetes component and core k8sapp:
