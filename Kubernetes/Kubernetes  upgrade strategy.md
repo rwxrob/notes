@@ -1,11 +1,14 @@
 This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy consists of two high-level practices:
 
-1. Compile list of all components with versions
-Auditing to know our current version status
-2. Evaluate which components
-3. Upgrading to current versions
+1. Compile and/or update list of all components with versions
+2. Check version of all components to identify which have changed
+3. Evaluate impact of each new component version
+4. Update to current versions
 
-This division is obvious but important to avoid mixing work between the two.
+
+## 
+
+
 ## Auditing to know our current version status
 
 1. Check the overall Kubernetes version
