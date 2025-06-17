@@ -14,7 +14,10 @@ TODO
 3. Check all k8apps for new version
 ## Evaluate impact of each new component version
 
-TODO
+- Does is pass a CIS scan?
+- Is it n-1 or older?
+- Can it wait until quarterly upgrade window?
+- Do customers have to validate the change is compatible with their app?
 ## Update to current versions
 
 TODO
