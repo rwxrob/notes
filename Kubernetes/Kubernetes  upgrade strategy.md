@@ -8,7 +8,8 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 ## Handle Kubernetes upgrades
 
 - Is there a new version of Kubernetes?
-	- Can it 
+	- Can it wait until quarterly upgrade window?
+		- No: Upgrade Kubernetes cluster
 
 
 - For each Kubernetes component and core k8sapp:
@@ -30,7 +31,7 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 graph TD
     A{Is there a new version of Kubernetes?}
     A -- Yes --> B[Upgrade Kubernetes cluster]
-    A -- No --> C[Check]
+    A -- No --> C[
 ```
 ## Can it wait until quarterly or later?
 
