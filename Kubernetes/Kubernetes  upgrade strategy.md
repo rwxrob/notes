@@ -3,8 +3,10 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
 1. Auditing to know our current version status
 2. Upgrading to current versions
 
-This division 
+This division is obvious but important to avoid mixing work between the two.
 ## Auditing to know our current version status
+
+
 
 ## Upgrading to current versions
 
