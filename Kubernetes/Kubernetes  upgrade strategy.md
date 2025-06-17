@@ -1,33 +1,38 @@
 This document outlines an upgrade strategy to address new versions of Kubernetes, its core dependencies, and any k8sapps that are maintained. This strategy consists of the following high-level procedures:
 
-1. Update list and check for new versions (can be automated)
-2. Evaluate impact of each new version (must be done "by hand")
-3. Upgrade everything with relevant change to targeted version (immediately or quarterly)
+1. Update list and check for new versions
+2. Evaluate impact of each new version
+3. Upgrade everything with relevant change to targeted version
+## 1. Update list and check for new versions
 
 Step one should be done regularly in order to detect urgent changes soon after they happen.
 
-Step two happens *after everything* with a version has been checked for a new version. This ensures the entire list is created and checked in a timely manner. Evaluation and upgrades can then happen based on the urgency to get the new version installed and the scope of the thing that needs an upgraded version.
-
-Step three takes place during one of two following time windows:
-
-1. Immediately after version update detection
-2. Quarterly upgrade window
-## Update list and check for new versions (can be automated)
-
+- Can it be automated?
 - What things is HPC ML responsible to keep up to date?
 - What are the types of things that have a version?
 - Can the list be automatically generated?
 - How can we iterate through each thing and check its version?
-## Evaluate impact of each new version (must be done "by hand")
+## 2. Evaluate impact of each new version 
 
+Step two happens *after everything* with a version has been checked for a new version. This ensures the entire list is created and checked in a timely manner. Evaluation and upgrades can then happen based on the urgency to get the new version installed and the scope of the thing that needs an upgraded version.
+
+- Generally must be done "by hand"
 - Highly dependent on type for specific method of version check
 - Does is pass a CIS scan?
 - Is it n-1 or older?
 - Can it wait until quarterly upgrade window?
 - Do customers have to validate the change is compatible with their app?
-## Upgrade everything with relevant change to targeted version (immediately or quarterly)
+## 3. Upgrade everything with relevant change to targeted version
+
+Step three takes place during one of two following time windows:
+
+1. Immediately after version update detection
+2. Quarterly upgrade window
+
+This timing is dependent on the urgency of the version upgrade as determined during step two after throughly evaluating the changes in the new version.
 
 - Depends heavily on the type of thing being updated
+- Immediately or quarterly?
 
 ----
 ## Terms
