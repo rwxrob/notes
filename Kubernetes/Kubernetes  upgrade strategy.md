@@ -24,7 +24,6 @@ If the answer is yes to the following then the upgrade can wait:
 - Does the upgrade patch a critical security flaw?
 - Is the new version > n-1?
 
-
 - Is it newer than 
 	- Identify the version targeted (n-1)
 	- Are there immediate security concerns or requirements?
