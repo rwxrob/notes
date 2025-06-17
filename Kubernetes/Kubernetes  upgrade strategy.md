@@ -1,26 +1,25 @@
-This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy consists of two high-level practices:
+This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security. This strategy consists of the following high-level practices:
 
 1. Compile and/or update list of everything with a version
 2. Check everything with a version and create list of things that changed
 3. Evaluate impact of each new version
-4. Update everything that changed to current version
-## Compile and/or update list of all components with version
+4. Update everything with relevant change to targeted version
+## Compile and/or update list of everything with a version
 
 - What things is HPC ML responsible to keep up to date?
 - What are the types of things that have a version?
+- Can the list be automatically generated?
 - How can we iterate through each thing and check its version?
-## Check version of all components to identify which have changed
+## Check everything with a version and create list of things that changed
 
-1. Check the overall Kubernetes version
-2. Check the versions of all core Kubernetes components
-3. Check all k8apps for new version
-## Evaluate impact of each new component version
+- Highly dependent o
+## Evaluate impact of each new version
 
 - Does is pass a CIS scan?
 - Is it n-1 or older?
 - Can it wait until quarterly upgrade window?
 - Do customers have to validate the change is compatible with their app?
-## Update to current versions
+##  Update everything with relevant change to targeted version
 
 - Depends heavily on the type of thing being updated
 
