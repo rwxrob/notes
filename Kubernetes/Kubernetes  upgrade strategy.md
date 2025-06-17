@@ -1,6 +1,6 @@
 This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security.
 
-## Handle kubernetes upgrades
+## Handle Kubernetes upgrades
 
 - For each Kubernetes component and core k8sapp:
     - Check if there is a new version available
