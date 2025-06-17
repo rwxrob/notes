@@ -1,8 +1,6 @@
 This document outlines a consistent strategy for ensuring an on-prem, in-house, enterprise Kubernetes cluster and its k8sapps are kept up to date and regularly reviewed for improvements and security.
 
-## Update scope
-
-
+## What triggers an update/upgrade?
 
 
 
