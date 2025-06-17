@@ -1,8 +1,8 @@
 This document outlines an upgrade strategy to address new versions of Kubernetes, its core dependencies, and any k8sapps that are maintained. This strategy consists of the following high-level procedures:
 
-1. Update list of everything with a version and check for new versions (can be automated)
+1. Update list and check for new versions (can be automated)
 2. Evaluate impact of each new version (must be done "by hand")
-3. Update everything with relevant change to targeted version (immediately or quarterly)
+3. Upgrade everything with relevant change to targeted version (immediately or quarterly)
 
 Step one should be done regularly in order to detect urgent changes soon after they happen.
 
@@ -12,22 +12,20 @@ Step three takes place during one of two following time windows:
 
 1. Immediately after version update detection
 2. Quarterly upgrade window
-## Compile and/or update list of everything with a version
+## Update list and check for new versions (can be automated)
 
 - What things is HPC ML responsible to keep up to date?
 - What are the types of things that have a version?
 - Can the list be automatically generated?
 - How can we iterate through each thing and check its version?
-## Check everything with a version and create list of things that changed
+## Evaluate impact of each new version (must be done "by hand")
 
 - Highly dependent on type for specific method of version check
-## Evaluate impact of each new version
-
 - Does is pass a CIS scan?
 - Is it n-1 or older?
 - Can it wait until quarterly upgrade window?
 - Do customers have to validate the change is compatible with their app?
-##  Update everything with relevant change to targeted version
+## Upgrade everything with relevant change to targeted version (immediately or quarterly)
 
 - Depends heavily on the type of thing being updated
 
