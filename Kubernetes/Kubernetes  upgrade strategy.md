@@ -22,12 +22,21 @@ This document outlines a consistent strategy for ensuring an on-prem, in-house, 
                 - End
 
 
-
 ```mermaid
 graph TD
-    A[Start]
+    A[Start: For each Kubernetes component or core k8sapp] --> B[Check for new version]
+    B --> C[Assess upgrade urgency]
+    C --> D{Can it wait until quarterly upgrade?}
+    D -- Yes --> E[Add to list of planned quarterly upgrades]
+    E --> F[End]
+    D -- No --> G[Create story with urgency]
+    G --> H[Assign to admins]
+    H --> I{What needs upgrading?}
+    I -- k8sapp --> J[Upgrade k8sapp]
+    I -- Kubernetes --> K[Upgrade Kubernetes]
+    J --> L[End]
+    K --> L
 ```
-
 ## Can it wait until quarterly or later?
 
 If the answer is yes to the following then the upgrade can wait:
