@@ -11,7 +11,7 @@ Step one should be done regularly in order to detect urgent changes soon after t
 - Can the list be automatically generated?
 - Can it be automated and do we want to?
 - What things is HPC ML responsible to keep up to date?
-- How can we iterate through each thing and check its version?
+- How can we iterate through each thing and check its version? q
 ## 2. Evaluate impact of each new version 
 
 Step two happens *after everything* with a version has been checked for a new version. This ensures the entire list is created and checked in a timely manner. Evaluation and upgrades can then happen based on the urgency to get the new version installed and the scope of the thing that needs an upgraded version.
