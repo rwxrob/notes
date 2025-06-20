@@ -86,7 +86,7 @@ This step depends heavily on the type of thing being upgraded. Critical interdep
 graph TD
     A{Is there a new version of Kubernetes?}
     A -- Yes --> B[Upgrade Kubernetes cluster]
-    A -- No --> C[
+    A -- No --> C[Something]
 ```
 ## Can it wait until quarterly or later?
 
