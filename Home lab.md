@@ -13,4 +13,9 @@ Keep up with stuff from work and vibe coding.
 
 *Does it need to be running all the time?*
 
-No. Just to try out new things.
+No. Just to try out new things. If and when I need a server I will use a cloud provider like one of the following:
+
+- Digital Ocean
+- Contabo
+- Hetzner
+- GCP
