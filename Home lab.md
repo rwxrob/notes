@@ -1,9 +1,11 @@
 *Why do I need a home lab?*
 
-Keep up with stuff from work
+Keep up with stuff from work and vibe coding.
 
 *What do I need to practice from work?*
 
+- Coding in Go, bash, Perl
+- ML job submission API with endpoints 
 - Kubernetes setup with Kubespray
 - k8sapp specification
 - Ansible in general
@@ -11,4 +13,4 @@ Keep up with stuff from work
 
 *Does it need to be running all the time?*
 
-No.
+No. Just to try out new things.
