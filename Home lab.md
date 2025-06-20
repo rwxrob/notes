@@ -4,7 +4,7 @@ Keep up with stuff from work and vibe coding.
 
 *What do I need to practice from work?*
 
-- Coding in Go, bash, Perl
+- Coding in Go, bash (even though I do POSIX at home), Perl, Python
 - ML job submission API with endpoints 
 - Kubernetes setup with Kubespray
 - k8sapp specification
