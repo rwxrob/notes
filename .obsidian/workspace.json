@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Must see movies.md",
+                "file": "Favorites/Must see movies.md",
                 "mode": "source",
                 "source": false
               },
@@ -217,8 +217,10 @@
   },
   "active": "519fcd07578518a4",
   "lastOpenFiles": [
+    "Favorites.md",
+    "Favorites",
+    "Favorites/Must see movies.md",
     "Logs/2025-06-22.md",
-    "Must see movies.md",
     "Fitness/Bike collection.md",
     "Fitness/Best 50-50 all-road tire.md",
     "Fitness/My kind of bike rider.md",
@@ -246,15 +248,12 @@
     "Logs/2025-06-10.md",
     "Fitness/160mm crank arms + 52x36 chainrings.md",
     "Logs/2025-04-26.md",
-    "Logs/2025-04-19.md",
     "Kubernetes",
     "Quarterly",
-    "Sum title here.md",
     "Streaming",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
     "Templates",
-    "Logs",
     "Cycling/dtswiss-arc-1100.jpg",
     "Knowledge management/Search titles with GitHub.png",
     "qr-code.png",

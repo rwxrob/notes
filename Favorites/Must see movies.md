@@ -3,3 +3,5 @@
 - Failure to Launch
 - Breakfast Club
 - Contact
+- Firefly + Serenity
+- Guardians of the Galaxy III
