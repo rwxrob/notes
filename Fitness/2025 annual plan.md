@@ -1,3 +1,6 @@
+*On June 21 I changed my mind again following a painful but amicable split with my wife of 13 years. It pretty much destroyed my training and plans for 2025. I will be doing the events but only as social events involving bikes. My goal to do BNSUS is also dead. After watching them I realize I have no desire to **really** do that*.
+
+----
 *At the end of May I changed my main [long term cycling goal](Long%20term%20cycling%20goals.md) to complete Bike Nonstop US in under 30 days with 7 hours of sleep per day and biking mostly during the day for safety reasons. Before it was competing in Gran Fondo Nationals. Many of the short-term fitness goals overlap but not all:
 
 - Remove any and all strength and intensity training
