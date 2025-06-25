@@ -10,4 +10,5 @@ Here's the stuff I suggest to become a modern SysDE.
 	- JSON/YAML
 	- GitHub Flavored Markdown (GFM)
 	- Read C (enough to understand Linux/Unix system calls)
-- Implement Model Context Protocol to expose APIs and documentation to LLMs
+- Apply AI to everything
+	- Implement Model Context Protocol to expose APIs and documentation to LLMs
