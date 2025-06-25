@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Becoming a Software Developer Engineer (SysDE).md",
+                "file": "Becoming a Systems Developer Engineer (SysDE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Becoming a Software Developer Engineer (SysDE)"
+              "title": "Becoming a Systems Developer Engineer (SysDE)"
+            }
+          },
+          {
+            "id": "2714fea3dd002769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -229,10 +243,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f61fec3cde37d7b2",
+  "active": "2714fea3dd002769",
   "lastOpenFiles": [
+    "Becoming a Systems Developer Engineer (SysDE).md",
+    "Untitled.md",
     "Favorites/Must see movies.md",
-    "Becoming a Software Developer Engineer (SysDE).md",
     "Favorites.md",
     "Favorites",
     "Logs/2025-06-22.md",
@@ -262,7 +277,6 @@
     "Logs/2025-06-08.md",
     "Logs/2025-06-10.md",
     "Fitness/160mm crank arms + 52x36 chainrings.md",
-    "Logs/2025-04-26.md",
     "Kubernetes",
     "Quarterly",
     "Streaming",
