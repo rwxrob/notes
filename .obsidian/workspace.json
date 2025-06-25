@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech education/Becoming a Systems Developer Engineer (SysDE).md",
+                "file": "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Becoming a Systems Developer Engineer (SysDE)"
+              "title": "Becoming a HPC ML Systems Developer Engineer (SysDE)"
             }
           }
         ]
@@ -175,7 +175,7 @@
   "active": "f61fec3cde37d7b2",
   "lastOpenFiles": [
     "Tech education/What is a Systems Developer Engineer?.md",
-    "Tech education/Becoming a Systems Developer Engineer (SysDE).md",
+    "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "TODO.md",
     "Logs/2025-06-22.md",
