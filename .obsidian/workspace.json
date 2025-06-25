@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Becoming a HPC ML Systems Developer Engineer (SysDE)"
             }
+          },
+          {
+            "id": "9335466521255317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multi-cluster flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-cluster flow"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +187,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f61fec3cde37d7b2",
+  "active": "9335466521255317",
   "lastOpenFiles": [
-    "Tech education/What is a Systems Developer Engineer?.md",
+    "Multi-cluster",
+    "Home lab.md",
     "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
+    "Multi-cluster flow.md",
+    "Tech education/What is a Systems Developer Engineer?.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "TODO.md",
     "Logs/2025-06-22.md",
@@ -203,9 +221,6 @@
     "Logs/2025-06-02.md",
     "Logs/2025-06-07.md",
     "Logs/2025-06-11.md",
-    "Logs/2025-06-08.md",
-    "Logs/2025-06-10.md",
-    "Fitness/160mm crank arms + 52x36 chainrings.md",
     "Kubernetes",
     "Quarterly",
     "Streaming",
