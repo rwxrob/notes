@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Must see movies"
             }
+          },
+          {
+            "id": "f61fec3cde37d7b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Becoming a Software Developer Engineer (SysDE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Becoming a Software Developer Engineer (SysDE)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,11 +229,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "519fcd07578518a4",
+  "active": "f61fec3cde37d7b2",
   "lastOpenFiles": [
+    "Favorites/Must see movies.md",
+    "Becoming a Software Developer Engineer (SysDE).md",
     "Favorites.md",
     "Favorites",
-    "Favorites/Must see movies.md",
     "Logs/2025-06-22.md",
     "Fitness/Bike collection.md",
     "Fitness/Best 50-50 all-road tire.md",
