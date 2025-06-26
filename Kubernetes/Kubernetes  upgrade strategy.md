@@ -4,7 +4,6 @@ This document outlines an upgrade strategy to address new versions of Kubernetes
 2. Evaluate impact of new version and prioritize
 3. Update to targeted versions
 
-
 ## Update version inventory list
 
 Any update begins by first knowing the following:
@@ -12,6 +11,13 @@ Any update begins by first knowing the following:
 - What things with versions do we have?
 - What versions are we currently at?
 - Is there a newer version available?
+
+The answer to these questions can be managed nicely by creating a simple *version inventory list* with the following basic information:
+
+- Name - unique name that can be reliably used in paths and identifiers
+- Type - a distinction that allows eventual automation of version lookups
+- k8sapps - core applications deployed with GitOps from a git repo
+- Commands - sand-alone commands created to work with cluster (`klogin`, admin tools, etc.)
 
 
 . These things can be grouped as follows:
