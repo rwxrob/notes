@@ -4,10 +4,10 @@ This document outlines an upgrade strategy to address new versions of Kubernetes
 2. Evaluate impact of new versions and prioritize
 3. Update to targeted versions
 
-
 ## Overview and assumptions
 
 - Using Kubespray for cluster deployment
+- Test clusters already created mimicking 
 - Following k8sapp convention
     - Using custom Ansible playbook to `deploy`
     - Locked down to git commit SHAs
@@ -39,8 +39,10 @@ TODO
 How do we actually do the updates?
 
 1. Deploy machines for new/test cluster (might already be done)
-2. Configure custom Kubespray playbook for new machines
-    1. Add Ansible inventory entries
+1. Update k8sapps as necessary in separate PR and note the commit SHA
+1. 
+1. Configure *additional* custom Kubespray playbook
+1. Deploy Kubernetes using Kubespray playbook (which also deploys k8sapps)
 
 ----
 
