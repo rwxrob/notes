@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
+                "file": "Kubernetes/Kubernetes  upgrade strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Becoming a HPC ML Systems Developer Engineer (SysDE)"
+              "title": "Kubernetes  upgrade strategy"
             }
           }
         ]
@@ -174,10 +174,10 @@
   },
   "active": "f61fec3cde37d7b2",
   "lastOpenFiles": [
+    "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
     "Multi-cluster flow.md",
     "Multi-cluster",
     "Home lab.md",
-    "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
     "Tech education/What is a Systems Developer Engineer?.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "TODO.md",
