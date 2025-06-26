@@ -12,12 +12,15 @@ Any update begins by first knowing the following:
 - What versions are we currently at?
 - Is there a newer version available?
 
-The answer to these questions can be managed nicely by creating a simple *version inventory list* with the following basic information for each item:
+The answer to these questions can be managed nicely by generating a report (by hand or automation) containing the following information:
 
-- Name - unique name that can be reliably used in paths and identifiers
-- Type - a distinction that allows eventual automation of version lookups
-- Installed version
-- Latest version
+- Kubespray current and new version
+- Kubernetes current and new version (as found in Kubespray config)
+- Current and new versions for each k8sapp
+- Current and new version for each supported command (`klogin`, etc.)
+
+>[!note]
+> The new version does not necessarily need to be the latest. Often people will want the n-1 version.
 
 The types of things in the list can be generally grouped as follows:
 
