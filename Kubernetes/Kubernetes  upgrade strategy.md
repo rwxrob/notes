@@ -1,10 +1,10 @@
 This document outlines an upgrade strategy to address new versions of Kubernetes, and any k8sapps that are maintained. This strategy consists of the following high-level activities:
 
-1. Update version inventory list
-2. Evaluate impact of new version and prioritize
+1. Generate a version report
+2. Evaluate impact of new versions and prioritize
 3. Update to targeted versions
 
-## Update version inventory list
+## Generate a version report
 
 Any update begins by first knowing the following:
 
@@ -30,8 +30,10 @@ Creating the version inventory can be as simple as looking up the information "b
 1. Identify a thing with a version
 2. Look up the current version
 3. Look up the latest version
-4. Evaluate urgency
-5. Evaluate risk
+4. Evaluate urgency of update
+5. Evaluate risk of update
+
+
 
 ----
 
