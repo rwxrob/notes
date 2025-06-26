@@ -12,18 +12,22 @@ Any update begins by first knowing the following:
 - What versions are we currently at?
 - Is there a newer version available?
 
-The answer to these questions can be managed nicely by creating a simple *version inventory list* with the following basic information:
+The answer to these questions can be managed nicely by creating a simple *version inventory list* with the following basic information for each item:
 
 - Name - unique name that can be reliably used in paths and identifiers
 - Type - a distinction that allows eventual automation of version lookups
-- k8sapps - core applications deployed with GitOps from a git repo
-- Commands - sand-alone commands created to work with cluster (`klogin`, admin tools, etc.)
+- Installed version
+- Latest version
 
+The types of things in the list can be generally grouped as follows:
 
-. These things can be grouped as follows:
+- `coredep` - Kubernetes dependencies installed by Kubespray
+- `command` - sand-alone commands created to work with cluster (`kubespray`, `klogin`, admin tools, etc.)
+- `k8sapp` - core applications deployed with GitOps from a git repo
 
-- Kubespray itself
+!!! note
 
+    Something
 
 
 ----
