@@ -31,7 +31,7 @@ The types of things in the list can be generally grouped as follows:
 
 ----
 
-## 1. Update list and check for new versions
+## 2. Update list and check for new versions
 
 Step one should be done regularly in order to detect urgent changes soon after they happen.
 
