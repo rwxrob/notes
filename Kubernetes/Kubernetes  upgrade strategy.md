@@ -1,8 +1,13 @@
-This document outlines an upgrade strategy to address new versions of Kubernetes, its core dependencies, and any k8sapps that are maintained. This strategy consists of the following high-level procedures:
+This document outlines an upgrade strategy to address new versions of Kubernetes, and any k8sapps that are maintained. This strategy consists of the following high-level activities:
 
-1. Update list and check for new versions
-2. Evaluate impact of each new version
-3. Upgrade everything with relevant change to targeted version
+1. Update version inventory list
+2. Evaluate impact of new version and prioritize
+3. Update to targeted versions
+
+
+
+
+----
 
 ## 1. Update list and check for new versions
 
