@@ -7,7 +7,8 @@ This document outlines an upgrade strategy to address new versions of Kubernetes
 ## Overview and assumptions
 
 - Using Kubespray for cluster deployment
-- Test clusters already created mimicking 
+- Test clusters already created mimicking production
+    - At least one of each node type represented (H100, etc.)
 - Following k8sapp convention
     - Using custom Ansible playbook to `deploy`
     - Locked down to git commit SHAs
