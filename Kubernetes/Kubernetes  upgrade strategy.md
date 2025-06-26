@@ -25,10 +25,9 @@ The types of things in the list can be generally grouped as follows:
 - `command` - sand-alone commands created to work with cluster (`kubespray`, `klogin`, admin tools, etc.)
 - `k8sapp` - core applications deployed with GitOps from a git repo
 
-:::note
-Something
-:::
-
+>![note]
+> Something
+>
 
 ----
 
