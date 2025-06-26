@@ -20,13 +20,7 @@ The answer to these questions can be managed nicely by generating a report (by h
 - Current and new version for each supported command (`klogin`, etc.)
 
 >[!note]
-> The new version does not necessarily need to be the latest. Often people will want the n-1 version.
-
-The types of things in the list can be generally grouped as follows:
-
-- `coredep` - Kubernetes dependencies installed by Kubespray
-- `command` - sand-alone commands created to work with cluster (`kubespray`, `klogin`, admin tools, etc.)
-- `k8sapp` - core applications deployed with GitOps from a git repo
+> The new version does not necessarily need to be the latest. Often we'll want the n-1 version.
 
 Creating the version inventory can be as simple as looking up the information "by hand" or setup as a regular automation. These steps can be completely for each inventory item or the steps can be done asynchronously and combined:
 
@@ -35,6 +29,13 @@ Creating the version inventory can be as simple as looking up the information "b
 3. Look up the latest version
 4. Evaluate urgency of update
 5. Evaluate risk of update
+
+## Evaluate impact of new versions and prioritize
+
+TODO
+
+## Update to targeted versions
+
 
 
 
