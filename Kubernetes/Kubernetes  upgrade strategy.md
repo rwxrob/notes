@@ -33,14 +33,15 @@ The answer to these questions can be managed nicely by generating a report (by h
 
 TODO
 
+- Should this k8sapp be updated and applied to Kubespray k8sapp inventory?
+
 ## Update to targeted versions
 
 How do we actually do the updates?
 
-1. Deploy machines for new/test cluster (might already be done)
+1. Identify machines for new cluster
 1. Update k8sapps as necessary in separate PR and note the commit SHA
-1. 
-1. Configure *additional* custom Kubespray playbook
+1. Configure new custom Kubespray playbook as a PR with commit SHAs
 1. Deploy Kubernetes using Kubespray playbook (which also deploys k8sapps)
 
 ----
