@@ -30,8 +30,8 @@ TODO
 
 How do we actually do the updates?
 
-1. Standup machines to be used to create a new test cluster
-2.
+1. Deploy machines for new test cluster (might already be done)
+2.  
 
 
 ----
