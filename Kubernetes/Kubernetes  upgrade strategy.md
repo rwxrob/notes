@@ -25,9 +25,11 @@ The types of things in the list can be generally grouped as follows:
 - `command` - sand-alone commands created to work with cluster (`kubespray`, `klogin`, admin tools, etc.)
 - `k8sapp` - core applications deployed with GitOps from a git repo
 
->[!note]
-> Something
->
+Creating the version inventory can be as simple as looking up the information "by hand" or setup as a regular automation following these steps:
+
+1. Identify a thing with a version
+1. Look up the veri
+
 
 ----
 
