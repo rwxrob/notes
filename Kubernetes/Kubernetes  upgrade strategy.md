@@ -4,6 +4,14 @@ This document outlines an upgrade strategy to address new versions of Kubernetes
 2. Evaluate impact of new versions and prioritize
 3. Update to targeted versions
 
+
+## Overview and assumptions
+
+- Using Kubespray for cluster deployment
+- Following k8sapp convention
+    - Using custom Ansible playbook to `deploy`
+    - Locked down to git commit SHAs
+
 ## Generate a version report
 
 Any update begins by first knowing the following:
@@ -31,7 +39,6 @@ TODO
 How do we actually do the updates?
 
 1. Deploy machines for new test cluster (might already be done)
-2.  
 
 
 ----
