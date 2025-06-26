@@ -5,6 +5,19 @@ This document outlines an upgrade strategy to address new versions of Kubernetes
 3. Update to targeted versions
 
 
+## Update version inventory list
+
+Any update begins by first knowing the following:
+
+- What things with versions do we have?
+- What versions are we currently at?
+- Is there a newer version available?
+
+
+. These things can be grouped as follows:
+
+- Kubespray itself
+
 
 
 ----
