@@ -2,8 +2,9 @@ My Mormon grandma burned her lips off sucking on a car exhaust pipe until she di
 
 My Mormon mother would never tell that story in her "historical" journals that the obsessively keeps at the emotional and financial expense of everyone else in her household. She bitched about what a horrible father my grand father was *all the time*. I used to get so  annoyed suffering through her PTSD from being raised by those parents, a man who wasn't there to even see her born because of the war, and a mother who had to raise her and others alone.
 
-Doris had me actually had me believing in the term "soul mates" which I had dismissed at a term invented by people who wanted to justify their unhealthy co-dependency. Turns out I was just fooling myself, again. Suddenly, "the Universe" (as she calls it) wanted something more for us triggered by 
+Doris made me believe in the idea of “soul mates,” a concept I had long dismissed as something people use to justify unhealthy co-dependency. But in the end, I was only fooling myself again. Suddenly, “the Universe” seemed to want something different for us—something sparked by my inability to suppress the trauma and rage inside me. Much of that pain stemmed from her rapid rise in the local art scene, which left me effectively living a single life while still married, until I finally cracked and exploded in a way that gave everyone the excuse they needed to just move on. At best, it was a good ride while it lasted. But it didn’t last.
 
+Nothing lasts forever—especially relationships. Everyone and everything you love rig
 
 
 It might seem obvious but it is worth saying out loud. Do it right now. Repeat after me:
