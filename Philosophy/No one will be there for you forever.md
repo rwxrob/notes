@@ -4,11 +4,6 @@ My Mormon mother would never tell that story in her "historical" journals that t
 
 Doris made me believe in the idea of “soul mates,” a concept I had long dismissed as something people use to justify unhealthy co-dependency. But in the end, I was only fooling myself again. Suddenly, “the Universe” seemed to want something different for us—something sparked by my inability to suppress the trauma and rage inside me. Much of that pain stemmed from her rapid rise in the local art scene, which left me effectively living a single life while still married, until I finally cracked and exploded in a way that gave everyone the excuse they needed to just move on. At best, it was a good ride while it lasted. But it didn’t last.
 
-Nothing lasts forever—especially relationships. Everyone and everything you love rig
+Nothing lasts forever—especially relationships. Everyone and everything you love right now will eventually die or disappear. The only universal truth is death and entropy. Repeat after me: I cannot depend on anyone or anything but myself. The sooner you realize that, the sooner you will start making decisions that bring you *true* happiness.
 
-
-It might seem obvious but it is worth saying out loud. Do it right now. Repeat after me:
-
-"I cannot depend on anyone but myself."
-
-While it is true that we are all in this together and can provide some level of comfort, support, and respite to one another over time, *none* of those relationships will last forever.
+In the Ashtanga Yoga tradition this concept of non-attachment, non-possessiveness, and non-greed is called **Aparigraha** one of the five Yamas. Practicing this is a big part of achieving true peace of mind, the primary goal of Ashtanga Yoga.
