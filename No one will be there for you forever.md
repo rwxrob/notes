@@ -1,1 +1,0 @@
-It might seem obvious but it is worth saying out loud. Do it right now. Repeat after me, "Ultimately I cannot depend on anyone but myself."
