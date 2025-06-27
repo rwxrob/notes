@@ -6,4 +6,8 @@ Doris made me believe in the idea of “soul mates,” a concept I had long dism
 
 Nothing lasts forever—especially relationships. Everyone and everything you love right now will eventually die or disappear. The only universal truth is death and entropy. Repeat after me: I cannot depend on anyone or anything but myself. The sooner you realize that, the sooner you will start making decisions that bring you *true* happiness.
 
-In the Ashtanga Yoga tradition this concept of non-attachment, non-possessiveness, and non-greed is called **Aparigraha** one of the five Yamas. Practicing this is a big part of achieving true peace of mind, the primary goal of Ashtanga Yoga.
+In the Ashtanga Yoga tradition this concept of non-attachment, non-possessiveness, and non-greed is called **Aparigraha** one of the five Yamas. Practicing this is a big part of achieving true peace of mind, the primary goal of Ashtanga Yoga. Practicing non-attachment helps to free the mind from constant desire and anxiety and allows you to accept change and loss gracefully, unlike me.
+
+Those who achieve Aparigraha exude self-confidence, indepe
+
+Losing Aparigraha happens gradually and quietly. Every sacrifice you make "for the greater" good is a step toward attachment, dependency, and greed.
