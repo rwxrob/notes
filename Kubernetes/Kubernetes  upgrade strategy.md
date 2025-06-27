@@ -40,7 +40,7 @@ TODO
 How do we actually do the updates?
 
 1. Identify machines for new cluster
-1. Update k8sapps as necessary in separate PR and note the commit SHA
+2. Update k8sapps as necessary in separate PR and note the commit SHA
 1. Configure new custom Kubespray playbook as a PR with commit SHAs
 1. Apply new custom Kubespray playbook to new cluster
 1. Validate that everything works
