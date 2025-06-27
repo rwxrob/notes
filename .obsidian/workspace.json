@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-06-27"
             }
+          },
+          {
+            "id": "e62e7732c0a3404d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "No one will be there for you forever.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "No one will be there for you forever"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +187,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f61fec3cde37d7b2",
+  "active": "e62e7732c0a3404d",
   "lastOpenFiles": [
-    "Fitness/Long term cycling goals.md",
     "Logs/2025-06-27.md",
+    "No one will be there for you forever.md",
+    "Fitness/Long term cycling goals.md",
     "Fitness/My kind of bike rider.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
@@ -206,7 +222,6 @@
     "Logs/2025-05-31.md",
     "Logs/2025-06-02.md",
     "Logs/2025-06-07.md",
-    "Logs/2025-06-11.md",
     "Kubernetes",
     "Quarterly",
     "Streaming",
