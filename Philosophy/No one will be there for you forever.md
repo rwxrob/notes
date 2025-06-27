@@ -8,6 +8,6 @@ Nothing lasts forever—especially relationships. Everyone and everything you lo
 
 In the Ashtanga Yoga tradition this concept of non-attachment, non-possessiveness, and non-greed is called **Aparigraha** one of the five Yamas. Practicing this is a big part of achieving true peace of mind, the primary goal of Ashtanga Yoga. Practicing non-attachment helps to free the mind from constant desire and anxiety and allows you to accept change and loss gracefully, unlike me.
 
-Those who achieve Aparigraha exude self-confidence, indepe
+Losing Aparigraha happens gradually and quietly. Every sacrifice you make "for the greater good" is a step toward attachment, dependency, and greed. This has been how I've al
 
-Losing Aparigraha happens gradually and quietly. Every sacrifice you make "for the greater" good is a step toward attachment, dependency, and greed.
+Those who achieve Aparigraha exude self-confidence, independence, and strength. This makes them strong and ready to face everything life will throw at them until, eventually, they face death without flinching. Occasionally, fear flickers in their eyes but is snuffed out by their pure knowledge just how fleeting everything really is, the good and the bad. When they love, they love deeply but know it is temporary. When the feel anger, they turn that energy into action knowing it too will pass. This is how Viktor Frankl made it through the Nazi concentration camps without ever handing over his will and soul to his captors. It is one of the most important secrets to happiness in life.
