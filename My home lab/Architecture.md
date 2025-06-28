@@ -13,7 +13,7 @@ Here is a summary of my home lab setup.
 
 - Build all clusters with Kubespray custom Ansible playbook
 
-### Infrastructure cluster
+### Bastion machine / Infrastructure cluster
 
 - Primary get-shit-done Linux machine
 - Ubuntu since easiest to manage
