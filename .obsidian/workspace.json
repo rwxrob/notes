@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design the architecture of your home lab.md",
+                "file": "My home lab/Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design the architecture of your home lab"
+              "title": "Architecture"
             }
           }
         ],
@@ -232,8 +232,8 @@
   "active": "2a2e98aa410da49b",
   "lastOpenFiles": [
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
-    "Design the architecture of your home lab.md",
     "My home lab/Architecture.md",
+    "Design the architecture of your home lab.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Set",
     "My home lab/README.md.md",
