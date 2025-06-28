@@ -15,7 +15,11 @@ Here is a summary of my home lab setup.
 
 ### Infrastructure cluster
 
-- Single node cluster
+- Primary get-shit-done Linux machine
+- Ubuntu since easiest to manage
+- Doubles as bastion gateway host
+- Single-node cluster
+- 12 cores, 16 gb
 
 ### Production cluster
 
