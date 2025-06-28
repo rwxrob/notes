@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+                "file": "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
+              "title": "Set up a home lab for HPC ML SysDE testing and training"
+            }
+          },
+          {
+            "id": "2a2e98aa410da49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My home lab/README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,10 +229,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e47b994ff0a827ba",
+  "active": "2a2e98aa410da49b",
   "lastOpenFiles": [
-    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
+    "My home lab/README.md.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "Tech education/Home lab.md",
     "My home lab/Architecture.md",
@@ -250,7 +265,6 @@
     "Kubernetes/Kubernetes",
     "Logs/2025-06-16.md",
     "Tech education/Professional Development Plan.md",
-    "Logs/2025-06-01.md",
     "Kubernetes",
     "Quarterly",
     "Cycling/weekly-schedule.png",

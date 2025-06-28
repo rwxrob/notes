@@ -1,0 +1,1 @@
+I use my own standard operating procedure (SOP) syntax here with traditional environment variable syntax for parameterization and variables. The top level SOP is [set up a home lab for HPC ML SysDE testing and training](Set%20up%20a%20home%20lab%20for%20HPC%20ML%20SysDE%20testing%20and%20training.md).
