@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/README.md.md",
+                "file": "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "Set up a home lab for HPC ML SysDE testing and training"
             }
           }
         ],
@@ -231,9 +231,9 @@
   },
   "active": "2a2e98aa410da49b",
   "lastOpenFiles": [
-    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "My home lab/README.md.md",
+    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
+    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "Tech education/Home lab.md",
     "My home lab/Architecture.md",
