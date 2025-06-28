@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set up a home lab.md",
+                "file": "Set up a home lab for SysDE testing and training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set up a home lab"
+              "title": "Set up a home lab for SysDE testing and training"
             }
           }
         ],
@@ -218,7 +218,7 @@
   "active": "e47b994ff0a827ba",
   "lastOpenFiles": [
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "Set up a home lab.md",
+    "Set up a home lab for SysDE testing and training.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "Tech education/Home lab.md",
     "My home lab/Architecture.md",
