@@ -4,6 +4,7 @@ Here is a summary of my home lab setup.
 
 - Rocky linux (Redhat) for all virtual machines since same as work
 - Ubuntu and Alpine for all containers
+- Naming VMs `vm` + ProxMox ID (ex: `vm100`)
 
 ## Hardware
 
