@@ -1,5 +1,9 @@
 - [ ] Upgrade the kubespray image to latest and retest against existing node1
 - [ ] Decide what k8sapps will be on the admin/inf cluster
 - [ ] Create a RedHat (Rocky) VM for admin/inf cluster
-- [ ] Update custom kubespray image to match current work version
-- [ ] Install Kubernetes with Kubspray
+- [ ] Update custom Kubespray image to match current work version
+- [ ] Install Kubernetes admin/inf cluster with Kubespray (without k8sapps)
+- [ ] Create five VMs for "prod" k8s cluster
+- [ ] Create five VMs for "sandbox" (test01) cluster
+- [ ] Create a list of k8sapps needed and where they will live
+- [ ] Create k8sapp repos for core services and system apps running in k8s clusters
