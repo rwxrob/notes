@@ -8,3 +8,9 @@
 - Kubespray drops support for old k8s versions (no backward compatibility promise, see release notes)
 - Clusters deployed with newer Kubespray and incompatible with clusters deployed with older Kubespray
 - Kubespray depends on `kubeadm` to do cert renewal and will rotate so long as don't fall to far behind
+
+## Questions
+
+*What is a critical customer app does not work all all with the new cluster but the cluster already has other customers using it?*
+
+We could create a new cluster at the version required by the customer application just for them until the problem is remediated. Or, we could adopt a blue/green architecture and they could stay on the "old" cluster until they are ready to move to the new one.

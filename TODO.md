@@ -1,4 +1,11 @@
+- [ ] Upgrade the kubespray image to latest and retest against existing node1
+- [ ] Create a RedHat (Rocky) VM for single-node
 
+
+
+
+
+----
 - [ ] Organize the bedroom
 - [ ] Organize the yoga room
 - [ ] Check the outlet in the front room
