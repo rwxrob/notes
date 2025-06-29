@@ -1,3 +1,6 @@
+> [!NOTE]
+> You cannot do this without cloning the source repo of Kubespray.
+
 ## 📊 How to Determine Installed CNI Plugin and Version with Kubespray
 
 Use these steps to generate a reliable report of which CNI plugin is installed by Kubespray and what version is in use.
