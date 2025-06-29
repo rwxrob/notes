@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bike collection",
+                "query": "linux",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e62e7732c0a3404d",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Update Kubernetes.md",
