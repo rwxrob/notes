@@ -22,16 +22,20 @@ Here is a summary of my home lab setup.
 - Single-node cluster
 - 12 cores, 16 gb
 
-### Production cluster
+### Blue cluster
 
 - Three control planes (2 cores, 8 gb)
 - Two worker nodes (2 cores, 16 gb)
 
-### Development cluster
+### Green cluster
 
 - Three control planes (2 cores, 8 gb)
 - Two worker nodes (2 cores, 16 gb)
-
 
 ## k8sapps
 
+- Harbor container registry
+
+## Non-k8sapps apps
+
+- Hashicorp Vault
