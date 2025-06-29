@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Architecture.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture"
+              "title": "TODO Today"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "e62e7732c0a3404d",
   "lastOpenFiles": [
+    "My home lab/Architecture.md",
     "My home lab/Stuff to install.md",
     "Kubernetes/kubespray-cni-summary.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
@@ -252,7 +253,6 @@
     "TODO Today.md",
     "Kubernetes/nvidia-device-plugin-vs-gpu-operator.md",
     "My home lab/Stuff",
-    "My home lab/Architecture.md",
     "Kubernetes/Kubernetes",
     "My home lab/Upgrade Kubespray and push new custom image.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
