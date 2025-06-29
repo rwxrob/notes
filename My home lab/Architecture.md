@@ -15,6 +15,7 @@ Here is a summary of my home lab setup.
 - Proxmox
 - Kubernetes
 - Hashicorp Vault
+
 ### Bastion machine
 
 - Primary get-shit-done Linux machine
@@ -27,12 +28,16 @@ Here is a summary of my home lab setup.
 
 - Build all clusters with Kubespray custom Ansible playbook
 
-### 
+### Management cluster
+
+- Single-node (2 cores, 
+- Core system k8sapps + 
 
 ### Blue/Green clusters
 
 - Three control planes (2 cores, 8 gb)
 - Two worker nodes (2 cores, 16 gb)
+- System k8sapps only
 
 ### k8sapps
 
