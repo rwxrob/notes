@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+                "file": "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
+              "title": "Set up a home lab for HPC ML SysDE testing and training"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "2a2e98aa410da49b",
   "lastOpenFiles": [
-    "Containers/Docker buildkit cache explained.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+    "My home lab/Untitled 1.md",
+    "Containers/Docker buildkit cache explained.md",
     "Containers",
     "Untitled.md",
     "docker-buildkit-cache-explained.md",
