@@ -1,6 +1,5 @@
 - Kubespray
 - Vault
-- Harbor (k8sapp?)
 
 Required by Kubernetes:
 
@@ -8,8 +7,10 @@ Required by Kubernetes:
 - Istio (k8sapp)
 - Node Feature Discovery (k8sapp)
 - nVidia Device Plugin (k8sapp)
+- Harbor (k8sapp)
 
 Stuff installed by Kubespray:
 
 - Calico (`kube_network_plugin`)
 - Containerd (`container_manager`)
+- 
