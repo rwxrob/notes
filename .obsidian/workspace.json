@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes  upgrade strategy.md",
+                "file": "Kubernetes/kubespray-cni-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes  upgrade strategy"
+              "title": "kubespray-cni-summary"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "e62e7732c0a3404d",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes  upgrade strategy.md",
+    "Kubernetes/kubespray-cni-summary.md",
     "My home lab/Update Kubernetes.md",
     "TODO Today.md",
     "Kubernetes/nvidia-device-plugin-vs-gpu-operator.md",
@@ -257,7 +259,6 @@
     "My home lab/Untitled",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "My home lab/README.md.md",
-    "Kubernetes/Kubernetes  upgrade strategy.md",
     "My home lab/Bootstrap",
     "My home lab/Untitled 1.md",
     "Containers/Docker buildkit cache explained.md",
@@ -278,7 +279,6 @@
     "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
     "Multi-cluster flow.md",
     "Multi-cluster",
-    "Tech education/Home lab 1.md",
     "Favorites",
     "Live streaming/IRL",
     "Cycling/weekly-schedule.png",
