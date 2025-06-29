@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,17 +243,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "adc538d6f033ceba",
+  "active": "e62e7732c0a3404d",
   "lastOpenFiles": [
+    "My home lab/Update Kubernetes.md",
+    "TODO Today.md",
     "Kubernetes/nvidia-device-plugin-vs-gpu-operator.md",
     "My home lab/Stuff",
     "My home lab/Stuff to install.md",
     "My home lab/Architecture.md",
-    "TODO Today.md",
     "Kubernetes/Kubernetes",
     "My home lab/Upgrade Kubespray and push new custom image.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "My home lab/Update Kubernetes.md",
     "My home lab/Untitled",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "My home lab/README.md.md",
