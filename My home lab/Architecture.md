@@ -10,32 +10,32 @@ Here is a summary of my home lab setup.
 
 - HPZ640 refurbished (56 core, 126 gb)
 
-## Kubernetes
+## Software
 
-- Build all clusters with Kubespray custom Ansible playbook
-
-### Bastion machine / Infrastructure cluster
+- Proxmox
+- Kubernetes
+- Hashicorp Vault
+### Bastion machine
 
 - Primary get-shit-done Linux machine
 - Ubuntu since easiest to manage
 - Doubles as bastion gateway host
 - Single-node cluster
 - 12 cores, 16 gb
+----
+## Kubernetes
 
-### Blue cluster
+- Build all clusters with Kubespray custom Ansible playbook
+
+### 
+
+### Blue/Green clusters
 
 - Three control planes (2 cores, 8 gb)
 - Two worker nodes (2 cores, 16 gb)
 
-### Green cluster
-
-- Three control planes (2 cores, 8 gb)
-- Two worker nodes (2 cores, 16 gb)
-
-## k8sapps
+### k8sapps
 
 - Harbor container registry
 
-## Non-k8sapps apps
 
-- Hashicorp Vault
