@@ -14,6 +14,7 @@
 - The entire Kubespray repo is *not* required to use the container image installation method (just create `inventory`).
 - While Kubespray supports installation of NVIDIA device plugin it assume defaults that differ from what others might want in their deployments of both Node Feature Discovery (label filters, for example) and device plugin labels and annotations. For this reason many will prefer to keep these both as k8sapps.
 - Remove the `spec.taints` if creating a single-node cluster
+- Don't forget to [harden](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/hardening.md).
 
 
 
