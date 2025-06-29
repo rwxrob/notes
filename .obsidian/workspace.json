@@ -245,10 +245,10 @@
   },
   "active": "adc538d6f033ceba",
   "lastOpenFiles": [
-    "TODO.md",
-    "My home lab/Upgrade Kubespray and push new custom image.md",
-    "My home lab/Update Kubernetes.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+    "My home lab/Upgrade Kubespray and push new custom image.md",
+    "TODO.md",
+    "My home lab/Update Kubernetes.md",
     "My home lab/Untitled",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "My home lab/README.md.md",
