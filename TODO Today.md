@@ -1,4 +1,4 @@
-- [ ] Upgrade the kubespray image to latest and retest against existing node1
+- [x] Upgrade the kubespray image to latest and retest against existing node1
 - [ ] Decide what k8sapps will be on the admin/inf cluster
 - [ ] Create a RedHat (Rocky) VM for admin/inf cluster
 - [ ] Update custom Kubespray image to match current work version

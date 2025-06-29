@@ -31,3 +31,7 @@ Here is a summary of my home lab setup.
 
 - Three control planes (2 cores, 8 gb)
 - Two worker nodes (2 cores, 16 gb)
+
+
+## k8sapps
+
