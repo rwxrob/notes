@@ -13,4 +13,4 @@
 - Kubespray *will* destructively change the hostname of all target nodes
 - The entire Kubespray repo is *not* required to use the container image installation method (just create `inventory`)
 - OS package updates must be done *before* Kubespray is run (or can be run with the optional `system-upgrade` playbook)
-- Kubespray follows k8s "2 minor versions" rule removing support for anything older than that from the repo (https://github.com/kubernetes-sigs/kubespray/releases)
+- Kubespray *does* remove old k8s versions (see release notes)
