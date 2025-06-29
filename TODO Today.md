@@ -3,6 +3,7 @@
 	- [ ] What does Kubespray already install for us by default? (Calico, etc.)
 	- [ ] What are the required k8sapps that are required for customer apps to work? (Istio, etc.)
 	- [ ] What are the k8sapps that provide core services? (Harbor, etc.)
+- [x] Define the "breaking lab" architecture
 - [ ] Create a RedHat (Rocky) VM for admin/inf cluster
 - [ ] Update custom Kubespray image to match current work version
 - [ ] Install Kubernetes admin/inf cluster with Kubespray (without k8sapps)
