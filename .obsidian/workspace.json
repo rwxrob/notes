@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO Today.md",
+                "file": "Knowledge management/All I need is phone to write.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO Today"
+              "title": "All I need is phone to write"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linux",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,11 +243,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d66ce5fcd308145c",
+  "active": "e62e7732c0a3404d",
   "lastOpenFiles": [
+    "Knowledge management/Leave Obsidian running at home to sync to GitHub automatically from the road.md",
+    "Knowledge management/Choose unique, descriptive titles in sentence case.md",
+    "Knowledge management/Why I use GitHub Flavored Markdown.md",
+    "Knowledge management/Keep Obsidian compatible with GitHub.md",
+    "Knowledge management/Search titles with GitHub.md",
+    "Knowledge management/Why I'm okay with spaces in my filenames for notes.md",
+    "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
+    "TODO Today.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Update Kubernetes.md",
-    "TODO Today.md",
     "My home lab/Architecture.md",
     "My home lab/Stuff to install.md",
     "Kubernetes/kubespray-cni-summary.md",
@@ -272,13 +278,6 @@
     "Tech education/Home lab.md",
     "My home lab",
     "Philosophy/Rise of the man-haters.md",
-    "Philosophy/No one will be there for you forever.md",
-    "Tech education/Rag and tagging.md",
-    "Logs/2025-06-27.md",
-    "Fitness/Long term cycling goals.md",
-    "Fitness/My kind of bike rider.md",
-    "Tech education/Becoming a HPC ML Systems Developer Engineer (SysDE).md",
-    "Multi-cluster flow.md",
     "Multi-cluster",
     "Favorites",
     "Live streaming/IRL",
