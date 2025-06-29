@@ -8,7 +8,3 @@
 6. Provision the machines
 7. [Bootstrap Kubernetes cluster with Kubespray and Ansible](Bootstrap%20Kubernetes%20cluster%20with%20Kubespray%20and%20Ansible.md)
 
-## Tips and caveats
-
-- Kubespray *will* change the hostname of all nodes
-- The entire Kubespray repo is *not* required to use the D
