@@ -11,5 +11,5 @@ Required by Kubernetes:
 
 Stuff installed by Kubespray:
 
-- Containerd (and all tooling)
-- Calico
+- Calico (`kube_network_plugin`)
+- Containerd (`container_manager`)
