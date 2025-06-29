@@ -14,3 +14,4 @@
 - The entire Kubespray repo is *not* required to use the container image installation method (just create `inventory`)
 - OS package updates must be done *before* Kubespray is run (or can be run with the optional `system-upgrade` playbook)
 - Kubespray *does* remove old k8s versions (see release notes)
+- Kubespray depends on `kubeadm` to do cert renewal but has disabled option to do it outside
