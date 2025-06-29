@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO Today.md",
+                "file": "My home lab/Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO Today"
+              "title": "Architecture"
             }
           },
           {
@@ -245,8 +245,8 @@
   },
   "active": "adc538d6f033ceba",
   "lastOpenFiles": [
-    "My home lab/Architecture.md",
     "TODO Today.md",
+    "My home lab/Architecture.md",
     "Kubernetes/Kubernetes",
     "My home lab/Upgrade Kubespray and push new custom image.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
