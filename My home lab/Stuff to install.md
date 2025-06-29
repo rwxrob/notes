@@ -13,4 +13,3 @@ Stuff installed by Kubespray:
 
 - Calico (`kube_network_plugin`)
 - Containerd (`container_manager`)
--  
