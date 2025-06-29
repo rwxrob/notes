@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+                "file": "My home lab/Update Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
+              "title": "Update Kubernetes"
             }
           },
           {
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "88b22fa2a7f9d87e",
@@ -232,20 +231,22 @@
   },
   "active": "9074e54690fc770b",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes  upgrade strategy.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "My home lab/Bootstrap",
+    "My home lab/Update Kubernetes.md",
+    "My home lab/Untitled",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
+    "My home lab/README.md.md",
+    "My home lab/Architecture.md",
+    "Kubernetes/Kubernetes  upgrade strategy.md",
+    "My home lab/Bootstrap",
     "My home lab/Untitled 1.md",
     "Containers/Docker buildkit cache explained.md",
     "Containers",
     "Untitled.md",
     "docker-buildkit-cache-explained.md",
     "Podman.md",
-    "My home lab/Architecture.md",
     "Design the architecture of your home lab.md",
     "My home lab/Set",
-    "My home lab/README.md.md",
     "Tech education/Home lab.md",
     "My home lab",
     "Philosophy/Rise of the man-haters.md",
@@ -266,7 +267,6 @@
     "Live streaming/IRL",
     "Live streaming",
     "Tech education",
-    "Home",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
     "Cycling/dtswiss-arc-1100.jpg",
