@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,8 +230,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e62e7732c0a3404d",
+  "active": "9074e54690fc770b",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes  upgrade strategy.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Bootstrap",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
@@ -245,7 +246,6 @@
     "Design the architecture of your home lab.md",
     "My home lab/Set",
     "My home lab/README.md.md",
-    "Kubernetes/Kubernetes  upgrade strategy.md",
     "Tech education/Home lab.md",
     "My home lab",
     "Philosophy/Rise of the man-haters.md",
