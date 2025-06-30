@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO 2025.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO 2025"
+              "title": "TODO Today"
             }
           },
           {
@@ -245,9 +245,9 @@
   },
   "active": "adc538d6f033ceba",
   "lastOpenFiles": [
+    "TODO 2025.md",
     "TODO Today.md",
     "Fitness/2025 annual training plan.md",
-    "TODO 2025.md",
     "Logs/2025-06-30.md",
     "Knowledge management/All I need is phone to write.md",
     "Knowledge management/Leave Obsidian running at home to sync to GitHub automatically from the road.md",
