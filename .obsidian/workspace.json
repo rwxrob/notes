@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge management/All I need is phone to write.md",
+                "file": "Logs/2025-06-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All I need is phone to write"
+              "title": "2025-06-30"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "e62e7732c0a3404d",
   "lastOpenFiles": [
+    "Knowledge management/All I need is phone to write.md",
+    "Logs/2025-06-30.md",
     "Knowledge management/Leave Obsidian running at home to sync to GitHub automatically from the road.md",
     "Knowledge management/Choose unique, descriptive titles in sentence case.md",
     "Knowledge management/Why I use GitHub Flavored Markdown.md",
@@ -275,9 +277,7 @@
     "Podman.md",
     "Design the architecture of your home lab.md",
     "My home lab/Set",
-    "Tech education/Home lab.md",
     "My home lab",
-    "Philosophy/Rise of the man-haters.md",
     "Multi-cluster",
     "Favorites",
     "Live streaming/IRL",
