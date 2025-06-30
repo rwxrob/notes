@@ -13,3 +13,6 @@
 - [ ] Create k8sapp repos for core services and system apps running in k8s clusters
 
 - [ ] Call Spectrum
+- [ ] Pay WV tolls
+- [ ] Complete and submit teeth/nose insurance claim
+- [ ] Join the Church of Satan
