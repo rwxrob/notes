@@ -1,9 +1,12 @@
 - [x] Upgrade the kubespray image to latest and retest against existing node1
-- [ ] Decide what k8sapps will be on the management cluster
+- [x] Decide what k8sapps will be on the management cluster
 	- [x] What does Kubespray already install for us by default? (Calico, etc.)
-	- [ ] What are the required k8sapps that are required for customer apps to work? (Istio, etc.)
-	- [ ] What are the k8sapps that provide core services? (Harbor, etc.)
+	- [x] What are the required k8sapps that are required for customer apps to work? (Istio, etc.)
+	- [x] What are the k8sapps that provide core services? (Harbor, etc.)
 - [x] Define the "breaking lab" architecture
+- [ ] Document high-level steps to create and upgrade cluster
+	- [ ] Create cluster from scratch
+	- [ ] Create a cluster using the management cluster
 - [ ] Create a RedHat (Rocky) VM for admin/inf cluster
 - [ ] Update custom Kubespray image to match current work version
 - [ ] Install Kubernetes admin/inf cluster with Kubespray (without k8sapps)
