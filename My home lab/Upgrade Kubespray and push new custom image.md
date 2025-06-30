@@ -1,4 +1,9 @@
 1. Get current versions of all supported k8s clusters
+2. 
+
+
+
+
 2. Identify Kubespray version that supports oldest current k8s cluster version (which may not be latest)
 3. Upgrade Kubespray to newest version that support oldest k8s cluster
 4. 
