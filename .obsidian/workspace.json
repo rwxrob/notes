@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO Today.md",
+                "file": "My home lab/Stuff to install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO Today"
+              "title": "Stuff to install"
             }
           },
           {
@@ -245,8 +245,11 @@
   },
   "active": "adc538d6f033ceba",
   "lastOpenFiles": [
-    "TODO 2025.md",
+    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+    "My home lab/Stuff to install.md",
+    "My home lab/Architecture.md",
     "TODO Today.md",
+    "TODO 2025.md",
     "Fitness/2025 annual training plan.md",
     "Logs/2025-06-30.md",
     "Knowledge management/All I need is phone to write.md",
@@ -257,10 +260,7 @@
     "Knowledge management/Search titles with GitHub.md",
     "Knowledge management/Why I'm okay with spaces in my filenames for notes.md",
     "Knowledge management/GitHub flavored markdown quietly supports annotations.md",
-    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Update Kubernetes.md",
-    "My home lab/Architecture.md",
-    "My home lab/Stuff to install.md",
     "Kubernetes/kubespray-cni-summary.md",
     "Kubernetes/Kubernetes  upgrade strategy.md",
     "Kubernetes/nvidia-device-plugin-vs-gpu-operator.md",
