@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Upgrade Kubernetes.md",
+                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upgrade Kubernetes"
+              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
             }
           },
           {
@@ -245,13 +245,15 @@
   },
   "active": "adc538d6f033ceba",
   "lastOpenFiles": [
-    "My home lab/Upgrade Kubespray and push new custom image.md",
-    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
+    "My home lab/Architecture.md",
+    "My home lab/README.md.md",
     "TODO Today.md",
     "My home lab/Upgrade Kubernetes.md",
+    "My home lab/Upgrade Kubespray and push new custom image.md",
+    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "TODO 2025.md",
     "My home lab/Stuff to install.md",
-    "My home lab/Architecture.md",
     "Fitness/2025 annual training plan.md",
     "Logs/2025-06-30.md",
     "Knowledge management/All I need is phone to write.md",
@@ -268,8 +270,6 @@
     "My home lab/Stuff",
     "Kubernetes/Kubernetes",
     "My home lab/Untitled",
-    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
-    "My home lab/README.md.md",
     "My home lab/Bootstrap",
     "My home lab/Untitled 1.md",
     "Containers/Docker buildkit cache explained.md",
