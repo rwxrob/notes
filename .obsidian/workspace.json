@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relationship red flags.md",
+                "file": "Philosophy/Relationship red flags.md",
                 "mode": "source",
                 "source": false
               },
@@ -257,10 +257,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4225b14345d7323b",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "Philosophy/She made *her* home.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "Relationship red flags.md",
+    "Philosophy/Relationship red flags.md",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "My home lab/Architecture.md",
     "My home lab/README.md.md",
@@ -289,7 +290,6 @@
     "My home lab/Untitled 1.md",
     "Containers/Docker buildkit cache explained.md",
     "Containers",
-    "Untitled.md",
     "My home lab/Set",
     "My home lab",
     "Multi-cluster",
