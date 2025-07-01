@@ -19,4 +19,5 @@
 - [ ] Call Spectrum
 - [ ] Pay WV tolls
 - [ ] Complete and submit teeth/nose insurance claim
-- [ ] Join the Church of Satan
+- [ ] Join the Satanic Temple
+- [ ] Update NeoVim with Terraform linter and colors
