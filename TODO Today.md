@@ -3,7 +3,9 @@
 	- [x] What does Kubespray already install for us by default? (Calico, etc.)
 	- [x] What are the required k8sapps that are required for customer apps to work? (Istio, etc.)
 	- [x] What are the k8sapps that provide core services? (Harbor, etc.)
-- [x] Define the "breaking lab" architecture
+- [ ] Define the "breaking lab" architecture
+	- [x] Come up with the names
+	- [ ] Decide where k8sapps and services will reside
 - [ ] Document high-level steps to create and upgrade cluster
 	- [ ] Create cluster from scratch
 	- [ ] Create a cluster using GitOps and Kubespray from management cluster
