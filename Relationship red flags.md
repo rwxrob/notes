@@ -1,0 +1,3 @@
+- 
+- Consist micro-aggressions against behaviors like cleaning, hygiene, etc.
+	- "Do you *have* to wear *that* shirt?"
