@@ -23,3 +23,4 @@
 - [ ] Complete and submit teeth/nose insurance claim
 - [ ] Join the Satanic Temple
 - [ ] Update NeoVim with Terraform linter and colors
+- [ ] Add current cluster context to my PS1 CLI prompt
