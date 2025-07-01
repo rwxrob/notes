@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7302612c465a6e4",
+        "id": "4aaf5017aedcbf91",
         "type": "tabs",
         "children": [
           {
-            "id": "c622f4c37eb7b232",
+            "id": "36c43bec98c3a4f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TODO Today.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TODO Today"
             }
           }
         ]
@@ -168,12 +172,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c622f4c37eb7b232",
+  "active": "36c43bec98c3a4f2",
   "lastOpenFiles": [
+    "Philosophy/She made *her* home.md",
     "Logs/2025-06-27.md",
     "Logs/2025-06-30.md",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "Philosophy/She made *her* home.md",
     "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
     "Philosophy/Relationship red flags.md",
     "My home lab/Architecture.md",
