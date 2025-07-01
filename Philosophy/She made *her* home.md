@@ -14,4 +14,6 @@ Men today don't get to talk about these real concerns because women rightfully h
 
 The first step toward correcting any wrong is understanding it and men being abused in subtle but important ways need to know they are not alone.
 
-Can you imagine creating an entire book or art practice dedicated to the needs of quietly repressed men who had no part of the abuse so many women have suffered? You would probably find your home the focal point of a picketed protest against you. Sadly, this is why so many young men are being radicalized. Understanding how this is happening is so important and fixing it will require some woma
+Can you imagine creating an entire book or art practice dedicated to the needs of quietly repressed men who had no part of the abuse so many women have suffered? You would probably find your home the focal point of a picketed protest against you. 
+
+Sadly, this is why so many young men are being radicalized. Understanding how this is happening is so important to finding a solution for *everyone* but it will require some woman with a megaphone to say, "We love men. Men are awesome" without qualifying it with "but most men are absolute shits and we do not need them, ever." Right now the one people saying that are wacko Fox-news correspondents and right-wing, Christian nut jobs. These men *just want to be seen for who they are* like the women who are saying they haven't been for so long. Equality does not require taking rights and respect away, it means giving them to everyone.
