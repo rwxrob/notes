@@ -33,4 +33,5 @@ Provided services (k8sapps):
 - Harbor
 - Mkdocs (user-facing)
 - Mkdocs (internal)
+- Elasticsearch
 
