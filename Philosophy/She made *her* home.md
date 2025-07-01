@@ -1,4 +1,4 @@
-Women have been dismissed for their contributions as *only* homemakers since the dawn of time, but there is something insidious in the acknowledge of their home building accomplishments that is concealing  the darkness many men in those homes have survived for ages: having no legitimate say in how the home is made.
+Women have been dismissed for their contributions as *only* homemakers since the dawn of time, but there is something insidious in the acknowledge of their home building accomplishments that is concealing the darkness many men in those homes have survived for ages. They have no legitimate say in how their home is made but they are supposed to shut up and pay for it because their salary is wrongly inflated by the patriarchy.
 
 Women regularly, consciously or subconsciously, bully their men into submission and acceptance of *their* home, not the home the man would have created. Many men aren't even allowed into their own kitchens, or to put their own food in the refrigerator. Some women make trivial gestures to give the men something to hold on to, but never anything of consequence. 
 
