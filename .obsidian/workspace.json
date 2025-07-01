@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Stuff to install.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stuff to install"
+              "title": "TODO Today"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "36c43bec98c3a4f2",
   "lastOpenFiles": [
-    "TODO Today.md",
     "My home lab/Stuff to install.md",
+    "TODO Today.md",
     "Philosophy/She made *her* home.md",
     "Logs/2025-06-27.md",
     "Logs/2025-06-30.md",
