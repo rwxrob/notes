@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to begin.md",
+                "file": "_ Tech Beginners/How to begin.md",
                 "mode": "source",
                 "source": false
               },
@@ -217,9 +217,9 @@
   },
   "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "_For beginners",
+    "_ Tech Beginners",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "How to begin.md",
+    "_ Tech Beginners/How to begin.md",
     "My home lab/Add default domain.md",
     "TODO Today.md",
     "Philosophy/Simple is underrated.md",
