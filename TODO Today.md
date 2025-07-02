@@ -32,4 +32,6 @@
 - [ ] Update NeoVim with Terraform linter and colors
 - [ ] Add current cluster context to my PS1 CLI prompt
 - [ ] Setup Ansible inventory and playbooks on `walt` (login machine)
-
+- [ ] Add a list of great resources
+  - [ ] Add https://docs.kolkhis.dev/linux/nfs
+- [ ] Make an LLM and search engine that only crunches data sources that I provide
