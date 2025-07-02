@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Add default domain.md",
+                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add default domain"
+              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
             }
           }
         ],
@@ -201,10 +201,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "cc38104ed98d1f9a",
   "lastOpenFiles": [
-    "TODO Today.md",
     "My home lab/Add default domain.md",
+    "TODO Today.md",
     "Philosophy/Simple is underrated.md",
     "Philosophy/No one needs to know.md",
     "Philosophy/Rise of the man-haters.md",
