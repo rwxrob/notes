@@ -5,9 +5,13 @@
 	- [x] What are the k8sapps that provide core services? (Harbor, etc.)
 - [x] Define the "breaking lab" architecture
 	- [x] Build `walt` login machine - Ubuntu 2.25
+    - [x] Install OS (user `rwxrob` as root admin)
+    - [ ] Setup NFS `/s` mount
+    - [ ] Map `/home` to `/s`
+    - [ ] Setup `rwxrob` admin user
 	- [ ] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
 	  - [ ] Install OS
-	  - [ ] Install OS
+    - [ ] Mount `/home` to `/s`
 
 
 - [ ] Document high-level steps to create and upgrade cluster
