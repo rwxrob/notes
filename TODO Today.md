@@ -31,4 +31,5 @@
 - [ ] Join the Satanic Temple
 - [ ] Update NeoVim with Terraform linter and colors
 - [ ] Add current cluster context to my PS1 CLI prompt
-- [ ] Add `/s` NFS mount for all machines and consolidate dot files there
+- [ ] Setup Ansible inventory and playbooks on `walt` (login machine)
+
