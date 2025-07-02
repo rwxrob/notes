@@ -4,7 +4,12 @@
 	- [x] What are the required k8sapps that are required for customer apps to work? (Istio, etc.)
 	- [x] What are the k8sapps that provide core services? (Harbor, etc.)
 - [x] Define the "breaking lab" architecture
-- [ ] Create a RedHat (Rocky) VM for admin/inf cluster
+	- [x] Build `walt` login machine - Ubuntu 2.25
+	- [ ] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
+	  - [ ] Install OS
+	  - [ ] Install OS
+
+
 - [ ] Document high-level steps to create and upgrade cluster
 	- [ ] Create cluster from scratch
 	- [ ] Create a cluster using GitOps and Kubespray from management cluster
