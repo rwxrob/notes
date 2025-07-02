@@ -42,3 +42,5 @@
 - [ ] Add a list of great resources
   - [ ] Add https://docs.kolkhis.dev/linux/nfs
 - [ ] Make an LLM and search engine that only crunches data sources that I provide
+- [ ] Add Tripwire to OpenWRT on router
+- [ ] Add ha-proxy to 
