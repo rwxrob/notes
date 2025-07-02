@@ -6,11 +6,11 @@
 - [ ] Define the "breaking lab" architecture
 	- [x] Come up with the names
 	- [ ] Decide where k8sapps and services will reside
+- [ ] Create a RedHat (Rocky) VM for admin/inf cluster
 - [ ] Document high-level steps to create and upgrade cluster
 	- [ ] Create cluster from scratch
 	- [ ] Create a cluster using GitOps and Kubespray from management cluster
 	- [ ] Upgrade cluster using the management cluster
-- [ ] Create a RedHat (Rocky) VM for admin/inf cluster
 - [ ] Update custom Kubespray image to match current work version
 - [ ] Install Kubernetes admin/inf cluster with Kubespray (without k8sapps)
 - [ ] Create five VMs for "prod" k8s cluster
