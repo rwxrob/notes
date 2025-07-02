@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "How to learn"
             }
+          },
+          {
+            "id": "067f69a1fca7c526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "\"Copy Pasta\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "\"Copy Pasta\""
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,11 +229,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "07cb75965dadffe1",
+  "active": "067f69a1fca7c526",
   "lastOpenFiles": [
+    "_ Tech Beginners/How to learn.md",
+    "\"Copy Pasta\".md",
     "_ Tech Beginners",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "_ Tech Beginners/How to learn.md",
     "My home lab/Add default domain.md",
     "TODO Today.md",
     "Philosophy/Simple is underrated.md",
@@ -252,7 +267,6 @@
     "My home lab/Set",
     "My home lab",
     "Multi-cluster",
-    "Favorites",
     "Cycling/weekly-schedule.png",
     "Fitness/mens-go-long-western-ride-shirt-808549.webp",
     "Cycling/dtswiss-arc-1100.jpg",
