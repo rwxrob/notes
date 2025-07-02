@@ -1,5 +1,4 @@
 
-
 1. Get a way to take notes
 2. Start watching tech streamers and videos
 3. Write down the terms you don't understand
