@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ Tech Beginners/How to begin.md",
+                "file": "_ Tech Beginners/How to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to begin"
+              "title": "How to learn"
             }
           }
         ],
@@ -215,11 +215,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "07cb75965dadffe1",
   "lastOpenFiles": [
     "_ Tech Beginners",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
-    "_ Tech Beginners/How to begin.md",
+    "_ Tech Beginners/How to learn.md",
     "My home lab/Add default domain.md",
     "TODO Today.md",
     "Philosophy/Simple is underrated.md",

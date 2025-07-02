@@ -1,3 +1,5 @@
+
+
 1. Get a way to take notes
 2. Start watching tech streamers and videos
 3. Write down the terms you don't understand
@@ -7,3 +9,4 @@
 7. Rank the terms based on how interested you are and how relevant they are
 8. Learn everything about that term from the Internet and AI
 9. Apply what you learn in a home lab which can be a server tower or just a laptop
+10. Find a group of like-minded people to learn with/from
