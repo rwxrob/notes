@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GROCERIES.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GROCERIES"
+              "title": "TODO Today"
             }
           }
         ],
@@ -231,6 +231,7 @@
   },
   "active": "067f69a1fca7c526",
   "lastOpenFiles": [
+    "GROCERIES.md",
     "Fitness/Gravel is fine if you go slow.md",
     "Fitness/Fast in Zwift, Steady IRL.md",
     "Fitness/All-road PAC bike setup.md",
@@ -257,7 +258,6 @@
     "My home lab/NFSv4 setup for home lab.md",
     "My home lab/Architecture.md",
     "Kubernetes/kubespray-cni-summary.md",
-    "Kubernetes/nvidia-device-plugin-vs-gpu-operator.md",
     "TODO",
     "My home lab/Stuff",
     "Kubernetes/Kubernetes",
