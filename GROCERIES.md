@@ -31,10 +31,12 @@ Here's what I live on.
 - Huel
 - Real butter
 - Avocados
-- Pepperocinis
+- Pepperoncinis
 - Taco bell sauce
 - Cleaning
-	- Dish soap
+	- Dish soap pods
+	- Laundry detergent pods (hypo-allergenic)
+	- Tall kitchen garbage bags
 ## Rarely
 
 - Extra virgin olive oil
