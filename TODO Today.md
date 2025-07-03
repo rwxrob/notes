@@ -9,10 +9,8 @@
     - [x] Setup NFS `/s` mount
     - [x] Update `~/rwxrob` to be `/s/rwxrob`
     - [x] Setup `rwxrob` admin user
-	- [ ] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
-	  - [ ] Install OS
-	  - [ ] Add NFS mounts
-	  - [ ] Update ~/rwxrob to `/s/rwxrob`
+	- [x] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
+	- [ ] Drop NFS mount for home directories
 
 
 - [ ] Document high-level steps to create and upgrade cluster
