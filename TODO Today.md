@@ -10,7 +10,7 @@
     - [x] Update `~/rwxrob` to be `/s/rwxrob`
     - [x] Setup `rwxrob` admin user
 	- [x] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
-		- [ ] Drop NFS mount for home directories
+		- [x] Drop NFS mount for home directories
 		- [ ] [Bootstrap Kubernetes cluster with Kubespray and Ansible](My%20home%20lab/Bootstrap%20Kubernetes%20cluster%20with%20Kubespray%20and%20Ansible.md)
 
 
