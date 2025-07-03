@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "\"Copy Pasta\".md",
+                "file": "GROCERIES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "\"Copy Pasta\""
+              "title": "GROCERIES"
             }
           }
         ],
@@ -231,8 +231,20 @@
   },
   "active": "067f69a1fca7c526",
   "lastOpenFiles": [
-    "_ Tech Beginners/How to learn.md",
+    "Fitness/Gravel is fine if you go slow.md",
+    "Fitness/Fast in Zwift, Steady IRL.md",
+    "Fitness/All-road PAC bike setup.md",
+    "Fitness/Gravel over road shoes.md",
+    "Fitness/Aerobars repel roadies.md",
+    "Fitness/GFNats training strategy.md",
+    "Fitness/Best BNSUS tires.md",
+    "Fitness/People who inspire me.md",
+    "Fitness/2025 annual training plan.md",
+    "Fitness/Long term cycling goals.md",
+    "Fitness/My kind of bike rider.md",
+    "Fitness/Bike collection.md",
     "\"Copy Pasta\".md",
+    "_ Tech Beginners/How to learn.md",
     "_ Tech Beginners",
     "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Add default domain.md",
@@ -246,19 +258,7 @@
     "My home lab/Architecture.md",
     "Kubernetes/kubespray-cni-summary.md",
     "Kubernetes/nvidia-device-plugin-vs-gpu-operator.md",
-    "Philosophy/She made *her* home.md",
-    "Philosophy/Snowflake? Fuck you..md",
-    "Philosophy/Living in the moment.md",
     "TODO",
-    "My home lab/Stuff to install.md",
-    "Logs/2025-06-27.md",
-    "Logs/2025-06-30.md",
-    "My home lab/Set up a home lab for HPC ML SysDE testing and training.md",
-    "My home lab/README.md.md",
-    "My home lab/Upgrade Kubernetes.md",
-    "My home lab/Upgrade Kubespray and push new custom image.md",
-    "TODO 2025.md",
-    "Fitness/2025 annual training plan.md",
     "My home lab/Stuff",
     "Kubernetes/Kubernetes",
     "My home lab/Untitled",

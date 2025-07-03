@@ -6,5 +6,3 @@ List of current and planned bikes:
 | All-road               | Trek Domane AL 5 Gen 4 | SPD SL | Yes  |
 | Trails                 | Trek Roscoe 8          | SPD    | Yes  |
 | Urban trekking         | Ghost Square           | Flat   | Yes  |
-
-Next purchase will be a high-end wheel-set from the [Wheel set wish list](Wheel%20set%20wish%20list.md) to make road riding more fun and variable.
