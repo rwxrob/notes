@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
+                "file": "TODO 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
+              "title": "TODO 2025"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plan",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,6 +231,7 @@
   },
   "active": "067f69a1fca7c526",
   "lastOpenFiles": [
+    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "TODO Today.md",
     "GROCERIES.md",
     "Fitness/Gravel is fine if you go slow.md",
@@ -248,7 +249,6 @@
     "\"Copy Pasta\".md",
     "_ Tech Beginners/How to learn.md",
     "_ Tech Beginners",
-    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "My home lab/Add default domain.md",
     "Philosophy/Simple is underrated.md",
     "Philosophy/No one needs to know.md",
