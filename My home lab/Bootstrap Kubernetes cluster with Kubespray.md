@@ -3,16 +3,15 @@
 
 1. Identify a jump host from which to run Ansible/Kubespray playbooks
 2. Install podman (if not already there)
-3. Install vault
-4. Create a container image from the upstream kubespray image
+3. Create a container image from the upstream kubespray image
 	1. Create a git repo with everything to create clusters via gitops ci/cd (ex: `k8s.cicd`)
 	2. Create an `images/kubespray` subdirectory to extend base kubespray image
 	3. Create a `Containerfile` within subdirectory that extends Kubespray image
 	4. Create `build` script to build and push to preferred registry
-5. Create cluster with container
-6. Install 
-7. Install Harbor container registry k8sapp into management cluster
-8. Install k8sapps
+4. Create cluster with container
+5. Install vault into its own virtual machine (simulated vault service provider outside of my management)
+6. Install Harbor container registry k8sapp into management cluster
+7. Install k8sapps
 
 ## Tips and caveats
 
