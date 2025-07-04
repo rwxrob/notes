@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO 2025.md",
+                "file": "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO 2025"
+              "title": "Bootstrap Kubernetes cluster with Kubespray and Ansible"
             }
           }
         ],
@@ -231,8 +231,9 @@
   },
   "active": "067f69a1fca7c526",
   "lastOpenFiles": [
-    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "TODO Today.md",
+    "TODO 2025.md",
+    "My home lab/Bootstrap Kubernetes cluster with Kubespray and Ansible.md",
     "GROCERIES.md",
     "Fitness/Gravel is fine if you go slow.md",
     "Fitness/Fast in Zwift, Steady IRL.md",
@@ -257,7 +258,6 @@
     "Philosophy/Relationship red flags.md",
     "My home lab/NFSv4 setup for home lab.md",
     "My home lab/Architecture.md",
-    "Kubernetes/kubespray-cni-summary.md",
     "TODO",
     "My home lab/Stuff",
     "Kubernetes/Kubernetes",
