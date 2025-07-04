@@ -2,16 +2,20 @@
 > This is my way of creating a Kubernetes environment that mirrors what we have at work. It may not be the best way for you.
 
 1. Identify a jump host from which to run Ansible/Kubespray playbooks
-2. Install podman (if not already there)
-3. Create a container image from the upstream kubespray image
-	1. Create a git repo with everything to create clusters via gitops ci/cd (ex: `k8s.cicd`)
-	2. Create an `images/kubespray` subdirectory to extend base kubespray image
-	3. Create a `Containerfile` within subdirectory that extends Kubespray image
-	4. Create `build` script to build and push to preferred registry
-4. Create cluster with container
-5. Install vault into its own virtual machine (simulated vault service provider outside of my management)
-6. Install Harbor container registry k8sapp into management cluster
-7. Install k8sapps
+2. Install podman (if not already there) (optionally snapshot)
+3. Create a git repo with everything to create clusters via gitops ci/cd (ex: `k8s.cicd`)
+	1. Create an `images/kubespray` subdirectory to extend base kubespray image
+	2. Create a `Containerfile` within subdirectory that extends Kubespray image
+	3. Create `build` script to build and push to preferred registry
+	4. Add an `inventory` directory
+4. Create or identify one or more Redhat (Rocky) machines to become k8s nodes
+5. Optionally snapshot future k8s node machines to enable rollback for practice
+6. Update `k8s.cicd/inventory` with future k8s node *names*
+
+----
+1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
+2. Install Harbor container registry k8sapp into management cluster
+3. Install k8sapps
 
 ## Tips and caveats
 
