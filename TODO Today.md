@@ -44,3 +44,5 @@
 - [ ] Add Tripwire to OpenWRT on router
 - [ ] Add ha-proxy to OpenWRT router
 - [ ] Add keepalived to OpenWRT router
+- [ ] Add proper Ubuntu 25 template to proxmox
+- [ ] Add proper 9.4 Rocky template to proxmox (https://www.youtube.com/watch?v=MJgIm03Jxdo)
