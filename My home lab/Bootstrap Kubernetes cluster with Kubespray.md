@@ -1,14 +1,15 @@
-1. Install Ansible
-2. Install containerd
-3. Install podman
-4. Install Kubespay
-5. Create a container image from the upstream kubespray image
-	1. Create a git repo to contain the CI/CD eventually used to create clusters
+> [!WARNING]
+> This is my way of creating a Kubernetes environment that mirrors what we have at work.
+
+1. Identify a jump host from which to run Ansible/Kubespray playbooks
+2. Install podman
+3. Create a container image from the upstream kubespray image
+	1. Create a git repo to contain the CI/CD eventually used to create clusters (ex: `k8s.cicd`)
 	2. Create an `images/kubespray` subdirectory
 	3. Create a `Containerfile` within subdirectory that extends Kubespray image
 	4. Create `build` script to build and push to preferred registry
-6. Create cluster with container
-7. Install k8sapps
+4. Create cluster with container
+5. Install k8sapps
 
 ## Tips and caveats
 
