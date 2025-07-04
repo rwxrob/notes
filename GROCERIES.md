@@ -14,14 +14,18 @@ Here's what I live on.
 	- Romaine lettuce
 	- Celery hearts
 	- Frozen spinach
+	- Avacado
+- Sweet potatoes
 - Fruit
 	- Limes
 	- Mandarin oranges
 	- Frozen strawberries
 	- Frozen blueberries
+	- Apples
 - Other
 	- Hummus
-	- Olives stuffed with garlic
+	- Olives garlic
+	- Chips
 - Beer (non-alcoholic)
 	- Budweiser zero
 	- Hazy without the Haze
@@ -30,7 +34,6 @@ Here's what I live on.
 - Orgain protein powder
 - Huel
 - Real butter
-- Avocados
 - Pepperoncinis
 - Taco bell sauce
 - Cleaning
@@ -40,7 +43,6 @@ Here's what I live on.
 ## Rarely
 
 - Extra virgin olive oil
-- Apple cider vinegar
 - Popcorn
 - Pasta
 - Rice
@@ -53,3 +55,4 @@ Here's what I live on.
 	- Smoked paprika
 	- Garlic salt
 	- Minced garlic
+	- Basil
