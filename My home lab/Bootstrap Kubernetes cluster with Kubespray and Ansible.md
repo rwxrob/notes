@@ -1,13 +1,14 @@
 1. Install Ansible
 2. Install containerd
-3. Install Kubespay
-4. Create a container image from the upstream kubespray image
+3. Install podman
+4. Install Kubespay
+5. Create a container image from the upstream kubespray image
 	1. Create a git repo to contain the CI/CD eventually used to create clusters
 	2. Create an `images/kubespray` subdirectory
 	3. Create a `Containerfile` within subdirectory that extends Kubespray image
 	4. Create `build` script to build and push to preferred registry
-5. Create cluster with container
-6. Install k8sapps
+6. Create cluster with container
+7. Install k8sapps
 
 ## Tips and caveats
 
