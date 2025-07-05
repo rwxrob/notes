@@ -1,7 +1,7 @@
 > [!WARNING]
 > This is my way of creating a Kubernetes environment that mirrors what we have at work. It may not be the best way for you.
 
-1. Identify a jump host from which to run Ansible/Kubespray playbooks
+1. Identify a machine from which to run Ansible/Kubespray playbooks
 2. Install podman (if not already there) (optionally snapshot)
 3. Create a git repo with everything to create clusters via gitops ci/cd (ex: `k8s.cicd`)
 	1. Create an `images/kubespray` subdirectory to extend base kubespray image
