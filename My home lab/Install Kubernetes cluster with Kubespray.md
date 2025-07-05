@@ -10,7 +10,7 @@ This procedure can be followed initially to create the first cluster and resourc
 	2. Install Podman (if not already there)
 2. Setup one or more RedHat (Rocky) machine(s) to become Kubernetes nodes
 	1. Give distinct DNS names
-	2. Optionally snapshot base 
+	2. Optionally snapshot base after OS install for rollback if virtual machines
 3. Configure admin machine to have ssh password-less key access
 	1. `ssh-copy-id NODENAME` (not IP)
 4. Create a git repo with code for cluster creation
@@ -35,9 +35,14 @@ This procedure can be followed initially to create the first cluster and resourc
 		1. `cp -r kubespray/inventory/sample inventory`
 	2. Update the inventory file with machine names (not IPs) to become Kubernetes nodes
 		1. `vi inventory/inventory.ini`
-
-6. Optionally snapshot future k8s node machines to enable rollback for practice
-7. Update `k8s.cicd/inventory` with future k8s node *names*
+6. Extend the container image as desired
+	1. Create a subdirectory for images with `kubespray` image
+		1. `mkdir -p images/kubespray
+	2. Create a `Containerfile` that extends upstream image
+		1. `cd images/kubespray`
+		2. `touch Containerfile`
+		3. `echo 'FROM quay.io/kubespray/kubespray:v2.28.0' >> Containerfile`
+	3. Create a `build` script
 
 ----
 1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
