@@ -14,10 +14,12 @@
 	1. Create a GitHub repo
 		1. `gh repo create k8s.cicd`
 	2. Add the upstream Kubespray repo as a submodule
-		1. Fork the upstream Kubespray repo
-			1. `gh repo fork kubernetes-sigs/kubespray`
-		2. Add forked repo as a submodule
-			1. `git submodule add git@github.com:yourusername/forked-repo.git path/to/submodule
+		1. Change into the new repo
+			1. `cd k8s.cicd`
+		2. Fork the upstream Kubespray repo and clone
+			1. `gh repo fork kubernetes-sigs/kubespray --clone`
+			2. `git submodule add ./kubespray`
+			3. `git submodule summary`
 	3. Extend the Kubespray image
 		1. Create an `images/kubespray` directory
 		2. Change into `images/kubespray` directory
