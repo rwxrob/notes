@@ -12,12 +12,15 @@
 	1. `ssh-copy-id NODENAME` (not IP)
 4. Create a git repo with code for cluster creation (ex: `k8s.cicd`)
 	1. Create a GitHub repo
-	2. Extend the Kubespray image
+	2. Add the upstream Kubespray repo as a submodule
+		1. Fork the upstream Kubespray repo
+		2. 
+	3. Extend the Kubespray image
 		1. Create an `images/kubespray` directory
 		2. Change into `images/kubespray` directory
 		3. Create a `Containerfile` that extends Kubespray image
 		4. Create `build` script to build and push to preferred registry
-	2. Create or update the inventory
+	4. Create or update the inventory
 		1. Create `inventory` directory if it does not exist
 		
 5. Create or identify one or more Redhat (Rocky) machines to become k8s nodes
