@@ -6,5 +6,5 @@
 4. Optionally acquire additional bare-metal machines (perhaps to enable GPU testing)
 5. Design the architecture of your home lab
 6. Provision the machines
-7. [Bootstrap Kubernetes cluster with Kubespray](Bootstrap%20Kubernetes%20cluster%20with%20Kubespray.md)
+7. [Install Kubernetes cluster with Kubespray](Install%20Kubernetes%20cluster%20with%20Kubespray.md)
 

@@ -11,7 +11,7 @@
     - [x] Setup `rwxrob` admin user
 	- [x] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
 		- [x] Drop NFS mount for home directories
-		- [ ] [Bootstrap Kubernetes cluster with Kubespray](My%20home%20lab/Bootstrap%20Kubernetes%20cluster%20with%20Kubespray.md)
+		- [ ] [Install Kubernetes cluster with Kubespray](My%20home%20lab/Install%20Kubernetes%20cluster%20with%20Kubespray.md)
 
 
 - [ ] Document high-level steps to create and upgrade cluster
