@@ -1,6 +1,8 @@
 > [!WARNING]
 > This is my way of creating a Kubernetes environment that mirrors what we have at work. It may not be the best way for you.
 
+This procedure can be followed initially to create the first cluster and resource from which to build the cluster or it can be used to create an additional cluster simply by updating things in these steps—primarily the inventory.
+
 1. Setup an admin machine from which to run Ansible/Kubespray playbooks
 	1. Setup ssh
 		1. Install if not already there
@@ -27,10 +29,12 @@
 		4. Create `build` script to build and push to preferred registry
 	4. Create or update the inventory
 		1. Create `inventory` directory if it does not exist
-		
-5. Create or identify one or more Redhat (Rocky) machines to become k8s nodes
-6. Optionally snapshot future k8s node machines to enable rollback for practice
-7. Update `k8s.cicd/inventory` with future k8s node *names*
+5. Create or update the inventory
+	1. If first time, copy the upstream Kubespray submodule `inventory` directory
+		1. `
+6. Create or identify one or more Redhat (Rocky) machines to become k8s nodes
+7. Optionally snapshot future k8s node machines to enable rollback for practice
+8. Update `k8s.cicd/inventory` with future k8s node *names*
 
 ----
 1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
