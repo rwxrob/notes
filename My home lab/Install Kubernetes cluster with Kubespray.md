@@ -10,11 +10,14 @@
 	1. Give distinct DNS names
 3. Configure admin machine to have ssh password-less key access
 	1. `ssh-copy-id NODENAME` (not IP)
-4. Create a git repo with code for cluster creation (ex: `k8s.cicd`)
+4. Create a git repo with code for cluster creation
 	1. Create a GitHub repo
+		1. `gh repo create k8s.cicd`
 	2. Add the upstream Kubespray repo as a submodule
 		1. Fork the upstream Kubespray repo
-		2. 
+			1. `gh repo fork kubernetes-sigs/kubespray`
+		2. Add forked repo as a submodule
+			1. `git submodule add git@github.com:yourusername/forked-repo.git path/to/submodule
 	3. Extend the Kubespray image
 		1. Create an `images/kubespray` directory
 		2. Change into `images/kubespray` directory
