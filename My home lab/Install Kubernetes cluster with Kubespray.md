@@ -1,19 +1,22 @@
 > [!WARNING]
 > This is my way of creating a Kubernetes environment that mirrors what we have at work. It may not be the best way for you.
 
-1. Setup a machine from which to run Ansible/Kubespray playbooks
+1. Setup an admin machine from which to run Ansible/Kubespray playbooks
 	1. Setup ssh
 		1. Install if not already there
 		2. Create key pair
 	2. Install Podman (if not already there)
 2. Setup one or more RedHat (Rocky) machine(s) to become Kubernetes nodes
 	1. Give distinct DNS names
-3. Configure main machine 
-4. Create a git repo with everything to create clusters via gitops ci/cd (ex: `k8s.cicd`)
-	1. Extend the Kubespray image
-		1. Create an `images/kubespray` subdirectory to extend base kubespray image
-		2. Create a `Containerfile` within subdirectory that extends Kubespray image
-		3. Create `build` script to build and push to preferred registry
+3. Configure admin machine to have ssh password-less key access
+	1. `ssh-copy-id NODENAME` (not IP)
+4. Create a git repo with code for cluster creation (ex: `k8s.cicd`)
+	1. Create a GitHub repo
+	2. Extend the Kubespray image
+		1. Create an `images/kubespray` directory
+		2. Change into `images/kubespray` directory
+		3. Create a `Containerfile` that extends Kubespray image
+		4. Create `build` script to build and push to preferred registry
 	2. Create or update the inventory
 		1. Create `inventory` directory if it does not exist
 		
