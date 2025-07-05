@@ -42,6 +42,20 @@ This procedure can be followed initially to create the first cluster and resourc
 		1. `cd images/kubespray`
 		2. `touch Containerfile`
 		3. `echo 'FROM quay.io/kubespray/kubespray:v2.28.0' >> Containerfile`
+		4. Add `RUN` line updating and installing any additional tools needed
+			```Containerfile
+			FROM quay.io/kubespray/kubespray:v2.28.0
+      
+      
+      LABEL org.opencontainers.image.source https://github.com/rwxrob/k8s.cicd
+      
+      RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
+        apt-get update -q && \
+        apt-get install -yq --no-install-recommends \
+        dnsutils
+      
+      # TODO: gradually add that stuff necessary to pull down the k8sapps
+			```
 	3. Create a `build` script
 
 ----
