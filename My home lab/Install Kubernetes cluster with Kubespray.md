@@ -4,10 +4,13 @@
 1. Identify a machine from which to run Ansible/Kubespray playbooks
 2. Install podman (if not already there) (optionally snapshot)
 3. Create a git repo with everything to create clusters via gitops ci/cd (ex: `k8s.cicd`)
-	1. Create an `images/kubespray` subdirectory to extend base kubespray image
-	2. Create a `Containerfile` within subdirectory that extends Kubespray image
-	3. Create `build` script to build and push to preferred registry
-	4. Add an `inventory` directory
+	1. Extend the Kubespray image
+		1. Create an `images/kubespray` subdirectory to extend base kubespray image
+		2. Create a `Containerfile` within subdirectory that extends Kubespray image
+		3. Create `build` script to build and push to preferred registry
+	2. Create or update the inventory
+		1. Create `inventory` directory if it does not exist
+		
 4. Create or identify one or more Redhat (Rocky) machines to become k8s nodes
 5. Optionally snapshot future k8s node machines to enable rollback for practice
 6. Update `k8s.cicd/inventory` with future k8s node *names*
