@@ -10,7 +10,9 @@ This procedure can be followed initially to create the first cluster and resourc
 	2. Install Podman (if not already there)
 2. Setup one or more RedHat (Rocky) machine(s) to become Kubernetes nodes
 	1. Give distinct DNS names
-	2. Optionally snapshot base after OS install for rollback if virtual machines
+	2. Disable any firewalls
+		1. `sudo systemctl disable firewalld`
+	3. Optionally snapshot base after OS install for rollback if virtual machines
 3. Configure admin machine to have ssh password-less key access to future k8s nodes
 	1. `ssh-copy-id NODENAME` (not IP)
 4. Create a git repo with code for cluster creation
