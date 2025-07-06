@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Install Kubernetes cluster with Kubespray.md",
+                "file": "My home lab/Upgrade Kubernetes cluster with Kubespray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Kubernetes cluster with Kubespray"
+              "title": "Upgrade Kubernetes cluster with Kubespray"
             }
           }
         ],
@@ -231,8 +231,10 @@
   },
   "active": "067f69a1fca7c526",
   "lastOpenFiles": [
-    "Linux Beginner Boost.md",
+    "My home lab/Upgrade Kubernetes.md",
+    "My home lab/Upgrade Kubernetes cluster with Kubespray.md",
     "My home lab/Install Kubernetes cluster with Kubespray.md",
+    "Linux Beginner Boost.md",
     "My home lab/Install",
     "TODO Today.md",
     "TODO 2025.md",
@@ -257,8 +259,6 @@
     "Philosophy/Simple is underrated.md",
     "Philosophy/No one needs to know.md",
     "Philosophy/Rise of the man-haters.md",
-    "Philosophy/No one will be there for you forever.md",
-    "Philosophy/Relationship red flags.md",
     "TODO",
     "My home lab/Stuff",
     "Kubernetes/Kubernetes",
