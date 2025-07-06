@@ -7,10 +7,13 @@
 - Kubespray major and minor releases are bound to a given `kube_version`.
 - Kubespray doesn't follow semantic versioning (every version is "stable").
 - ***Kubespray grabs the latest k8s version unless specified explicitly.***
-- Kubernetes version `kube_version` is implied by 
+- Kubernetes component versions have been removed from Kubespray inventory.
 ## Versioning
 
 >    Minor releases can change components' versions, but not the major kube_version. Greater kube_version requires a new major or minor release. For example, if Kubespray v2.0.0 is bound to kube_version: 1.4.x, calico_version: 0.22.0, etcd_version: 3.0.6, then Kubespray v2.1.0 may be bound to only minor changes to kube_version, like v1.5.1 and any changes to other components, like etcd v4, or calico 1.2.3. And Kubespray v3.x.x shall be bound to `kube_version: 2.x.x` respectively.
+
+- PR with removal of versions from inventory and justification.
+  https://github.com/kubernetes-sigs/kubespray/commit/985e4ebb23f66631bc8938324adcead2114955a3
 ## Questions
 
 *What is a critical customer app does not work all all with the new cluster but the cluster already has other customers using it?*
