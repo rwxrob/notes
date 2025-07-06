@@ -42,7 +42,8 @@ This procedure can be followed initially to create the first cluster and resourc
 		1. `cd images/kubespray`
 		2. `touch Containerfile`
 		3. `echo 'FROM quay.io/kubespray/kubespray:v2.28.0' >> Containerfile`
-		4. Add `RUN` line updating and installing any additional tools needed
+		4. Add `RUN` line updating and 
+		5. installing any additional tools needed
 			```Containerfile
 			FROM quay.io/kubespray/kubespray:v2.28.0
 			LABEL org.opencontainers.image.source https://github.com/rwxrob/k8s.cicd
@@ -54,7 +55,7 @@ This procedure can be followed initially to create the first cluster and resourc
 			
 			# TODO: gradually add that stuff necessary to pull down the k8sapps
 			```
-	3. Create a `build` script
+		5. Create and run `build` script locally on admin machine
 			```bash
 			#!/bin/bash
 			set -e
@@ -62,6 +63,10 @@ This procedure can be followed initially to create the first cluster and resourc
 			podman build -t "$image" --format docker .
 			#podman push "$image"
 			```
+7. Create a script to run the playbook
+	1. `cd k8s.cicd`
+	2. 
+
 
 ----
 1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
