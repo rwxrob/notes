@@ -5,7 +5,7 @@
 2. Determine the current versions of everything Kubespray installed
 3. Identify any custom changes (patches) to the Kubespray source diverting from upstream
 4. Determine the next minor Kubespray version (***never more than one version***)
-5. Study the next minor Kubespray version to determine changes
+5. Study the new version to determine changes—especially to core components
 ## Tips and caveats
 
 - Kubespray *only* supports upgrading one minor version at a time.
