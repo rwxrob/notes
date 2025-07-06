@@ -88,15 +88,17 @@ This procedure can be followed initially to create the first cluster and resourc
 	3. List all current nodes
 		1. `kubectl get no -A`
 	4. Make sure pods are running
-		1. `kubectl get pod -A`
+		1. `kubectl get pod -A
+10. Remove `spec.taints` if single-node cluster
+	1. `
 ## Tips and caveats
 
 - Kubespray *will* destructively change the hostname of all target nodes.
 - Kubespray officially cannot upgrade more than one minor version (2.24.1 -> 2.25.1)
 - Kubespray repo is *not* required to use the container image installation method (just create `inventory`).
 - While Kubespray supports installation of NVIDIA device plugin it assume defaults that differ from what others might want in their deployments of both Node Feature Discovery (label filters, for example) and device plugin labels and annotations. For this reason many will prefer to keep these both as k8sapps.
-- Remove the `spec.taints` if creating a single-node cluster
-- Don't forget to [harden](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/hardening.md).
+- Remove the `spec.taints` if creating a single-node cluster.
+- Don't forget to [harden](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/hardening.md) if using for anything other than lab testing.
 
 
 
