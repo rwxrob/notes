@@ -67,6 +67,16 @@ This procedure can be followed initially to create the first cluster and resourc
 	1. `cd k8s.cicd`
 	2. `n=create-cluster; touch $n; chmod +x $n`
 	3. Copy the initial Quick Start -> Docker script from `kubespray/README.md`and customize
+		```bash
+		#!/bin/bash
+		#image="quay.io/kubespray/kubespray:v2.28.0"
+		image="ghcr.io/rwxrob/k8s.cicd/kubespray:v0.0.2"
+		podman run --rm -it \
+			--mount type=bind,source="$(pwd)"/inventory,dst=/inventory \
+			--mount type=bind,source="${HOME}"/.ssh/id_ed25519,dst=/root/.ssh/id_ed25519 \
+			"$image" ansible-playbook -b -K -i /inventory/inventory.ini \
+			--private-key /root/.ssh/id_ed25519 cluster.yml
+		```
 8. Run and debug `create-cluster` script
 	1. `./create-cluster`
 
