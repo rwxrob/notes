@@ -11,7 +11,7 @@ This procedure can be followed initially to create the first cluster and resourc
 2. Setup one or more RedHat (Rocky) machine(s) to become Kubernetes nodes
 	1. Give distinct DNS names
 	2. Optionally snapshot base after OS install for rollback if virtual machines
-3. Configure admin machine to have ssh password-less key access
+3. Configure admin machine to have ssh password-less key access to future k8s nodes
 	1. `ssh-copy-id NODENAME` (not IP)
 4. Create a git repo with code for cluster creation
 	1. Create a GitHub repo
@@ -63,7 +63,7 @@ This procedure can be followed initially to create the first cluster and resourc
 			podman build -t "$image" --format docker .
 			#podman push "$image"
 			```
-7. Create a script to run the playbook
+7. Create a `create-cluster` script to run the Kubespray Ansible playbook
 	1. `cd k8s.cicd`
 	2. `n=create-cluster; touch $n; chmod +x $n`
 	3. Copy the initial Quick Start -> Docker script from `kubespray/README.md`and customize
@@ -79,6 +79,10 @@ This procedure can be followed initially to create the first cluster and resourc
 		```
 8. Run and debug `create-cluster` script
 	1. `./create-cluster`
+9. Validate created cluster
+	1. Login to any newly create k8s node
+	2. List all current nodes
+		1. `kubectl get no -A`
 
 ----
 1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
