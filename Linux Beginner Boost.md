@@ -1,4 +1,3 @@
-1. Learn how to use (and perhaps install) your package manager
-	1. Brew
-2. Install `podman` or `docker`
-3. 
+1. Install a terminal (WezTerm recommended)
+2. Install a container engine (`podman` recommended, `docker` is fine)
+3. Start the container engine Linux virtual machine
