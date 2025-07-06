@@ -65,8 +65,10 @@ This procedure can be followed initially to create the first cluster and resourc
 			```
 7. Create a script to run the playbook
 	1. `cd k8s.cicd`
-	2. 
-
+	2. `n=create-cluster; touch $n; chmod +x $n`
+	3. Copy the initial Quick Start -> Docker script from `kubespray/README.md`and customize
+8. Run and debug `create-cluster` script
+	1. `./create-cluster`
 
 ----
 1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
