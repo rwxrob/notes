@@ -81,7 +81,8 @@ This procedure can be followed initially to create the first cluster and resourc
 	1. `./create-cluster`
 9. Validate created cluster
 	1. Login to any newly create k8s node
-	2. List all current nodes
+	2. Become root
+	3. List all current nodes
 		1. `kubectl get no -A`
 
 ----
