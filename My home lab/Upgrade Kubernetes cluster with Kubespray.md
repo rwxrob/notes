@@ -1,11 +1,9 @@
-1. Note the current version of Kubernetes
+1. Note the current Kubernetes Kubespray version
 2. Note the current version of Kubespray
-3. Look up the Kubespray version for the target (n-1) Kubernetes version
-4. 
 ## Tips and caveats
 
 - Kubespray *only* supports upgrading one minor version at a time.
-- Kubernetes and Kubespray versions have nothing to do with one another
+- Kubernetes and Kubespray versions have nothing to do with one another.
 ## Questions
 
 *What is a critical customer app does not work all all with the new cluster but the cluster already has other customers using it?*
