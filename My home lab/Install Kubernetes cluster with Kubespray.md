@@ -89,12 +89,6 @@ This procedure can be followed initially to create the first cluster and resourc
 		1. `kubectl get no -A`
 	4. Make sure pods are running
 		1. `kubectl get pod -A`
-
-----
-1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
-2. Install Harbor container registry k8sapp into management cluster
-3. Install k8sapps
-
 ## Tips and caveats
 
 - Kubespray *will* destructively change the hostname of all target nodes.
