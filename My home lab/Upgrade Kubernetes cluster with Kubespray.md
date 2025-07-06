@@ -4,6 +4,9 @@
 
 - Kubespray *only* supports upgrading one minor version at a time.
 - Kubernetes and Kubespray versions have nothing to do with one another.
+- Kubespray major and minor releases are bound to a given `kube_version`.
+- Kubespray doesn't follow semantic versioning (every version is "stable").
+- 
 ## Questions
 
 *What is a critical customer app does not work all all with the new cluster but the cluster already has other customers using it?*
