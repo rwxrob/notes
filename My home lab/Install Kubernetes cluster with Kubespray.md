@@ -82,8 +82,11 @@ This procedure can be followed initially to create the first cluster and resourc
 9. Validate created cluster
 	1. Login to any newly create k8s node
 	2. Become root
+		1. `sudo su -`
 	3. List all current nodes
 		1. `kubectl get no -A`
+	4. Make sure pods are running
+		1. `kubectl get pod -A`
 
 ----
 1. Install vault into its own virtual machine (simulated vault service provider outside of my management)
