@@ -94,7 +94,7 @@ This procedure can be followed initially to create the first cluster and resourc
 	4. Make sure pods are running
 		1. `kubectl get pod -A
 10. Remove `spec.taints` if single-node cluster
-	1. `
+	1. `kubectl patch node <node-name> -p '{"spec":{"taints":[]}}'`
 ## Tips and caveats
 
 - Kubespray *will* destructively change the hostname of all target nodes.
