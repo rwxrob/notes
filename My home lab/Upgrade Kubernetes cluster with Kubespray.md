@@ -1,3 +1,6 @@
+> [!DANGER]
+> Each upgrade using Kubespray *must* only be between one minor version and the procedure for each is sometimes *radically* different than the previous based on changes to the source, versioning, tagging, releasing, and other 
+
 1. Note the current Kubespray Kubernetes version (`kube_version`)
 2. Note the current version of Kubespray
 ## Tips and caveats
