@@ -11,10 +11,8 @@
 		1. Determine if anything in release notes warrants further source code evaluation
 			1. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
 			2. Same as above but without `--name-only` to inspect *all* changes
-		2. Prepare list of questions to take to team for PR review
-	3. Evaluate impact of Kubernetes version update (`etcd`, `kubelet`, `kubectl`, etc.)
-	4. Evaluate impact of `calico` version update
-	5. Evaluate impact of `containerd` version update
+		2. If k8s, calico, or containerd version bump, evaluate release notes for those as well
+		3. Prepare "points of interest" summary to take to team for PR review
 4. Pull the next minor Kubespray version tag into the `kubespray` submodule
 	1. `git checkout tags/v2.25.1`
 	2. `cd ..; git add kubespray; git commit -m 'bump kubespray to v2.25.1'
