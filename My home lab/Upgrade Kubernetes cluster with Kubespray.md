@@ -4,9 +4,11 @@
 1. Determine the current Kubespray version (image label and/or source repo tag)
 2. Determine the current versions of everything Kubespray installed
 3. Evaluate impact of any version changes from current versions
-	1. `git diff v2.24.1 v2.25.1`
-	2. Inventory organization changes?
-	3. File name changes?
+	1. `git diff v2.24.1 v2.25.1 --names-only`
+	2. `git diff v2.24.1 v2.25.1 -- inventory`
+	3. `galaxy.yml`
+	4. `playbooks`
+	5. `roles`
 4. Identify current custom changes (patches) to the Kubespray source diverting from upstream
 5. Determine the next minor Kubespray version (*never more than one version*)
 6. Study the new version to determine changes—especially to core components
