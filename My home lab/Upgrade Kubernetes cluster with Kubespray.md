@@ -13,6 +13,11 @@
 	1. `git checkout tags/v2.25.1`
 	2. `cd ..; git add kubespray; git commit -m 'bump kubespray to v2.25.1'
 5. Update the upstream `kubespray` image tag and build/push new `kubespray` image
+	1. `cd images/kubespray`
+	2. Update `Containerfile` to have version tag matching submodule
+	3. Update `build` script to have own updated tag
+	4. Build and push it with `build`
+	5. Update `create-cluster` with new extended container image tag
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
