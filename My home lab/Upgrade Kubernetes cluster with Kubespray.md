@@ -23,6 +23,7 @@
 	4. Build and push it with `build`
 	5. Update `create-cluster` with new extended container image tag
 6. Merge any changes from `inventory/sample` into current `inventory`
+	1. Be very careful here because the Kubespray project has a history of *not* updating the sam
 7. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
 8. Confirm upgrade
 	1. Login to node and run `kubelet --version`
