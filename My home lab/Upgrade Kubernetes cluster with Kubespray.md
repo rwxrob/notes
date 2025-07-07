@@ -4,7 +4,7 @@
 1. Determine the current Kubespray version (image label and/or source repo tag)
 2. Determine the current versions of everything Kubespray installed
 3. Evaluate impact of any version changes from current versions
-	1. `git 
+	1. `git diff v2.24.1 v2.25.1`
 	2. Inventory organization changes?
 	3. File name changes?
 4. Identify current custom changes (patches) to the Kubespray source diverting from upstream
