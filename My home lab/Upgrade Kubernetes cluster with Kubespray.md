@@ -7,6 +7,7 @@
 4. Identify current custom changes (patches) to the Kubespray source diverting from upstream
 5. Determine the next minor Kubespray version (*never more than one version*)
 6. Study the new version to determine changes—especially to core components
+	1. `git diff
 7. Compare custom changes (patches) to next Kubespray source release (files, changed inventory org, etc.)
 ## Tips and caveats
 
@@ -31,3 +32,7 @@
 *What is a critical customer app does not work all all with the new cluster but the cluster already has other customers using it?*
 
 We could create a new cluster at the version required by the customer application just for them until the problem is remediated. Or, we could adopt a blue/green architecture and they could stay on the "old" cluster until they are ready to move to the new one.
+
+*How can I know if there is a Kubespray update?*
+
+Best way is to check the tags on the Kubespray repo for new ones.
