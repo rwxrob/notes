@@ -7,7 +7,7 @@
 	1. `cd kubespray; git tag -l`
 3. Evaluate impact of any version changes from current versions
 	1. Note of any divergence/patches from upstream
-	2. Read the [release notes](https://github.com/kubernetes-sigs/kubespray/releases) for the planned version
+	2. Read the [release notes](https://github.com/kubernetes-sigs/kubespray/releases) for the planned version (potentially in team huddle)
 		1. Determine if anything in release notes warrants further source code evaluation
 			1. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
 			2. Same as above but without `--name-only` to inspect *all* changes
