@@ -1,8 +1,10 @@
 > [!DANGER]
 > Each upgrade using Kubespray *must* only be between one minor version and the procedure for each is sometimes *radically* different than the previous based on changes to the source, versioning, tagging, releasing, and other whims of project members. There is absolutely *zero* order in this chaos (at least enough to be procedurally executed or implemented in any sort of automation.)
 
-1. Determine the current Kubespray version (image label and/or source repo tag)
+1. Determine the current Kubespray version
+	1. `cd kubespray; gitl`
 2. Determine the next minor Kubespray version (*never more than one, patch versions ok*)
+	1. `cd kubespray; git tag -l`
 3. Evaluate impact of any version changes from current versions
 	1. Take note of any divergence/patches from upstream
 	2. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
@@ -25,13 +27,12 @@
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
-- Kubespray image label/tag does not directly correspond to source repo `release` tags
+- Kubespray depends on tags on the repos to communicate versions.
 - Kubespray *only* supports upgrading [one minor version at a time](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades).
 - Kubernetes and Kubespray versions have nothing to do with one another.
 - Kubespray minor versions are triggered from *any* change to k8s or other dependency.
 - Kubespray doesn't follow semantic versioning (every version is "stable").
-- ***Kubespray grabs the latest k8s version unless specified explicitly.***
-- Kubernetes component versions have been removed from Kubespray inventory.
+- Kubernetes component versions have been removed from Kubespray inventory in later versions.
 - Kubespray project uses `master` branch for development.
 - Kubespray Kubernetes version best determined by looking in `Dockerfile` for image.
 ## Versioning
