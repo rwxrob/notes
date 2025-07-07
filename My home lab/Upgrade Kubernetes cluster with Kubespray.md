@@ -19,6 +19,9 @@
 	4. Build and push it with `build`
 	5. Update `create-cluster` with new extended container image tag
 6. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
+7. Confirm upgrade
+	1. Login to node and run `kubelet --version`
+	2. Note that `kubectl get no -A` may not immediately show current version
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
