@@ -54,3 +54,5 @@ We could create a new cluster at the version required by the customer applicatio
 *How can I know if there is a Kubespray update?*
 
 Best way is to check the tags on the Kubespray repo for new ones.
+
+*Why not just build a new cluster at a given version
