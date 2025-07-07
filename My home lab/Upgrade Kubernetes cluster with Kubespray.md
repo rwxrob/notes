@@ -8,11 +8,12 @@
 3. Evaluate impact of any version changes from current versions
 	1. Take note of any divergence/patches from upstream
 	2. Read the [release notes](https://github.com/kubernetes-sigs/kubespray/releases) for the planner version
-	3. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
-	4. Same as above but without `--name-only` to inspect *all* changes
-	5. Evaluate impact of Kubernetes version update (`etcd`, `kubelet`, `kubectl`, etc.)
-	6. Evaluate impact of `calico` version update
-	7. Evaluate impact of `containerd` version update
+		1. Determine if anything in release notes warrants further source code evaluation
+			1. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
+			2. Same as above but without `--name-only` to inspect *all* changes
+	3. Evaluate impact of Kubernetes version update (`etcd`, `kubelet`, `kubectl`, etc.)
+	4. Evaluate impact of `calico` version update
+	5. Evaluate impact of `containerd` version update
 4. Pull the next minor Kubespray version tag into the `kubespray` submodule
 	1. `git checkout tags/v2.25.1`
 	2. `cd ..; git add kubespray; git commit -m 'bump kubespray to v2.25.1'
