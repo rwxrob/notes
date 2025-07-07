@@ -9,6 +9,10 @@
 	3. Evaluate impact of Kubernetes version update (`etcd`, `kubelet`, `kubectl`, etc.)
 	4. Evaluate impact of `calico` version update
 	5. Evaluate impact of `containerd` version update
+4. Pull the next minor Kubespray version tag into the `kubespray` submodule
+	1. `git checkout tags/v2.25.1`
+	2. `cd ..; git add kubespray; git commit -m 'bump kubespray to v2.25.1'
+5. Update the upstream `kubespray` image tag and build/push new `kubespray` image
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
