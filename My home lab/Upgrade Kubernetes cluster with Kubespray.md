@@ -18,6 +18,7 @@
 	3. Update `build` script to have own updated tag
 	4. Build and push it with `build`
 	5. Update `create-cluster` with new extended container image tag
+6. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
