@@ -2,15 +2,13 @@
 > Each upgrade using Kubespray *must* only be between one minor version and the procedure for each is sometimes *radically* different than the previous based on changes to the source, versioning, tagging, releasing, and other whims of project members. There is absolutely *zero* order in this chaos (at least enough to be procedurally executed or implemented in any sort of automation.)
 
 1. Determine the current Kubespray version (image label and/or source repo tag)
-2. Determine the current versions of everything Kubespray installed
+2. Determine the next minor Kubespray version (*never more than one, patch versions ok*)
 3. Evaluate impact of any version changes from current versions
-	1. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
-	2. Lookup versions of `calico`, `containerd`, 
-4. Identify current custom changes (patches) to the Kubespray source diverting from upstream
-5. Determine the next minor Kubespray version (*never more than one version*)
-6. Study the new version to determine changes—especially to core components
-	1. `git diff
-7. Compare custom changes (patches) to next Kubespray source release
+	1. Take note of any divergence/patches from upstream
+	2. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
+	3. Evaluate impact of Kubernetes version update (`etcd`, `kubelet`, `kubectl`, etc.)
+	4. Evaluate impact of `calico` version update
+	5. Evaluate impact of `containerd` version update
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
