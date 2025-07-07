@@ -13,7 +13,7 @@
 
 - Kubespray cannot be used to regress a version.
 - Kubespray image label/tag does not directly correspond to source repo `release` tags
-- Kubespray *only* supports upgrading one minor version at a time.
+- Kubespray *only* supports upgrading [one minor version at a time](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades).
 - Kubernetes and Kubespray versions have nothing to do with one another.
 - Kubespray minor versions are triggered from *any* change to k8s or other dependency.
 - Kubespray doesn't follow semantic versioning (every version is "stable").
