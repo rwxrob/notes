@@ -2,6 +2,8 @@
 > Each upgrade using Kubespray *must* only be between one minor version and the procedure for each is sometimes *radically* different than the previous based on changes to the source, versioning, tagging, releasing, and other whims of project members. There is absolutely *zero* order in this chaos (at least enough to be procedurally executed or implemented in any sort of automation.)
 
 1. Determine the current Kubespray version
+	1. Change into the `kubespray` submodule
+	2. Check the `Dockerfile` for Kubernete
 2. Determine the current versions of everything Kubespray installed
 3. Identify any custom changes (patches) to the Kubespray source diverting from upstream
 4. Determine the next minor Kubespray version (***never more than one version***)
