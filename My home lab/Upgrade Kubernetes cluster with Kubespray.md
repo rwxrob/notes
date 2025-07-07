@@ -26,6 +26,7 @@
 7. Confirm upgrade
 	1. Login to node and run `kubelet --version`
 	2. Note that `kubectl get no -A` may not immediately show current version
+	3. Run all system ap
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
