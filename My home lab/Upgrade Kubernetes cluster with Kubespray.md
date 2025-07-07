@@ -4,11 +4,14 @@
 1. Determine the current Kubespray version (image label and/or source repo tag)
 2. Determine the current versions of everything Kubespray installed
 3. Evaluate impact of any version changes from current versions
+	1. `git 
+	2. Inventory organization changes?
+	3. File name changes?
 4. Identify current custom changes (patches) to the Kubespray source diverting from upstream
 5. Determine the next minor Kubespray version (*never more than one version*)
 6. Study the new version to determine changes—especially to core components
 	1. `git diff
-7. Compare custom changes (patches) to next Kubespray source release (files, changed inventory org, etc.)
+7. Compare custom changes (patches) to next Kubespray source release
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
