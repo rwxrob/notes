@@ -23,7 +23,8 @@
 	4. Build and push it with `build`
 	5. Update `create-cluster` with new extended container image tag
 6. Merge any changes from `inventory/sample` into current `inventory`
-	1. Be very careful here because the Kubespray project has a history of *not* updating the sam
+	1. Be very careful here because the Kubespray project has a history of *not* updating the sample to be consistent with how the `kube_version` is derived causing it to force a back-level k8s version because setting it overrides the kubelet checksum version look method.
+	2. Also be careful that the actual content of the *current* inventory matches the fields and format and structure of the `inventory/sample` that was originally copied to create your own inventory (names have changed, fields have changed, Kubernetes version must be updated explicitely, etc.)
 7. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
 8. Confirm upgrade
 	1. Login to node and run `kubelet --version`
