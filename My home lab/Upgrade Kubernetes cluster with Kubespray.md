@@ -55,4 +55,6 @@ We could create a new cluster at the version required by the customer applicatio
 
 Best way is to check the tags on the Kubespray repo for new ones.
 
-*Why not just build a new cluster at a given version
+*Why not just build a new cluster at a given version instead of upgrading?*
+
+Because people are already using the current cluster and would all have to move into the new cluster and the ML GPU resources are too expensive to not use fully during the migration. This makes the risk of breaking something by doing an in-place upgrade more palatable to management.
