@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My home lab/Upgrade Kubernetes cluster with Kubespray.md",
+                "file": "My home lab/Kubespray upgrades/v2.25.1 -> v2.26.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upgrade Kubernetes cluster with Kubespray"
+              "title": "v2.25.1 -> v2.26.0"
             }
           }
         ],
@@ -245,12 +245,12 @@
   },
   "active": "393ba22a8adb554d",
   "lastOpenFiles": [
-    "My home lab/Kubespray upgrades/v2.27.0 -> v2.28.0.md",
     "My home lab/Upgrade Kubernetes cluster with Kubespray.md",
+    "v2.27.0.md",
+    "My home lab/Kubespray upgrades/v2.27.0 -> v2.28.0.md",
     "My home lab/Kubespray upgrades/v2.26.0 -> v2.27.0.md",
     "My home lab/Kubespray upgrades/v2.27.0.md",
     "My home lab/Kubespray upgrades/v2.26.0",
-    "v2.27.0.md",
     "My home lab/Kubespray upgrades/v2.24.1 -> v2.25.1.md",
     "My home lab/Kubespray upgrades/v2.25.1 -> v2.26.0.md",
     "My home lab/Kubespray upgrades/Untitled.md",
