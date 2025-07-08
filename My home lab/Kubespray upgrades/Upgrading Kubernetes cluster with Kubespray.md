@@ -1,9 +1,12 @@
 Upgrading a Kubernetes cluster in-place using Kubespray is a deliberate, stepwise process. Kubespray enforces strict upgrade boundaries:
 
-- **Only one minor version upgrade at a time is supported**
-- **Downgrades are not supported**
-- **Versioning is non-semantic** — any change in Kubernetes or its dependencies may trigger a new Kubespray release
-- **Kubespray and Kubernetes versions are loosely coupled**
+- Only one minor version upgrade at a time is supported
+- Downgrades are not supported
+- Versioning is non-semantic — any change may trigger a new Kubespray release
+- Kubespray and Kubernetes versions are loosely coupled
+
+> [!NOTE]
+> Because newer Kubespray versions no longer track Kubernetes component versions in `inventory`, upgrades require careful inspection of Dockerfiles, release notes, and source diffs. This is particularly important if *any* fork or changes to the Kubespray source itself have been incorporated into any cluster creation or upgrade workflows.
 
 This procedure provides a clear and repeatable method to:
 
@@ -14,12 +17,9 @@ This procedure provides a clear and repeatable method to:
 - Reconcile changes to `inventory`
 - Safely execute the upgrade and validate the result
 
-This is intended for platform engineers responsible for production clusters that cannot easily be rebuilt or migrated without significant disruption or cost (e.g. clusters with GPU-bound ML workloads). It includes key caveats, guidance on managing upstream divergence, and options for handling application compatibility issues using blue/green or shadow clusters.
+This document is intended for engineers responsible for production clusters that cannot easily be rebuilt or migrated without significant disruption or cost (e.g. clusters with GPU-bound ML workloads). It includes key caveats, guidance on managing upstream divergence, and options for handling application compatibility issues using blue/green or shadow clusters.
 
-> **Note:** Because newer Kubespray versions no longer track Kubernetes component versions in `inventory`, upgrades require careful inspection of Dockerfiles, release notes, and source diffs.
 
-> [!DANGER]
-> Each upgrade using Kubespray *must* only be between one minor version. Also, historically, the changes include breaking changes to inventory organization and naming. The project has demonstrated no desire to maintain any level of backward compatibility and openly states it does *not* follow semantic versioning (despite the similar version numbers). This is particularly important if *any* fork or changes to the Kubespray source itself have been incorporated into any cluster creation or upgrade workflows.
 
 
 
