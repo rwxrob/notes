@@ -1,5 +1,7 @@
 > [!DANGER]
-> Each upgrade using Kubespray *must* only be between one minor version and the procedure for each is sometimes *radically* different than the previous based on changes to the source, versioning, tagging, releasing, and other whims of project members. There is absolutely *zero* order in this chaos (at least enough to be procedurally executed or implemented in any sort of automation.)
+> Each upgrade using Kubespray *must* only be between one minor version. Also, historically, the changes include breaking changes to inventory organization and naming. The project has demonstrated no desire to maintain any level of backward compatibility and openly states it does *not* follow semantic versioning (despite the similar version numbers).
+
+
 
 1. Determine the current Kubespray version
 	1. `cd kubespray; gitl`
