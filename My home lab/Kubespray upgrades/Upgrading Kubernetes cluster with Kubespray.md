@@ -1,3 +1,5 @@
+This document is intended for engineers responsible for production clusters that cannot easily be rebuilt or migrated without significant disruption or cost (e.g. clusters with GPU-bound ML workloads). It includes key caveats, guidance on managing upstream divergence.
+
 Upgrading a Kubernetes cluster in-place using Kubespray is a deliberate, stepwise process. Kubespray enforces strict upgrade boundaries:
 
 - Only one minor version upgrade at a time is supported
@@ -5,7 +7,7 @@ Upgrading a Kubernetes cluster in-place using Kubespray is a deliberate, stepwis
 - Versioning is non-semantic — any change may trigger a new Kubespray release
 - Kubespray and Kubernetes versions are loosely coupled
 
-> [!NOTE]
+> [!CAUTION]
 > Because newer Kubespray versions no longer track Kubernetes component versions in `inventory`, upgrades require careful inspection of Dockerfiles, release notes, and source diffs. This is particularly important if *any* fork or changes to the Kubespray source itself have been incorporated into any cluster creation or upgrade workflows.
 
 This procedure provides a clear and repeatable method to:
@@ -16,41 +18,37 @@ This procedure provides a clear and repeatable method to:
 - Build and tag updated Kubespray container images
 - Reconcile changes to `inventory`
 - Safely execute the upgrade and validate the result
-
-This document is intended for engineers responsible for production clusters that cannot easily be rebuilt or migrated without significant disruption or cost (e.g. clusters with GPU-bound ML workloads). It includes key caveats, guidance on managing upstream divergence, and options for handling application compatibility issues using blue/green or shadow clusters.
-
-
-
-
+## Evaluate
 
 1. Determine the current Kubespray version
 	1. `cd kubespray; gitl`
 2. Determine the next minor Kubespray version (*never more than one, patch versions ok*)
 	1. `cd kubespray; git tag -l`
-3. Evaluate impact of any version changes from current versions
-	1. Note of any divergence/patches from upstream
-	2. Read the [release notes](https://github.com/kubernetes-sigs/kubespray/releases) for the planned version (potentially in team huddle)
-		1. Determine if anything in release notes warrants further source code evaluation
-			1. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
-			2. Same as above but without `--name-only` to inspect *all* changes
-		2. If k8s, calico, or containerd version bump, evaluate release notes for those as well
-		3. Prepare "points of interest" summary to take to team for PR review
-4. Pull the next minor Kubespray version tag into the `kubespray` submodule
+3. Note any divergence/patches from upstream
+4. Read the [release notes](https://github.com/kubernetes-sigs/kubespray/releases) for the planned version (potentially in team huddle)
+	1. Determine if anything in release notes warrants further source code evaluation
+		1. `git diff --name-only v2.24.1 v2.25.1 -- inventory galaxy.yml playbooks roles`
+		2. Same as above but without `--name-only` to inspect *all* changes
+	2. If k8s, calico, or containerd version bump, evaluate release notes for those as well
+5. Prepare a report summarizing relevant changes and considerations for PR review
+## Execute
+
+1. Pull the next minor Kubespray version tag into the `kubespray` submodule
 	1. `git checkout tags/v2.25.1`
 	2. `cd ..; git add kubespray; git commit -m 'bump kubespray to v2.25.1'
-5. Update the upstream `kubespray` image tag and build/push new `kubespray` image
+2. Update the upstream `kubespray` image tag and build/push new `kubespray` image
 	1. `cd images/kubespray`
 	2. Update `Containerfile` to have version tag matching submodule
 	3. Update `build` script to have own updated tag
 	4. Build and push it with `build`
 	5. Update `create-cluster` with new extended container image tag
-6. Understand and merge any changes from `inventory/sample` into current `inventory`
+3. Understand and merge any changes from `inventory/sample` into current `inventory`
 	1. `diff -r inventory kubespray/inventory/sample`
 	2. Consider just copying `inventory/sample` and applying customizations so future diffs are more relevant
 	3. Be very careful here because the Kubespray project has a history of *not* updating the sample to be consistent with how the `kube_version` is derived causing it to force a back-level k8s version because setting it overrides the kubelet checksum version look method.
 	4. Also be careful that the actual content of the *current* inventory matches the fields and format and structure of the `inventory/sample` that was originally copied to create your own inventory (names have changed, fields have changed, Kubernetes version must be updated explicitly, etc.)
-7. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
-8. Confirm upgrade
+4. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
+5. Confirm upgrade
 	1. Login to node and run `kubelet --version`
 	2. Note that `kubectl get no -A` may not immediately show current version
 	3. Run all system/k8sapp regression tests
