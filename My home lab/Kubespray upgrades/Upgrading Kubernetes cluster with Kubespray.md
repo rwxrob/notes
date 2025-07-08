@@ -34,25 +34,27 @@ This procedure provides a clear and repeatable method to:
 ## Execute
 
 1. Pull the next minor Kubespray version tag into the `kubespray` submodule
-	1. `git checkout tags/v2.25.1`
-	2. `cd ..; git add kubespray; git commit -m 'bump kubespray to v2.25.1'
+	1. `cd *kubespray; git checkout tags/v2.25.1`
+	2. `cd ..; git add *kubespray; git commit -m 'bump kubespray to v2.25.1'
 2. Update the upstream `kubespray` image tag and build/push new `kubespray` image
-	1. `cd images/kubespray`
-	2. Update `Containerfile` to have version tag matching submodule
+	1. `cd images/*kubespray`
+	2. Update `Containerfile` (or `Dockerfile`) to have version tag matching submodule
 	3. Update `build` script to have own updated tag
-	4. Build and push it with `build`
-	5. Update `create-cluster` with new extended container image tag
+	4. Build and push it with build script
+	5. Update cluster creation and upgrade scripts with new extended container image tag
 3. Understand and merge any changes from `inventory/sample` into current `inventory`
 	1. `diff -r inventory kubespray/inventory/sample`
 	2. Consider just copying `inventory/sample` and applying customizations so future diffs are more relevant
 	3. Be very careful here because the Kubespray project has a history of *not* updating the sample to be consistent with how the `kube_version` is derived causing it to force a back-level k8s version because setting it overrides the kubelet checksum version look method.
 	4. Also be careful that the actual content of the *current* inventory matches the fields and format and structure of the `inventory/sample` that was originally copied to create your own inventory (names have changed, fields have changed, Kubernetes version must be updated explicitly, etc.)
 4. Run the [upgrade playbook](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/operations/upgrades.md#multiple-upgrades)
-5. Confirm upgrade
-	1. Login to node and run `kubelet --version`
-	2. Note that `kubectl get no -A` may not immediately show current version
-	3. Run all system/k8sapp regression tests
-	4. Inform customers and have them install apps and do their own testing
+
+## Validate
+
+1. Login to node and run `kubelet --version`
+2. Note that `kubectl get no -A` may not immediately show current version
+3. Run all system/k8sapp regression tests
+4. Inform customers and have them install apps and do their own testing
 ## Tips and caveats
 
 - Kubespray cannot be used to regress a version.
