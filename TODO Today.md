@@ -46,3 +46,11 @@
 - [ ] Add keepalived to OpenWRT router
 - [ ] Add proper Ubuntu 25 template to proxmox
 - [ ] Add proper 9.4 Rocky template to proxmox (https://www.youtube.com/watch?v=MJgIm03Jxdo)
+
+----
+
+Stuff to get from the storage unit
+
+- [ ] Phone mount for bike
+- [ ] Bike stand
+- [ ] Tools from cart
