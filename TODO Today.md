@@ -1,6 +1,6 @@
 - [ ] Tighten my crank arms
 - [ ] Remove Tailfin rack
-- [ ] 
+- [ ] Add dedicated Starlink rack
 
 ----
 
