@@ -4,6 +4,8 @@
 - [ ] Find modem and order extra sim card
 - [ ] Cancel Starlink (starting next month)
 - [ ] Add back bento box
+- [ ] Get the ergon seat
+- [ ] Consider the frame bag
 - [x] Find watch charger
 
 ----
