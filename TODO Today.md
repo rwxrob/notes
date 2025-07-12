@@ -1,25 +1,9 @@
-- [x] Upgrade the kubespray image to latest and retest against existing node1
-- [x] Decide what k8sapps will be on the management cluster
-	- [x] What does Kubespray already install for us by default? (Calico, etc.)
-	- [x] What are the required k8sapps that are required for customer apps to work? (Istio, etc.)
-	- [x] What are the k8sapps that provide core services? (Harbor, etc.)
-- [x] Define the "breaking lab" architecture
-	- [x] Build `walt` login machine - Ubuntu 2.25
-    - [x] Install OS (user `rwxrob` as root admin)
-    - [x] Setup NFS `/s` mount
-    - [x] Update `~/rwxrob` to be `/s/rwxrob`
-    - [x] Setup `rwxrob` admin user
-	- [x] Build `heisenberg` single-node management k8s cluster - Rocky 9.4
-		- [x] Drop NFS mount for home directories
-		- [ ] [Install Kubernetes cluster with Kubespray](My%20home%20lab/Install%20Kubernetes%20cluster%20with%20Kubespray.md)
+- [ ] Tighten my crank arms
+- [ ] Remove Tailfin rack
+- [ ] 
 
+----
 
-- [ ] Document high-level steps to create and upgrade cluster
-	- [ ] Create cluster from scratch
-	- [ ] Create a cluster using GitOps and Kubespray from management cluster
-	- [ ] Upgrade cluster using the management cluster
-- [ ] Update custom Kubespray image to match current work version
-- [ ] Install Kubernetes admin/inf cluster with Kubespray (without k8sapps)
 - [ ] Create five VMs for "prod" k8s cluster
 - [ ] Create five VMs for "sandbox" (test01) cluster
 - [ ] Create a list of k8sapps needed and where they will live
@@ -54,3 +38,4 @@ Stuff to get from the storage unit
 - [ ] Phone mount for bike
 - [ ] Bike stand
 - [ ] Tools from cart
+- [ ] Starlink quick release bike rack
