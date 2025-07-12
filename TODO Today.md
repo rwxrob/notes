@@ -1,4 +1,4 @@
-- [ ] Tighten my crank arms
+- [x] Tighten my crank arms
 - [ ] Remove Tailfin rack
 - [ ] Add dedicated Starlink rack
 - [ ] Find modem and order exta sim card
