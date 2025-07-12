@@ -1,1 +1,0 @@
-Is when people copy and paste 
