@@ -1,6 +1,9 @@
 - [ ] Tighten my crank arms
 - [ ] Remove Tailfin rack
 - [ ] Add dedicated Starlink rack
+- [ ] Find modem and order exta sim card
+- [ ] Cancel Starlink (starting next month)
+- [ ] Find watch charger
 
 ----
 
