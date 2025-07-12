@@ -1,9 +1,10 @@
 - [x] Tighten my crank arms
-- [ ] Remove Tailfin rack
+- [x] Remove Tailfin rack
 - [ ] Add dedicated Starlink rack
-- [ ] Find modem and order exta sim card
+- [ ] Find modem and order extra sim card
 - [ ] Cancel Starlink (starting next month)
-- [ ] Find watch charger
+- [ ] Add back bento box
+- [x] Find watch charger
 
 ----
 
