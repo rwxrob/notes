@@ -9,4 +9,3 @@ Supported k8s version: v1.20+ (per https://github.com/goharbor/harbor-helm)
 Bitnami Helm chart: 26.7.10
 
 - Discovered that pinned <14 of postgresql version is now removed (which was bug)
-- 
