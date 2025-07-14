@@ -41,6 +41,7 @@ Here's what I live on.
 	- Dish soap pods
 	- Laundry detergent pods (hypo-allergenic)
 	- Tall kitchen garbage bags
+
 ## Rarely
 
 - Extra virgin olive oil
@@ -57,4 +58,3 @@ Here's what I live on.
 	- Garlic salt
 	- Minced garlic
 	- Basil
-- Parchment paper
