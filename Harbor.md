@@ -5,4 +5,4 @@ TODO
 3. Create additional manifest for one-off special application
 
 Latest Harbor version: v2.13.1-rc3
-Supported k8s version: 
+Supported k8s version: v1.20+ (per https://github.com/goharbor/harbor-helm)
