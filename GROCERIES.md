@@ -34,6 +34,7 @@ Here's what I live on.
 
 - Orgain protein powder
 - Huel
+Canned chilli
 - Real butter
 - Pepperoncinis
 - Taco bell sauce
