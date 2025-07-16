@@ -1,0 +1,11 @@
+- Wind noise reduction on camera set to "Standard"
+- Front lights
+- Rear lights
+- Bike computer
+- Watch
+- Tire pressure
+- Hydration
+- Emergency kit
+	- Minitool
+	- USB pump
+	- Tubeless plugs
