@@ -243,10 +243,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "c7489988009b94f4",
   "lastOpenFiles": [
-    "Templates Proxmox home lab with cloud-init.md",
+    "Food/Daily fundamental diet.md",
     "Food/Best protein source for money.md",
+    "Templates Proxmox home lab with cloud-init.md",
     "Grafana.md",
     "Harbor.md",
     "Pre-bike checklist.md",
@@ -272,7 +273,6 @@
     "My home lab/Kubespray upgrades/Untitled.md",
     "My home lab/Kubespray upgrades",
     "My home lab/Upgrade Kubernetes.md",
-    "Linux Beginner Boost.md",
     "My home lab/Install",
     "_ Tech Beginners",
     "TODO",

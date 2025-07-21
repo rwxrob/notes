@@ -9,7 +9,7 @@ Sardines in olive oil are half as much as eggs as a source of protein and come w
 
 Red meat is a horrible source of protein and should only be eaten very rarely but does provide B-12.
 
-## 🎯 Daily Protein Goal: 154 g  
+## 🎯 Daily Protein Goal (for Rob): 154 g  
 Balanced from eggs, Orgain powder, and sardines
 
 ### 🧮 Nutritional Breakdown
