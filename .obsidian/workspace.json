@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Daily fundamental diet.md",
+                "file": "Grafana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily fundamental diet"
+              "title": "Grafana"
             }
           }
         ],
@@ -245,8 +245,8 @@
   },
   "active": "c7489988009b94f4",
   "lastOpenFiles": [
-    "Food/Best protein source for money.md",
     "Food/Daily fundamental diet.md",
+    "Food/Best protein source for money.md",
     "Templates Proxmox home lab with cloud-init.md",
     "Grafana.md",
     "Harbor.md",
