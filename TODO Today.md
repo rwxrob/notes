@@ -1,6 +1,8 @@
 - [ ] Finish Grafana k8sapp
 - [ ] Set Bitnami meeting for Tuesday
+- [ ] 
 - [ ] Make first contact with lawyer about teeth
+- [ ] 
 
 
 ----
