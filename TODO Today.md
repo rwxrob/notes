@@ -1,6 +1,7 @@
 - [ ] Finish Grafana k8sapp
 - [ ] Set Bitnami meeting for Tuesday
-- [ ] 
+- [ ] Get Thena a working bike
+- [ ] Clear out the front room (put stuff in )
 - [ ] Make first contact with lawyer about teeth
 - [ ] 
 

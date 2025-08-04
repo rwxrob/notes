@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taking down life's real bosses.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taking down life's real bosses"
+              "title": "TODO Today"
             }
           }
         ],
@@ -259,8 +259,8 @@
   },
   "active": "12505da42641b65c",
   "lastOpenFiles": [
+    "Philosophy/Taking down life's real bosses.md",
     "TODO Today.md",
-    "Taking down life's real bosses.md",
     "TODO 2025.md",
     "Grafana.md",
     "Food/Daily fundamental diet.md",

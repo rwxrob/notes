@@ -13,4 +13,8 @@ Gamers will relate to what it takes to take down a boss in a game designed to ki
 
 ## How do we take them down?
 
-- 
+- **“Boss dance”** — informal name for the rolling, baiting, and spacing to survive
+- Don't panic and lose focus
+- Don't fear the boss as scary as it looks
+- Be patient
+- Small attacks over time add up ("marginal gains")
