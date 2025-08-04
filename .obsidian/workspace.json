@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafana.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grafana"
+              "title": "TODO Today"
             }
           }
         ],
@@ -245,10 +245,11 @@
   },
   "active": "c7489988009b94f4",
   "lastOpenFiles": [
+    "TODO 2025.md",
+    "Grafana.md",
     "Food/Daily fundamental diet.md",
     "Food/Best protein source for money.md",
     "Templates Proxmox home lab with cloud-init.md",
-    "Grafana.md",
     "Harbor.md",
     "Pre-bike checklist.md",
     "Temp.md",
@@ -272,7 +273,6 @@
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades/Untitled.md",
     "My home lab/Kubespray upgrades",
-    "My home lab/Upgrade Kubernetes.md",
     "My home lab/Install",
     "_ Tech Beginners",
     "TODO",

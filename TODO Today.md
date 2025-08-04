@@ -1,12 +1,7 @@
-- [x] Tighten my crank arms
-- [x] Remove Tailfin rack
-- [ ] Add dedicated Starlink rack
-- [ ] Find modem and order extra sim card
-- [ ] Cancel Starlink (starting next month)
-- [x] Add back bento box
-- [x] Get the ergon seat
-- [ ] Consider the frame bag
-- [x] Find watch charger
+- [ ] Finish Grafana k8sapp
+- [ ] Set Bitnami meeting for Tuesday
+- [ ] Make first contact with lawyer about teeth
+
 
 ----
 
