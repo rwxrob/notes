@@ -6,6 +6,7 @@
 - [ ] Clear out the front room (put stuff in main bedroom)
 - [ ] Setup bike repair in front room
 - [ ] Find DJI Action 5 and swap onto backpack
+- [ ] Get half-frame pack working on bike
 
 ----
 
