@@ -1,9 +1,14 @@
 - [ ] Finish Grafana k8sapp
 - [ ] Set Bitnami meeting for Tuesday
+- [ ] Get lights from storage unit
 - [ ] Get Thena a working bike
-- [ ] Clear out the front room (put stuff in )
+- [ ] Repair the tires of the urban/trekking bike
+- [ ] Clear out the front room (put stuff in main bedroom)
+- [ ] Setup bike repair in front room
+
+----
+
 - [ ] Make first contact with lawyer about teeth
-- [ ] 
 
 
 ----
