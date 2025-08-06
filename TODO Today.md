@@ -1,17 +1,13 @@
-- [ ] Finish Grafana k8sapp
-- [ ] Set Bitnami meeting for Tuesday
-- [x] Get lights from storage unit
-- [x] Get Thena a working bike
-- [ ] Repair the tires of the urban/trekking bike
+- [ ] Grafana + CloudNativePG
+- [ ] Order new cards
+- [ ] Buy more lights for front room
+
 - [ ] Clear out the front room (put stuff in main bedroom)
-- [ ] Setup bike repair in front room
-- [ ] Find DJI Action 5 and swap onto backpack
-- [ ] Get half-frame pack working on bike
-- [ ] Go for a bike ride
 
 ----
 
 - [ ] Make first contact with lawyer about teeth
+- [ ] Repair the tires of the urban/trekking bike
 
 
 ----
