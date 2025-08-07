@@ -1,14 +1,8 @@
 - [ ] Grafana + CloudNativePG
-- [ ] Order new cards
 - [ ] Buy more lights for front room
-
 - [ ] Clear out the front room (put stuff in main bedroom)
-
-----
-
 - [ ] Make first contact with lawyer about teeth
 - [ ] Repair the tires of the urban/trekking bike
-
 
 ----
 
