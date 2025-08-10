@@ -1,3 +1,15 @@
 - Been 14 years since attended a UUCC service and it was with Doris, I think SKILSTAK idea came after that
 - UUCC requires a field in God, which is why started to find other more positive use of that time in Sundays (activism, mentoring, community building)
+- Bhakti yoga fulfills this for me with literal belief in God
+- The best commity is a group of friends with whom you can laugh, love, and learn
+- UUCC is for those who find worship in the traditional, preachy sense fun at some level
+- My best memories are the "room in the inn" activities instead of the hours listening to preaching
+- Every second not spent in recovery and preparation to do what we are called to do is a waste of time including sitting in church
+- Some learn best in a lecture hall, most learn better interactively where they internalize are relate to the learning and church "worship" attendance is largely the lectural hall style of spiritual learning, some respond, others not
+- I respond to a full moon or sunset or sunrise from a spiritual level more than will ever be possible in a "worship" service, nature is my temple
+- Some need a forum for their spirituality to be acknowledged and recognized for it to be valid for themselves, which is fine just not me
+- "Only unhappy people become cruel. Pray for them to be happy. If we are compassionate and kind we can help them overcome if we decide to love no matter what. You are loved no matter what and you can tap into it. No one is beyond the love the Universe contains. Snatxh away the mic from the bullies in your mind. Feel the brightness of this world. I have faith that I can be okay no matter what."
+- Words of the Bhuddist monk were what I needed to hear but did I need a service for it?
+- So many young amazing kids in the choir
+- For a family church like this makes a lot of sense 
 - 
