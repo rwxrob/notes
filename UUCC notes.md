@@ -1,0 +1,3 @@
+- Been 14 years since attended a UUCC service and it was with Doris, I think SKILSTAK idea came after that
+- UUCC requires a field in God, which is why started to find other more positive use of that time in Sundays (activism, mentoring, community building)
+- 
