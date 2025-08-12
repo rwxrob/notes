@@ -1,1 +1,3 @@
-God and I have a very strange relationship. Sometimes I call him a dumb ass and flip him off while smiling at him. Other times she stings me with a bee or trips me 
+God and I have a very strange relationship. Sometimes I call him a dumb ass and flip him off while smiling at him. Other times she stings me with a bee or trips me with a tree root on a trail run just to send a message. God shows up in my imagination in many different forms, sometimes as a brown bro who looks a lot like Jesus, other times as an beautiful, monstrous, blue women with her tongue out holding severed heads of the ego monsters she has defeated in righteous rage, always with different pronouns. Yet somehow they are always there ready to give me the attention I need when I need it and actually listen. I see that now more than ever.
+
+Recently, 
