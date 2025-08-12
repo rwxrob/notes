@@ -12,4 +12,6 @@ A man full of toxic subconscious pain might lash out at unsuspecting at surprise
 
 Growth comes from trauma and resistance, whether it is from adapting to and repairing micro-tears  in muscle fibers brought on through strength training, or being forced to ask extremely painful questions when others hurt us, willingly or otherwise. It is our response to the stress, resistance, opposition, and damage that defines our growth and improvement.
 
-God knows what we are capable of and even though sometimes puts certain humans through unfathomable trials but this is not because God is an asshole (even though I love calling him that when I talk to him/her/them). God just understands the vibrations of existence composed of waves with highs and lows.
+God knows what we are capable of and even though God sometimes puts certain humans through unfathomable trials composed of huge waves and storms this is not because God is an asshole (even though I love calling him that when I talk to him/her/them). God just understands the vibrations of existence composed of waves with highs and lows. In fact, God may very well just _be_ those vibrations undulating through us all in every form, physical and spiritual.
+
+Why does understanding this matter? Because it is the basis of our own growth and forgiveness for others as well as ourselves. When we realize that it is a law of existence that we _must_ play the part of antagonist in someone else's story from time to time—usually outside of our full control—then we can understand our role, own our moments—yes, of failure—but also 
