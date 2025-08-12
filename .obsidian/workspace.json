@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Good or bad? How about both..md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Good or bad? How about both."
+              "title": "TODO Today"
             }
           }
         ],
@@ -285,10 +285,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "cfcdd0851b522968",
   "lastOpenFiles": [
-    "Cancel belabox?.md",
     "Philosophy/Good or bad? How about both..md",
+    "Cancel belabox?.md",
     "UUCC notes.md",
     "TODO Today.md",
     "Philosophy/Taking down life's real bosses.md",

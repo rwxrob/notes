@@ -3,7 +3,7 @@
 - [ ] Clear out the front room (put stuff in main bedroom)
 - [ ] Make first contact with lawyer about teeth
 - [ ] Repair the tires of the urban/trekking bike
-
+- [ ] Register car in my name
 ----
 
 - [ ] Create five VMs for "prod" k8s cluster
