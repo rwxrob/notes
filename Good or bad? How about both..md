@@ -2,9 +2,12 @@ God and I have a very strange relationship. Sometimes I call him a dumb ass and 
 
 Here's the thing, every one of us on Earth throughout history must play both the protagonist and antagonist, hero and villain, friend and foe. We are the ones who "write our own story" like that wonderful song from My Turn on Earth says, but who knew each of us is both a Jedi and Sith lord at the same time, Yin and Yang. I think I finally get it now. Let me see if I can explain this like an engineer.
 
-It's physically impossible for light to exist without darkness. This is an observable universal truth. Sure there are shades of luminescence but even the gradient is impossible without the extremes. Observable waves of energy have a crest and a trough, a place of high pressure and low, an on and and off, a one and a zero. This is perhaps the most observable, self-evident property of all creation. Nothing can exist without this. All laws of science and spirituality are based on it.
+It's physically impossible for light to exist without darkness. This is an observable universal truth. Sure there are shades of luminescence but even a gradient is impossible without the infinite extremes. Waves of all kinds have a crest and a trough, a place of high pressure and low. This is perhaps the most observable, self-evident property of all creation. Nothing can exist without it. All laws of science and spirituality are based on it.
 
-There can be no growth without opposition, contrast, sometimes painful and other times joyful. This fundamentally means that we cannot grow unless someone or something else acts as a catalyst and source of pain for us, intention or otherwise. Loss of a loved one provides an opportunity for growth just as when we are intentionally or accidentally the source of immense pain to others.
+Therefore, nothing can exist without opposition and contrast, no progress, no creation, no growth. This fundamentally means everything requires a catalyst. There can be no action without a reaction. Spiritually this means we all requires a source of pain to grow and progress. 
+
+Here's the hard part to stomach, I mean, to really understand and accept. 
+for us, intention or otherwise. Loss of a loved one provides an opportunity for growth just as when we are intentionally or accidentally the source of immense pain to others.
 
 A girl excited to have fun with her friend out on the town might not pay enough attention to avoid forcing an unsuspecting cyclist's face into the pavement breaking his nose and all his front teeth causing his jaded soul to see humanity in a new way as the unsung heroes of the ER and EMTs patch him back together helping him literally find his smile again.
 
