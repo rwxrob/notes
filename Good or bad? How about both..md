@@ -10,4 +10,6 @@ A girl excited to have fun with her friend out on the town might not pay enough 
 
 A man full of toxic subconscious pain might lash out at unsuspecting at surprised, dreadfully hurt people who he deeply random strangers or even people he deeply loves for no obvious reason they can see forcing them to face their own trials and trauma.
 
-Growth comes from trauma. Whether it is from micro-tears  in muscle fibers brought on through strength training
+Growth comes from trauma and resistance, whether it is from adapting to and repairing micro-tears  in muscle fibers brought on through strength training, or being forced to ask extremely painful questions when others hurt us, willingly or otherwise. It is our response to the stress, resistance, opposition, and damage that defines our growth and improvement.
+
+God knows what we are capable of and even though sometimes puts certain humans through unfathomable trials but this is not because God is an asshole (even though I love calling him that when I talk to him/her/them). God just understands the vibrations of existence composed of waves with highs and lows.
