@@ -6,10 +6,13 @@ It's physically impossible for light to exist without darkness. This is an obser
 
 Therefore, nothing can exist without opposition and contrast, no progress, no creation, no growth. This fundamentally means everything requires a catalyst. There can be no action without a reaction. Spiritually this means we all requires a source of pain to grow and progress. 
 
-Here's the hard part to stomach, I mean, to really understand and accept. 
-for us, intention or otherwise. Loss of a loved one provides an opportunity for growth just as when we are intentionally or accidentally the source of immense pain to others.
+Here's the hard part, this means that _every single one of us is a catalyst for spiritual growth in others_ no matter how painful this universal truth is to accept. 
 
-A girl excited to have fun with her friend out on the town might not pay enough attention to avoid forcing an unsuspecting cyclist's face into the pavement breaking his nose and all his front teeth causing his jaded soul to see humanity in a new way as the unsung heroes of the ER and EMTs patch him back together helping him literally find his smile again.
+Let's look at some examples.
+
+Loss of a loved one provides an opportunity for growth as we mourn the often unfair life taken so early and internalize our own mortality acting with more focus, passion, and commitment to make the most of the time we have left to honor that loss.
+
+A excited girl dressed to party with her friend out on the town might not pay enough attention to avoid forcing an unsuspecting cyclist's face into the pavement breaking his nose and all his front teeth causing his jaded soul to see humanity in a new way as the unsung heroes of the ER and EMTs patch him back together helping him literally find his smile again.
 
 A man full of toxic subconscious pain might lash out at unsuspecting at surprised, dreadfully hurt people who he deeply random strangers or even people he deeply loves for no obvious reason they can see forcing them to face their own trials and trauma.
 
