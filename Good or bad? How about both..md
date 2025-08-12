@@ -1,0 +1,1 @@
+God and I have a very strange relationship. Sometimes I call him a dumb ass and flip him off while smiling at him. Other times she stings me with a bee or trips me 
