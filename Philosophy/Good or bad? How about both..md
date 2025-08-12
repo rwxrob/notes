@@ -8,7 +8,7 @@ Here's the thing, every one of us on Earth throughout history must play both the
   
 It's physically impossible for light to exist without darkness. This is an observable universal truth. Sure there are shades of luminescence but even a gradient is impossible without the infinite extremes. Waves of all kinds have a crest and a trough, a place of high pressure and low. This is perhaps the most observable, self-evident property of all creation. Nothing can exist without it. All laws of science and spirituality are based on it.  
   
-Therefore, nothing can exist without opposition and contrast, no progress, no creation, no growth. This fundamentally means everything requires a catalyst. There can be no action without a reaction. Spiritually this means we all requires a source of pain to grow and progress.  
+Therefore, nothing can exist without opposition and contrast, no progress, no creation, no growth. This fundamentally means everything requires a catalyst. There can be no action without a reaction. Spiritually this means we all require a source of pain to grow and progress.  
   
 Here's the hard part, this means that _every single one of us is a catalyst for spiritual growth in others_ no matter how painful this universal truth is to accept.  
   
