@@ -12,11 +12,11 @@ Let's look at some examples.
 
 Loss of a loved one provides an opportunity for growth as we mourn the often unfair life taken so early and internalize our own mortality acting with more focus, passion, and commitment to make the most of the time we have left to honor that loss.
 
-A excited girl dressed to party with her friend out on the town might not pay enough attention to avoid forcing an unsuspecting cyclist's face into the pavement breaking his nose and all his front teeth causing his jaded soul to see humanity in a new way as the unsung heroes of the ER and EMTs patch him back together helping him literally find his smile again.
+A excited girl dressed to party with her friend out on the town might not pay enough attention to avoid forcing an unsuspecting cyclist's face to smash into the the pavement breaking his nose and all his front teeth causing his jaded soul to see humanity in a new way as the unsung heroes of the ER and EMTs patch him back together helping him find his smile again, literally.
 
-A man full of toxic subconscious pain might lash out at unsuspecting at surprised, dreadfully hurt people who he deeply random strangers or even people he deeply loves for no obvious reason they can see forcing them to face their own trials and trauma.
+A man full of toxic subconscious pain might lash out at an innocent, unsuspecting, and dreadfully surprised person sharing the same roadway or bed for no obvious reason forcing them to face their own trials and trauma and ability to see past the hurtful anger to the person in pain underneath.
 
-Growth comes from trauma and resistance, whether it is from adapting to and repairing micro-tears  in muscle fibers brought on through strength training, or being forced to ask extremely painful questions when others hurt us, willingly or otherwise. It is our response to the stress, resistance, opposition, and damage that defines our growth and improvement.
+Growth requires resistance and trauma. It's not only a medical fact, but a spiritual one. Whether it is from adapting to and repairing micro-tears  in muscle fibers brought on through strength training, or being forced to ask extremely painful questions when others hurt us, willingly or otherwise. It is our response to the stress, resistance, opposition, and damage that propels us forward with growth and improvement.
 
 God knows what we are capable of and even though God sometimes puts certain humans through unfathomable trials composed of huge waves and storms this is not because God is an asshole (even though I love calling him that when I talk to him/her/them). God just understands the vibrations of existence composed of waves with highs and lows. In fact, God may very well just _be_ those vibrations undulating through us all in every form, physical and spiritual.
 
