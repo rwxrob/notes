@@ -1,0 +1,4 @@
+- Shimano Sora R3000 STI triple levers (ST-R3030) work
+- Brakes and index shifting match perfectly
+- Need new cables, housing, and bar tape
+- Take about an afternoon to convert
