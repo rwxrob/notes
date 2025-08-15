@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IKEA shopping.md",
+                "file": "Bikes/Keshy conversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IKEA shopping"
+              "title": "Keshy conversion"
             }
           }
         ],
@@ -301,6 +301,7 @@
   },
   "active": "2c0a66e63fd2b2f3",
   "lastOpenFiles": [
+    "IKEA shopping.md",
     "Bikes/Keshy conversion.md",
     "Bikes/Pre-bike checklist.md",
     "TODO Today.md",
@@ -317,7 +318,6 @@
     "Harbor.md",
     "Temp.md",
     "Active IRL streaming kit.md",
-    "IKEA shopping.md",
     "GROCERIES.md",
     "Logs/2025-07-11.md",
     "My home lab/Kubespray upgrades/Upgrading Kubernetes cluster with Kubespray.md",
