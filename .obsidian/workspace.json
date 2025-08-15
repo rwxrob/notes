@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keshy conversion.md",
+                "file": "IKEA shopping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keshy conversion"
+              "title": "IKEA shopping"
             }
           }
         ],
@@ -301,8 +301,8 @@
   },
   "active": "2c0a66e63fd2b2f3",
   "lastOpenFiles": [
+    "Bikes/Keshy conversion.md",
     "Bikes/Pre-bike checklist.md",
-    "Keshy conversion.md",
     "TODO Today.md",
     "Bikes",
     "Philosophy/Good or bad? How about both..md",
