@@ -1,0 +1,5 @@
+- Milk
+- Eggs
+- Waffle iron
+- Packing plastic wrap
+- 2x laptop desks for computer
