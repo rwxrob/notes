@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SHOPPING.md",
+                "file": "Fitness/Bike collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SHOPPING"
+              "title": "Bike collection"
             }
           }
         ],
@@ -194,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "collection",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -315,8 +316,8 @@
   },
   "active": "da0c6128b1a1e4e7",
   "lastOpenFiles": [
-    "Bikes/Keshy conversion.md",
     "SHOPPING.md",
+    "Bikes/Keshy conversion.md",
     "IKEA shopping.md",
     "Bikes/Pre-bike checklist.md",
     "TODO Today.md",
