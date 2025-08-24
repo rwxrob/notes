@@ -17,7 +17,7 @@ The Domane (all-road) is my main bike and has three wheel sets:
 
 My Salsa Marrakesh (which I don't ride much any more because it is so slow) has two wheel sets:
 
-1. 38 Renee Herse slicks
-2. Vittoria Mescal 2.1
+1. 38 Renee Herse slicks, tubeless (roads)
+2. Vittoria Mescal 2.1, tubeless (everything else)
 
 I don't really have a Tour Divide bike mostly because I like to ride my bike and not push it up hills. I would likely never do Tour Divide and do the GDMBR instead, which can be done with any touring bike including my super heavy Marrakesh that allows me to take all my camping and cooking gear and really enjoy the experience instead of getting fleeced by all the bike-tourism traps.
