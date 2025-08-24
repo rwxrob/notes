@@ -13,4 +13,11 @@ The Domane (all-road) is my main bike and has three wheel sets:
 
 1. Swiss-side 26/28c, 63mm deep aero, tubeless (most of the year)
 2. Stock bontrager, 32c, tubeless (winter, slam them up)
-3. Maxxis rambler 40c, tubeless (light gravel)
+3. Maxxis rambler 38/40c, tubeless (light gravel)
+
+My Salsa Marrakesh (which I don't ride much any more because it is so slow) has two wheel sets:
+
+1. 38 Renee Herse slicks
+2. Vittoria Mescal 2.1
+
+I don't really have a Tour Divide bike mostly because I like to ride my bike and not push it up hills. I would likely never do Tour Divide and do the GDMBR instead
