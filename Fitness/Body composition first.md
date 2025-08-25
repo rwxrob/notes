@@ -14,7 +14,7 @@ Intensity produces cortisol. All those videos about increasing intensity, streng
 
 The Cyclist's Training Bible and Coggins are relatively silent on this issue. It's not that they don't know about it or think it is unimportant. It's just not sexy. Most of their material assumes a level of fitness that most people coming to cycling just won't have—even if they had it at one time during their live. There is almost zero discussion of what a person with an "overweight" BMI can do, not a chapter discusses this at all. 
 
-For whatever reason, the assumption seems to be person looking to train for performance already has a normal amount of fitness and body fat. This can make people who have never had that—or lost it—feel excluded and ignored. The problem is exacerbated by pros making jokes about [MAMILs](MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md) who actually are doing really well given all that life demands of them outside of their "hobby" no matter how passionate they are. 
+For whatever reason, the assumption seems to be person looking to train for performance already has a normal amount of fitness and body fat. This can make people who have never had that—or lost it—feel excluded and ignored. The problem is exacerbated by pros making jokes about [MAMILs](../Bikes/MAMIL%20-%20Middle-Age%20Men%20In%20Lycra.md) who actually are doing really well given all that life demands of them outside of their "hobby" no matter how passionate they are. 
 
 > [!NOTE]
 >Is it true that someone with 23% body fat should probably not wear tight-fitting lycra? Absolutely. How is it helping? Aero gains? Even at 20% aero savings all that extra weight is completely offset but if it helps that person stay motivated then why not (even it that's not my thing).
