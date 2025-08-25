@@ -15,7 +15,7 @@ The Domane (all-road) is my main bike and has three wheel sets:
 2. Stock bontrager, 32c, tubeless (winter, slam them up)
 3. Maxxis rambler 38/40c, tubeless (light gravel)
 
-My Salsa Marrakesh ("Keshy") is a tank designed for ultra-stable, long-distance, longevity. It doesn't go anywhere (but downhill) fast. I can keep  It has two wheel sets:
+My Salsa Marrakesh ("Keshy") is a tank designed for ultra-stable, long-distance, longevity. She doesn't go anywhere (but downhill) fast, but the places she *can* go with the stuff she can carry make it worth it. For example, while it might take forever to climb Logan canyon when I do get to the top I can put on my parka or hop into my huge cozy sleeping bag and tent to have a great time out in Fall, Spring, and even Winter. Keshy has two quick-release wheel sets that are also tanks in terms of never breaking spokes under load:
 
 1. 38 Renee Herse slicks, tubeless (roads)
 2. Vittoria Mescal 2.1, tubeless (everything else)
