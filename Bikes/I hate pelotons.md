@@ -17,6 +17,6 @@ There, I said it. I seem to go through this evolution every time I get back into
 - Then I start hating riding my bike because I'm so slow
 - Then I overreact and sign up for another race
 
-This is why I got into triathlon, then cross-country mountain biking where drafting isn't often a thing, and later [performance adventure cycling](Fitness/Performance%20adventure%20cycling%20FTW.md). It is at that point when I rethink my entire bike setup and buy bags for my bike. I also stop looking at the Gran Fondo routes and start making ultra-distance, slow routes through interesting places (like [Davidson to Asheville (Shortest)](../Bikes/Davidson%20to%20Asheville%20(Shortest).md)).
+This is why I got into triathlon, then cross-country mountain biking where drafting isn't often a thing, and later [performance adventure cycling](Performance%20adventure%20cycling%20FTW.md). It is at that point when I rethink my entire bike setup and buy bags for my bike. I also stop looking at the Gran Fondo routes and start making ultra-distance, slow routes through interesting places (like [Davidson to Asheville (Shortest)](../Bikes/Davidson%20to%20Asheville%20(Shortest).md)).
 
 I feel so much better coming to terms with that.

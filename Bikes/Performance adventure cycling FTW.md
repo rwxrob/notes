@@ -3,7 +3,7 @@ I've had lots of opinions about adventure cycling over the years:
 - [Digital Nomad by Bike was catastrophic failure](../Bikes/Digital%20Nomad%20by%20Bike%20was%20catastrophic%20failure.md)
 - [Events instead of bikepacking?](../Bikes/Events%20instead%20of%20bikepacking?.md)
 - [Bike touring is horrible for your health](../Bikes/Bike%20touring%20is%20horrible%20for%20your%20health.md)
-- [Annual bike events](Annual%20bike%20events.md)
+- [Annual bike events](../Bikes/Annual%20bike%20events.md)
 
 I think I'm finally narrowing in on what it is that I actually *really* love: ***performance adventure cycling*** or PAC. That's a term that according to my research looks like I just invented.  I've also heard people call similar things "fastpacking" or "fast bikepacking" or "minimal bikepacking" or "credit card touring." The term "bike packing" does apply, barely, since I'm carrying stuff but I'm carrying so little stuff that it only barely qualifies.
 
