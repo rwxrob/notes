@@ -1,4 +1,6 @@
-I ride for the vibes and fitness. While I love a good jump, chase, or placing in my age group, I mostly ride because I just love it and how it makes me feel. By bike choices should not be a surprise. I stick with the bigger brands because they have the best support nationally.
+I ride for the vibes and fitness. When I race it is mostly against myself with an occasional pack dynamic. For all-out crit racing and race-craft I do all that on the indoor bike (rather than break a hip at my age). The most competitive racing I ever do outside is gran fondos and gravel where the risk is a lot less.
+
+. While I love a good jump, chase, or placing in my age group, I mostly ride because I just love it and how it makes me feel. By bike choices should not be a surprise. I stick with the bigger brands because they have the best support nationally.
 
 | Use                     | Bike                   | Pedals | Have |    Tires    |
 | ----------------------- | ---------------------- | ------ | ---- | :---------: |
