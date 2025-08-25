@@ -1,6 +1,8 @@
-I ride for the vibes and fitness. When I race it is mostly against myself with an occasional pack dynamic. For all-out crit racing and race-craft I do all that on the indoor bike (rather than break a hip at my age). The most competitive racing I ever do outside is gran fondos and gravel where the risk is a lot less.
+I ride for the vibes and fitness. While I love a good jump, chase, or placing in my age group, I mostly ride because I just love it and how it makes me feel. My bike choices should not be a surprise. 
 
-. While I love a good jump, chase, or placing in my age group, I mostly ride because I just love it and how it makes me feel. By bike choices should not be a surprise. I stick with the bigger brands because they have the best support nationally.
+I stick with the bigger brands because they have the best support nationally.
+
+When I race it is mostly against myself with an occasional pack dynamic. For all-out crit racing and race-craft I do all that on the indoor bike (rather than break a hip at my age). The most competitive racing I ever do outside is gran fondos and gravel where the risk is a lot less than road racing or criteriums. 
 
 | Use                     | Bike                   | Pedals | Have |    Tires    |
 | ----------------------- | ---------------------- | ------ | ---- | :---------: |
@@ -10,7 +12,7 @@ I ride for the vibes and fitness. When I race it is mostly against myself with a
 | Heavy touring           | Salsa Marrakesh        | Flat   | Yes  |   38,2.1    |
 | Bikepacking             | Salsa Cutthroat        | SPD    | No   |    2.25     |
 | Gravel racing           | Allied Able            | SPD    | No   |     2.2     |
-| Trails                  | Trek Roscoe 8 Gen 4    | SPD    | No   |     2.6     |
+| Trails                  | Trek Roscoe 8 Gen 4    | SPD    | Yes  |     2.6     |
 
 The Domane (all-road) is my main bike and has three wheel sets:
 
@@ -23,4 +25,3 @@ My Salsa Marrakesh (which I don't ride much any more because it is so slow) has 
 1. 38 Renee Herse slicks, tubeless (roads)
 2. Vittoria Mescal 2.1, tubeless (everything else)
 
-I don't really have a Tour Divide bike mostly because I like to ride my bike and not push it up hills. I would likely never do Tour Divide and do the GDMBR instead, which can be done with any touring bike including my super heavy Marrakesh that allows me to take all my camping and cooking gear and really enjoy the experience instead of getting fleeced by all the bike-tourism traps.
