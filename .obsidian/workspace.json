@@ -146,9 +146,19 @@
               "icon": "lucide-file",
               "title": "Bike collection"
             }
+          },
+          {
+            "id": "e043fbce1694e9aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -299,10 +309,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "da0c6128b1a1e4e7",
+  "active": "e043fbce1694e9aa",
   "lastOpenFiles": [
-    "Cancel belabox?.md",
+    "Logan bike events.md",
     "Fitness/Bike collection.md",
+    "Cancel belabox?.md",
     "SHOPPING.md",
     "Bikes/Keshy conversion.md",
     "IKEA shopping.md",
@@ -327,7 +338,6 @@
     "My home lab/Install Kubernetes cluster with Kubespray.md",
     "Streaming budget.md",
     "Places to see good live music.md",
-    "\"Copy Pasta\".md",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
     "My home lab/Install",
