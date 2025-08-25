@@ -1,3 +1,6 @@
+Update: I'm back at it. I do 10-15 minute FTP sprints on the open sections and take it nice and easy and enjoy the scenery during the rest of the time.
+
+----
 
 Update: I'm too fast for the suburbs now. I don't want to take any chances of hurting someone else—especially one of the cute kids having fun in their local neighborhood. Plus the number of tight, blind turns is fun but dangerous (as my slide out after a rainstorm confirms). Even though a dumb ass hauling a boat on a completely remote farm road almost took me out this week, it's still better than the risk of hurting another innocent person.
 

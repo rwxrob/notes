@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bikes/Bike collection.md",
+                "file": "Bikes/Don't ride these roads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bike collection"
+              "title": "Don't ride these roads"
             }
           }
         ],
@@ -301,8 +301,17 @@
   },
   "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "Logan bike events.md",
+    "Bikes/Rudy Venger helmet with anti-bee netting.md",
+    "Fitness/Shameless suburban sprinter (not anymore).md",
+    "Bikes/160mm crank arms + 52x36 chainrings.md",
+    "Bikes/Cycling clothing preferences.md",
+    "Bikes/High performance road bikepacking gear.md",
+    "Fitness/Morons choose TramsAm classic route.md",
+    "Fitness/I hate pelotons.md",
+    "Bikes/Best 50-50 all-road tire.md",
+    "Bikes/All-road PAC bike setup.md",
     "Bikes/Bike collection.md",
+    "Logan bike events.md",
     "Cancel belabox?.md",
     "SHOPPING.md",
     "Bikes/Keshy conversion.md",
@@ -319,15 +328,6 @@
     "Food/Best protein source for money.md",
     "Templates Proxmox home lab with cloud-init.md",
     "Harbor.md",
-    "Temp.md",
-    "Active IRL streaming kit.md",
-    "GROCERIES.md",
-    "Logs/2025-07-11.md",
-    "My home lab/Kubespray upgrades/Upgrading Kubernetes cluster with Kubespray.md",
-    "_ Tech Beginners/How to learn.md",
-    "My home lab/Install Kubernetes cluster with Kubespray.md",
-    "Streaming budget.md",
-    "Places to see good live music.md",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
     "My home lab/Install",
