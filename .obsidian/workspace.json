@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logan bike events.md",
+                "file": "Fitness/Bike collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logan bike events"
+              "title": "Bike collection"
             }
           }
         ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "collection",
+                "query": "collec",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +201,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -301,8 +302,8 @@
   },
   "active": "da0c6128b1a1e4e7",
   "lastOpenFiles": [
-    "Fitness/Bike collection.md",
     "Logan bike events.md",
+    "Fitness/Bike collection.md",
     "Cancel belabox?.md",
     "SHOPPING.md",
     "Bikes/Keshy conversion.md",
