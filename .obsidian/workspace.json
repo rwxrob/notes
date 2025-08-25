@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Bike collection.md",
+                "file": "Bikes/Bike collection.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,8 +201,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,10 +299,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "da0c6128b1a1e4e7",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
     "Logan bike events.md",
-    "Fitness/Bike collection.md",
+    "Bikes/Bike collection.md",
     "Cancel belabox?.md",
     "SHOPPING.md",
     "Bikes/Keshy conversion.md",
