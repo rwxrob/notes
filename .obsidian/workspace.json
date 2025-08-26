@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "Allied Able"
             }
+          },
+          {
+            "id": "57ffb3fce8bf4a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Muc-off Big Bore valves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Muc-off Big Bore valves"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -314,10 +328,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dabe6802ee12e909",
+  "active": "57ffb3fce8bf4a3c",
   "lastOpenFiles": [
-    "Bikes/Bike collection.md",
     "Allied Able.md",
+    "Muc-off Big Bore valves.md",
+    "Bikes/Bike collection.md",
     "_ Tech Beginners/How to learn.md",
     "Bikes/GFNats training strategy.md",
     "Logs/2025-08-25.md",
@@ -341,7 +356,6 @@
     "Bikes/Why don't more people join USA Cycling?.md",
     "Bikes/Don't ride these roads.md",
     "Bikes/Rudy Venger helmet with anti-bee netting.md",
-    "Bikes/160mm crank arms + 52x36 chainrings.md",
     "Bikes",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
