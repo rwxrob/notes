@@ -1,4 +1,4 @@
-Lachlan Morton won Unbound XL 2025 without valve cores. At this point if you are running tubeless and *don't* have Big Bore valves you are kind of living dangerously. 
+Lachlan Morton rode Unbound XL 2025 without valve cores. At this point if you are running tubeless and *don't* have Muc-Off Big Bore valves (or an equivalent) you are kind of living dangerously—especially if you are doing big miles on chonk. 
 
 - Ball value instead of shitty valve core
 - 240%+ more air flow
