@@ -1,1 +1,2 @@
-- Shimano STR 
+- [Shimano STR pedals](https://a.co/d/93kUqVY) 
+- 
