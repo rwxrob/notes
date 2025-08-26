@@ -3,4 +3,4 @@ At this point if you are running tubeless and *don't* have Big Bore valves you a
 - Ball value instead of shitty valve core
 - 240%+ more air flow
 - Easily add sealant without unseating tire
-- Better attachment to
+- Better attachment to rim with o-ring as well as seal
