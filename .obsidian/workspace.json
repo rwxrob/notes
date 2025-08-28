@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-08-28.md",
+                "file": "Philosophy/I don't like tech. I like what it gets me..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-08-28"
+              "title": "I don't like tech. I like what it gets me."
             }
           }
         ],
@@ -328,10 +328,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57ffb3fce8bf4a3c",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "I don't like tech. I like what it gets me..md",
     "Logs/2025-08-28.md",
+    "Philosophy/I don't like tech. I like what it gets me..md",
     "TODO Today.md",
     "README.md",
     "Knowledge management/Why I don't follow most of Zettelkasten approach.md",
