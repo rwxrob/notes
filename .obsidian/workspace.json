@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live streaming/Active IRL streaming kit.md",
+                "file": "Philosophy/UUCC notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active IRL streaming kit"
+              "title": "UUCC notes"
             }
           }
         ],
@@ -328,8 +328,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57ffb3fce8bf4a3c",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
+    "My home lab/Harbor.md",
+    "Temp.md",
+    "Live streaming/Active IRL streaming kit.md",
+    "Places to see good live music.md",
+    "Podman.md",
     "Bikes/Allied Able.md",
     "Bikes/Muc-Off Big Bore valves.md",
     "Bikes/Bike collection.md",
@@ -351,11 +356,6 @@
     "Fitness/Battling CIRS and MCAS with sweat.md",
     "Bikes/Digital Nomad by Bike was catastrophic failure.md",
     "Bikes/Shoe size.md",
-    "Bikes/2025 NC Mountains to Coast Ride.md",
-    "Bikes/It just makes me chuckle.md",
-    "Bikes/Why don't more people join USA Cycling?.md",
-    "Bikes/Don't ride these roads.md",
-    "Bikes/Rudy Venger helmet with anti-bee netting.md",
     "Bikes",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
