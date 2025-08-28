@@ -20,6 +20,7 @@ Here's everything I use to do active live streaming IRL.
 - Extremely large bitrates possible
 - Glitches about every five minutes
 - Largest attachable battery lasts 4.5 hours
+- Get Un
 
 *Should I use the Orange Pi+*
 

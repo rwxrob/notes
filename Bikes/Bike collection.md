@@ -6,7 +6,7 @@ I ride mostly for the vibes and fitness but I'm also pretty damn competitive. Wh
 | All-road racing/touring | Trek Domane AL 5 Gen 4             | SPD SL | Yes  | 28/26, 32, 40/38 |
 | Urban commuting         | Ghost Square                       | Flat   | Yes  |        32        |
 | Touring, bikepacking    | Salsa Marrakesh                    | Flat   | Yes  |      38,2.1      |
-| Gravel racing           | [Allied Able](../Allied%20Able.md) | SPD    | No   |       2.2        |
+| Gravel racing           | [Allied Able](Allied%20Able.md) | SPD    | No   |       2.2        |
 | Trails, bikepacking     | Trek Roscoe 8 Gen 4                | SPD    | Yes  |       2.6        |
 |                         |                                    |        |      |                  |
 |                         |                                    |        |      |                  |

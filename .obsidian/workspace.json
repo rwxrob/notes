@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allied Able.md",
+                "file": "Bikes/Allied Able.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Muc-Off Big Bore valves.md",
+                "file": "Live streaming/Active IRL streaming kit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Muc-Off Big Bore valves"
+              "title": "Active IRL streaming kit"
             }
           }
         ],
@@ -330,8 +330,8 @@
   },
   "active": "57ffb3fce8bf4a3c",
   "lastOpenFiles": [
-    "Allied Able.md",
-    "Muc-Off Big Bore valves.md",
+    "Bikes/Allied Able.md",
+    "Bikes/Muc-Off Big Bore valves.md",
     "Bikes/Bike collection.md",
     "_ Tech Beginners/How to learn.md",
     "Bikes/GFNats training strategy.md",
