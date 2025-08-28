@@ -1,5 +1,4 @@
-- [ ] Grafana + CloudNativePG
-- [ ] Buy more lights for front room
+
 - [ ] Clear out the front room (put stuff in main bedroom)
 - [ ] Make first contact with lawyer about teeth
 - [ ] Repair the tires of the urban/trekking bike
@@ -10,13 +9,6 @@
 - [ ] Create five VMs for "sandbox" (test01) cluster
 - [ ] Create a list of k8sapps needed and where they will live
 - [ ] Create k8sapp repos for core services and system apps running in k8s clusters
-
-----
-
-- [ ] Call Spectrum
-- [ ] Pay WV tolls
-- [ ] Pay rent
-- [ ] Complete and submit teeth/nose insurance claim
 
 ----
 

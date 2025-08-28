@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/UUCC notes.md",
+                "file": "TODO Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UUCC notes"
+              "title": "TODO Today"
             }
           }
         ],
@@ -328,10 +328,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "57ffb3fce8bf4a3c",
   "lastOpenFiles": [
-    "My home lab/Harbor.md",
+    "README.md",
+    "Knowledge management/Why I don't follow most of Zettelkasten approach.md",
+    "My home lab/Grafana.md",
     "Temp.md",
+    "My home lab/Templates Proxmox home lab with cloud-init.md",
+    "Philosophy/UUCC notes.md",
+    "My home lab/Harbor.md",
     "Live streaming/Active IRL streaming kit.md",
     "Places to see good live music.md",
     "Podman.md",
@@ -351,11 +356,6 @@
     "Bikes/Thinking of performance adventure cycling again.md",
     "Bikes/2026 annual plan.md",
     "Bikes/Drivers who honk make me laugh.md",
-    "Bikes/Watts per kilogram over 3-second power.md",
-    "Fitness/Garmin Index scale and blood pressure.md",
-    "Fitness/Battling CIRS and MCAS with sweat.md",
-    "Bikes/Digital Nomad by Bike was catastrophic failure.md",
-    "Bikes/Shoe size.md",
     "Bikes",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
