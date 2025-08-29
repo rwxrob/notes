@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outdoor sports/Annual outdoor events.md",
+                "file": "Outdoor sports/Bike collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annual outdoor events"
+              "title": "Bike collection"
             }
           }
         ],
@@ -302,8 +302,8 @@
   },
   "active": "da0c6128b1a1e4e7",
   "lastOpenFiles": [
-    "Outdoor sports/Logan bike events.md",
     "Outdoor sports/Annual outdoor events.md",
+    "Outdoor sports/Logan bike events.md",
     "Logs/2025-08-25.md",
     "Outdoor sports/Allied Able.md",
     "Outdoor sports/Events instead of bikepacking?.md",
