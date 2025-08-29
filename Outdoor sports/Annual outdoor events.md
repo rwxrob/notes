@@ -7,7 +7,7 @@ My kids and I are moving to Logan, Utah. I am really excited about returning to 
 | April  | Salty Lizard         | Wendover, Utah | 98       | $180 | B        |
 | July   | Cache Gran Fondo     | Logan, Utah    | 100      | $125 | A        |
 | August | Cache Valley Century | Richmond, Utah | 100      | $70  | D        |
-|        |                      |                |          |      |          |
+| May    | Wild Horse           | Delle, Utah    | 104      | $180 |          |
 
 ----
 
