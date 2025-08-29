@@ -1,7 +1,8 @@
 *Update: August 29, 2025*
 My kids and I are moving to Logan, Utah. I am really excited about returning to my home state mostly because I missed pretty much everything about it (except the "goat heads" and Mormons). I plan on getting *very* active with as many outdoor communities that I can find but I'm mostly interested in riding bikes in every way and nordic skiing.
 
-- Logan 
+- Utah-Cache Gran Fondo
+- Cache Valley Century
 
 ----
 
