@@ -9,6 +9,8 @@ My kids and I are moving to Logan, Utah. I am really excited about returning to 
 | July   | Cache Gran Fondo     | Logan, Utah    | $125 | A        |
 | August | Cache Valley Century | Richmond, Utah | $70  | D        |
 
+I have no intention of doing Mudbound (Unbound) or Mud-South (Mid-South) ever. Neither even remotely interests me.
+
 ----
 
 After much consideration I've decided to stop doing doing Gran Fondos and return to [performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) which is neither "bike touring" or even "bike packing" as most use the term.
