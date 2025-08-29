@@ -1,13 +1,13 @@
 I ride mostly for the vibes and fitness but I'm also pretty damn competitive. When I race it is mostly against myself with an occasional group dynamic. For all-out crit racing and race-craft I'm on the indoor bike. Don't want to break a collar-bone, or a hip. The most competitive racing I do outside is usually endurance based (gran fondos, gravel racing, supported groups). I generally avoid spicy regular group rides.
 
-| Use                     | Bike                            | Pedals | Have |      Tires       |
-| ----------------------- | ------------------------------- | ------ | ---- | :--------------: |
-| Indoor training/esports | Wahoo Kickr Bike v2             | SPD SL | Yes  |        —         |
-| All-road racing/touring | Trek Domane AL 5 Gen 4          | SPD SL | Yes  | 28/26, 32, 40/38 |
-| Urban commuting         | Ghost Square                    | Flat   | Yes  |        32        |
-| Touring, bikepacking    | Salsa Marrakesh                 | Flat   | Yes  |      38,2.1      |
-| Gravel racing           | [Allied Able](Allied%20Able.md) | SPD    | No   |       2.2        |
-| Trails, parks           | Trek Roscoe 8 Gen 4             | SPD    | Yes  |       2.6        |
+| Priority | Use                     | Bike                            | Pedals | Have |      Tires       |
+| -------- | ----------------------- | ------------------------------- | ------ | ---- | :--------------: |
+|          | Indoor training/esports | Wahoo Kickr Bike v2             | SPD SL | Yes  |        —         |
+| 1        | All-road racing/touring | Trek Domane AL 5 Gen 4          | SPD SL | Yes  | 28/26, 32, 40/38 |
+|          | Urban commuting         | Ghost Square                    | Flat   | Yes  |        32        |
+| 2        | Touring, bikepacking    | Salsa Marrakesh                 | Flat   | Yes  |      38,2.1      |
+|          | Gravel racing           | [Allied Able](Allied%20Able.md) | SPD    | No   |       2.2        |
+| 3        | Trails, parks           | Trek Roscoe 8 Gen 4             | SPD    | Yes  |       2.6        |
 
 The Domane (all-road) is my main bike and has three wheel sets:
 
