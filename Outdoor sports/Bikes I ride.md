@@ -14,11 +14,10 @@ The Domane (all-road) is my main bike and has three wheel sets:
 2. Stock bontrager, 32c, tubeless (winter, slam them up)
 3. Maxxis rambler 40/38c, tubeless (light gravel)
 
+Turns out Dom can do pretty much every [annual outdoor events](Annual%20outdoor%20events.md) I ever want to do because I don't need more tire than a 42c in front and *never* plan on riding in any event that has a lot of mud of any kind.
 ## Keshy
 
 My Salsa Marrakesh ("Keshy") is a tank designed for ultra-stable, long-distance, longevity. She doesn't go anywhere (but downhill) fast, but the places she *can* go with the stuff she can carry make it worth it. For example, while it might take forever to climb a canyon when I do get to the top I can put on my parka or hop into my huge cozy sleeping bag and tent to have a great time out in Fall, Spring, and even Winter. Keshy has two quick-release wheel sets that are also tanks in terms of never breaking spokes under load:
 
 1. 38 Renee Herse slicks, tubeless (roads)
 2. Vittoria Mescal 2.1, tubeless (everything else)
-
-I haven't started gravel racing but I'm looking forward to starting and when I do I'll get an Allied Able that will take up to 57c tires.
