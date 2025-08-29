@@ -1,12 +1,12 @@
-I ride mostly for the vibes and fitness but I'm also pretty damn competitive. When I race it is mostly against myself with an occasional group dynamic. For all-out crit racing and race-craft I'm on the indoor bike.  The most competitive racing I do outside is usually endurance based (gran fondos, super light gravel racing, supported groups). I generally avoid spicy regular group rides.
+I ride mostly for the vibes and fitness but I'm also pretty damn competitive. When I race it is mostly against myself with an occasional group dynamic. For all-out crit racing and race-craft I'm on the indoor bike.  The most competitive racing I do outside is anything I can do on my Domane without swapping anything but wheels (usually endurance based gran fondos, super light gravel racing, supported groups). I generally avoid spicy regular group rides.
 
-| Use                     | Bike                   | Pedals | Have |      Tires       |
-| ----------------------- | ---------------------- | ------ | ---- | :--------------: |
-| All-road racing/touring | Trek Domane AL 5 Gen 4 | SPD SL | Yes  | 28/26, 32, 40/38 |
-| Touring, bikepacking    | Salsa Marrakesh        | Flat   | Yes  |     38, 2.1      |
-| Indoor training/esports | Wahoo Kickr Bike v2    | SPD SL | Yes  |        —         |
-| Trails, parks           | Trek Roscoe 8 Gen 4    | SPD    | Yes  |       2.6        |
-| Urban commuting         | Ghost Square           | Flat   | Yes  |        32        |
+| Use                             | Bike                   | Pedals | Have |      Tires       |
+| ------------------------------- | ---------------------- | ------ | ---- | :--------------: |
+| All-road racing/touring         | Trek Domane AL 5 Gen 4 | SPD SL | Yes  | 28/26, 32, 40/38 |
+| Touring, commuting, bikepacking | Salsa Marrakesh        | Flat   | Yes  |     38, 2.1      |
+| Indoor training/esports         | Wahoo Kickr Bike v2    | SPD SL | Yes  |        —         |
+| Trails, parks, bikepacking      | Trek Roscoe 8 Gen 4    | SPD    | Yes  |       2.6        |
+| Urban commuting                 | Ghost Square           | Flat   | Yes  |        32        |
 
 The Domane (all-road) is my main bike and has three wheel sets:
 
