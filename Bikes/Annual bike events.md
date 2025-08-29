@@ -1,3 +1,7 @@
+*Update: August 29, 2025*
+
+----
+
 After much consideration I've decided to stop doing doing Gran Fondos and return to [performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) which is neither "bike touring" or even "bike packing" as most use the term.
 
 - [Events instead of bikepacking?](../Bikes/Events%20instead%20of%20bikepacking?.md)
