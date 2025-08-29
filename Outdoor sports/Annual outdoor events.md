@@ -2,14 +2,12 @@
 My kids and I are moving to Logan, Utah. I am really excited about returning to my home state mostly because I missed pretty much everything about it (except the "goat heads" and Mormons). I plan on getting *very* active with as many outdoor communities that I can find but I'm mostly interested in riding bikes in every way and nordic skiing.
 
 
-| Month  | Event                 | City        | Distance | Cost | Competitive? |
-| ------ | --------------------- | ----------- | -------- | ---- | ------------ |
-| July   | Cache Gran Fondo      | Logan, Utah | 100      | $125 |              |
-| August | Cache Valley Centurey |             |          |      |              |
-
-
-Utah-Cache Gran Fondo
-Cache Valley Century
+| Month  | Event                | City           | Distance | Cost | Priority |
+| ------ | -------------------- | -------------- | -------- | ---- | -------- |
+| April  | Salty Lizard         | Wendover, Utah | 98       | $180 | B        |
+| July   | Cache Gran Fondo     | Logan, Utah    | 100      | $125 | A        |
+| August | Cache Valley Century | Richmond, Utah | 100      | $70  | D        |
+|        |                      |                |          |      |          |
 
 ----
 
