@@ -17,5 +17,5 @@ When on an MTB flow trail I've got a ton of adrenaline as well. Tons of people a
 
 ## Not a bike tourist
 
-- [Not a bike tourist](../Bikes/Not%20a%20bike%20tourist.md)
+- [Not a bike tourist](../Outdoor%20sports/Not%20a%20bike%20tourist.md)
 

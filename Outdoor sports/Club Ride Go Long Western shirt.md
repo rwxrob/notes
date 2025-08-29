@@ -12,5 +12,5 @@ They even included a perfect zippered pocket for a snack and a built in cloth to
 
 https://www.clubrideapparel.com/products/mens-go-long-long-sleeve-shirt?variant=41311081201735
 
-![](../Bikes/mens-go-long-western-ride-shirt-808549.webp)
+![](mens-go-long-western-ride-shirt-808549.webp)
 

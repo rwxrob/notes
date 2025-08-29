@@ -1,10 +1,13 @@
 *Update: August 29, 2025*
+My kids and I are moving to Logan, Utah. I am really excited about returning to my home state mostly because I missed pretty much everything about it (except the "goat heads" and Mormons). I plan on getting *very* active with as many outdoor communities that I can find but I'm mostly interested in riding bikes in every way and nordic skiing.
+
+- Logan 
 
 ----
 
 After much consideration I've decided to stop doing doing Gran Fondos and return to [performance adventure cycling](Performance%20adventure%20cycling%20FTW.md) which is neither "bike touring" or even "bike packing" as most use the term.
 
-- [Events instead of bikepacking?](../Bikes/Events%20instead%20of%20bikepacking?.md)
+- [Events instead of bikepacking?](Events%20instead%20of%20bikepacking?.md)
 
 ----
 

@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bikes/Annual bike events.md",
+                "file": "Outdoor sports/Annual outdoor events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annual bike events"
+              "title": "Annual outdoor events"
             }
           }
         ],
@@ -303,10 +303,10 @@
   "active": "da0c6128b1a1e4e7",
   "lastOpenFiles": [
     "Logs/2025-08-25.md",
-    "Bikes/Allied Able.md",
-    "Bikes/Events instead of bikepacking?.md",
-    "Bikes/Annual bike events.md",
-    "Bikes/Bike collection.md",
+    "Outdoor sports/Allied Able.md",
+    "Outdoor sports/Events instead of bikepacking?.md",
+    "Outdoor sports/Annual outdoor events.md",
+    "Outdoor sports/Bike collection.md",
     "Philosophy/I don't like tech. I like what it gets me..md",
     "Logs/2025-08-28.md",
     "TODO Today.md",
@@ -320,15 +320,15 @@
     "Live streaming/Active IRL streaming kit.md",
     "Places to see good live music.md",
     "Podman.md",
-    "Bikes/Muc-Off Big Bore valves.md",
+    "Outdoor sports/Muc-Off Big Bore valves.md",
     "_ Tech Beginners/How to learn.md",
-    "Bikes/GFNats training strategy.md",
-    "Bikes/Club Ride Go Long Western shirt.md",
-    "Bikes/Riding in the rain?.md",
-    "Bikes/Shameless suburban sprinter (not anymore).md",
-    "Bikes/My kind of bike rider.md",
-    "Bikes/Best BNSUS tires.md",
-    "Bikes",
+    "Outdoor sports/GFNats training strategy.md",
+    "Outdoor sports/Club Ride Go Long Western shirt.md",
+    "Outdoor sports/Riding in the rain?.md",
+    "Outdoor sports/Shameless suburban sprinter (not anymore).md",
+    "Outdoor sports/My kind of bike rider.md",
+    "Outdoor sports/Best BNSUS tires.md",
+    "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
     "My home lab/Install",
@@ -339,7 +339,7 @@
     "My home lab/Untitled",
     "My home lab/Bootstrap",
     "Cycling/weekly-schedule.png",
-    "Bikes/mens-go-long-western-ride-shirt-808549.webp",
+    "Outdoor sports/mens-go-long-western-ride-shirt-808549.webp",
     "Cycling/dtswiss-arc-1100.jpg",
     "Knowledge management/Search titles with GitHub.png",
     "qr-code.png",
