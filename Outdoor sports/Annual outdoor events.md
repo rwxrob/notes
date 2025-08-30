@@ -1,14 +1,15 @@
 *Update: August 29, 2025*
 My kids and I are moving to Logan, Utah. I am really excited about returning to my home state mostly because I missed pretty much everything about it (except the "goat heads" and Mormons). I plan on getting *very* active with as many outdoor communities that I can find but I'm mostly interested in riding bikes in every way and nordic skiing.
 
-| Month      | Event                | City                   | Cost | Priority |
-| ---------- | -------------------- | ---------------------- | ---- | -------- |
-| April      | Salty Lizard         | Wendover, UT           | $180 | B        |
-| May        | Wild Horse           | Delle, UT              | $180 | B        |
-| June 13    | Dirty Dino           | Vernal, UT             | $180 | B        |
-| June 26-28 | Steamboat            | Streamboat Springs, CO | $275 | A        |
-| July       | Cache Gran Fondo     | Logan, UT              | $125 | A        |
-| August     | Cache Valley Century | Richmond, UT           | $70  | D        |
+| Month      | Event                  | City                   | Cost | Priority |
+| ---------- | ---------------------- | ---------------------- | ---- | -------- |
+| April      | Salty Lizard           | Wendover, UT           | $180 | B        |
+| May        | Wild Horse             | Delle, UT              | $180 | B        |
+| June 13    | Dirty Dino             | Vernal, UT             | $180 | B        |
+| June 26-28 | Steamboat              | Streamboat Springs, CO | $275 | A        |
+| July       | Cache Gran Fondo       | Logan, UT              | $125 | A        |
+| August     | Cache Valley Century   | Richmond, UT           | $70  | D        |
+| September  | RBC GranFondo Whislter | Vancouver, BC          |      |          |
 
 I have no intention of doing Mudbound (Unbound) or Mud-South (Mid-South) ever. Neither even remotely interests me.
 
