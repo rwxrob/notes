@@ -6,10 +6,9 @@ My kids and I are moving to Logan, Utah. I am really excited about returning to 
 | April      | Salty Lizard            | Wendover, UT           | $180 | B        |
 | May        | Wild Horse              | Delle, UT              | $180 | B        |
 | June 13    | Dirty Dino              | Vernal, UT             | $180 | B        |
-| June 26-28 | Steamboat               | Streamboat Springs, CO | $275 | A        |
-| July       | Cache Gran Fondo        | Logan, UT              | $125 | A        |
+| June 26-28 | Steamboat?              | Streamboat Springs, CO | $275 | A        |
+| July       | Cache Gran Fondo!       | Logan, UT              | $125 | A        |
 | August     | Cache Valley Century    | Richmond, UT           | $70  | D        |
-| September  | RBC GranFondo Whislter? | Vancouver, BC          | $420 | A        |
 
 I have no intention of doing Mudbound (Unbound) or Mud-South (Mid-South) ever. Neither even remotely interests me.
 
