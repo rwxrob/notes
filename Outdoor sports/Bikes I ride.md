@@ -2,7 +2,7 @@ I ride mostly for the vibes and fitness but I'm also pretty damn competitive. Wh
 
 | Name   | Use                             | Bike                   | Pedals | Have |      Tires      |
 | ------ | ------------------------------- | ---------------------- | ------ | ---- | :-------------: |
-| Dom    | All-road racing/touring         | Trek Domane AL 5 Gen 4 | SPD SL | Yes  | 28/26,32, 40/38 |
+| Dom    | All-road racing/touring         | Trek Domane AL 5 Gen 4 | SPD SL | Yes  | 26/28,32, 40/38 |
 | Keshy  | Touring, commuting, bikepacking | Salsa Marrakesh        | Flat   | Yes  |     38, 2.1     |
 | Bella  | Adventure racing, bikepacking   | 3T Extrema Italia      | SPD    | N0   |      2.25       |
 | Roscoe | Trails, parks, bikepacking      | Trek Roscoe 8 Gen 4    | SPD    | Yes  |       2.6       |
