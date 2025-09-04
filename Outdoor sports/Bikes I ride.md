@@ -6,6 +6,7 @@ I ride mostly for the vibes and fitness but I'm also pretty damn competitive. Wh
 | Keshy  | Touring, commuting, bikepacking | Salsa Marrakesh        | Flat   | Yes  |     38, 2.1     |
 | Roscoe | Trails, parks, bikepacking      | Trek Roscoe 8 Gen 4    | SPD    | Yes  |       2.6       |
 | Zwifty | Indoor training/esports         | Wahoo Kickr Bike v2    | SPD SL | Yes  |        —        |
+| Cutty  | Salsa Cu                        |                        |        |      |                 |
 ## Dom
 
 The Domane (all-road) is my main bike and has three wheel sets:
