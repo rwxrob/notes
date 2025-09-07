@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live streaming/Do NOT use T-Mobile.md",
+                "file": "Live streaming/When Moblin sucks ass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Do NOT use T-Mobile"
+              "title": "When Moblin sucks ass"
             }
           }
         ],
@@ -288,8 +288,9 @@
   },
   "active": "c0aa7ed23f986318",
   "lastOpenFiles": [
-    "Live streaming/Active IRL streaming kit.md",
     "Live streaming/Do NOT use T-Mobile.md",
+    "Live streaming/When Moblin sucks ass.md",
+    "Live streaming/Active IRL streaming kit.md",
     "Live streaming/Public live streaming.md",
     "Logs/2025-09-07.md",
     "Outdoor sports/Bikes I ride.md",
@@ -313,7 +314,6 @@
     "My home lab/Harbor.md",
     "Places to see good live music.md",
     "Podman.md",
-    "Outdoor sports/Muc-Off Big Bore valves.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
