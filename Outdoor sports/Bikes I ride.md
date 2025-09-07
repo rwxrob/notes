@@ -1,12 +1,11 @@
 I ride mostly for the vibes and fitness but I'm also pretty damn competitive. When I race it is mostly against myself with an occasional group dynamic. For all-out crit racing and race-craft I'm on the indoor bike.  The most competitive racing I do outside is anything I can do on my Domane without swapping anything but wheels (usually endurance based gran fondos, super light gravel racing, supported groups). I generally avoid spicy regular group rides.
 
-| Name   | Use                             | Bike                   | Pedals | Have |      Tires      |
-| ------ | ------------------------------- | ---------------------- | ------ | ---- | :-------------: |
-| Dom    | All-road racing/touring         | Trek Domane AL 5 Gen 4 | SPD SL | Yes  | 26/28,32, 40/38 |
-| Keshy  | Touring, commuting, bikepacking | Salsa Marrakesh        | Flat   | Yes  |     38, 2.1     |
-| Bella  | Adventure racing, bikepacking   | 3T Extrema Italia      | SPD    | N0   |      2.25       |
-| Roscoe | Trails, parks, bikepacking      | Trek Roscoe 8 Gen 4    | SPD    | Yes  |       2.6       |
-| Zwifty | Indoor training/esports         | Wahoo Kickr Bike v2    | SPD SL | Yes  |        —        |
+| Name   | Use                                  | Bike                   | Pedals | Have |      Tires      |
+| ------ | ------------------------------------ | ---------------------- | ------ | ---- | :-------------: |
+| Dom    | All-road racing/touring              | Trek Domane AL 5 Gen 4 | SPD SL | Yes  | 26/28,32, 40/38 |
+| Keshy  | Slow touring, commuting, bikepacking | Salsa Marrakesh        | Flat   | Yes  |     38, 2.1     |
+| Roscoe | Trails, parks, bikepacking           | Trek Roscoe 8 Gen 4    | SPD    | Yes  |       2.6       |
+| Zwifty | Indoor training/esports              | Wahoo Kickr Bike v2    | SPD SL | Yes  |        —        |
 ## Dom
 
 The Domane (all-road) is my main bike and has three wheel sets:
