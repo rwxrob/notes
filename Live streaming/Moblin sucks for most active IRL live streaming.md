@@ -10,9 +10,10 @@ I have been saying since people started hounding me about Moblin that the Moblin
 
 - Moblin *requires* an iPhone
 - Phones are notoriously bad at overheating
+- Moblin phones require a reliable local wifi router (subject to interference) to work at all
 - Phones have notoriously horrible antennas making them useless when signal is limited
-- Moblink sucks when a struggling device is mixed in (Starlink with periodic trees)'
+- Moblink sucks when a struggling device is mixed in (Starlink with periodic trees)
 - Phone data is usually automatically deprioritized unlike dedicated data plans
 - You cannot easily get a different sim card for a phone in different areas like you can a modem
 - Mobile hotspot modems have ethernet connections that are not affected by interference
-- Mobile hotspot modems almost always have mimo ant
+- Mobile hotspot modems almost always have mimo antenna extension options
