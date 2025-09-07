@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live streaming/Active IRL streaming kit.md",
+                "file": "Live streaming/Do NOT use T-Mobile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active IRL streaming kit"
+              "title": "Do NOT use T-Mobile"
             }
           }
         ],
@@ -288,6 +288,8 @@
   },
   "active": "c0aa7ed23f986318",
   "lastOpenFiles": [
+    "Live streaming/Active IRL streaming kit.md",
+    "Live streaming/Do NOT use T-Mobile.md",
     "Live streaming/Public live streaming.md",
     "Logs/2025-09-07.md",
     "Outdoor sports/Bikes I ride.md",
@@ -309,11 +311,9 @@
     "My home lab/Templates Proxmox home lab with cloud-init.md",
     "Philosophy/UUCC notes.md",
     "My home lab/Harbor.md",
-    "Live streaming/Active IRL streaming kit.md",
     "Places to see good live music.md",
     "Podman.md",
     "Outdoor sports/Muc-Off Big Bore valves.md",
-    "_ Tech Beginners/How to learn.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
