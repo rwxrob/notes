@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live streaming/Moblin sucks for most active IRL live streaming.md",
+                "file": "Live streaming/Android has superior wifi hotspot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moblin sucks for most active IRL live streaming"
+              "title": "Android has superior wifi hotspot"
             }
           }
         ],
@@ -288,8 +288,9 @@
   },
   "active": "c0aa7ed23f986318",
   "lastOpenFiles": [
-    "Live streaming/Do NOT use T-Mobile.md",
     "Live streaming/Moblin sucks for most active IRL live streaming.md",
+    "Live streaming/Android has superior wifi hotspot.md",
+    "Live streaming/Do NOT use T-Mobile.md",
     "Live streaming/Active IRL streaming kit.md",
     "Live streaming/Public live streaming.md",
     "Logs/2025-09-07.md",
@@ -313,7 +314,6 @@
     "Philosophy/UUCC notes.md",
     "My home lab/Harbor.md",
     "Places to see good live music.md",
-    "Podman.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
