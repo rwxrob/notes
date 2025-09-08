@@ -41,5 +41,5 @@ No. Not robust enough when traveling through places where Internet connections a
 
 *How do we query data over time?*
 
-
+Implement in InfluxDB and bridge Flux queries?
 
