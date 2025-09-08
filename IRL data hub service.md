@@ -1,6 +1,6 @@
 Been meaning to create a GarminIQ app (that runs on any head unit) that sends all the relevant data for IRL adventure/fitness streaming to a central server with an API that can be integrated with StreamElements and the like.
 
-Garmin device -> Garmin Connect IQ app -> Connect phone app -> cloud server
+Garmin device -> Garmin Connect IQ app -> Garmin Connect phone app -> cloud server
 ## Requirements
 
 - Big ass real-time database of new data submission events
@@ -46,6 +46,10 @@ No. Not robust enough when traveling through places where Internet connections a
 Implement in InfluxDB and bridge Flux queries?
 
 *Do we use odata?*
+
+*Do we allow webhooks?*
+
+Meh.
 
 
 
