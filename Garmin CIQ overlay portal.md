@@ -6,7 +6,8 @@ Device -> IQ app -> Connect phone app -> cloud server
 
 - Ingest literally any data submitted with PUT
 - Polling and SSE only (no websockets)
-- Forced latency setting
+- Customizable forced latency setting
+- Event timestamps required (NOT the time of the HTTP request)
 
 ## Generic data ingestion and consolidation
 
