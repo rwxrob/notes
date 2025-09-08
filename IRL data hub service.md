@@ -7,7 +7,7 @@ Device -> IQ app -> Connect phone app -> cloud server
 - Extremely robust so can handle loss of connection (no websockets)
 - Ingest literally any data submitted with PUT
 - Polling and >=1-second interval push and SSE only (no websockets)
-- Customizable forced latency setting
+- Customizable forced latency setting to make up for video streaming delays
 - Event timestamps required (NOT the time of the HTTP request)
 - Events triggered for subscribing apps
 - Also add regular/polling intervals for common backend services that create data events
@@ -21,11 +21,13 @@ Device -> IQ app -> Connect phone app -> cloud server
 
 The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways.
 
-- Endpoint path agnostic (the URL path becomes part of the data, https://example.com/rwxrob/put)
+- Endpoint path agnostic (the URL path becomes part of the data, https://example.com/rwxrob/put/v1/hr)
 - HTTP MIME headers
 - QueryString
 
-Query it with simple HTTP GET polling and server-sent events (SSE).
+Query it with simple HTTP GET polling and server-sent events (SSE). 
+
+What does the query language look
 ## Questions
 
 *What about Xert?*
