@@ -5,17 +5,19 @@ Device -> IQ app -> Connect phone app -> cloud server
 ## Requirements
 
 - Big ass real-time database of new data submission events
+- Extremely robust so can handle loss of connection (no websockets)
 - Ingest literally any data submitted with PUT
 - Polling and >=1-second interval push and SSE only (no websockets)
 - Customizable forced latency setting
 - Event timestamps required (NOT the time of the HTTP request)
 - Events triggered for subscribing apps
 - Also add regular/polling intervals for common backend services that create data events
-
 # Implementation
 
-- Reddis
-- MQTT
+- REST API
+- Reddis for realtime storage
+- PostgreSQL for periodic offline caching/historical
+- MQTT/UDP
 ## Generic data ingestion and consolidation
 
 The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways.
