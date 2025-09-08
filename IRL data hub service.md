@@ -21,13 +21,14 @@ Device -> IQ app -> Connect phone app -> cloud server
 
 The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways.
 
-- Endpoint path agnostic (the URL path becomes part of the data, https://example.com/rwxrob/put/v1/hr)
-- HTTP MIME headers
+- Simple REST (PUT to add a new data event, GET to retrieve the latest data event)
+- Endpoint path agnostic (the URL path becomes part of the data, https://example.com/rwxrob/v1/hr)
+- HTTP MIME headers stored with data event
 - QueryString
+
 
 Query it with simple HTTP GET polling and server-sent events (SSE). 
 
-What does the query language look
 ## Questions
 
 *What about Xert?*
@@ -35,4 +36,6 @@ What does the query language look
 PeloTom famously integrated Xert data on the screen, but this requires Xert. It does, however, prove that a GarminIQ app can send anything available from any Garmin device that supports GarminIQ up to something on the Internets.
 
 *Do we use websockets or not?*
+
+No. Not robust enough when traveling through places where Internet 
 
