@@ -19,7 +19,7 @@ Device -> IQ app -> Connect phone app -> cloud server
 - PostgreSQL for periodic offline caching/historical
 - MQTT/UDP
 - Define as much of the API as possible with OpenAPI
-- Define the 
+- Define the rest with RFC-like specifications
 ## Generic data ingestion and consolidation
 
 The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways without caring how the data is stored on the backend.
@@ -44,4 +44,8 @@ No. Not robust enough when traveling through places where Internet connections a
 *How do we query data over time?*
 
 Implement in InfluxDB and bridge Flux queries?
+
+*Do we use odata?*
+
+
 
