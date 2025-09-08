@@ -11,7 +11,6 @@ Device -> IQ app -> Connect phone app -> cloud server
 - Event timestamps required (NOT the time of the HTTP request)
 - Events triggered for subscribing apps
 - Also add regular/polling intervals for common backend services that create data events
-- 
 ## Generic data ingestion and consolidation
 
 The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways.
