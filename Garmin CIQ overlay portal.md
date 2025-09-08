@@ -4,8 +4,16 @@ Device -> IQ app -> Connect phone app -> cloud server
 
 ## Generic data ingestion and consolidation
 
+The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways.
+
+- Endpoint path agnostic (the URL path becomes part of the data, https://example.com/rwxrob/put)
+- HTTP MIME headers
+- 
 ## Questions
 
 *What about Xert?*
 
-PeloTom famously integrated Xert data on the screen, but this requires Xert. It does, however, prove that a GarminIQ app can s
+PeloTom famously integrated Xert data on the screen, but this requires Xert. It does, however, prove that a GarminIQ app can send anything available from any Garmin device that supports GarminIQ up to something on the Internets.
+
+*Do we use websockets or not?*
+
