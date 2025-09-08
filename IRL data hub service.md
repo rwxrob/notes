@@ -14,20 +14,22 @@ Device -> IQ app -> Connect phone app -> cloud server
 # Implementation
 
 - REST API
-- Reddis for realtime storage
+- InfluxDB for realtime, time-based storage
+- Wrap InfluxDB official write API with abstract data submission API schema
 - PostgreSQL for periodic offline caching/historical
 - MQTT/UDP
+- Define as much of the API as possible with OpenAPI
+- Define the 
 ## Generic data ingestion and consolidation
 
-The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways.
+The main service required is something that will take any structured data, consolidate it, and allow it to be queried in different ways without caring how the data is stored on the backend.
 
 - Simple REST (PUT to add a new data event, GET to retrieve the latest data event)
 - Endpoint path agnostic (the URL path becomes part of the data, https://example.com/rwxrob/v1/hr)
 - HTTP MIME headers stored with data event
 - QueryString
 
-
-Query it with simple HTTP GET polling and server-sent events (SSE). 
+Query it with simple HTTP GET polling and server-sent events (SSE). Extensions are allowed by not specified (such as passthrough Flux queries, graphql, etc.).
 
 ## Questions
 
