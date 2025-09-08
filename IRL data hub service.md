@@ -8,6 +8,8 @@ Device -> IQ app -> Connect phone app -> cloud server
 - Polling and SSE only (no websockets)
 - Customizable forced latency setting
 - Event timestamps required (NOT the time of the HTTP request)
+- Events triggered for subscribing apps
+- Also add regular/polling intervals for common backend queries
 
 ## Generic data ingestion and consolidation
 
