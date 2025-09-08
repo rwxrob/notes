@@ -37,5 +37,9 @@ PeloTom famously integrated Xert data on the screen, but this requires Xert. It 
 
 *Do we use websockets or not?*
 
-No. Not robust enough when traveling through places where Internet 
+No. Not robust enough when traveling through places where Internet connections are constantly failing.
+
+*How do we query data over time?*
+
+
 
