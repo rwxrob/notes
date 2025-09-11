@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "collec",
+                "query": "insane",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +201,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,7 +301,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0e952fe8198e8052",
+  "active": "d66ce5fcd308145c",
   "lastOpenFiles": [
     "Live streaming/Android has superior wifi hotspot.md",
     "RTDATA, IRL data hub service.md",
