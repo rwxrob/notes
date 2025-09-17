@@ -35,13 +35,11 @@ Effort: RPE ~7 (leave 2–3 reps in reserve).
   - 2×10 each side  
 
 ---
-
 ## Finisher (optional, 5 min)
 - **Farmer’s carry**  
   - 2–3×40 meters, moderate weights  
 
 ---
-
 ## Notes
 - Add weight every 2–3 weeks to progress.  
 - Focus on form and joint health over heavy loads.  
