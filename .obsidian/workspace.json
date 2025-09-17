@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strength training (mon, wed).md",
+                "file": "Allied Able build.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strength training (mon, wed)"
+              "title": "Allied Able build"
             }
           }
         ],
@@ -218,8 +218,9 @@
   },
   "active": "1e44e56f999a7429",
   "lastOpenFiles": [
-    "Allied Able build.md",
+    "Screenshot 2025-09-17 at 2.47.11 PM.png",
     "Strength training (mon, wed).md",
+    "Allied Able build.md",
     "Screenshot 2025-09-17 at 11.06.10 AM.png",
     "Outdoor sports/Bikes I ride.md",
     "Live streaming/Android has superior wifi hotspot.md",
@@ -244,7 +245,6 @@
     "My home lab/Grafana.md",
     "Temp.md",
     "My home lab/Templates Proxmox home lab with cloud-init.md",
-    "Philosophy/UUCC notes.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
