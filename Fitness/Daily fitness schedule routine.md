@@ -1,3 +1,5 @@
+*Also didn't work, stay tuned.*
+
 My training routine got really simple since started [GFNats training strategy](../Outdoor%20sports/GFNats%20training%20strategy.md). I just get on my bike sometime during tne day for 1.5-4 hours every day. On the weekend I might do one 7 hour ride per month to get a full century in. Most important thing is to keep my body used to being in the saddle but still enjoy it so I don't burn out. I can't afford to lose callouses and stuff.
 
 ----
