@@ -2,18 +2,22 @@
 - Fitness: [20 hrs/week]("Why%2020%20hours%20per%20week%20on%20fitness?".md)
 
 **Monday**  
-- Zone 2 ride: 2 hrs  
-- Strength: 1 hr  
+- Strength: 1 hr
+- Nap
+- Zone 2 ride: 2 hrs
 
 **Tuesday**  
-- Zone 2 ride: 2.5 hrs  
-- Yoga/mobility: 30 min  
+- Yoga/mobility: 30 min
+- Nap
+- Zone 2 ride: 2.5 hrs
 
 **Wednesday**  
-- Zone 2 ride: 2 hrs  
-- Light mobility/walk: 30 min  
+- Light mobility/walk/zwift: 30 min
+- Nap
+- Zone 2 ride: 2 hrs
 
 **Thursday**  
+- St
 - Zone 2 ride: 2.5 hrs  
 - Strength: 1 hr  
 
@@ -35,3 +39,4 @@
 
 ## Considerations
 
+***I'm old.***  I don't recover like my youth. This means unless I want to go on TRT I need to keep it really light in order to recover from *any* strength training at all. It also means that to combat sarcopenia I *must* do at least two sessions of strength training a week to have a life worth living the way I want in retirement.
