@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Weekly fitness training schedule.md",
+                "file": "TRAINING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly fitness training schedule"
+              "title": "TRAINING"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Weekly fitness training schedule.md",
+                "file": "TRAINING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly fitness training schedule"
+              "title": "TRAINING"
             }
           }
         ],
@@ -230,10 +230,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b6026f0e36afac5",
+  "active": "d69d0c648142de9f",
   "lastOpenFiles": [
+    "TODO Today.md",
+    "TRAINING.md",
     "Fitness/\"Why 20 hours per week on fitness?\".md",
-    "Fitness/Weekly fitness training schedule.md",
     "Fitness/Should I join a team?.md",
     "Fitness/Battling CIRS and MCAS with sweat.md",
     "Fitness/Long term cycling goals.md",
@@ -259,7 +260,6 @@
     "Logs/2025-09-07.md",
     "Logs/2025-09-02.md",
     "Outdoor sports/Annual outdoor events.md",
-    "Logs/2025-08-30.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",

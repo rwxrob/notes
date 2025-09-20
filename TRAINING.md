@@ -1,6 +1,5 @@
-
 - **Sleep:** 9 hrs/day (7.5 night + 1.5 naps) → 63 hrs/week  (required to counter cortisol)
-- Fitness: [20 hrs/week (remember, I work from home so *need* more)]("Why%2020%20hours%20per%20week%20on%20fitness?".md)
+- Fitness: [20 hrs/week]("Why%2020%20hours%20per%20week%20on%20fitness?".md)
 
 **Monday**  
 - Zone 2 ride: 2 hrs  
@@ -33,3 +32,6 @@
 - Tempo/adventure: 2.5–3 hrs  
 - Strength: 2 hrs (Mon + Thu)  
 - Yoga/mobility/recovery: 2–2.5 hrs
+
+## Considerations
+
