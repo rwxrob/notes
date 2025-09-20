@@ -17,13 +17,13 @@
 - Zone 2 ride: 2 hrs
 
 **Thursday**  
-- St
-- Zone 2 ride: 2.5 hrs  
-- Strength: 1 hr  
+- Strength: 1 hr
+- Nap
+- Zone 2 ride: 2.5 hrs 
 
 **Friday**  
-- Zone 2 ride or recovery spin: 1 hr  
 - Yoga/mobility: 30–45 min  
+- Household chores
 
 **Saturday (tempo/adventure)**  
 - Ride: 2.5–3 hrs at Tempo/Zone 3 (push pace, hills, group ride)  
@@ -40,3 +40,5 @@
 ## Considerations
 
 ***I'm old.***  I don't recover like my youth. This means unless I want to go on TRT I need to keep it really light in order to recover from *any* strength training at all. It also means that to combat sarcopenia I *must* do at least two sessions of strength training a week to have a life worth living the way I want in retirement.
+
+***I need more sleep.*** Part of aging is that my body—especially my brain—simply stops working when I'm not well rested. It's essential that I take regular naps throughout the day to regain my cognitive ability for work. It also clears out the cortisol built up and releases 80% of the growth hormone for the day.
