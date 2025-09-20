@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly training schedule.md",
+                "file": "Fitness/Weekly fitness training schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly training schedule"
+              "title": "Weekly fitness training schedule"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly training schedule.md",
+                "file": "Fitness/Weekly fitness training schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly training schedule"
+              "title": "Weekly fitness training schedule"
             }
           }
         ],
@@ -230,10 +230,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d69d0c648142de9f",
+  "active": "2b6026f0e36afac5",
   "lastOpenFiles": [
-    "\"Why 20 hours per week on fitness?\".md",
-    "Weekly training schedule.md",
+    "Fitness/\"Why 20 hours per week on fitness?\".md",
+    "Fitness/Weekly fitness training schedule.md",
     "Fitness/Should I join a team?.md",
     "Fitness/Battling CIRS and MCAS with sweat.md",
     "Fitness/Long term cycling goals.md",
