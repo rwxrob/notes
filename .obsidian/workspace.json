@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-09-18.md",
+                "file": "Logs/2025-09-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-18"
+              "title": "2025-09-19"
             }
           }
         ],
@@ -204,8 +204,9 @@
   },
   "active": "c0aa7ed23f986318",
   "lastOpenFiles": [
-    "Outdoor sports/Not a bike tourist.md",
     "Logs/2025-09-18.md",
+    "Logs/2025-09-19.md",
+    "Outdoor sports/Not a bike tourist.md",
     "Fitness/Addicted to cruising speed.md",
     "Outdoor sports/Bikes I ride.md",
     "Screenshot 2025-09-17 at 11.06.10 AM.png",
@@ -231,7 +232,6 @@
     "TODO Today.md",
     "README.md",
     "Knowledge management/Why I don't follow most of Zettelkasten approach.md",
-    "My home lab/Grafana.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
