@@ -42,3 +42,5 @@
 ***I'm old.***  I don't recover like my youth. This means unless I want to go on TRT I need to keep it really light in order to recover from *any* strength training at all. It also means that to combat sarcopenia I *must* do at least two sessions of strength training a week to have a life worth living the way I want in retirement.
 
 ***I need more sleep.*** Part of aging is that my body—especially my brain—simply stops working when I'm not well rested. It's essential that I take regular naps throughout the day to regain my cognitive ability for work. It also clears out the cortisol built up and releases 80% of the growth hormone for the day.
+
+***I'm prone to mental stress.*** I'm a worrier. I always have been. This is the reason I can't drop that last little bit of weight and keep it off. I feel myself twitching and stressing even just writing stuff like this. My job is full of stress as I code because it is so intense when I am doing it. I think the main reason I got so totally ripped when doing yoga all those years was because of how it helped with that.
