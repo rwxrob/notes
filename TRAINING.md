@@ -24,6 +24,7 @@
 **Friday**  
 - Yoga/mobility: 30–45 min  
 - Household chores
+- Recovery ride: 60 minutes
 
 **Saturday (tempo/adventure)**  
 - Ride: 2.5–3 hrs at Tempo/Zone 3 (push pace, hills, group ride)  
