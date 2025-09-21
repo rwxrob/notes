@@ -3,8 +3,7 @@
 
 **Monday**  
 - Strength: 1 hr
-- Nap
-- Zone 2 ride: 2 hrs
+- Recovery 1hr
 
 **Tuesday**  
 - Yoga/mobility: 30 min
