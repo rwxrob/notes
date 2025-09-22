@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "2025-09-22"
             }
+          },
+          {
+            "id": "077991ecd9b69825",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,10 +254,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "180e55eb4d0924ac",
+  "active": "077991ecd9b69825",
   "lastOpenFiles": [
-    "TRAINING.md",
     "Logs/2025-09-22.md",
+    "TRAINING.md",
     "Logs/2025-09-21.md",
     "Live streaming/Performant IRL streaming rig.md",
     "Logs/2025-09-20.md",
