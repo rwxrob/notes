@@ -1,4 +1,4 @@
-A program to counter sarcopenia and support cycling FTP sprinter force
+A program to counter sarcopenia and support cycling FTP sprinter force.
 Duration: ~45–60 minutes per session.  
 Effort: RPE ~7 (leave 2–3 reps in reserve).  
 
@@ -7,17 +7,9 @@ Effort: RPE ~7 (leave 2–3 reps in reserve).
 - Leg press 3x8
 - Calf press 3x8
 - Inclined dumbbell press 3x8
-- 
+- Dumbbell lawnmowers 3x8
 
 
----
-## Main strength block
-
-### Upper body & posture
-- **Push: Dumbbell bench press or push-ups**  
-  - 3×8–10 reps  
-- **Pull: Seated row, pull-ups, or band rows**  
-  - 3×8–10 reps  
 - **Overhead press (light/moderate)**  
   - 2×8 reps  
 
