@@ -1,22 +1,17 @@
-A program to counter sarcopenia and support cycling FTP force.  
+A program to counter sarcopenia and support cycling FTP sprinter force
 Duration: ~45–60 minutes per session.  
 Effort: RPE ~7 (leave 2–3 reps in reserve).  
 
 - Warm-up: 10 minutes slow treadmill
+- Romanian dead lift 3x8
+- Leg press 3x8
+- Calf press 3x8
+- Inclined dumbbell press 3x8
 - 
 
 
 ---
 ## Main strength block
-
-### Lower body (cycling force focus)
-- Leg press
-  - 3×6–8 reps  
-  - Focus on full ROM, controlled  
-- **Romanian deadlift (RDL) or hip hinge**  
-  - 3×8 reps  
-- **Step-ups** (weighted if possible)  
-  - 2×10 per leg  
 
 ### Upper body & posture
 - **Push: Dumbbell bench press or push-ups**  
