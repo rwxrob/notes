@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fitness/Strength training (mon, thu).md",
+                "file": "Logs/2025-09-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strength training (mon, thu)"
+              "title": "2025-09-24"
             }
           }
         ],
@@ -260,6 +260,8 @@
   },
   "active": "077991ecd9b69825",
   "lastOpenFiles": [
+    "Fitness/Strength training (mon, thu).md",
+    "Logs/2025-09-24.md",
     "TRAINING.md",
     "Logs/2025-09-22.md",
     "Logs/2025-09-21.md",
@@ -275,7 +277,6 @@
     "Fitness/Weight training routine.md",
     "Fitness/Training by block and feel.md",
     "Fitness/Body composition first.md",
-    "Fitness/Strength training (mon, thu).md",
     "Logs/2025-09-18.md",
     "Outdoor sports/Not a bike tourist.md",
     "Fitness/Addicted to cruising speed.md",
@@ -287,7 +288,6 @@
     "Live streaming/RTDATA, IRL data hub service.md",
     "Live streaming/Moblin sucks for most active IRL live streaming.md",
     "Live streaming/Do NOT use T-Mobile.md",
-    "Live streaming/Active IRL streaming kit.md",
     "Outdoor sports",
     "My home lab/Kubespray upgrades/v2.26.0",
     "My home lab/Kubespray upgrades",
