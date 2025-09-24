@@ -7,5 +7,6 @@ Effort: RPE ~7 (leave 2–3 reps in reserve).
 - Leg press 3x8
 - Calf press 3x8
 - Inclined dumbbell press 3x8
+- Pull ups 
 - Dumbbell lawnmowers 3x8
 - Lateral raises 3x8
