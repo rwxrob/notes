@@ -1,0 +1,3 @@
+Cycling provides an opportunity for a little adventure, everyday. Most days are the same route, a familiar one with the least amount of traffic and the most to see as the seasons change. Every day even that same route feels like an adventure. I've discovered countless interesting things happening just around town. Wanna spice it up? Join a group ride. Wanna take it slow? Head out to a calm place to start a farm-land touring adventure filled with cows. Wanna pop off on a few jumps? Head to the local MTB flow trail.
+
+The point is that you don't have to become a bikepacker to have an
