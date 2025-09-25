@@ -1,3 +1,5 @@
 Cycling provides an opportunity for a little adventure, everyday. Most days are the same route, a familiar one with the least amount of traffic and the most to see as the seasons change. Every day even that same route feels like an adventure. I've discovered countless interesting things happening just around town. Wanna spice it up? Join a group ride. Wanna take it slow? Head out to a calm place to start a farm-land touring adventure filled with cows. Wanna pop off on a few jumps? Head to the local MTB flow trail.
 
-The point is that you don't have to become a bikepacker to have an
+The point is that you don't have to become a bikepacker to have a great ride every day. In fact, I confess, I like the *idea* of camping but would rather get a solid nights sleep with a full recovery and push my limits on the ride than suffer through a ride carrying stuff only to suffer through a night because I didn't want to carry warm enough gear—especially when I have a super cozy bed in my Subaru waiting for me with full power, shelter, and food.
+
+Ideally, I would drive to a trail head and plan an epic ride that ends at the car. Then the next day I can do it again, or a different loop from the same trail head. It doesn't have to be bikepa
