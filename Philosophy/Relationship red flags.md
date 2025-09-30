@@ -1,3 +1,0 @@
-- How does someone treats "the help"?
-- Consist micro-aggressions against behaviors like cleaning, hygiene, etc.
-	- "Do you *have* to wear *that* shirt?"

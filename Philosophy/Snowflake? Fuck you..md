@@ -1,1 +1,1 @@
-I'm the type of guy who likes to write about touchy feely stuff and doesn't mind sharing it. To a lot of tough guys that makes me a "snowflake" or a "pussy." If any of them are reading this they can print it out on card stock and shove it right up their asses.
+I'm the type of guy who likes to write about touchy feely stuff and doesn't mind sharing it. To a lot of tough guys that makes me a "snowflake" or a "pussy." To put it into language they will understand, if any of them are reading this right now they can print it out on card stock and shove it right up their asses.
