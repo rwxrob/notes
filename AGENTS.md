@@ -23,7 +23,19 @@ This repo is a public knowledge base / zettelkasten. It is part of a broader sys
 - `FOLLOWING.md` — list of actual git submodule subscriptions (other people's public knowledge repos)
 - `DISCOVER.md` — discovery prompts/search terms to find new repos to potentially subscribe to
 
-## Discovery & Subscriptions
+## Repo Naming Conventions
+
+Repo name prefix signals the format/style of the knowledge base:
+
+- `zet-*` — strict atomic zettelkasten (one idea per file)
+- `keg-*` — keg format (structured, KEG spec)
+- `kb-*` — knowledge base (reference/topic pages, multi-idea files)
+- `notes-*` — freeform general notes
+- `dg-*` — digital garden (public, evolving)
+
+The prefix encodes **format**, GitHub topic tags encode **domain** (e.g. `health`, `tech`, `cooking`).
+
+
 
 - Use GitHub topic tags for discoverability: `zettelkasten`, `pkm`, `keg`, `public-notes`, `second-brain`, `digital-garden`, `knowledge-base`
 - Repo name conventions to search: `zet`, `keg`, `notes`, `knowledge`, `thoughts`
