@@ -1,0 +1,3 @@
+[submodule "following/github.com/rwxrob/notes-health"]
+	path = following/github.com/rwxrob/notes-health
+	url = https://github.com/rwxrob/notes-health
