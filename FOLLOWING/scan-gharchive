@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Scan GH Archive via BigQuery for active knowledge/PKM repos.
-# Results are saved to FOLLOWING/gharchive.tsv.
+# Results are filtered and saved to FOLLOWING/gharchive.tsv.
 # Usage: ./scan-gharchive [YYYYMM]
 #   Default period: last calendar month
 
@@ -13,7 +13,9 @@ else
 fi
 _default=$(printf "%04d%02d" "$_year" "$_month")
 period="${1:-$_default}"
-out="$(dirname "$0")/gharchive.tsv"
+dir="$(dirname "$0")"
+out="$dir/gharchive.tsv"
+tmp=$(mktemp)
 
 bq query \
   --project_id=rwxrob-discovery \
@@ -35,6 +37,12 @@ WHERE (
 )
 AND type = 'PushEvent'
 GROUP BY repo.name
-ORDER BY events DESC" > "$out"
+ORDER BY events DESC" > "$tmp"
 
-echo "Saved $out"
+# Filter out non-PKM repos (apps, APIs, tools, courses, etc.)
+grep -viE '[-/](app|api|backend|back-end|frontend|front-end|service|server|client|web|webapp|site|cli|plugin|extension|bot|agent|sdk|lib|library|manager|management|system|application|taking|sharing|share|react|vue|angular|flutter|android|ios|mobile|demo|tutorial|course|learning|study|homework|school|class|assignment|project|scaffold|template|boilerplate|starter|clone|todo|practice|test|upload|download|deploy|docker|cloud|micro|keeper|saver|hub|viewer|ui|summarizer|rag|portal|platform|exporter|generator|chatbot|notif|nest|core|maker|miniapp|hugo|quartz|contracts|mcp|front|images|list|sync|lens|yaml|portfolio|crud|backup|dashboard|board|roaming|calculator|settlement|zotero|nvim|assment|blog|page)' "$tmp" \
+  | grep -vi '\.github\.io' \
+  > "$out"
+
+rm "$tmp"
+echo "Saved $out ($(grep -c '' "$out") results)"
