@@ -7,6 +7,7 @@
 
 ## Commits
 
+- Always use conventional commits (e.g. `feat:`, `fix:`, `docs:`, `chore:`)
 - Never add `Co-authored-by: Copilot` or any Copilot trailer to commits
 - Never add any AI co-authorship trailers to commit messages
 
