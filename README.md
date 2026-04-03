@@ -1,6 +1,6 @@
 # Notes on Tech Topics
 
-Public tech knowledge base — notes, references, and ideas on technology topics. Part of a broader PKM system using Git + Obsidian + GitHub Copilot.
+Public tech knowledge base — notes, references, and ideas on technology topics. Part of a broader PKM system using Git + Obsidian + agentic AI.
 
 ## Structure
 
