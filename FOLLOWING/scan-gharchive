@@ -33,7 +33,8 @@ WHERE (
   OR LOWER(repo.name) LIKE '%/braindump%'
   OR LOWER(repo.name) LIKE '%-roam%'
   OR LOWER(repo.name) LIKE '%-denote%'
-  OR REGEXP_EXTRACT(repo.name, r'/(.+)$') IN ('notes','zet','keg','kb','knowledge','thoughts','ideas','braindump','org','gtd','denote','second-brain')
+  OR LOWER(repo.name) LIKE '%memex%'
+  OR REGEXP_EXTRACT(repo.name, r'/(.+)$') IN ('notes','zet','keg','kb','knowledge','thoughts','ideas','braindump','org','gtd','denote','second-brain','memex')
 )
 AND type = 'PushEvent'
 GROUP BY repo.name

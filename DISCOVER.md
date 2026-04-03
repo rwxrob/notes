@@ -31,7 +31,7 @@ Search GitHub for repos using the agreed naming conventions:
 
 Search GitHub for repos with these exact or common names:
 
-- `notes`, `thoughts`, `keg`, `zet`, `kb`, `knowledge`, `ideas`, `braindump`, `roam`, `org`, `gtd`, `denote`, `second-brain`
+- `notes`, `thoughts`, `keg`, `zet`, `kb`, `knowledge`, `ideas`, `braindump`, `roam`, `org`, `gtd`, `denote`, `second-brain`, `memex`
 ## By Network
 
 Discover repos from people already in the community:
