@@ -1,0 +1,10 @@
+{
+  "commitMessage": "auto: {{date}}",
+  "autoSaveInterval": 10,
+  "autoPullInterval": 10,
+  "autoCommitAfterFileChanges": true,
+  "autoPushOnCommit": true,
+  "pullOnStartup": true,
+  "syncMethod": "merge",
+  "disablePush": false
+}
