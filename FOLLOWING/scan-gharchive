@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# Scan GH Archive via BigQuery for active knowledge/PKM repos.
+# Results are saved to FOLLOWING/gharchive.tsv.
+# Usage: ./scan-gharchive [YYYYMM]
+#   Default period: last calendar month
+
+_year=$(date +%Y)
+_month=$(date +%m)
+if [ "$_month" -eq 1 ]; then
+  _year=$((_year - 1)); _month=12
+else
+  _month=$((_month - 1))
+fi
+_default=$(printf "%04d%02d" "$_year" "$_month")
+period="${1:-$_default}"
+out="$(dirname "$0")/gharchive.tsv"
+
+bq query \
+  --project_id=rwxrob-discovery \
+  --use_legacy_sql=false \
+  --format=csv \
+  --max_rows=999999 \
+"SELECT DISTINCT repo.name, COUNT(*) as events
+FROM \`githubarchive.month.${period}\`
+WHERE (
+  LOWER(repo.name) LIKE '%/notes-%'
+  OR LOWER(repo.name) LIKE '%/zet-%'
+  OR LOWER(repo.name) LIKE '%/keg-%'
+  OR LOWER(repo.name) LIKE '%/kb-%'
+  OR LOWER(repo.name) LIKE '%/dg-%'
+  OR LOWER(repo.name) LIKE '%/braindump%'
+  OR LOWER(repo.name) LIKE '%-roam%'
+  OR LOWER(repo.name) LIKE '%-denote%'
+  OR REGEXP_EXTRACT(repo.name, r'/(.+)$') IN ('notes','zet','keg','kb','knowledge','thoughts','ideas','braindump','org','gtd','denote','second-brain')
+)
+AND type = 'PushEvent'
+GROUP BY repo.name
+ORDER BY events DESC" > "$out"
+
+echo "Saved $out"
