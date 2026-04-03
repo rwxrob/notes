@@ -31,7 +31,7 @@ while IFS=, read -r name events; do
 
   echo
   printf "  [y] add to REPOS  [n] discard  [o] open in browser  [q] quit: "
-  read -r answer
+  read -r answer < /dev/tty
 
   case "$answer" in
     y|Y)
@@ -42,7 +42,7 @@ while IFS=, read -r name events; do
     o|O)
       open "https://github.com/$name"
       printf "  [y] add  [n] discard: "
-      read -r answer2
+      read -r answer2 < /dev/tty
       case "$answer2" in
         y|Y)
           echo "https://github.com/$name" >> "$repos"
