@@ -1,0 +1,65 @@
+#!/usr/bin/env bash
+# Interactively review repos from gharchive.tsv.
+# Press y to add to REPOS, n to discard (saved to discarded), q to quit.
+# Already-reviewed repos are skipped on resume.
+
+dir="$(dirname "$0")"
+tsv="$dir/gharchive.tsv"
+repos="$dir/REPOS"
+discarded="$dir/discarded"
+
+touch "$discarded"
+
+while IFS=, read -r name events; do
+  [[ "$name" == "name" ]] && continue
+  grep -qF "$name" "$discarded" && continue
+  grep -qF "github.com/$name" "$repos" && continue
+
+  clear
+  echo "──────────────────────────────────────────"
+  echo "  $name  ($events pushes last month)"
+  echo "──────────────────────────────────────────"
+
+  gh repo view "$name" \
+    --json description,repositoryTopics,primaryLanguage,stargazerCount,pushedAt \
+    --template '  desc:     {{.description}}
+  topics:   {{range .repositoryTopics}}{{.name}} {{end}}
+  language: {{if .primaryLanguage}}{{.primaryLanguage.name}}{{else}}n/a{{end}}
+  stars:    {{.stargazerCount}}
+  pushed:   {{.pushedAt}}
+' 2>/dev/null || echo "  (repo not found or private)"
+
+  echo
+  printf "  [y] add to REPOS  [n] discard  [o] open in browser  [q] quit: "
+  read -r answer
+
+  case "$answer" in
+    y|Y)
+      echo "https://github.com/$name" >> "$repos"
+      echo "  → added to REPOS"
+      sleep 0.5
+      ;;
+    o|O)
+      open "https://github.com/$name"
+      printf "  [y] add  [n] discard: "
+      read -r answer2
+      case "$answer2" in
+        y|Y)
+          echo "https://github.com/$name" >> "$repos"
+          echo "  → added to REPOS"
+          ;;
+        *)
+          echo "$name" >> "$discarded"
+          ;;
+      esac
+      ;;
+    q|Q)
+      echo "  Stopped. Run again to resume."
+      break
+      ;;
+    *)
+      echo "$name" >> "$discarded"
+      ;;
+  esac
+
+done < "$tsv"

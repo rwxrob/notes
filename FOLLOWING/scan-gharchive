@@ -46,4 +46,10 @@ grep -viE '[-/](app|api|backend|back-end|frontend|front-end|service|server|clien
   > "$out"
 
 rm "$tmp"
+
+# Remove any repos already discarded from previous reviews
+if [ -s "$dir/discarded" ]; then
+  grep -vFf "$dir/discarded" "$out" > "$out.tmp" && mv "$out.tmp" "$out"
+fi
+
 echo "Saved $out ($(grep -c '' "$out") results)"
