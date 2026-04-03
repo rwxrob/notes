@@ -27,7 +27,7 @@ Search GitHub for repos using the agreed naming conventions:
 - Search repos with `zet-` in name
 - Search repos with `keg-` in name
 - Search repos with `kb-` in name
-- Search repos with `notes-` in name
+- Search repos with `notes` anywhere in name
 - Search repos with `dg-` in name
 
 ## By Plain Repo Name
