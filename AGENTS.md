@@ -18,6 +18,7 @@ This repo is a public knowledge base / zettelkasten. It is part of a broader sys
 ## Structure Conventions
 
 - Atomic notes in the zettelkasten/keg style
+- File names must be the slug version of the first level 1 markdown header (e.g. `# My Great Note` → `my-great-note.md`)
 - Multiple knowledge repos are intentional — different repos for different content types (e.g. `zet`, `keg`, `recipes`, `bookmarks`)
 - `subs.md` — list of actual git submodule subscriptions (other people's public knowledge repos)
 - `scan.md` — discovery prompts/search terms to find new repos to potentially subscribe to
